@@ -37,3 +37,4 @@ jobs:
           branch: gh-pages
           force: true
           directory: .
+          add: 'docs/winget_packages.json'
