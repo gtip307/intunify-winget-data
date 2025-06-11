@@ -28,7 +28,7 @@ jobs:
       - name: Move JSON to /docs for GitHub Pages
         run: |
           mkdir -p docs
-          mv winget_packages.json docs/winget_packages.json
+          cp winget_packages.json docs/winget_packages.json
 
       - name: Commit and push changes
         uses: ad-m/github-push-action@v0.6.0
