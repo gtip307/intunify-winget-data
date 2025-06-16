@@ -133,6 +133,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "iFlytek.Ets100",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ItchIo.Itch",
     "name": "",
     "publisher": null,
@@ -1316,6 +1323,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BicomSystems.Communicator",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BicomSystems.gloCOM",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Bosyun.PixsoLocalFont",
     "name": "",
     "publisher": null,
@@ -2031,6 +2052,13 @@
   },
   {
     "id": "eudaimov.XilefMap",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ElectronicArts.EAJavelinAnticheat",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2975,13 +3003,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "XlightFTP.XlightFTP",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Xencelabs.Driver",
     "name": "",
     "publisher": null,
@@ -3193,6 +3214,13 @@
   },
   {
     "id": "VNGCorp.Zalo",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VariCAD.VariCAD",
     "name": "",
     "publisher": null,
     "description": "",
@@ -3689,6 +3717,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "yorukot.superfile",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "yuma14.ShutdownCountdown",
     "name": "",
     "publisher": null,
@@ -3718,13 +3753,6 @@
   },
   {
     "id": "YaCy.YaCy",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "YES24.eBook",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4501,6 +4529,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Pritunl.PritunlClient",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Postimage.Postimage",
     "name": "",
     "publisher": null,
@@ -4957,6 +4992,13 @@
   },
   {
     "id": "PCTI.OrphanRehomer.Scotland",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PCTI.Docman.RMS",
     "name": "",
     "publisher": null,
     "description": "",
@@ -7707,6 +7749,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DBAdminX.Diff",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DuxburySystems.DBT",
     "name": "",
     "publisher": null,
@@ -7918,6 +7967,13 @@
   },
   {
     "id": "DogecoinCoreproject.DogecoinCore",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "D2L.BMX",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8618,13 +8674,6 @@
   },
   {
     "id": "Devart.TMetric",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Dege.dgVoodoo2",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12145,6 +12194,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "smilexizheng.ControlServer",
+    "name": "",
+    "publisher": null,
+    "description": "A Node.js Electron-based assistant application with core remote PC control and auxiliary features. The mobile H5 webpage features a neat interface. Designed for common mobile-desktop interaction scenarios.\n\nMain Features\nPC-Side Features\n- Remote Control: Control PC mouse and keyboard via mobile device\n- Message Exchange: Chat and file transfer\n- OCR Image Recognition: Supports text recognition from images and annotation/doodling [In Progress]\n- Speech Recognition & Synthesis: ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) based on sherpa-onnx [In Progress]\n- Custom Command Sharing: Online sharing of custom commands and scheduled tasks [Planned]\nMobile-Side Features\n- Remote Control: Text input, hotkey operations, mouse movement/click/drag\n- Custom Commands: Define a set of mouse-keyboard operation logic\n- Scheduled Tasks: Use cron expressions to set timed actions for automation\n- File Transfer: Upload files from mobile to PC\n- Window Screenshot: View screenshots of running applications on the PC",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SagarGurtu.Lector",
     "name": "",
     "publisher": null,
@@ -12516,6 +12572,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Sirstrap.UI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Smartsheet.Smartsheet",
     "name": "",
     "publisher": null,
@@ -12538,6 +12601,13 @@
   },
   {
     "id": "SchildiChat.SchildiChat",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "StontyTech.SteamPalforCommandPalette",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14448,6 +14518,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Novacura.WindowsClient",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Natron.Natron",
     "name": "",
     "publisher": null,
@@ -16303,6 +16380,48 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.TC200",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.ThorlabsImagingSystemsSoftware",
+    "name": "",
+    "publisher": null,
+    "description": "ThorCam 是一款功能强大的图像采集应用程序，专为我们的相机在 32 位和 64 位 Windows® 7、10 或 11 系统上使用而设计。该图形用户界面可与相机通信，实现系统控制、图像采集和图像查看功能。用户可通过 ThorCam 或支持的第三方软件捕获并回放单张图像及图像序列。\n我们还为 OEM 厂商和开发者提供 Windows 平台的应用编程接口（API）和软件开发工具包（SDK），用于开发定制应用程序。这些资源已包含在 ThorCam 安装包中，也可在\"编程接口\"选项卡单独获取。该页面同时提供适用于我们紧凑型科学相机（不包括 130 万像素 Kiralux™相机）的 Linux SDK。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.TC300B",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.ThorlabsDeviceSDK",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.FWxC",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.LK220",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ThielickeITSolutions.TIPP10",
     "name": "",
     "publisher": null,
@@ -16996,13 +17115,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "WinEdtTeam.WinEdt",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Wesnoth.BattleForWesnoth",
     "name": "",
     "publisher": null,
@@ -17102,13 +17214,6 @@
   },
   {
     "id": "WhatPulse.WhatPulse",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "WinStep.Nexus",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17591,6 +17696,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Lebo.Lebo",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Labstack.armor",
     "name": "",
     "publisher": null,
@@ -17690,6 +17802,13 @@
   },
   {
     "id": "Lenovo.MigrationAssistant",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Lenovo.SUHelper",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17879,6 +17998,20 @@
   },
   {
     "id": "LobeHub.LobeHub",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Locklizard.SafeguardPDFWriter",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Locklizard.SafeguardPDFWriter.Enterprise",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18894,13 +19027,6 @@
   },
   {
     "id": "Microsoft.DebugDiag",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.SupportAndRecoveryAssistant",
     "name": "",
     "publisher": null,
     "description": "",
@@ -20734,6 +20860,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Maplespe.DWMBlurGlass",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Melodics.Melodics",
     "name": "",
     "publisher": null,
@@ -22057,6 +22190,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Alibaba.UC",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AMD.AMDSoftwareCloudEdition",
     "name": "",
     "publisher": null,
@@ -23213,6 +23353,13 @@
   },
   {
     "id": "Atticus64.juice",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AFAS.ProfitCommunicationCenter.1",
     "name": "",
     "publisher": null,
     "description": "",
@@ -24431,6 +24578,13 @@
   },
   {
     "id": "COMPELSONLaboratories.MOBILedit!SIMClone",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CodeSystems.TurboStudio",
     "name": "",
     "publisher": null,
     "description": "",
@@ -29456,6 +29610,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Babble.babblevoiceDesktop",
+    "name": "babblevoice Desktop for Microsoft Windows™",
+    "publisher": "babblevoice",
+    "description": "babblevoice Desktop is a helper application designed to make using your phone easier. There are many functions that can be done using the desktop on your PC such as answering calls, transferring calls and picking up calls out of a queue. This document goes through all the features that are available to you on desktop.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "garethgeorge.Backrest",
     "name": "Backrest",
     "publisher": "garethgeorge",
@@ -29544,6 +29705,13 @@
     "name": "Bandicut",
     "publisher": "Bandicam.com",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BandicamCompany.Bandicut2024",
+    "name": "Bandicut 2024",
+    "publisher": "Bandicam Company",
+    "description": "Bandicut 2024 Setup File",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -31647,6 +31815,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Carifred.ClearDiskInfo",
+    "name": "Clear Disk Info",
+    "publisher": "Carifred.com",
+    "description": "Keeping an eye on storage devices is essential when you work with computer systems.\nA storage device failure could lead to data loss or corruption of system files that prevent certain functionality or the system from booting at all. This tools supports S.M.A.R.T. monitoring, NVMe health log and USB connected devices. Unlike most tools of the same kind, Clear Disk Info displays the information in a human readable, user friendly way.\nA Clear Disk Info license lets you enable automatic disk monitoring, so you can receive alerts in case one of your storage device is degrading.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MacPawWayLTD.ClearVPN",
     "name": "ClearVPN",
     "publisher": "MacPaw Way LTD",
@@ -31678,6 +31853,13 @@
     "id": "Dapr.CLI.Preview",
     "name": "CLI",
     "publisher": "Dapr",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Sirstrap.CLI",
+    "name": "CLI",
+    "publisher": "Sirstrap",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -32134,13 +32316,6 @@
     "name": "Confluent CLI",
     "publisher": "Confluent, Inc.",
     "description": "The Confluent command-line interface (CLI), confluent, enables developers to manage both Confluent Cloud and Confluent Platform and is source-available under the Confluent Community License (for more details, check out the Announcing the Source Available Confluent CLI blog post). The Confluent CLI is feature-packed to help users go from learning Confluent to building automated workflows.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "BentleySystemsIncorporated.CONNECTIONClient",
-    "name": "CONNECTION Client",
-    "publisher": "Bentley Systems, Incorporated",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35868,13 +36043,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Fiji.ImageJ",
-    "name": "Fiji ImageJ",
-    "publisher": "Fiji Team",
-    "description": "Fiji is a \"batteries-included\" distribution of ImageJ—a popular, free scientific image processing application—which includes a lot of plugins organized into a coherent menu structure. Fiji compares to ImageJ as Ubuntu compares to Linux.ux.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "GnuWin32.File",
     "name": "File",
     "publisher": "GnuWin32",
@@ -38542,6 +38710,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PhilBerndt.GPTranslate",
+    "name": "GPTranslate",
+    "publisher": "Phil Berndt",
+    "description": "A fast, modern desktop translation application built with Rust and Tauri that provides instant translation between multiple languages with global hotkey support, system tray integration, and a beautiful user interface. Supports OpenAI, Azure OpenAI, and Ollama for both cloud and local AI-powered translations.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GrafanaLabs.Grafana.Enterprise",
     "name": "GrafanaEnterprise",
     "publisher": "Grafana Labs",
@@ -41003,6 +41178,13 @@
     "name": "jasko480pownloader",
     "publisher": "jasko",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "UniversityOfAmsterdam.JASP",
+    "name": "JASP",
+    "publisher": "Universiteit van Amsterdam",
+    "description": "JASP is a cross-platform software that allows you to conduct statistical analyses in seconds, and without having to learn programming or risking a programming mistake. It aims to be a complete statistical package for both Bayesian and Frequentist statistical methods, that is easy to use and familiar to users of SPSS.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43971,6 +44153,13 @@
     "name": "MazeLauncher",
     "publisher": "wanou067",
     "description": "Modded Minecraft Launcher for mazecity",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.MC2000B",
+    "name": "MC2000B",
+    "publisher": "THORLABS Inc.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47257,6 +47446,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WinStep.Nexus",
+    "name": "Nexus",
+    "publisher": "Winsteo",
+    "description": "Wikipedia defines a dock as a user interface feature of a number of operating\nsystems that typically provides a user with a way of launching and switching\nbetween applications.\n\nThe Winstep Nexus Dock is a FREE* professional dock for Windows. With Nexus,\nyour most frequently used applications are only a mouse click away - and Nexus\nturns working with your computer into a fun and exciting experience.\n\nNexus Ultimate is an enhanced version of the free-to-use Nexus dock which is\navailable stand-alone or as a component of Winstep Xtreme (a single\neasy-to-install package featuring all of Winstep's popular desktop enhancement\nproducts for Windows).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CorbinDavenport.NexusTools",
     "name": "Nexus Tools",
     "publisher": "Corbin Davenport",
@@ -47712,6 +47908,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Netrust.nSignDesktop",
+    "name": "nSign Desktop",
+    "publisher": "NeTrust",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NSSM.NSSM",
     "name": "NSSM",
     "publisher": "NSSM",
@@ -48027,6 +48230,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Objective.Trapeze",
+    "name": "Objective Trapeze",
+    "publisher": "Objective Corporation Limited.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BepassOrg.OblivionDesktop",
     "name": "Oblivion Desktop",
     "publisher": "BepassOrg",
@@ -48119,7 +48329,7 @@
   },
   {
     "id": "Teradata.TTUOdbc",
-    "name": "ODBC Driver for Teradata - Suite 20.00.21",
+    "name": "ODBC Driver for Teradata - Suite 20.00.24",
     "publisher": "Teradata Corporation",
     "description": "ODBC Driver for Teradata - Suite",
     "icon": "/icons/intunify-default.png"
@@ -48951,6 +49161,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.PACU2",
+    "name": "PACU2",
+    "publisher": "THORLABS Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "dotPDN.PaintDotNet",
     "name": "paint.net",
     "publisher": "dotPDN LLC",
@@ -49441,6 +49658,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Pexip.Pexip.SecureMeetings",
+    "name": "Pexip",
+    "publisher": "Pexip AS",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Pexip.Pexip.Service",
+    "name": "Pexip (My Meeting Video)",
+    "publisher": "Cloud Video",
+    "description": "Pexip (Formerly known as My Meeting Video) lets you call, schedule or join video meetings, allowing you to connect securely in high quality audio and video with your team and business contacts across the globe.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Pext.Pext",
     "name": "Pext",
     "publisher": "Pext",
@@ -49487,6 +49718,13 @@
     "name": "PhotoSync",
     "publisher": "touchbyte GmbH",
     "description": "Wirelessly transfer & backup your photos & videos.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FULI.PhoXoSee",
+    "name": "PhoXoSee",
+    "publisher": "FULI",
+    "description": "Experience the next generation of image viewing. Blazing-fast loading speeds, ultra-low memory usage, and powerful built-in tools — all in one lightweight app. Easily find photos by date taken, batch convert HEIC to JPEG, and add thumbnails for HEIC, SVG & PSD in Windows Explorer. Enhance your experience with powerful real-time visual effects.\n100% free for personal and commercial use.\nNo ads. No bloat. Just pure speed.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49701,9 +49939,9 @@
   },
   {
     "id": "PixPin.PixPin.Beta",
-    "name": "PixPin",
+    "name": "PixPin (Beta)",
     "publisher": "深圳市深度图景科技有限公司",
-    "description": "",
+    "description": "随心截图, 随意贴图 - 屏幕截图，录制屏幕，长截图，文字识别，贴图，以及更多功能。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50393,6 +50631,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AFAS.ProfitCommunicationCenter.6",
+    "name": "Profit Communication Center",
+    "publisher": "AFAS Software",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Prog.ProgMediaServer.Large",
     "name": "Prog Media Server for large networks",
     "publisher": "Prog",
@@ -50813,6 +51058,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Python.PythonInstallManager",
+    "name": "Python Install Manager",
+    "publisher": "Python Software Foundation",
+    "description": "The Python install manager helps you to install, manage, and launch Python on Windows.\nAfter install, the \"py\" command is your tool of choice - try \"py help\" to see what it can do! (Not working? You may need to uninstall the old \"Python launcher\", and check \"Manage app execution aliases\" to ensure the command is enabled.)",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Python.Launcher",
     "name": "Python Launcher",
     "publisher": "Python Software Foundation",
@@ -50862,7 +51114,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "qBittorrent.qBittorrent.Qt6",
+    "id": "qBittorrent.qBittorrent.lt2",
     "name": "qBittorrent",
     "publisher": "The qBittorrent project",
     "description": "qBittorrent is a bittorrent client programmed in C++ / Qt that uses libtorrent (sometimes called libtorrent-rasterbar)\nby Arvid Norberg. It aims to be a good alternative to all other bittorrent clients out there. qBittorrent is fast,\nstable and provides unicode support as well as many features.",
@@ -51485,13 +51737,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "RawTherapee.RawTherapee.Dev",
-    "name": "RawTherapee",
-    "publisher": "rawtherapee.com",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "raycho.raycho",
     "name": "raycho",
     "publisher": "raycho",
@@ -52105,6 +52350,13 @@
     "name": "rig",
     "publisher": "Posit Software, PBC",
     "description": "Install, remove, configure R versions.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Bauerapps.RightNote",
+    "name": "RightNote Installer",
+    "publisher": "Bauerapps",
+    "description": "RightNote will help you get a grip on information overload. It allows you store all bits and pieces of information in a single place and then search through all your data to find what you're looking for almost instantly! With RightNote you'll know where to store all those little bits of information and find them too. Includes lots of useful features.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52808,6 +53060,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.SC10",
+    "name": "SC10",
+    "publisher": "THORLABS Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Scanoss.SBOM-Workbench",
     "name": "SCANOSS SBOM Workbench",
     "publisher": "SCANOSS",
@@ -53123,13 +53382,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "WesternDigital.Security",
-    "name": "Security",
-    "publisher": "Western Digital Corporation",
-    "description": "WD Security features the ability to:\n- Create a password to keep others from accessing the files on the drive\n- Change the password\n- Remove password protection\n- Unlock drive\nSupported Products:\nMy Passport, My Book, WD Drive Plus, WD Backup Drive",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "mbuilov.sed",
     "name": "sed",
     "publisher": "Michael M. Builov",
@@ -53382,6 +53634,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HarbourMasters.ShipofHarkinian",
+    "name": "Ship of Harkinian",
+    "publisher": "Harbour Masters",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RockinChaos.Shiru",
     "name": "Shiru",
     "publisher": "RockinChaos",
@@ -53533,6 +53792,13 @@
     "name": "Simba Athena ODBC Driver",
     "publisher": "Simba Technologies",
     "description": "Use an ODBC connection to connect to Athena from third-party SQL client tools and applications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Bitmutex.Simc",
+    "name": "simc",
+    "publisher": "Bitmutex Technologies",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53928,14 +54194,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "mokeyish.SmartDNS-rs.GNU",
-    "name": "SmartDNS-rs (GNU toolchain)",
-    "publisher": "YISH",
-    "description": "SmartDNS-rs 🐋 is a local DNS server inspired by C SmartDNS to accepts DNS query requests from local clients, obtains DNS query results from multiple upstream DNS servers, and returns the fastest access results to clients. Avoiding DNS pollution and improving network access speed, supports high-performance ad filtering.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "mokeyish.SmartDNS-rs.MSVC",
+    "id": "mokeyish.SmartDNS-rs",
     "name": "SmartDNS-rs (MSVC 工具链)",
     "publisher": null,
     "description": "SmartDNS-rs 🐋 一个是受 C 语言版 SmartDNS 启发而开发的，并与其配置兼容的运行在本地的跨平台 DNS 服务器， 它接受来自本地客户端的 DNS 查询请求，然后从多个上游 DNS 服务器获取 DNS 查询结果，并将访问速度最快的结果返回给客户端， 以此提高网络访问速度。 SmartDNS 同时支持指定特定域名 IP 地址，并高性匹配，可达到过滤广告的效果。",
@@ -54016,6 +54275,13 @@
     "name": "Snapform Viewer",
     "publisher": "Ringler Informatik AG",
     "description": "Fill, save, print and submit interactive forms in a snap. The free and fully functional Snapform Viewer ensures that data entered in the form is accurate and complies with the rules and regulations set by the form owner.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GSLBiotech.SnapGene",
+    "name": "SnapGene",
+    "publisher": "GSL Biotech LLC",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55721,7 +55987,7 @@
   },
   {
     "id": "Teradata.TTUBase",
-    "name": "Teradata Tools and Utilities - Base 20.00.21",
+    "name": "Teradata Tools and Utilities - Base 20.00.24",
     "publisher": "Teradata Corporation",
     "description": "Teradata Tools and Utilities - Base",
     "icon": "/icons/intunify-default.png"
@@ -55899,6 +56165,13 @@
     "name": "Thorium",
     "publisher": "The Thorium Authors",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.upSERIES",
+    "name": "Thorlabs upSERIES",
+    "publisher": "Thorlabs GmbH",
+    "description": "The upSERIES® software package is a graphical user interface for straightforward use of the upTEMP™ Multichannel USB Temperature Logger and the upLED™ LED Driver. For upTEMP™, the software allows the user to configure measurement parameters and displays data graphically for real-time temperature monitoring. For upLED™, the upSERIES software allows the forward current to be set and saved for later applications.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56648,6 +56921,13 @@
     "name": "TunnelBear",
     "publisher": "TunnelBear",
     "description": "TunnelBear 可加密你的网络连接，让您在任何网络上的在线活动都保持私密。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CodeSystems.Turbo",
+    "name": "Turbo.net Desktop",
+    "publisher": "Code Systems Corporation",
+    "description": "Access all of your organization’s applications from your desktop with Turbo.\n\nAsk your IT administrator to setup a Turbo.net Workspace or on-premises Turbo Server today and start working faster, anywhere.\n\nWHAT YOU CAN RUN ON TURBO.NET\n- Thousands of PC, server, and mobile apps\n- CAD/CAM apps such as Autodesk AutoCAD, Inventor, and Maya\n- Design apps such as Adobe Photoshop and Illustrator\n- Internet Explorer (IE), Chrome, Firefox, and other browsers and plugins\n- SAP, Oracle EBS, JDE, PeopleSoft, and major ERP apps\n- SSMS, SQL Server, MySQL, Power BI, Tableau, and major database and business intelligence apps\n- Development environments such as NetBeans, Eclipse, VS Code, IntelliJ, and other IDEs\n- Word, Excel, PowerPoint, Visio, Project, including plugins and extensions\n- Custom line-of-business apps as defined by your system administrator",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57410,7 +57690,7 @@
     "id": "Hashicorp.Vagrant",
     "name": "Vagrant",
     "publisher": "HashiCorp",
-    "description": "",
+    "description": "Vagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the \"works on my machine\" excuse a relic of the past.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57467,6 +57747,13 @@
     "name": "Varia",
     "publisher": "Giant Pink Robots!",
     "description": "Varia is a simple download manager. It uses the amazing aria2 to handle the downloads.\nIt supports basic functionality like continuing incomplete downloads from the previous session upon startup, pausing/cancelling all downloads at once, setting a speed limit, authentication with a username/password, setting the simultaneous download amount and setting the download directory.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VariCAD.VariCADViewer",
+    "name": "VariCAD Viewer",
+    "publisher": "VariCAD s.r.o",
+    "description": "VariCAD Viewer is a viewer, converter and printing software working with 2D DWG, DXF, 3D STEP and 2D/3D VariCAD file formats. VariCAD viewer allows you to convert DWG to DXF and vice-versa, convert STEP to 3D IGES or STL formats, print 2D DWG, DXF or VariCAD formats and use batch print or batch conversions. All conversions are also available between VariCAD native format and other listed formats. VariCAD viewer offers settings of 3D display methods (like light source or perspective). 3D display can be also exported into high-resolution bitmap file. You can try a 30-day free trial of VariCAD Viewer.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58373,6 +58660,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WesternDigital.Security",
+    "name": "WD Security",
+    "publisher": "Western Digital Technologies, Inc.",
+    "description": "WD Security features the ability to:\n\n- Create a password to keep others from accessing the files on the drive\n- Change the password\n- Remove password protection\n- Unlock drive\n\nSupported Products:\n\nMy Passport, My Book, WD Drive Plus, WD Backup Drive",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WeakAuras.WeakAurasCompanion",
     "name": "WeakAuras Companion",
     "publisher": "Buds",
@@ -58961,6 +59255,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WinEdtTeam.WinEdt",
+    "name": "WinEdt",
+    "publisher": "WinEdt Team",
+    "description": "It is commonly used as a front-end (Integrated Development Environment) for\ncompilers and typesetting systems, such as LaTeX, HTML, or NSIS. WinEdt's\nhighlighting schemes can be customized for different modes and its\nspell-checking functionality supports multilingual setups, with dictionaries\n(word lists) for over 20 languages available on Downloads page.\n\nAlthough reasonably suitable as an all-purpose text editor, WinEdt is mostly\nused as a LaTeX Editor. It was designed and configured to integrate seamlessly\nwith modern TeX Systems (e.g. MiKTeX or TeX Live).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WinFsp.WinFsp",
     "name": "WinFsp 2023",
     "publisher": "Navimatics LLC",
@@ -59014,6 +59315,13 @@
     "name": "WinHTTrack Website Copier",
     "publisher": "HTTrack",
     "description": "HTTrack allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.\nHTTrack arranges the original site's relative link-structure.\nSimply open a page of the \"mirrored\" website in your browser, and you can browse the site from link to link, as if you were viewing it online.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GillesVollantSoftware.WinImage",
+    "name": "WinImage",
+    "publisher": "Gilles Vollant Software",
+    "description": "Fully-fledged disk-imaging suite for easy creation, reading and editing of many image formats and filesystems.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59224,13 +59532,6 @@
     "name": "Wireshark",
     "publisher": "The Wireshark developer community, https://www.wireshark.org/",
     "description": "Wireshark is the world's foremost and widely-used network protocol analyzer.\nIt lets you see what's happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "GovernmentOfThePRC.ShangHai.PuDong.ZhiHuiPuDong",
-    "name": "Wisdom PuDong",
-    "publisher": "People's Government of PuDong, ShangHai",
-    "description": "People-centered and technology-driven, it promotes the modernization of governance through data intelligence and facilitates the digital transformation of the government. We will enter a new era of “intensive integration, comprehensive interconnection, collaborative governance, sharing and openness, security and trustworthiness”!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59494,7 +59795,7 @@
   },
   {
     "id": "Wondershare.Filmora",
-    "name": "Wondershare Filmora 13",
+    "name": "Wondershare Filmora",
     "publisher": "Wondershare Software",
     "description": "Filmora is an intuitive video editor for every skill level. Filmora makes it easy for anyone to be creative. Jump into an editing experience where advanced features are simple and fun. We got rid of repetitive tasks so you can devote your energy to your imagination. Get inspired by Filmora, an editor designed for creators like you.",
     "icon": "/icons/intunify-default.png"
@@ -59794,6 +60095,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TheSillyBoi.Wretch",
+    "name": "wretch",
+    "publisher": "TheSillyBoi",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "StylusLabs.Write",
     "name": "Write",
     "publisher": "Stylus Labs",
@@ -59913,6 +60221,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Xcas.Xcas.MinGW",
+    "name": "Xcas",
+    "publisher": "Xcas",
+    "description": "Xcas is a Giac interface, which allows computer algebra, graphical\nrepresentations in the plane or space, dynamic geometry (in the plane or in\nspace), spreadsheet, statistics and programming.\n\nXcas uses the FLTK graphics library, there is an alternative project based on QT: qcas.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Xcas.Xcas",
     "name": "Xcas",
     "publisher": "Xcas",
@@ -59952,6 +60267,13 @@
     "name": "Xiphos",
     "publisher": "The Xiphos Development Team",
     "description": "Xiphos is a Bible study application for Linux, UNIX, and Windows operating systems. It uses Sword to display Bibles, commentaries, dictionary, and other texts and images. Xiphos includes features such as, searching, biblesync, bookmarks, parallel study, and original language study.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "XlightFTP.XlightFTP",
+    "name": "Xlight FTP Server",
+    "publisher": "Xlight FTP",
+    "description": "Xlight is a Windows FTP and SFTP server to make file transfer secure and easy to\nuse. It is a portable program with very low memory and CPU usage. The server is\ndesigned for high performance and can handle many FTP and SFTP connections.\n\nXlight FTP Server has many useful features and has a free edition for personal\nuse. The program is compatible with Windows 2000, XP, Vista, 7, 10, 2003, 2008,\n2012, 2016 and 2019.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60406,7 +60728,7 @@
     "id": "Z-DBackup.Z-Cron",
     "name": "Z-Cron",
     "publisher": "Z-DBackup",
-    "description": "有了 Z-Cron，你就可以计划在特定时间执行命令、程序或脚本，这样电脑上的重复性任务就能按计划自动运行。Z-Cron 是软件调度或自动化的中心协调点。",
+    "description": "有了 Z-Cron，你就可以计划在特定时间执行命令、程序或脚本，这样电脑上的重复性任务就能按计 划自动运行。Z-Cron 是软件调度或自动化的中心协调点。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60711,8 +61033,22 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ZWSOFT.ZWCAD.2026",
+    "name": "ZWCAD 2026",
+    "publisher": "ZWSOFT",
+    "description": "ZWCAD is a fast and powerful 2D CAD solution offering unparalleled compatibility with the industry standard file format DWG. It empowers architects, engineers, and designers in the AEC and manufacturing industries to effortlessly bring their creative visions to life.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ZWSOFT.ZWCAD.Mechanical.2025",
     "name": "ZWCAD MFG 2025",
+    "publisher": "ZWSOFT",
+    "description": "ZWCAD MFG is an advanced CAD solution for manufacturing professionals to improve design standardization and efficiency.\nBuilt on the powerful ZWCAD platform, it enables users to create standardized, high-quality designs easier and faster by offering an extensive library of standard parts, intelligent drawing tools and other productivity-enhancing features. Moreover, it can be seamlessly integrated into PLM systems to achieve efficient management throughout the product lifecycle.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ZWSOFT.ZWCAD.Mechanical.2026",
+    "name": "ZWCAD MFG 2026",
     "publisher": "ZWSOFT",
     "description": "ZWCAD MFG is an advanced CAD solution for manufacturing professionals to improve design standardization and efficiency.\nBuilt on the powerful ZWCAD platform, it enables users to create standardized, high-quality designs easier and faster by offering an extensive library of standard parts, intelligent drawing tools and other productivity-enhancing features. Moreover, it can be seamlessly integrated into PLM systems to achieve efficient management throughout the product lifecycle.",
     "icon": "/icons/intunify-default.png"
@@ -60995,13 +61331,6 @@
     "name": "嘉立创EDA",
     "publisher": "嘉立创EDA",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "SunlightStudio.TBTool",
-    "name": "图吧工具箱",
-    "publisher": "Sunlight Studio",
-    "description": "图吧工具箱，是开源、免费、绿色、纯净的硬件检测工具合集，专为所有计算机硬件极客、DIY 爱好者、各路大神及小白制作，集成了大量常见硬件检测、评分工具。",
     "icon": "/icons/intunify-default.png"
   },
   {
