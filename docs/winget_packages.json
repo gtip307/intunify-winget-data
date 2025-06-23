@@ -1064,6 +1064,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Benji377.Tooka",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BiglySoftware.BiglyBT",
     "name": "",
     "publisher": null,
@@ -1554,13 +1561,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BinaryFortress.ClipboardFusion",
-    "name": "",
-    "publisher": null,
-    "description": "ClipboardFusion 可帮助你轻松清除剪贴板文本格式、替换剪贴板文本或在剪贴板内容上运行强大的宏！你甚至可以将剪贴板与其他电脑和移动设备同步。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "BinaryFortress.HashTools",
     "name": "",
     "publisher": null,
@@ -2010,6 +2010,13 @@
   },
   {
     "id": "Exercism.CLI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ErrorFlynn.ytdlp-interface",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2898,6 +2905,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ElyPrismLauncher.ElyPrismLauncher",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "elbereth.DragonUnPACKer",
     "name": "",
     "publisher": null,
@@ -3682,6 +3696,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Vivi.Vivi",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "VapourSynth.VapourSynth",
     "name": "",
     "publisher": null,
@@ -4089,6 +4110,13 @@
   },
   {
     "id": "pychess.pychess",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PreSonus.UniversalControl",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4795,6 +4823,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PureDevSoftware.10x",
+    "name": "",
+    "publisher": null,
+    "description": "市场上已有众多代码编辑器和集成开发环境（IDE），为何还需要另一个编辑器？10x 被设计为一款快速响应的编辑器，它开箱即懂 C++，并能流畅处理超大规模代码库（>500 万行）。\n现有编辑器/IDE 虽然能支持多种语言并通过插件满足各种需求，但由于其庞大复杂的架构，在面对超大型项目时往往变得卡顿甚至崩溃。\n另一方面，虽然存在许多轻量快速的代码编辑器，但它们通常不具备 C++ 解析能力，或需要配置复杂的第三方解析器。\n10x 旨在填补轻量文本编辑器与全功能 IDE 之间的空白。它既具备 IDE 的诸多特性，又能在处理巨型项目时保持极速响应。\n10x 内置的自研 C++ 解析器无需配置即可工作，通过实时增量解析提供语法高亮、跳转定义、自动补全等核心功能。\n许多编辑器/IDE 承诺一切，但往往以牺牲响应速度、稳定性或配置复杂度为代价。10x 则无需妥协——在获得所需功能的同时，您将享受丝滑般的编辑体验。\n10x 专为处理大型复杂 C++ 代码库的专业开发者打造，通过高效的项目导航帮助开发者保持心流状态。\n以 60 帧速率编写代码，配合即时工作区搜索的体验，唯有亲身体验才能领会。在尝试 10x 之前，您可能从未察觉现有编辑器的迟缓。\n10x 支持直接打开 Visual Studio 项目、文件夹，并能创建自定义工作区。\n10x 目前仅支持 Windows 平台，未来计划扩展至其他系统。\n除自研 C++ 解析器外，10x 还支持多种其他语言的语法高亮。\n10x 还配备了强大的 Python API，允许通过脚本扩展功能。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PowerSoftware.PowerISO",
     "name": "",
     "publisher": null,
@@ -5020,6 +5055,13 @@
   },
   {
     "id": "PasteBar.PasteBar",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PearAI.PearAI",
     "name": "",
     "publisher": null,
     "description": "",
@@ -6168,6 +6210,13 @@
   },
   {
     "id": "HBK.TEDS-Editor",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Horizon.Horizonfetch",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8415,6 +8464,13 @@
   },
   {
     "id": "developersu.ns-usbloader",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Dell.CommandUpdate",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14847,6 +14903,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Nvidia.DisplayPortFirmwareUpdater",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Nvidia.UEFIFirmwareUpdater40xx",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Nvidia.FrameView",
     "name": "",
     "publisher": null,
@@ -14854,7 +14924,21 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Nvidia.DisplayIDFirmwareUpdater",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Nvidia.PhysXLegacy",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Nvidia.UEFIFirmwareUpdater50xx",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14869,13 +14953,6 @@
   },
   {
     "id": "NetEase.CloudMusicXStudio",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NetEase.DD",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15457,6 +15534,13 @@
   },
   {
     "id": "twpayne.chezmoi",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TimoKokkonen.Jpegoptim",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16380,7 +16464,35 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.Joystick",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.SLS701",
+    "name": "",
+    "publisher": null,
+    "description": "SLS701 软件图形用户界面的控件复刻了前面板的大部分功能，包括强度调节、光源开关、开环/闭环模式切换以及背板端口激活/禁用功能。软件界面与前面板控制可同步启用，二者会持续读取光源状态并实时更新显示信息（例如通过前面板对光源进行的任何调节都会被系统记录，并同步更新至图形界面的状态显示）。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Thorlabs.TC200",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.PDXC",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.EXULUS-SE1",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16394,7 +16506,56 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.Kurios",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Thorlabs.TC300B",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.XA",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.HPLS",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.MCLS2",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.SA201B",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.S7FC",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.MCLS1",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16416,6 +16577,55 @@
   },
   {
     "id": "Thorlabs.LK220",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.APT.x86",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.LCC25",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.Kinesis.x86",
+    "name": "",
+    "publisher": null,
+    "description": "Kinesis 软件支持用户通过 PC 的 USB 总线与任意数量的硬件控制单元进行交互。该程序可同时显示多个图形化仪器面板，实现对多台设备的集中控制。用户可通过软件配置所有基础运行参数，并执行基本操作（如电机运动）。硬件配置与参数设置支持保存和重新加载功能，极大简化了系统部署流程。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.Kinesis.x64",
+    "name": "",
+    "publisher": null,
+    "description": "Kinesis 软件支持用户通过 PC 的 USB 总线与任意数量的硬件控制单元进行交互。该程序可同时显示多个图形化仪器面板，实现对多台设备的集中控制。用户可通过软件配置所有基础运行参数，并执行基本操作（如电机运动）。硬件配置与参数设置支持保存和重新加载功能，极大简化了系统部署流程。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.S5FC",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.QEPAS",
+    "name": "",
+    "publisher": null,
+    "description": "Thorlabs 石英增强光声传感器配套软件包是一个用于控制 QEPAS-CH4 甲烷传感器数据采集的图形用户界面 (GUI)。用户界面简单好用，支持设置测量参数、检测甲烷浓度以及对数据进行统计分析。软件内置的数据查看器可调阅并分析历史保存的测量数据。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.ThorAOControl",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21434,6 +21644,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Morpheusly.SecureConnections",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Maca134.DZLauncher",
     "name": "",
     "publisher": null,
@@ -21651,6 +21868,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MLMGames.VeloDown",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "mdyna.mdyna",
     "name": "",
     "publisher": null,
@@ -21694,6 +21918,13 @@
   },
   {
     "id": "MoritzBunkus.MKVToolNix",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MercatorOcean.Copernicus-Marine-Toolbox",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21911,6 +22142,13 @@
   },
   {
     "id": "Arm.WindowsPerf",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Arm.WindowsPerf.Beta",
     "name": "",
     "publisher": null,
     "description": "",
@@ -23037,6 +23275,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ArturKharin.ProcessesPriorityManager",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "awehook.BlinkMind",
     "name": "",
     "publisher": null,
@@ -23814,6 +24059,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ApacheLounge.httpd",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "anatawa12.ALCOM",
     "name": "",
     "publisher": null,
@@ -24137,6 +24389,13 @@
   },
   {
     "id": "Cloudfleet.CLI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "chaosweasl.interva",
     "name": "",
     "publisher": null,
     "description": "",
@@ -26121,6 +26380,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Krisp.Krisp",
+    "name": "",
+    "publisher": null,
+    "description": "Krisp 是一款为个人及企业提供降噪、人声消除、回声消除等功能的软件解决方案，助力用户在日益普遍的远程办公环境中实现更清晰的在线会议通话体验。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30128,6 +30394,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Zwylair.BetterDiscordAutoInstaller",
+    "name": "BetterDiscordAutoInstaller",
+    "publisher": "Zwylair",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "beyerdynamic.UpdateHub",
     "name": "beyerdynamic Update Hub",
     "publisher": "beyerdynamic GmbH &Co. KG",
@@ -31381,6 +31654,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Chainguard.chainctl",
+    "name": "Chainguard Control",
+    "publisher": "Chainguard",
+    "description": "chainctl (Chainguard Control) is a CLI tool that helps you control aspects of your Chainguard account and resources. You can use it to manage users, roles, images, tokens, and more. In many ways, chainctl parallels the abilities of the Chainguard Console, but with a different user interface that is both more complex and more powerful.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HiroSystems.Chainhook",
     "name": "chainhook",
     "publisher": "Hiro Systems",
@@ -31920,6 +32200,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BinaryFortress.ClipboardFusion",
+    "name": "ClipboardFusion",
+    "publisher": "Binary Fortress Software",
+    "description": "ClipboardFusion makes it easy to remove clipboard text formatting, replace clipboard text or run powerful macros on your clipboard contents! You can even sync your clipboard with other computers and mobile devices.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NirSoft.Clipboardic",
     "name": "Clipboardic",
     "publisher": "Nir Sofer",
@@ -32144,6 +32431,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ccccraz.cogmoteGO",
+    "name": "cogmoteGO",
+    "publisher": "Ccccraz",
+    "description": "cogmoteGO is the \"air traffic control\" for remote neuroexperiments: a lightweight Go system coordinating distributed data streams, commands, and full experiment lifecycle management - from deployment to data collection",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Coinomi.CoinomiWallet",
     "name": "Coinomi Wallet",
     "publisher": "Coinomi Holdings Ltd",
@@ -32245,6 +32539,13 @@
     "id": "JonahFintzDEV.CommandPalette-VSCode",
     "name": "Command Palette - VS Code",
     "publisher": "Jonah Fintz DEV",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Commitlint.Commitlint",
+    "name": "Commitlint",
+    "publisher": "Jurien Hamaker <whoami@jurien.dev>",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -32830,6 +33131,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CrystalDewWorld.CrystalMarkRetro",
+    "name": "CrystalMark Retro 2.0.4",
+    "publisher": "Crystal Dew World",
+    "description": "It supports 32-bit (x86), 64-bit (x64/ARM64), many-core, and multilingual (48+ languages) systems,\nand can measure CPU, Disk, 2D graphics (GDI), and 3D graphics (OpenGL) performance with a single\nclick. Benchmark results can be registered in CrystalMarkDB for centralized management of past\nresults (account required: free of charge) and comparison with data registered by users around\nthe world.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NirSoft.CSVFileView",
     "name": "CSVFileView",
     "publisher": "NirSoft",
@@ -33320,13 +33628,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Dell.CommandUpdate",
-    "name": "Dell Command | Update",
-    "publisher": "Dell Inc.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Dell.DisplayManager",
     "name": "Dell Display Manager",
     "publisher": "Dell Inc.",
@@ -33786,6 +34087,13 @@
     "name": "Distill Web Monitor",
     "publisher": "Distill",
     "description": "Distill's desktop app offers unmatched power and easy of use right on your desktop. As a dedicated app, it is much more powerful and effective at monitoring web.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DistroAV.DistroAV",
+    "name": "DistroAV",
+    "publisher": "DistroAV",
+    "description": "DistroAV is an OBS plugin that add support for NDI technology for network audio/video. The DistroAV plugin support features to receive NDI (NDI Source), transmit the OBS Preview/Output to NDI (NDI Output) and transmit an OBS Source or scene to NDI.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34867,17 +35175,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "7S2P.Effie",
-    "name": "Effie",
-    "publisher": "7S2P Inc.",
-    "description": "Effie 是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie 都是您明智的选择。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "7S2P.Effie.CN",
     "name": "Effie",
     "publisher": "7S2P Inc.",
     "description": "Effie is a list making, mind mapping, note taking, focused markup-based writing tool that helps to visualize your ideas with mindmaps and outlines, and turn them into great writing pieces in the simple, discretion-free environment.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "7S2P.Effie",
+    "name": "Effie",
+    "publisher": "7S2P Inc.",
+    "description": "Effie 是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie 都是您明智的选择。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35066,13 +35374,6 @@
     "id": "EvanCzaplicki.Elm",
     "name": "Elm",
     "publisher": "elm-lang.org",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Octol1ttle.ElyPrismLauncher",
-    "name": "ElyPrismLauncher",
-    "publisher": "Octol1ttle",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -37247,6 +37548,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RSSNext.Folo",
+    "name": "Folo",
+    "publisher": "Folo Team",
+    "description": "As they say, your thoughts are what you read—and we’ve been consuming noisy feeds for too long! Folo organizes content into one timeline, keeping you updated on what matters, noise-free. Share lists, explore collections, and enjoy distraction-free browsing.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PeterPawlowski.foobar2000.EncoderPack",
     "name": "foobar2000 Free Encoder Pack",
     "publisher": "Peter Pawlowski",
@@ -37373,6 +37681,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PureDevSoftware.FramePro",
+    "name": "FramePro",
+    "publisher": "PureDev Software",
+    "description": "Getting Started\nIntegrate FramePro into your codebase in minutes - simply add FramePro.cpp/h into your code and start adding scopes. Add timing scopes using the supplied macros to any function or block of code. FramePro will then track the time, thread and core of each scope. This scope information will be sent to the FramePro application, where thread and core utilization can be viewed for each frame.\n\nWhy FramePro?\nFramePro has minimal overhead. When profiling, the first rule is to not change the behavior of what is being profiled. FramePro allows you to add thousands of timing scopes per frame with no noticeable impact on frame rate.\nProfile in real-time. In interactive mode you can see the data as it is being recorded, easily spot a frame rate spike, and immediately zoom in to that frame to find the cause.\nNo limit to the length of a capture. Unlike many profilers which can only capture a few seconds worth of data, FramePro can capture long play sessions.\nFramepro uses the highest resolution timer available on your system. It is configured for many platforms and easily configurable.\nFramePro is easy and intuitive to use. Everyone who sees FramePro in action immediately 'gets it'. FramePro can be used by programmers and non-programmers alike.\n\nHow it works\nCall the FRAMEPRO_FRAME_START() macro at the start of your frame. This tells FramePro when the frame starts and ends and this will be marked on the timeline in both the thread and code view. This simple feature is one which many profilers lack.\nUse the FRAMEPRO_SCOPE() macro to time a function call. This creates an object on the stack that records information. In its constructor it records the start time using the high resolution system timer. In its destructor it records the end time, the current thread id, the current CPU core, and the current function name. This information is then copied onto a thread local storage (TLS) buffer. These TLS buffers are sent once a frame on a separate thread.\nThe scope recording code is minimal and consists of only a few instructions. The thread local storage means that there is no locking or contention with other threads. The function name string is a string literal, and the only value that is sent to FramePro is the pointer. The actual string value is resolved later. All this means that there are only a few instruction per scope, and only a few bytes of data is copied to the send buffer. this allows you to add thousands of scopes per frame without affecting frame rate.\nThere are a number of different scope macros. If you want to name a scope use FRAMEPRO_NAMED_SCOPE(\"MyScope\"). You can also send dynamic (non-literal) strings using FRAMEPRO_DYNAMIC_SCOPE(). to scope idle processor time, such as in an event wait, use FRAMEPRO_IDLE_SCOPE(). This will show up in a different colour in FramePro. Use the conditional scopes to only show the scope if it is longer than a specified time. This time can be dynamically changed in FramePro while recording. The scope macros are fully documented in FramePro.h.\nFramePro can run in connected or offline mode. When running in connected mode your application will send data using sockets every frame. FramePro will then display the data as it is received. You can pause the data and inspect frames at any time while recording. If you don't want the overhead of FramePro on your system you can run in non-interactive mode and it will take up almost no CPU. This is useful when profiling on the same PC as you are running the application. For best results, it is recommended that you run your application/game on a different PC or Console and then connect in interactive mode.\nIf your codebase doesn't support sockets or you can't connect for some other reason you can run FramePro in offline mode and all network data will be written to a .framepro_dump file. This file can then be loaded into framepro.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Framer.Framer",
     "name": "Framer",
     "publisher": "Framer B.V.",
@@ -37440,6 +37755,13 @@
     "name": "Freeplane",
     "publisher": "Open source",
     "description": "Application for Mind Mapping, Knowledge Management, Project Management. Develop, organize and communicate your ideas and knowledge in the most effective way.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ChurchApps.FreeShow",
+    "name": "FreeShow",
+    "publisher": "ChurchApps",
+    "description": "FreeShow is a free software with a user-friendly interface that offers powerful features for creating and editing slideshows.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37527,6 +37849,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.FSLControl",
+    "name": "FSLControl",
+    "publisher": "THORLABS Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.FSLogix",
     "name": "FSLogix",
     "publisher": "Microsoft Corporation",
@@ -37586,6 +37915,13 @@
     "id": "CartamundiDigital.Fundels",
     "name": "Fundels",
     "publisher": "Cartamundi Digital",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LorenEteval.Furious",
+    "name": "Furious",
+    "publisher": "Loren Eteval",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -37657,6 +37993,13 @@
     "name": "gallery-dl",
     "publisher": "Mike Fährmann",
     "description": "gallery-dl 是一个命令行程序，可以从多个图片托管网站下载图片库和图片集。它是一个跨平台的工具，具有众多配置选项和强大的文件命名功能。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "mikf.gallery-dl.Nightly",
+    "name": "gallery-dl",
+    "publisher": "Mike Fährmann",
+    "description": "gallery-dl is a command-line program to download image galleries and collections from several image hosting sites (see Supported Sites). It is a cross-platform tool with many configuration options and powerful filenaming capabilities.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39256,6 +39599,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Hashicorp.TerraformLanguageServer",
+    "name": "HashiCorp Terraform Language Server",
+    "publisher": "HashiCorp",
+    "description": "The official Terraform language server (terraform-ls) maintained by HashiCorp provides IDE features to any LSP-compatible editor.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Hashicorp.Terraform.RC",
     "name": "Hashicorp Terraform RC",
     "publisher": "Hashicorp",
@@ -40698,6 +41048,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Intel.OneAPI.HPCToolkit",
+    "name": "Intel® oneAPI HPC Toolkit",
+    "publisher": "Intel Corporation",
+    "description": "High-performance computing (HPC) is at the core of AI, machine learning, and\ndeep learning applications. Intel® oneAPI HPC Toolkit delivers what developers\nneed to build, analyze, optimize, and scale HPC applications with the latest\ntechniques in vectorization, multithreading, multi-node parallelization, and\nmemory optimization.\n\nThis toolkit includes powerful data-centric libraries and advanced analysis\ntools.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CrystalRich.InternetOff",
     "name": "InternetOff",
     "publisher": "Crystal Rich Ltd",
@@ -41979,6 +42336,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.KLC",
+    "name": "KLC",
+    "publisher": "THORLABS Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SignerLabs.Klee.CUDA",
     "name": "Klee (NVIDIA GPU)",
     "publisher": "Signer Labs Inc.",
@@ -42144,13 +42508,6 @@
     "name": "Kreya",
     "publisher": "riok GmbH",
     "description": "Kreya is a GUI client for gRPC, REST and WebSocket APIs. It makes calling APIs easy! Supported features:\n- Kreya stores the files locally in JSON format for easy git-syncing (or any other syncing software)\n- Unary, client-streaming, server-streaming and duplex requests (gRPC)\n- Supports HTTP/2 and HTTP/3\n- Authentication configurations - declare once, use everywhere\n- Environment support combined with a powerful templating language\n- Directory settings (ex. define the endpoint or authentication once for all requests)\n- Scripting and tests\n- kreyac, the Kreya CLI\n- Server reflection (gRPC)\n- OpenAPI import (REST)\n- And more!",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Krisp.Krisp",
-    "name": "Krisp",
-    "publisher": "Krisp Technologies, Inc.",
-    "description": "Krisp is a software solution that provides Noise Cancellation, Voice Cancellation,\nEcho Cancellation, and more to individuals and businesses,\nhelping them to be heard clearer during online meetings in an increasingly remote world.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43890,6 +44247,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.MaliciousSoftwareRemovalTool",
+    "name": "Malicious Software Removal Tool",
+    "publisher": "Microsoft",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Maltego.Maltego",
     "name": "Maltego",
     "publisher": "Maltego",
@@ -44177,6 +44541,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.MCM301",
+    "name": "MCM301",
+    "publisher": "THORLABS Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MComix.MComix",
     "name": "MComix",
     "publisher": "The MComix Team",
@@ -44377,6 +44748,20 @@
     "name": "Memento Database Desktop",
     "publisher": "MementoDB Inc.",
     "description": "Track and organize anything with the extremely customizable database for Android, iOS & Desktop",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PureDevSoftware.MemPro",
+    "name": "MemPro",
+    "publisher": "PureDev Software",
+    "description": "MemPro is a C++ memory profiler. MemPro runs on Windows platforms, but can connect to and profile applications on almost any platform. MemPro particularly stands out from other C++ memory profilers for its ability to handle very large data sets.\n\nGetting Started\nIntegrate MemPro into your codebase in minutes - simply add MemPro.cpp/h into your code and you will be able to connect to your application with MemPro. Once connected MemPro allows you to visualise your memory usage in a number of different ways.\n\nWhy MemPro?\nMemPro can handle massive data sets. Profiles of trillions of allocations are not uncommon. MemPro is also perfect for profiling real-time applications such as games because of its minimal overhead. Because all of the processing is offline, MemPro can track thousands of allocations per second without noticeable slowdown.\n\nFeatures\n- Full memory breakdown of your application\n- Multiple views of the data\n- Easily find and fix memory leaks\n- Subtract one snapshot from another\n- Rewind memory\n- Virtual memory layout visualisation\n- Visualise memory fragmentation\n- Profile applications of any size quickly and efficiently\n\nHow it works\nMemPro supplies two macros: MEMPRO_TRACK_ALLOC(p, size) and MEMPRO_TRACK_FREE(p). For ease of use MemPro automatically overrides the global new and delete operators and adds these macros, but if you have your own allocation routines then you can add the macros yourself as needed. MemPro records the callstack of every allocation, and all of the data is sent over the network to MemPro.\nMemPro processes the data offline. All the current live allocations are tracked. When a matching free is found the allocation is removed. MemPro also stores an entire history of all allocations and frees which allows for retrospective snapshots and rewinding of memory.\nAll of the symbol lookups are done by MemPro, which keeps the overhead in your application to a minimum. MemPro will read the symbol files for your application and display the callstacks.\nThe main way of viewing data in MemPro is to take a snapshot at a specific point in time. This shows you all of the allocations that are live at that point. You can this view the data in multiple ways, such as the calltree view and the types view.\nFor finding memory leaks or memory spikes, you can subtract one snapshot from another snapshot. This shows you all allocations that are in the second snapshot but not in the first.\nMemPro has a powerful feature specifically for tracking down memory leaks. It can analyse the entire contents of the application's memory and find any allocations that are not referenced by any code or data. It also uses a sophisticated set of heuristics to analyse the allocation pattern of each callstack to check for possible leaks.\nMemPro is particularly valuable for tracking down memory corruption bugs. MemPro can show you the entire history of all allocations and frees that happened in a specific address range. This is often sufficient information to find the cause of the corruption.\nMemPro is quick to integrate, has low overhead and is ideal for profiling real-time applications such as games. With MemPro you can easily see where your memory is going, you can track down leaks and spikes in minutes and find those hard-to-track-down memory corruption bugs.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.MEMSVCSEL",
+    "name": "MEMS VCSEL Swept Source Utility",
+    "publisher": "Thorlabs",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44746,6 +45131,13 @@
   {
     "id": "Microsoft.OneDrive",
     "name": "Microsoft OneDrive",
+    "publisher": "Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.PowerBIReportServer",
+    "name": "Microsoft Power BI Report Server",
     "publisher": "Microsoft Corporation",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -45412,6 +45804,13 @@
     "id": "emoacht.Monitorian",
     "name": "Monitorian",
     "publisher": "emoacht",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IrisInstruments.MonitoringTerra",
+    "name": "Monitoring Terra",
+    "publisher": "IRIS Instruments",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -47684,6 +48083,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NoMachine.NoMachine.WorkgroupCloudServer",
+    "name": "NoMachine Workgroup Cloud Server",
+    "publisher": "NoMachine S.a.r.l.",
+    "description": "NoMachine Workgroup Cloud Server centralizes user access through a single gateway allowing NoMachine client devices to connect securely from outside the corporate network to remote desktops and servers residing inside. It is tailored for small teams and allows up to 10 simultaneous connections. Since any number of NoMachine nodes such as Enterprise Desktops or even Terminal Servers can be added to it, this mini connection broker is perfect for set-ups where there are multiple NoMachine-enabled desktops and computers, but only a few users requesting offsite remote access at any given time.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "nomacs.nomacs",
     "name": "nomacs - Image Lounge",
     "publisher": "TU Wien",
@@ -48545,6 +48951,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Justin025.OnTheSpot",
+    "name": "OnTheSpot",
+    "publisher": "Justin",
+    "description": "An easy to use music downloader written in Python. OnTheSpot has support for various music services and, unlike similar projects, downloaded files and metadata are sourced directly from the service of your choosing. The app includes a GUI, CLI, and Web UI frontend. To get started download the app here or run the command below.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OONI.OONI-Probe",
     "name": "OONI Probe",
     "publisher": "Open Observatory of Network Interference",
@@ -48709,6 +49122,13 @@
     "id": "MuhammedKalkan.OpenLens",
     "name": "OpenLens",
     "publisher": "OpenLens Authors",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenListTeam.OpenList",
+    "name": "OpenList",
+    "publisher": "OpenList Team",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -51275,6 +51695,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PedroAlbanese.QREncode",
+    "name": "QREncode for Windows",
+    "publisher": "Pedro F. Albanese",
+    "description": "Libqrencode is a library for encoding data in a QR Code symbol, a kind of 2D\nsymbology that can be scanned by handy terminals such as a mobile phone with\nCCD. The capacity of QR Code is up to 7000 digits or 4000 characters, and has\nhigh robustness.\n\nQrencode is a utility software using libqrencode to encode string data in a QR\nCode and save as a PNG image.\n\nSource code: https://github.com/fukuchi/libqrencode",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "skypjack.QSapecNG",
     "name": "QSapecNG - Qt-based GUI for SapecNG",
     "publisher": "Michele Caini <michele.caini@gmail.com>",
@@ -51737,6 +52164,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RawTherapee.RawTherapee.Dev",
+    "name": "RawTherapee",
+    "publisher": "rawtherapee.com",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "raycho.raycho",
     "name": "raycho",
     "publisher": "raycho",
@@ -51891,13 +52325,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "KurtZimmermann.RegCool",
-    "name": "RegCool",
-    "publisher": "Kurt Zimmermann",
-    "description": "RegCool is a very flexible editor for the Windows registry. The program offers an attractive interface, convenient context menus and a handy tool bar, with the extensive editing functions are available at your fingertips. RegCool provides the complete functionality of the Windows own Regedit, but adds a lot of additions. Editing .reg and .hive-Files in Offline Mode (Offline Registry)",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "TomEnglert.RegionToShare",
     "name": "Region To Share",
     "publisher": "Tom Englert",
@@ -51990,7 +52417,7 @@
   },
   {
     "id": "reMarkable.reMarkableCompanionApp",
-    "name": "reMarkable Companion App",
+    "name": "reMarkable",
     "publisher": "reMarkable",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -52070,6 +52497,13 @@
     "name": "Remove Empty Directories",
     "publisher": "Jonas John",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RemoveBG.RemoveBG",
+    "name": "remove.bg",
+    "publisher": "Canva Austria Gmbh",
+    "description": "Use the background remover software for Windows, Mac & Linux to remove image backgrounds in bulk in seconds. Whether you are creating product photos for e-commerce websites, car images for dealerships, portraits - and more - the remove.bg desktop app is the fastest tool on the market to remove backgrounds, providing high-quality results even for some of the trickiest bits, such as hair.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52766,6 +53200,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.S4FC",
+    "name": "S4FC",
+    "publisher": "THORLABS Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SabakiHQ.Sabaki",
     "name": "Sabaki",
     "publisher": "Yichuan Shen",
@@ -53063,6 +53504,13 @@
     "id": "Thorlabs.SC10",
     "name": "SC10",
     "publisher": "THORLABS Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.SC30",
+    "name": "SC30",
+    "publisher": "Thorlabs",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -53449,6 +53897,13 @@
     "name": "Serial Port Monitor",
     "publisher": "Electronic Team, Inc.",
     "description": "Serial Port Monitor is a professional software application that allows reading and recording serial\ndata going through your computer’s serial ports. The program is a big help for those who develop\nand debug software and hardware solutions that use COM ports for serial data transfer.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SerialStudio.SerialStudio",
+    "name": "Serial Studio",
+    "publisher": "Alex Spataru",
+    "description": "Serial Studio is an open source, cross-platform telemetry dashboard and\nreal-time data visualization tool. It supports input from serial ports,\nBluetooth Low Energy (BLE), MQTT, and TCP/UDP sockets, allowing data acquisition\nfrom embedded devices, external software, and networked services.\n\nSerial Studio runs on Windows, macOS, and Linux. It is suited for telemetry\nmonitoring, sensor data analysis, and real-time debugging in educational,\nhobbyist, and professional environments.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53858,6 +54313,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SimpleACME.SimpleACME.Pluggable",
+    "name": "simple-acme",
+    "publisher": "simple-acme",
+    "description": "A simple cross platform ACME client - for use with Let's Encrypt. Forked from win-acme.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TheWaWaR.simple-http-server",
     "name": "simple-http-server",
     "publisher": "TheWaWaR",
@@ -54149,6 +54611,13 @@
     "name": "Slite",
     "publisher": "Slite team",
     "description": "将您的团队从创建、管理和查找可信公司信息的负担中解放出来，AI 驱动的 Slite 协作知识库让单一信息源成为现实。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.SLS60x",
+    "name": "SLS60x",
+    "publisher": "THORLABS Inc.",
+    "description": "The SLS60x software GUI’s controls duplicate most front panel functions, including intensity adjustment, turning the light source on/off, opening and closing the shutter, and activating/deactivating the ports on the back panel. The software GUI and front panel controls are enabled at the same time. Both constantly read the light source's status and update their displayed information accordingly (e.g. any adjustments made to the light source using the front panel is registered by and used to update the status of the GUI).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54597,6 +55066,13 @@
     "name": "Sparrow Bitcoin Wallet",
     "publisher": "Sparrow Wallet",
     "description": "Sparrow is a modern desktop Bitcoin wallet application supporting most hardware wallets and built\non common standards such as PSBT, with an emphasis on transparency and usability.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.SPDC810",
+    "name": "SPDC810",
+    "publisher": "THORLABS Inc.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55961,7 +56437,7 @@
     "id": "TenacityTeam.Tenacity",
     "name": "Tenacity",
     "publisher": "Tenacity Team",
-    "description": "Tenacity is an easy-to-use multi-track audio editor and recorder for Windows, macOS, Linux and other operating systems.\nIt is built on top of the widely popular Audacity and is being developed by a wide, diverse group of volunteers.",
+    "description": "Tenacity is a free and open source audio editor forked from the popular audio editor Audacity. Tenacity is licensed under the GNU General Public License version 2 or later. It contains the following features:\n- Recording from audio devices, real or virtual.\n- Support for importing from and exporting to a wide range of audio formats, extensible with FFmpeg.\n- High quality audio processing, including up to 32-bit float audio support.\n- Extensibility with support for plug-ins, providing support for VST 2, LADSPA/LV2, and AU plugins.\n- Support for scripting in the built-in scripting language Nyquist, or in Python, Perl, and other languages with named pipes.\n- Editing arbitrary sampling and multi-track timeline.\n- Accessibility including editing via keyboard, screen reader support and narration support.\n- Tools useful in the analysis of signals, including audio.\nTenacity does not have a single application when it comes to audio processing. Musicians recording real instruments can make a song in Tenacity, podcasters can edit their episodes in Tenacity, and even academic researchers can analyze signals using Tenacity. We don’t intend to focus Tenacity on a single area of audio processing, but rather, we intend to focus Tenacity over audio processing in general, including the aforementioned applications.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56164,6 +56640,27 @@
     "id": "Alex313031.Thorium",
     "name": "Thorium",
     "publisher": "The Thorium Authors",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.ChrolisDeviceDriver",
+    "name": "Thorlabs CHROLIS - Device Driver",
+    "publisher": "Thorlabs GmbH",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.ELLO",
+    "name": "Thorlabs ELLO",
+    "publisher": "Thorlabs",
+    "description": "The Elliptec System Software features an easy-to-use, GUI interface for compatible Windows® PCs which can be used to control the piezoelectric resonant motor devices. Custom applications can be created in any language. The source code is provided in C# format as part of the download.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.TSP01",
+    "name": "Thorlabs TSP01",
+    "publisher": "Thorlabs GmbH",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -56378,6 +56875,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Hawaii_Beach.TinyNvidiaUpdateChecker",
+    "name": "TinyNvidiaUpdateChecker",
+    "publisher": "Hawaii_Beach",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CenSoft.TinyTERMEnterpriceTEServer",
     "name": "TinyTERM Enterprise TE Server",
     "publisher": "Century Software, Inc.",
@@ -56494,6 +56998,13 @@
     "name": "TokenTool",
     "publisher": "RPTools",
     "description": "TokenTool removes much of the tedium from creating tokens for use with MapTool or your favorite online gaming application. Just drag an image into the background, select a frame, zoom and pan to suit, and drag off a finished token. The resulting token is transparent around the edges and cropped to the size you wanted.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "xssnick.TON-Torrent",
+    "name": "TON Torrent",
+    "publisher": "TON Torrent",
+    "description": "You could also create torrent from some of your folders and share bag id or meta file with your friends, but keep in mind, that at least one of you should have public ip address. Otherwise, you could use one of the storage providers to host your files.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57691,6 +58202,13 @@
     "name": "Vagrant",
     "publisher": "HashiCorp",
     "description": "Vagrant is a tool for building and managing virtual machine environments in a single workflow. With an easy-to-use workflow and focus on automation, Vagrant lowers development environment setup time, increases production parity, and makes the \"works on my machine\" excuse a relic of the past.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VALD.ForceFrame",
+    "name": "VALD ForceFrame",
+    "publisher": "VALD",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59598,6 +60116,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NicolasBonamy.Witsy",
+    "name": "Witsy",
+    "publisher": "Nicolas Bonamy",
+    "description": "Witsy is a BYOK (Bring Your Own Keys) AI application: it means you need to have API keys for the LLM providers you want to use. Alternatively, you can use Ollama to run models locally on your machine for free and use them in Witsy.\nIt is the first of very few (only?) universal MCP clients:\nWitsy allows you to run MCP servers with virtually any LLM!\nNon-exhaustive feature list:\n- OpenAI, Ollama, Anthropic, MistralAI, Google, xAI, Azure, OpenRouter, DeepSeek, Groq and Cerebras models supported\n- Connect other providers (together, siliconflow, fireworks...) through OpenAI compatibility layer\n- Chat completion with vision models support (describe an image)\n- Text-to-image and text-to video with OpenAI, Google, xAI, Replicate, fal.ai and HuggingFace\n- Image-to-image (image editing) and image-to-video with Google, Replicate and fal.ai\n- LLM plugins to augment LLM: execute python code, search the Internet...\n- Anthropic MCP server support\n- Scratchpad to interactively create the best content with any model!\n- Prompt anywhere allows to generate content directly in any application\n- AI commands runnable on highlighted text in almost any application\n- Experts prompts to specialize your bot on a specific topic\n- Long-term memory plugin to increase relevance of LLM answers\n- Read aloud of assistant messages (requires OpenAI or ElevenLabs API key)\n- Read aloud of any text in other applications (requires OpenAI or ElevenLabs API key)\n- Chat with your local files and documents (RAG)\n- Transcription/Dictation (Speech-to-Text)\n- Realtime Chat aka Voice Mode\n- Anthropic Computer Use support\n- Local history of conversations (with automatic titles)\n- Formatting and copy to clipboard of generated code\n- Conversation PDF export\n- Image copy and download",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JasperKeuper.WixEdit",
     "name": "WixEdit",
     "publisher": "Jasper Keuper (jkeuper@gmail.com)",
@@ -60382,6 +60907,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.xPlatform",
+    "name": "xPlatform",
+    "publisher": "Thorlabs",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "XplicitTrust.Agent",
     "name": "XplicitTrust Network Access",
     "publisher": "XplicitTrust GmbH",
@@ -60477,6 +61009,13 @@
     "name": "Y8 Browser",
     "publisher": "Y8 Games",
     "description": "浏览器即将不继续支持Flash播放器。不过您可以使用Y8浏览器继续玩这些Flash游戏。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HolographicHat.YaeAchievement",
+    "name": "YaeAchievement",
+    "publisher": "HolographicHat",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61408,6 +61947,13 @@
     "name": "小旨管家",
     "publisher": "XIAMEN UNICORN Co.. LTD.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "gaozhangmin.XBYDriver",
+    "name": "小白羊云盘",
+    "publisher": "gavingaozhangmin",
+    "description": "功能\n1. 根据阿里云盘 Open 平台 API 开发的网盘客户端，支持 win7-11，macOS，linux\n2. 支持同时登录多个账号管理。\n3. 提供特有的文件夹树，方便快速操作。\n4. 在线播放网盘中各种格式的高清原画视频，并支持外挂字幕、音轨和播放速度调整，播放列表。\n5. 显示文件夹体积，支持文件夹和文件的混合排序（文件名/体积/时间）。\n6. 可以通过远程 Aria2 功能将文件直接下载到远程的 VPS/NAS。\n7. 支持批量重命名大量文件和多层嵌套的文件夹。\n8. 可以快速复制文件，预览视频的雪碧图，并直接删除文件。\n9. 能够管理数万文件夹和数万文件，并一次性列出文件夹中的全部文件。\n10. 支持一次性上传/下载百万级的文件/文件夹。",
     "icon": "/icons/intunify-default.png"
   },
   {
