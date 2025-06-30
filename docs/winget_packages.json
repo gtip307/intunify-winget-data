@@ -588,6 +588,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "IkiruPeople.VoyagerInfinitySaaSClient",
+    "name": "",
+    "publisher": null,
+    "description": "Voyager Infinity 是专为各类规模临时工、长期工及合同工招聘机构打造的招聘软件与客户关系管理系统——内含持续进化的 AI 助手 Infinity Copilot，助力您的招聘事业！\n从教育到医疗护理招聘，建筑到酒店业招聘，司机到技术工程招聘乃至更多领域，我们的招聘软件助您高效完成工作，加速营收增长。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "infisical.infisical",
     "name": "",
     "publisher": null,
@@ -1506,6 +1513,13 @@
   },
   {
     "id": "Baidu.BaiduWenku",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Baidu.Comate",
     "name": "",
     "publisher": null,
     "description": "",
@@ -3017,6 +3031,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "xssnick.tonutils-storage",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Xencelabs.Driver",
     "name": "",
     "publisher": null,
@@ -3255,6 +3276,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Vijua.KotobeeNarrator",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "valinet.ExplorerPatcher",
     "name": "",
     "publisher": null,
@@ -3305,6 +3333,20 @@
   },
   {
     "id": "Vultr.CLI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Vleer.Vleer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Vonage.VonageBusiness",
     "name": "",
     "publisher": null,
     "description": "",
@@ -3466,6 +3508,27 @@
   },
   {
     "id": "VisualParadigm.Community",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisualParadigm.VisualParadigmViewer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisualParadigm.VisualParadigm",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisualParadigm.VisualParadigm.Community",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4880,6 +4943,13 @@
   },
   {
     "id": "pixel-point.kube-forwarder",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PandaDEV.Qopy",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8463,14 +8533,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "developersu.ns-usbloader",
+    "id": "duan.tre",
     "name": "",
     "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Dell.CommandUpdate",
+    "id": "developersu.ns-usbloader",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9366,6 +9436,62 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Greatis.RegGun.Platinum.Ukrainian",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.StopUpdates10",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.RegRun.Platinum",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.RegRun.Standard",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.RegRun.RegRunCK",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.UnHackMe.Beta",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.UnHackMe.Stable",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.DesktopSecretLock.Premium",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Gainward.EXPERTool",
     "name": "",
     "publisher": null,
@@ -9913,6 +10039,13 @@
   },
   {
     "id": "Oracle.MySQLWorkbench",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Onebeld.RegulSaveCleaner",
     "name": "",
     "publisher": null,
     "description": "",
@@ -11410,6 +11543,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Steady.Steady",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SimonKnuth.Scanner",
     "name": "",
     "publisher": null,
@@ -11865,6 +12005,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Seafuture.NetpasMaritimeMailAnalyzer",
+    "name": "",
+    "publisher": null,
+    "description": "Netpas MMA 是一款邮件分析应用程序，帮助您在日常邮件分类中节省时间、精力和成本。\nNetpas MMA 能分析数万封邮件并建立专属数据库，支持货物与船舶的搜索、筛选及匹配功能。使用 Netpas MMA 高效省时省力，所有邮件与分析数据仅保存在您的本地电脑中，安全无忧。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SatoshiLabs.TrezorBridge",
     "name": "",
     "publisher": null,
@@ -11992,6 +12139,13 @@
   },
   {
     "id": "scarvalhojr.aoc-cli",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Skyline.BalatroModManager",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14462,6 +14616,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "nomacs.nomacs.Beta",
+    "name": "",
+    "publisher": null,
+    "description": "nomacs 是一款免费开源的跨平台图像查看器，支持浏览包括 RAW 和 PSD 在内的所有常见图像格式。该软件具有半透明控件功能，可显示缩略图、元数据或直方图等附加信息。用户可直接浏览 ZIP 压缩包或 MS Office 文档中的图片，并支持将图片解压至指定目录。\n软件内置元数据显示功能，允许用户为图片添加注释。包含当前文件夹的缩略图预览界面和文件资源管理器面板，方便快速切换文件夹。在目录中可应用文件过滤器，仅显示文件名包含特定字符串或符合正则表达式的图片。启用缓存功能后，可实现图片间的瞬时切换。\nnomacs 提供亮度、对比度、饱和度、色相、伽马值、曝光度等图像调整功能，并具备生成伪彩色图像的独特功能。其多实例同步特性尤为突出——通过完全同步的缩放/平移操作，或以不同透明度叠加图像的方式，可轻松实现多图对比。本软件采用 GNU 通用公共许可证 v3 授权，支持 Windows、Linux、FreeBSD、Mac 及 OS/2 系统，个人与商业用途均可免费使用。如需提交错误报告或功能建议，请通过官方问题追踪系统反馈。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "nomacs.nomacs",
+    "name": "",
+    "publisher": null,
+    "description": "nomacs 是一款免费开源的跨平台图像查看器，支持浏览包括 RAW 和 PSD 在内的所有常见图像格式。该软件具有半透明控件功能，可显示缩略图、元数据或直方图等附加信息。用户可直接浏览 ZIP 压缩包或 MS Office 文档中的图片，并支持将图片解压至指定目录。\n软件内置元数据显示功能，允许用户为图片添加注释。包含当前文件夹的缩略图预览界面和文件资源管理器面板，方便快速切换文件夹。在目录中可应用文件过滤器，仅显示文件名包含特定字符串或符合正则表达式的图片。启用缓存功能后，可实现图片间的瞬时切换。\nnomacs 提供亮度、对比度、饱和度、色相、伽马值、曝光度等图像调整功能，并具备生成伪彩色图像的独特功能。其多实例同步特性尤为突出——通过完全同步的缩放/平移操作，或以不同透明度叠加图像的方式，可轻松实现多图对比。本软件采用 GNU 通用公共许可证 v3 授权，支持 Windows、Linux、FreeBSD、Mac 及 OS/2 系统，个人与商业用途均可免费使用。如需提交错误报告或功能建议，请通过官方问题追踪系统反馈。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NICESoftware.AmazonDCVClient",
     "name": "",
     "publisher": null,
@@ -15568,13 +15736,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Tulip.TulipPlayer",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "tushev.org.AJUpdateWatcher",
     "name": "",
     "publisher": null,
@@ -16492,6 +16653,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.PCD1K",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Thorlabs.EXULUS-SE1",
     "name": "",
     "publisher": null,
@@ -16555,6 +16723,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.DC40",
+    "name": "",
+    "publisher": null,
+    "description": "Thorlabs DC40 4.0A LED 驱动器的配套软件包含一个图形用户界面 (GUI)，可实现对多达 10 台 DC40 LED 驱动器的并行远程控制。该软件支持通过 GUI 界面完全控制 DC40 驱动器，也可与设备上的物理输入旋钮配合进行手动调节。在使用 GUI 软件时，用户可精确保存所设置的电流值和电流限值以供后续应用。该 GUI 软件还支持使用非 Thorlabs EEPROM 技术的 LED 器件。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.ChrolisInstrumentDriver",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Thorlabs.MCLS1",
     "name": "",
     "publisher": null,
@@ -16577,6 +16759,13 @@
   },
   {
     "id": "Thorlabs.LK220",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.Chrolis",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16954,6 +17143,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Wildix.WildixCollaboration",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WisdomSoftware.MotionStudio",
     "name": "",
     "publisher": null,
@@ -17059,24 +17255,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "WaveMetrics.IgorPro6-64",
+    "id": "WaveMetrics.IgorPro.6",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "Igor Pro 是一款集数据可视化、分析、转换与呈现于一体的综合性实验数据处理软件。\nIgor Pro 核心功能包括：\n- 可发表级科研绘图\n- 高速数据展示\n- 海量数据集处理能力\n- 曲线拟合、傅里叶变换、数据平滑、统计分析等数据处理功能\n- 波形运算\n- 图像显示与处理\n- 图形化界面与命令行双操作模式\n- 通过内置编程环境实现自动化数据处理\n- 支持 C/C++ 语言编写扩展模块\n用户群体主要分为两类：科研人员既可用其制作精调细校的高质量科学图表，也可通过内置编程环境将其作为全功能工作平台，完成从数据采集、分析到成果展示的全流程工作。",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "WaveMetrics.IgorPro6",
+    "id": "WaveMetrics.IgorPro.6.x64",
     "name": "",
     "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "WaveMetrics.IgorPro8",
-    "name": "",
-    "publisher": null,
-    "description": "",
+    "description": "Igor Pro 是一款集数据可视化、分析、转换与呈现于一体的综合性实验数据处理软件。\nIgor Pro 核心功能包括：\n- 可发表级科研绘图\n- 高速数据展示\n- 海量数据集处理能力\n- 曲线拟合、傅里叶变换、数据平滑、统计分析等数据处理功能\n- 波形运算\n- 图像显示与处理\n- 图形化界面与命令行双操作模式\n- 通过内置编程环境实现自动化数据处理\n- 支持 C/C++ 语言编写扩展模块\n用户群体主要分为两类：科研人员既可用其制作精调细校的高质量科学图表，也可通过内置编程环境将其作为全功能工作平台，完成从数据采集、分析到成果展示的全流程工作。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -17802,6 +17991,13 @@
   },
   {
     "id": "LastFM.LastFMDesktopScrobbler",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LimeTechnology.UnraidUSBCreator",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18970,6 +19166,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.DotNet.RepairTool",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.WindowsAppRuntime.1.2",
     "name": "",
     "publisher": null,
@@ -19215,6 +19418,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.OneNoteDiagnostics",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.BotFrameworkEmulator",
     "name": "",
     "publisher": null,
@@ -19307,6 +19517,13 @@
   },
   {
     "id": "Microsoft.BuildTools2015",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.MUTT",
     "name": "",
     "publisher": null,
     "description": "",
@@ -19447,6 +19664,13 @@
   },
   {
     "id": "Microsoft.PIX",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.MixedRealityFeatureTool",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21588,13 +21812,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "MichaelDiCarlo.PostyBirb",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "MichaelDiCarlo.PostyBirb+",
     "name": "",
     "publisher": null,
@@ -22170,13 +22387,6 @@
   },
   {
     "id": "AyibatariIbaba.Stopawu",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "app.vleer",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22974,6 +23184,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Argente.Utilities",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AOMEI.PartitionAssistant",
     "name": "",
     "publisher": null,
@@ -23178,6 +23395,13 @@
   },
   {
     "id": "Astronomer.Astro",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "abbodi1406.vcredist",
     "name": "",
     "publisher": null,
     "description": "",
@@ -24031,14 +24255,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "AdGuard.AdGuardVPN.Beta",
+    "id": "AdGuard.AdGuardVPN",
     "name": "",
     "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "AdGuard.AdGuardVPN",
+    "id": "AdGuard.AdGuardVPN.Beta",
     "name": "",
     "publisher": null,
     "description": "",
@@ -24133,6 +24357,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AmarBego.Rscoop",
+    "name": "",
+    "publisher": null,
+    "description": "Rscoop（rust-scoop）是 Windows 平台 Scoop 包管理器的终极图形界面。它不仅拥有赏心悦目的外观，更是一个功能强大的工具，旨在完全替代命令行操作。其直观现代的界面设计极易上手，无论新手还是资深用户都能轻松驾驭软件包管理。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -25019,6 +25250,13 @@
   },
   {
     "id": "Chill-Astro.PyCalc-CE",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Chill-Astro.PyCalc-JE",
     "name": "",
     "publisher": null,
     "description": "",
@@ -26111,6 +26349,13 @@
   },
   {
     "id": "ZakKemble.avr-gcc",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Zenarmor.Zenarmor",
     "name": "",
     "publisher": null,
     "description": "",
@@ -27262,6 +27507,13 @@
     "name": "A.I.VOICE 紅桜 ショウガ",
     "publisher": "AI, Inc.",
     "description": "14歳という多感なお年頃の少年。「低い声」に大人のカッコ良さがあると信じており、無理して低い声を出している。黒き歴史に精神を蝕まれ十字の名を冠した白い鎧を身にまとうのはもう少し先の話。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.A1RunGuard",
+    "name": "A1RunGuard",
+    "publisher": "Greatis Software",
+    "description": "A1RunGuard blocks unwanted programs, adds password protection for executables, and prevents Ransomware attacks.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -28918,7 +29170,7 @@
   },
   {
     "id": "CheckMAL.AppCheck",
-    "name": "AppCheck",
+    "name": "AppCheck Anti-Ransomware",
     "publisher": "CheckMAL Inc.",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -29572,6 +29824,13 @@
     "name": "AutoVer",
     "publisher": "Hunter Beanland",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AvaCC.AvaDesktop",
+    "name": "Ava Desktop",
+    "publisher": "Transcense, Inc.",
+    "description": "Live captions for Deaf and hard-of-hearing people. Download Ava on all your devices: smartphone, tablet and computer and enjoy subtitles for all situations. Available 24/7, any time, for any situation.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30639,6 +30898,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AGProjects.Blink",
+    "name": "Blink",
+    "publisher": "AG Projects",
+    "description": "Blink is the best real-time communications client using the SIP protocol.\nYou can use it with many SIP providers, on the LAN using Bonjour and with SIP2SIP, a free service.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NomanDhoni.BlinkEye",
     "name": "Blink Eye",
     "publisher": "Noman Dhoni",
@@ -30831,6 +31097,20 @@
     "id": "boostio.boostnote",
     "name": "Boost Note",
     "publisher": "Junyoung Choi",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.BootRacer",
+    "name": "BootRacer",
+    "publisher": "Greatis Software",
+    "description": "BootRacer finds out which programs slow down Windows boot-up process!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.BootRescue",
+    "name": "BootRescue",
+    "publisher": "Greatis Software",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -33481,6 +33761,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CZNIC.Datovka",
+    "name": "Datovka",
+    "publisher": "CZ.NIC, z.s.p.o.",
+    "description": "Datovka je multiplatformní desktopová aplikace pro přístup k datovým schránkám. Uživatelské rozhraní aplikace se inspiruje poštovními klienty. Datovka je svobodný software chráněný licencí GNU GPL verze 3. Instalační balíčky pro Linux, Windows a macOS jsou volně ke stažení.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Datto.Workplace",
     "name": "Datto Workplace",
     "publisher": "Datto Inc.",
@@ -33628,6 +33915,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Dell.CommandUpdate",
+    "name": "Dell Command | Update",
+    "publisher": "Dell Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Dell.DisplayManager",
     "name": "Dell Display Manager",
     "publisher": "Dell Inc.",
@@ -33712,6 +34006,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Greatis.DesktopSecretLock.Standard",
+    "name": "Desktop Secret Lock Standard",
+    "publisher": "Greatis Software",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SoftwareOK.DesktopOK",
     "name": "DesktopOK",
     "publisher": "SoftwareOK",
@@ -33744,6 +34045,13 @@
     "name": "Detect It Easy",
     "publisher": "horsicq",
     "description": "Detect It Easy, or abbreviated \"DIE\" is a program for determining types of files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JiriPolasek.DevNumbersforCommandPalette",
+    "name": "Dev Numbers for Command Palette",
+    "publisher": "Jiri Polasek",
+    "description": "This extension allows you to display and calculate various numerical values using PowerToys Command Palette.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35725,6 +36033,13 @@
     "name": "Everything Lite",
     "publisher": "voidtools",
     "description": "Everything is search engine that locates files and folders by filename instantly for Windows. Unlike Windows search Everything initially displays every file and folder on your computer (hence the name Everything). You type in a search filter to limit what files and folders are displayed.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "lin-ycv.EverythingCmdPal3",
+    "name": "EverythingCmdPal",
+    "publisher": "VictorLin",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39137,6 +39452,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Greatis.WinDowse",
+    "name": "Greatis WinDowse 5.3",
+    "publisher": "Greatis Software",
+    "description": "Look into any window - it's as simple as 1-2 now!\n\n1. Place mouse on the window you want to analyze\n2. See over the 40 parameters of the selected window immediately, without any\n   clicks!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GreenfootTeam.Greenfoot",
     "name": "Greenfoot",
     "publisher": "Greenfoot Team",
@@ -39344,6 +39666,13 @@
     "name": "gup",
     "publisher": "Chikamatsu Naohiro",
     "description": "gup command update binaries installed by \"go install\" to the latest version. gup updates all binaries in parallel, so very fast. It also provides subcommands for manipulating binaries under $GOPATH/bin ($GOBIN).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.GWXStopper",
+    "name": "GWX Stopper",
+    "publisher": "Greatis Software",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39924,7 +40253,7 @@
     "id": "HHDSoftware.VirtualSerialPortTools",
     "name": "HHD Software Virtual Serial Port Tools",
     "publisher": "HHD Software, Ltd.",
-    "description": "Virtual Serial Port Tools is a consolidated serial ports management and emulation tool kit which combines the power of Virtual, Remote, Shared and Network Serial Ports modules together, allowing you to create complex virtual serial port configurations and sophisticated sharing & interconnection schemes. In addition to that, it also includes support for scripted serial ports, using which you can program virtual serial port logic using TypeScript/JavaScript programming language.\nIn addition to an intuitive and extremely clear user interface it also provides you with Software Developer Kit (SDK) to automate whole process from your application. This library comes in the form of ActiveX/COM and .NET Component that give you full control over the product's internal processes from native C++, Delphi, Java, Rust as well as .NET C# source codes and JavaScript / TypeScript scripts. Detailed documentation for Virtual Serial Port Tools Developer API is also provided.\nVirtual com ports and interconnection/sharing schemes created by this product fully emulate all hardware serial port settings, rs232 null-modem pinouts and communication options including flow control, control lines and even line noise.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40572,17 +40901,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "WaveMetrics.IgorPro7",
+    "id": "WaveMetrics.IgorPro.7",
     "name": "Igor Pro 7",
     "publisher": "WaveMetrics",
-    "description": "",
+    "description": "Igor Pro is an integrated program for visualizing, analyzing, transforming and presenting experimental data.\nIgor Pro’s features include:\n- Publication-quality graphics\n- High-speed data display\n- Ability to handle large data sets\n- Curve-fitting, Fourier transforms, smoothing, statistics, and other data analysis\n- Waveform arithmetic\n- Image display and processing\n- Combination graphical and command-line user interface\n- Automation and data processing via a built-in programming environment\n- Extensibility through modules written in the C and C++ languages\nSome people use Igor simply to produce high-quality, finely-tuned scientific graphics. Others use Igor as an all-purpose workhorse to acquire, analyze and present experimental data using its built-in programming environment.",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "WaveMetrics.IgorPro9",
+    "id": "WaveMetrics.IgorPro.8",
+    "name": "Igor Pro 8",
+    "publisher": "WaveMetrics",
+    "description": "Igor Pro is an integrated program for visualizing, analyzing, transforming and presenting experimental data.\nIgor Pro’s features include:\n- Publication-quality graphics\n- High-speed data display\n- Ability to handle large data sets\n- Curve-fitting, Fourier transforms, smoothing, statistics, and other data analysis\n- Waveform arithmetic\n- Image display and processing\n- Combination graphical and command-line user interface\n- Automation and data processing via a built-in programming environment\n- Extensibility through modules written in the C and C++ languages\nSome people use Igor simply to produce high-quality, finely-tuned scientific graphics. Others use Igor as an all-purpose workhorse to acquire, analyze and present experimental data using its built-in programming environment.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WaveMetrics.IgorPro.9",
     "name": "Igor Pro 9",
     "publisher": "WaveMetrics",
-    "description": "",
+    "description": "Igor Pro is an integrated program for visualizing, analyzing, transforming and presenting experimental data.\nIgor Pro’s features include:\n- Publication-quality graphics\n- High-speed data display\n- Ability to handle large data sets\n- Curve-fitting, Fourier transforms, smoothing, statistics, and other data analysis\n- Waveform arithmetic\n- Image display and processing\n- Combination graphical and command-line user interface\n- Automation and data processing via a built-in programming environment\n- Extensibility through modules written in the C and C++ languages\nSome people use Igor simply to produce high-quality, finely-tuned scientific graphics. Others use Igor as an all-purpose workhorse to acquire, analyze and present experimental data using its built-in programming environment.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41206,6 +41542,13 @@
     "name": "IPVanish",
     "publisher": "IPVanish, a Ziff Davis company",
     "description": "IPVanish 是一家顶级 VPN 提供商。VPN 是虚拟专用网络（Virtual Private Network）的简称，通过加密在线流量和屏蔽 IP 地址来提高网络安全性。有了 IPVanish，您可以更匿名地使用互联网，并有助于保护您的数据不被第三方追踪。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.IQIYIRemover",
+    "name": "IQIYI Remover",
+    "publisher": "Greatis Software",
+    "description": "IQIYI Remover completely removes all files, services, registry key related to\nIQIYI software.\n\nOne click and restarting of your PC and you are free of IQIYI problem forever!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42504,6 +42847,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Vijua.KotobeeAuthor",
+    "name": "Kotobee Author",
+    "publisher": "Vijua, Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Vijua.KotobeeReader",
+    "name": "Kotobee Reader",
+    "publisher": "Vijua, Inc.",
+    "description": "Open interactive ebooks and audiobooks on any device with sleek design and rich multimedia features.\n\nEPUB & KPUB Compatibility: Kotobee Reader is fully compatible with both the EPUB format, the industry standard for ebooks, and KPUB, Kotobee's own format for interactive content.\nInteractive Content Support: Kotobee Reader allows users to read interactive ebooks, providing access to multimedia elements including videos, audio, quizzes, and interactive images.\nMulti-Device Compatibility: Read on any device—whether it’s your tablet, smartphone, or desktop. Kotobee Reader ensures you can enjoy your favorite books on the go.\nFlexible Reading Modes: Whether you prefer single-page, double-page, or scroll view modes, Kotobee Reader offers flexible viewing options to suit your reading style and preferences.\nEnhanced Reading Controls: Take full control of your reading experience with font-size adjustments, zooming, and a variety of navigation tools designed to maximize your comfort and ease of use.\nGlobal Language Support: Kotobee Reader supports over 18 languages, making sure your ebooks are accessible to readers from all around the world.\nCustomizable for Your Brand: Personalize Kotobee Reader to reflect your brand. With white-labeling options, bundle the reader with your ebook into one single app, creating a professional, branded interface for your audience.\nEncrypted EPUB Support: Kotobee Reader supports encrypted EPUB files, created using Kotobee Author, ensuring your ebooks are secure and can only be opened with a user-specified password, providing an additional layer of security for your content.\nAudiobook Integration: Immerse yourself in audiobooks created with Kotobee Narrator. Kotobee Reader provides a smooth and easy listening experience for your favorite audiobooks.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "riok.Kreya",
     "name": "Kreya",
     "publisher": "riok GmbH",
@@ -42557,6 +42914,13 @@
     "name": "kubens",
     "publisher": "Ahmet Alp Balkan",
     "description": "kubens is a tool to switch between Kubernetes namespaces (and configure them for kubectl) easily.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "kubepug.kubepug",
+    "name": "kubepug",
+    "publisher": "kubepug",
+    "description": "Kubepug is a program that helps you on your journey migrating between Kubernetes versions.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43346,6 +43710,41 @@
   {
     "id": "BellSoft.LibericaJRE.21.Full",
     "name": "Liberica JRE 21 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJRE.22.Full",
+    "name": "Liberica JRE 22 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJRE.23",
+    "name": "Liberica JRE 23",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJRE.23.Full",
+    "name": "Liberica JRE 23 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJRE.24.Full",
+    "name": "Liberica JRE 24 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJRE.24",
+    "name": "Liberica JRE 24 Full",
     "publisher": "BellSoft",
     "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
     "icon": "/icons/intunify-default.png"
@@ -44229,6 +44628,13 @@
     "id": "Firetrust.MailWasher.Pro",
     "name": "MailWasherPro",
     "publisher": "Firetrust",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.MakeBingYourSearchEngine",
+    "name": "Make Bing Your Search Engine",
+    "publisher": "Microsoft",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -45318,6 +45724,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.VSDotNetLogCollect",
+    "name": "Microsoft Visual Studio/.NET Log Collection Tool",
+    "publisher": "Microsoft",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.WebDeploy",
     "name": "Microsoft Web Deploy",
     "publisher": "Microsoft Corporation",
@@ -45497,13 +45910,6 @@
     "name": "MinIO Server",
     "publisher": "MinIO",
     "description": "MinIO is a high-performance, S3 compatible object store. It is built for large scale AI/ML, data\nlake and database workloads. It is software-defined and runs on any cloud or on-premises\ninfrastructure. MinIO is dual-licensed under open source GNU AGPL v3 and a commercial enterprise\nlicense.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "niklasso.minisat",
-    "name": "minisat",
-    "publisher": "niklasso",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45888,7 +46294,7 @@
     "id": "Iterate.MountainDuck",
     "name": "Mountain Duck",
     "publisher": "iterate GmbH",
-    "description": "Mountain Duck lets you mount server and cloud storage as a disk in Finder on macOS and the File Explorer on Windows.\nOpen remote files with any application and work like on a local volume.",
+    "description": "Mountain Duck lets you mount server and cloud storage as a disk in Finder on macOS and the File Explorer on Windows. Open remote files with any application and work like on a local volume.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47705,6 +48111,27 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Seafuture.NetpasEstimatorTramper",
+    "name": "Netpas Estimator & Tramper",
+    "publisher": "Seafuture, Inc.",
+    "description": "Netpas Estimator is an unique and practical calculator for tramper business sector.\nIt is a perfect tool for most of the major types of tramper business such as Voyage, Cargo Relet and Time Charter.\nEach type of business can be easily compared so that you can figure out the best type of business.\nWith the same vessel, you can evaluate and compare Voyage Charter and Time Charter business.\nWith the same cargo, you can evaluate and compare Voyage and Cargo Relet business.\nNetpas Estimator provides useful calculations and simulations to help your estimation simple and fast.\nIt will support your sales plan intensively for profitable business.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Seafuture.NetpasMessage",
+    "name": "Netpas Message",
+    "publisher": "Seafuture, Inc.",
+    "description": "Netpas Message is a maritime-focused email system designed to enhance message efficiency while maintaining the core functionalities of a traditional email program. It analyzes vessel data from incoming emails, stores it in the Vessel Manager database, and enables circulation via Open Tonnage. The Project feature automatically organizes operation-related emails by task, enhancing focus and maximizing work efficiency. Furthermore, users can share projects with team members, facilitating not only the exchange of ongoing work emails but also the seamless sharing of insights and resources for improved collaboration.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Seafuture.NetpasTramperBusiness",
+    "name": "Netpas Tramper Business",
+    "publisher": "Seafuture, Inc.",
+    "description": "If you are to look for a way to co-work with your colleagues in your company, Netpas Tramper Business is the perfect solution for you. All the data (estimations, operations, vessel list, contract, address book) is saved in one place to be shared and edited by the users in your organization. Its powerful tools such as Contract Manager, Address Book and Vessel Manager will help your main workflow from Estimation to Operation and Balancing. You can set the different access permission to each menu/folder and each users with Tramper Business Admin function, and see the statistics on your revenue and profit of your operation with various chart options.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LutzRoeder.Netron",
     "name": "Netron",
     "publisher": "Lutz Roeder",
@@ -48087,13 +48514,6 @@
     "name": "NoMachine Workgroup Cloud Server",
     "publisher": "NoMachine S.a.r.l.",
     "description": "NoMachine Workgroup Cloud Server centralizes user access through a single gateway allowing NoMachine client devices to connect securely from outside the corporate network to remote desktops and servers residing inside. It is tailored for small teams and allows up to 10 simultaneous connections. Since any number of NoMachine nodes such as Enterprise Desktops or even Terminal Servers can be added to it, this mini connection broker is perfect for set-ups where there are multiple NoMachine-enabled desktops and computers, but only a few users requesting offsite remote access at any given time.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "nomacs.nomacs",
-    "name": "nomacs - Image Lounge",
-    "publisher": "TU Wien",
-    "description": "nomacs is a free, open source image viewer, which supports multiple platforms.\nYou can use it for viewing all common image formats including RAW and psd images.\nnomacs is licensed under the GNU General Public License v3 and available for Windows, Linux, FreeBSD, Mac, and OS/2.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49191,8 +49611,8 @@
   {
     "id": "OpenRGB.OpenRGB",
     "name": "OpenRGB",
-    "publisher": "OpenRGB Developers",
-    "description": "Open source RGB lighting control that doesn't depend on manufacturer software. For Windows, Linux, MacOS. Supports a wide variety of RGB components, peripherals, accessories, and lights across many manufacturers. See the README or https://openrgb.org for more information.",
+    "publisher": "OpenRGB",
+    "description": "One of the biggest complaints about RGB is the software ecosystem surrounding it. Every manufacturer has their own app, their own brand, their own style. If you want to mix and match devices, you end up with a ton of conflicting, functionally identical apps competing for your background resources. On top of that, these apps are proprietary and Windows-only. Some even require online accounts. What if there was a way to control all of your RGB devices from a single app, on both Windows and Linux, without any nonsense? That is what OpenRGB sets out to achieve. One app to rule them all.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49858,6 +50278,13 @@
     "name": "PDF reDirect",
     "publisher": "EXP Systems LLC",
     "description": "free PDF Writer",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Burnaware.PDFShaper.Free",
+    "name": "PDF Shaper Free",
+    "publisher": "Burnaware",
+    "description": "PDF Software for Home and BusinessSecure, offline document processingDesigned for simplicity and efficiency.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50641,13 +51068,6 @@
     "id": "buchen.portfolio",
     "name": "Portfolio Performance",
     "publisher": "Andreas Buchen",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "SafingICSTechnologiesGmbH.Portmaster",
-    "name": "Portmaster",
-    "publisher": "Safing ICS Technologies GmbH",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -51618,13 +52038,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "net.pandadev.qopy",
-    "name": "Qopy",
-    "publisher": "pandadev",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "QPDF.QPDF",
     "name": "QPDF",
     "publisher": "QPDF",
@@ -51929,7 +52342,7 @@
     "id": "ebkr.r2modman",
     "name": "r2modman",
     "publisher": "ebkr",
-    "description": "A simple and easy to use mod manager for several games using Thunderstore. A mod manager is an application to make it easier to control which mods you have installed.",
+    "description": "一款简单易用的 mod 管理器，适用于多款使用 Thunderstore 的游戏。mod 管理器是一种可帮助您更轻松地控制已安装的 mod 的应用程序。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52171,6 +52584,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Raycast.Raycast",
+    "name": "Raycast",
+    "publisher": "Raycast Technologies, Ltd.",
+    "description": "Raycast is a fast and flexible launcher that lets you control your computer with your keyboard. With a customizable interface and extensible plugins, Raycast helps you get things done quickly and efficiently, without ever having to touch the mouse.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "raycho.raycho",
     "name": "raycho",
     "publisher": "raycho",
@@ -52325,6 +52745,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KurtZimmermann.RegCool",
+    "name": "RegCool",
+    "publisher": "Kurt Zimmermann",
+    "description": "RegCool is a very flexible editor for the Windows registry. The program offers an attractive interface, convenient context menus and a handy tool bar, with the extensive editing functions are available at your fingertips. RegCool provides the complete functionality of the Windows own Regedit, but adds a lot of additions. Editing .reg and .hive-Files in Offline Mode (Offline Registry)",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TomEnglert.RegionToShare",
     "name": "Region To Share",
     "publisher": "Tom Englert",
@@ -52385,6 +52812,13 @@
     "name": "Regressi",
     "publisher": "Evariste",
     "description": "Regressi est un logiciel, Libre d'utilisation, sous Windows, Mac et Linux, de traitements de données expérimentales. Ils permet de calculer des grandeurs combinées (avec les incertitudes associées) et de faire des ajustements (fit) par régression linéaire ou non, à une fonction différentielles.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.RegRun.Gold",
+    "name": "RegRun Security Suite (Gold)",
+    "publisher": "Greatis Software",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53691,7 +54125,7 @@
   },
   {
     "id": "ColonyLabs.ScribeDesktopCapture",
-    "name": "Scribe Desktop Capture",
+    "name": "Scribe",
     "publisher": "Colony Labs, Inc",
     "description": "Scribe automatically generates how-to guides and serves them to your team when they need them most.",
     "icon": "/icons/intunify-default.png"
@@ -54310,6 +54744,13 @@
     "name": "Simple Whois Tools",
     "publisher": "Akaere NetWorks",
     "description": "A simple, cross-platform WHOIS query tool with colorized output and advanced features.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SimpleACME.SimpleACME.Trimmed",
+    "name": "simple-acme",
+    "publisher": "simple-acme",
+    "description": "A simple cross platform ACME client - for use with Let's Encrypt. Forked from win-acme.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55426,6 +55867,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Greatis.StartScreenUnlimited",
+    "name": "Start Screen Unlimited",
+    "publisher": "Greatis Software",
+    "description": "Unleash the full capabilities of your Windows 8 Start Screen with Start Screen Unlimited! Add digital clock, Google search, power controls and numerous other gadgets directly to your start screen. With Start Screen Unlimited, the only limit is your imagination.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GetStation.Station",
     "name": "Station",
     "publisher": "Joël Charles",
@@ -55860,13 +56308,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SUSE.SUSE.15SP5",
-    "name": "SUSE Linux Enterprise 15 SP5",
-    "publisher": "SUSE",
-    "description": "SUSE Linux Enterprise (SLE) is an adaptable and easy-to-manage platform that allows developers and administrators to deploy business-critical workloads on-premises, in the cloud and at the edge.\nWhen it comes to running all your workloads, one size Linux OS does not fit all. That’s why we offer the industry-leading adaptable Linux operating system. No matter what your workload requirements (performance, reliability, operating environment), we have an OS solution purpose-built for your needs.\nSUSE Linux Enterprise has a common code base that runs across so many of your architectures (AMD/Intel x86-64, IBM Z, IBM POWER and Arm64), containers and edge devices – providing the same IT experience, security, and stability across that mixed infrastructure, so you can streamline IT skill sets and systems management and simplify support and services.\n\nWhy SUSE Linux Enterprise?\n\nSUSE Linux Enterprise is an operating system that is adaptable to any environment – optimized for performance, security and reliability.\n\nSimplify your IT environment\nThe SUSE Linux Enterprise “common code base” platform bridges traditional and software-defined infrastructure. Simplify workload migration, protect your traditional infrastructure, and ease the adoption of containers.\n\nModernize your IT infrastructure\nModernize your IT infrastructure with SUSE Linux Enterprise’s multimodal architecture. With its cloud-agnostic design, SLES can easily transition to public cloud—Alibaba, Azure, AWS, Google, IBM, Oracle.\n\nAccelerate innovation\nConnect to our developer community at SUSE Package Hub. Once you are ready to move to from development to production you can seamlessly transition from our community Linux distribution - openSUSE Leap - to SUSE Linux Enterprise with just a few clicks.\n\nAdaptability\nIncludes APIs and services that make it possible to write applications that can work with the widest range of architectures, servers, storage and network options available. This approach allows SLES to adapt to any operating environment and enables smooth workload migrations between them.\n\nSecurity and Compliance\nSUSE engineers promptly react to security incidents, and deliver premium quality security updates. The configuration, auditing and automation features of SUSE Manager make it easy to ensure compliance with internal security policies and external regulations.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "SUSE.SUSE.15SP6",
     "name": "SUSE Linux Enterprise 15 SP6",
     "publisher": "SUSE",
@@ -56067,13 +56508,6 @@
     "name": "SynologyCameraTool",
     "publisher": "Synology",
     "description": "The Synology Camera Tool automatically locates cameras on the local network and lets you quickly configure network details like the IP address, subnet mask, and DHCP settings.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.Sysinternals",
-    "name": "Sysinternals Suite",
-    "publisher": "Microsoft Corporation",
-    "description": "The Sysinternals Suite was created in 1996 by Mark Russinovich to host his advanced system utilities and technical information",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56644,6 +57078,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thorlabs.APT.x64",
+    "name": "Thorlabs APT",
+    "publisher": "Thorlabs",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Thorlabs.ChrolisDeviceDriver",
     "name": "Thorlabs CHROLIS - Device Driver",
     "publisher": "Thorlabs GmbH",
@@ -56655,6 +57096,13 @@
     "name": "Thorlabs ELLO",
     "publisher": "Thorlabs",
     "description": "The Elliptec System Software features an easy-to-use, GUI interface for compatible Windows® PCs which can be used to control the piezoelectric resonant motor devices. Custom applications can be created in any language. The source code is provided in C# format as part of the download.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thorlabs.CCT",
+    "name": "Thorlabs ThorSpectra Software, Core",
+    "publisher": "Thorlabs",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57211,13 +57659,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "ca.duan.tre-command",
-    "name": "tre-command",
-    "publisher": "Daniel Duan",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Japplis.TreeDataExplorer",
     "name": "Tree Data Explorer",
     "publisher": "Japplis",
@@ -57257,6 +57698,13 @@
     "name": "Tremulous",
     "publisher": "GrangerHub",
     "description": "The game features two opposing teams: humans and aliens. Each team must attack the enemy’s base\nand team members while defending their own base.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TrenchBroom.TrenchBroom",
+    "name": "TrenchBroom",
+    "publisher": "Kristian Duske",
+    "description": "TrenchBroom is a modern cross-platform level editor for Quake-engine based games.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57407,6 +57855,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Tulip.TulipPlayer",
+    "name": "Tulip Player",
+    "publisher": "Tulip",
+    "description": "Play Tulip apps on machines, tablets, computers, and phones. Enable powerful, consumer-grade user experiences for your workforce across devices\nThe Tulip Player windows application, offers an extended set of features:\nA more immersive user experience:\n- The Tulip Player Windows App will persist its window size, position, and full screen state across restarts. This can be helpful if you always want your Tulip Player to appear in the same position, or to always be maximized.\n- The Tulip Player Windows App is a dedicated user experience. It can only be used to access Tulip Apps - not Facebook.\nBetter hardware access:\n- The Tulip Player Windows App supports Tulip Vision\n- It can open files from the local computer within your Tulip App.\n- In some situations, hardware barcode scanners will work better.\n- It supports a wide range of hardware devices which can be found here\nBetter authentication experience:\n- Administrators only have to authenticate the Tulip Player Windows App once per physical computer. In contrast, the Tulip Web Player has to be authenticated separately for each operator. In some situations, shareable station links can be used to work around this limitation.\n- For the the Tulip Player Windows App, credentials are securely persisted to the file system. This makes it harder for an operator to accidentally de-register their station, which would require an administrator to re-register them.\n- The Tulip Player Windows App can be registered with multiple Tulip instances, making it easier to switch between a staging and production instance, for example.\n- The Tulip Player Windows App and the Tulip App Editor can be used simultaneously. You must sign out of the App Editor in order to access the Tulip Web Player.\nDiagnostics:\n- The Tulip Player Windows App makes logs easier to access.\n- The Tulip Player Windows App can collect more detailed information about the computer it’s running on.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "xjasonlyu.tun2socks",
     "name": "tun2socks",
     "publisher": "xjasonlyu",
@@ -57460,6 +57915,13 @@
     "name": "TurnedOnTimesView",
     "publisher": "NirSoft",
     "description": "Simple tool that analyses the event log of Windows operating system, and detects the time ranges that your computer was turned on.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TurtleBeach.AudioHub",
+    "name": "Turtle Beach Audio Hub",
+    "publisher": "Turtle Beach",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60116,6 +60578,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HanwhaVision.WisenetWAVEVMS.Server",
+    "name": "Wisenet WAVE Server",
+    "publisher": "Hanwha",
+    "description": "Streamline your video security with Wisenet WAVE VMS from Hanwha Vision. Fully leverage onboard camera analytics, scale your security system with ease and tailor your dashboard to the needs of your operation.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NicolasBonamy.Witsy",
     "name": "Witsy",
     "publisher": "Nicolas Bonamy",
@@ -60526,6 +60995,13 @@
     "name": "WORKS",
     "publisher": "Works Mobile Corp.",
     "description": "NAVER WORKS is business communication tool developed by Naver Cloud Corp. (Naver Cloud Platform, NCP) and Works Mobile Corp.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "15722UsefulApp.WorkspaceLauncherForVSCode",
+    "name": "Workspace Launcher for Visual Studio / Code",
+    "publisher": "UsefulApp",
+    "description": "This project provides a command palette extension for opening Visual Studio solutions and Visual Studio Code workspaces from a single, unified interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
