@@ -2541,6 +2541,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EPOS.EPOSConnect",
+    "name": "",
+    "publisher": null,
+    "description": "EPOS Connect Windows 版让最终用户能够访问最新的固件更新和个性化的音频设备设置。在此工具的控制之下，EPOS 耳机和全向麦克风能够与所有领先的软电话无缝配合。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "erickutcher.httpdownloader",
     "name": "",
     "publisher": null,
@@ -2835,6 +2842,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EndlessSky.EndlessSky",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EA4K.KLog",
     "name": "",
     "publisher": null,
@@ -2955,6 +2969,13 @@
   },
   {
     "id": "xgi.houdoku",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Xink.XinkClientAD",
     "name": "",
     "publisher": null,
     "description": "",
@@ -3228,13 +3249,6 @@
   },
   {
     "id": "Xiaomi.XiaomiCloud",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Versent.saml2aws",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4760,13 +4774,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "PaperCutSoftware.MobilityPrint",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "PaperCutSoftware.GhostTrap",
     "name": "",
     "publisher": null,
@@ -5125,6 +5132,13 @@
   },
   {
     "id": "PasteBar.PasteBar",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PredatH0r.ChanSort",
     "name": "",
     "publisher": null,
     "description": "",
@@ -6406,6 +6420,13 @@
   },
   {
     "id": "HelmutBuhler.8GadgetPack",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HomeDev.PatchCleanerPortable",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8239,6 +8260,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Dangbei.XiaowangScreenshot",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DarkDaskin.VigilantMonitor",
     "name": "",
     "publisher": null,
@@ -8772,13 +8800,6 @@
   },
   {
     "id": "DisplayLink.GraphicsDriver.HotDesking",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "DaiyuuNobori.Win10Pcap",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9464,6 +9485,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Greatis.RegRun.Reanimator",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Greatis.RegRun.RegRunCK",
     "name": "",
     "publisher": null,
@@ -9486,6 +9514,13 @@
   },
   {
     "id": "Greatis.DesktopSecretLock.Premium",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Greatis.EdgeResetButton",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9528,6 +9563,13 @@
   },
   {
     "id": "Guru3D.Afterburner",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Game1024.OpenSpeedy",
     "name": "",
     "publisher": null,
     "description": "",
@@ -10388,6 +10430,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenJS.Electron.37",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OpenJS.Electron.35",
     "name": "",
     "publisher": null,
@@ -11116,6 +11165,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SplitmediaLabs.VCam",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "strayge.tray-monitor",
     "name": "",
     "publisher": null,
@@ -11424,20 +11480,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SonicWALL.GlobalVPN",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "SonicWALL.NetExtender",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Sniptool.Sniptool",
     "name": "",
     "publisher": null,
@@ -11449,6 +11491,20 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SonicWall.GlobalVPNClient",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SonicWall.NetExtender",
+    "name": "",
+    "publisher": null,
+    "description": "SonicWall 的 SSL VPN NetExtender 可为 Windows 和 Linux 用户提供便捷安全的访问通道。这款透明化软件让远程用户能安全连接并运行企业网络中的任意应用程序。用户可像在本地网络一样上传下载文件、挂载网络驱动器并访问各类资源。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -11561,6 +11617,13 @@
     "name": "",
     "publisher": null,
     "description": "Hybrid 是一款 Windows 上基于 Qt 的其它一系列工具的前端，可将大多数输入格式转换为常用的音视频格式和容器，详情请查看功能列表。\n\nHybrid 面向高级用户。\n它并不打算成为人人都能使用的工具。它也不是为了取悦那些需要类似向导界面的业余爱好者。\n如果你不了解容器、视频格式等基础知识。Hybrid 并不适合你。\n\n以下为主要功能列表：\n- 支持 AVI/MKV/MP4/MOV 标签\n- 支持 MKV/MP4/蓝光章节\n- 支持 MKV/MP4/蓝光字幕\n- 分离的音频、视频、滤镜、音视频配置文件\n- 集成码率计算器\n- 接受原始 VC-1、AVC、MPEG-2、MPEG-4 ASP 输入文件\n- 手动和自动创建和传输章节\n- 可对单个标题/章节进行编码\n- 基于任务/队列的处理系统\n- 使用 dcaenc/MEncoder/FFmpeg/Aften 和不同的 AAC 编码器进行 AAC/MP3/AC-3/Vorbis/Opus/FLAC/DTS/PCM/EAC-3 音频编码\n- 支持的 AAC 编码器：qaac、FDK AAC、faac、FHG、neroaacenc\n- 通过 VapourSynth、AviSynth（仅限 Windows）进行过滤，以及通过 FFmpeg 进行一些基本过滤\n- 可接受的输入格式：AVS 和 MPlayer/FFmpeg 能解码的几乎所有格式\n- 支持的视频输出格式 MPEG-4 ASP（Xvid）、MPEG-4 AVC（x264、qsvencc、nvencc、vceencc、ffmpeg nvenc）、VP8/VP9（vpxenc）、ProRes（ffmpeg）、MPEG-4 HEVC（x265、kvazaar、DivX265、nvencc、qsvencc、vceencc、ffmpeg nvenc）、FFV1（ffmpeg）、UT video（ffmpeg）、FFvHuff（ffmpeg）、AV-1（aomenc、rav1e）\n- 支持的音频输出格式 DTS、ACC3、Ogg Vorbis、MP3、AAC、FLAC、PCM、Opus、直通\n- 支持的容器：MOV/MP4/MKV/M2TS/WebM/AVI、蓝光或 AVCHD 结构\n- 音频/视频直通 -> 可用于多路复用、标记、章节编辑\n- 大量自动化选项",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SumbitLabs.Aptakube",
+    "name": "",
+    "publisher": null,
+    "description": "现代、轻量级且支持多集群的 Kubernetes 图形界面。适用于 Windows、macOS 和 Linux 系统。\n功能亮点：\n- 💯 同时连接一个或多个集群\n- ⚡️ 聚合日志查看器\n- ⚖️ 资源差异对比\n- ✌️ 多命名空间选择器\n- 💪 人性化的资源视图\n- ✍️ 查看与编辑对象\n- 🎉 零配置快速上手\n- 😉 绝非又一款 Electron 应用\n- ✅ 兼容所有 Kubernetes 集群：本地部署、GKE、EKS、AKS 及其他平台\n- 💻 支持 Windows、macOS 和 Linux 三大平台",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -11795,7 +11858,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SonicPi.SonicPi",
+    "id": "SimonSteele.ProgrammersNotepad",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12005,6 +12068,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Seafuture.NetpasVesselMonitorAIS",
+    "name": "",
+    "publisher": null,
+    "description": "Netpas Vessel Monitor AIS 系统是一款全球商船队管理服务，通过卫星/地面 AIS 信号及船长报告实现船舶定位。这不仅是实时船舶追踪服务，更提供从租船到运营的全周期管理。NVM AIS 既适合只需基础船舶动态监控的用户，更能满足需要分析航次记录与船舶性能的深度需求。通过 Netpas AIS 快速定位目标船舶即可开启监控，系统将通过地图实时更新船舶位置，并显示当前燃油存量、预计到港时间等关键数据。此外，NVM AIS 还能自动生成并存储详尽的航次报告与船队状态报告，助您实现高效船舶管理。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Seafuture.NetpasDistance",
+    "name": "",
+    "publisher": null,
+    "description": "Netpas Distance 是一款港口距离查询工具，提供 12,000 个港口及 10 亿条距离数据，集成 (S)ECA 区域查询、天气预报、海盗警报等多项强大功能。该应用采用人性化的用户体验与界面设计，旨在提升您的日常工作效率。现提供免费试用，相信您体验后定会爱上这款卓越的应用。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Seafuture.NetpasMaritimeMailAnalyzer",
     "name": "",
     "publisher": null,
@@ -12156,6 +12233,20 @@
     "name": "",
     "publisher": null,
     "description": "MOOS Project Viewer 是一款专为 Microsoft® Project 设计的查看器，支持动态打开、浏览及打印任何 Microsoft® Project 文件。它能在所有支持 Java 的平台上运行，包括 Windows®、Mac OS X 和 Linux 系统。市面上虽有众多 Microsoft® Project 查看器（含免费版和商业版），但 MOOS Project Viewer 以卓越的性价比脱颖而出。无需轻信我们的宣传，亲自试用便知分晓！",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SCIA.SCIAEngineer.25",
+    "name": "",
+    "publisher": null,
+    "description": "SCIA Engineer 是一款集成的多材料结构分析与设计软件，适用于各类建筑结构。其广泛的功能使其成为办公楼、工业厂房、桥梁或其他任何项目设计的理想伙伴，所有操作都在同一个易于使用的环境中完成。\n- 快速分析与设计任何结构——从简单到复杂\n- 按照您喜欢的方式工作\n- 采用尖端技术与工具提高工作效率\n- 组织并审查结构的每个细节\n- 可靠、安全且经济的设计方案",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SCIA.SCIAEngineer.24",
+    "name": "",
+    "publisher": null,
+    "description": "SCIA Engineer 是一款集成的多材料结构分析与设计软件，适用于各类建筑结构。其广泛的功能使其成为办公楼、工业厂房、桥梁或其他任何项目设计的理想伙伴，所有操作都在同一个易于使用的环境中完成。\n- 快速分析与设计任何结构——从简单到复杂\n- 按照您喜欢的方式工作\n- 采用尖端技术与工具提高工作效率\n- 组织并审查结构的每个细节\n- 可靠、安全且经济的设计方案",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -12894,10 +12985,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "sylikc.JPEGView",
+    "id": "SirCab.SirCab",
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "sylikc.JPEGView",
+    "name": "",
+    "publisher": null,
+    "description": "JPEGView 是一款轻量、快速且高度可配置的图片查看器/编辑器，拥有极简图形界面。\n\n支持格式\nJPEGView 内置支持以下图像格式：\n- 常见格式：JPEG、GIF\n- 无损格式：BMP、PNG、TIFF、PSD\n- 网络格式：WEBP、JXL、HEIF/HEIC、AVIF\n- 传统格式：TGA、WDP、HDP、JXR\n- 相机 RAW 格式：\n  - Adobe (DNG)、佳能 (CRW/CR2/CR3)、尼康 (NEF/NRW)、索尼 (ARW/SR2)\n  - 奥林巴斯 (ORF)、松下(RW2)、富士 (RAF)\n  - 适马 (X3F)、宾得 (PEF)、美能达 (MRW)、柯达 (KDC/DCR)\n  - 完整支持列表参见：LibRaw 支持相机型号\n其他格式可通过 Windows 图像组件 (WIC) 支持\n\n基础编辑功能\n提供实时图像处理工具，可调整以下参数：\n- 锐度\n- 色彩平衡\n- 旋转\n- 透视\n- 对比度\n- 局部欠曝/过曝修正\n\n其他特性\n- 体积小巧运行快速，支持 AVX2/SSE2 指令集及 4 核 CPU 优化\n- 高质量重采样滤镜，保持图像锐利度\n- 基础图像处理工具可实时应用\n- 电影/幻灯片模式 - 可将图片文件夹作为影片播放",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -13385,6 +13483,20 @@
   },
   {
     "id": "SoftwareFreedomConservancy.QEMUGuestAgent",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Squirrels.Reflector.4",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Squirrels.Reflector.3",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15295,13 +15407,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Ultimaker.Cura",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "USEPA.EPANET",
     "name": "",
     "publisher": null,
@@ -15361,11 +15466,18 @@
     "id": "UrBackup.UrBackup.Server",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "UrBackup 是一款易于部署的开源客户端/服务器备份系统，通过镜像备份与文件备份相结合，既能确保数据安全又能实现快速恢复。\n该系统可在不中断当前进程的情况下，对运行中的系统执行文件和镜像备份。\nUrBackup 还会持续监控您需要备份的文件夹，从而快速识别与之前备份的差异。正因如此，增量文件备份的速度极快。\n您可以通过网页界面、客户端或 Windows 资源管理器恢复文件，而驱动器卷的备份则可通过可启动 U 盘进行裸机恢复。\n直观的网页界面让搭建专属备份服务器变得非常简单，欢迎查看截图快速了解功能概览。\n目前全球有超过 21,000 个（启用自动更新的）UrBackup 服务器实例在运行，其中部分实例管理着数百个活跃客户端。",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "UrBackup.UrBackup.Client",
+    "name": "",
+    "publisher": null,
+    "description": "UrBackup 是一款易于部署的开源客户端/服务器备份系统，通过镜像备份与文件备份相结合，既能确保数据安全又能实现快速恢复。\n该系统可在不中断当前进程的情况下，对运行中的系统执行文件和镜像备份。\nUrBackup 还会持续监控您需要备份的文件夹，从而快速识别与之前备份的差异。正因如此，增量文件备份的速度极快。\n您可以通过网页界面、客户端或 Windows 资源管理器恢复文件，而驱动器卷的备份则可通过可启动 U 盘进行裸机恢复。\n直观的网页界面让搭建专属备份服务器变得非常简单，欢迎查看截图快速了解功能概览。\n目前全球有超过 21,000 个（启用自动更新的）UrBackup 服务器实例在运行，其中部分实例管理着数百个活跃客户端。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Ubiquiti.UniFiIdentityEndpoint",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16058,6 +16170,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ThomasGossler.OutlookCalendarSync",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Terraform-docs.Terraform-docs",
     "name": "",
     "publisher": null,
@@ -16258,6 +16377,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TTYPlus.MTPuTTY",
+    "name": "",
+    "publisher": null,
+    "description": "PuTTY 是 Windows 平台上最受欢迎的 SSH 客户端。它唯一的缺点或许是每次新建连接时都需要启动一个新窗口。例如当需要同时保持 5 个活动连接时，你就得运行 5 个 PuTTY 实例，桌面上会出现 5 个独立的 PuTTY 窗口。\nMTPuTTY（多标签版 PuTTY）是一款小巧的*免费*工具，能将无限数量的 PuTTY 会话整合到带标签页的图形界面中。你依然在使用最熟悉的 SSH 客户端，但不再需要面对杂乱的窗口——每个连接都会在独立的标签页中打开。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -16992,35 +17118,14 @@
     "id": "QNAP.QENCDecrypter",
     "name": "",
     "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "QNAP.QuDedupExtractTool",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "QNAP.Qsync",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "QNAP.Qsirch",
-    "name": "",
-    "publisher": null,
-    "description": "",
+    "description": "当您需分享 NAS 中的机密文件时，可先通过 File Station 将文件进行加密，加强机密文件的安全保护等级。加密后的文件将转为无法随意存取的 .qenc 格式，收到文件的用户可在计算机上下载 QENC Decrypter 解密文件，只有输入正确密码才能查看、使用经过加密的 .qenc 文件，有效提升数据安全性。\n通过 Hybrid Backup Sync 加密及压缩的文件，亦可使用 QENC Decrypter 解密及解压缩。",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "QNAP.ExternalRAIDManager",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "QNAP External RAID Manager 是专为 QNAP 的 RAID 存储外接设备 (例如：TR-004) 所设计的应用工具，让 Windows 与 Mac 使用者用来设置 RAID，并检视 RAID 及磁盘相关信息与健康状态。系统会记录装置内的所有事件，当异常状态发生时，将实时提供桌面讯息通知，让用户能立即掌握状况！",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -17031,17 +17136,10 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "QNAP.QfinderPro",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "QNAP.NetBakReplicator",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "NetBak Replicator 协助您将 Windows 计算机上的文件、多媒体档案、电子邮件或整颗硬盘轻松备份至 QNAP NAS。简单几个点击即可快速完成实时备份、排程备份及自动备份。NetBak Replicator 亦支持 FTP 和 WebDAV 网络备份至远程服务器，即使身处异地，还是可以随时备份新增的档案。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -17388,7 +17486,28 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WatchGuard.WatchGuardAuthenticationGateway",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WatchGuard.WatchGuardTerminalServiceAgent",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WatchGuard.MobileVPNWithSSLClient",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WatchGuard.WatchGuardAuthenticationClient",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17731,6 +17850,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WikimediaProject.AutoWikiBrowser",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Whois.Works",
     "name": "",
     "publisher": null,
@@ -17788,6 +17914,13 @@
   },
   {
     "id": "360.360AlbumViewer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "360.NamiAI",
     "name": "",
     "publisher": null,
     "description": "",
@@ -19173,6 +19306,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.PrintMetadataTroubleshooter",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.WindowsAppRuntime.1.2",
     "name": "",
     "publisher": null,
@@ -19524,6 +19664,13 @@
   },
   {
     "id": "Microsoft.MUTT",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.GameInput",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21052,7 +21199,7 @@
     "id": "Mozilla.SeaMonkey",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "SeaMonkey 项目是一个由社区推动开发的互联网全能应用套件。这种软件套装曾因 Netscape 和 Mozilla 而广受欢迎，如今 SeaMonkey 项目持续为这一理念开发高质量更新，并不断增添新功能和改进。该套件包含网页浏览器、电子邮件与新闻组客户端、HTML 编辑器、IRC 聊天工具及网页开发工具，必将吸引高级用户、网页开发者和企业用户。\nSeaMonkey 基于开源的 Mozilla Gecko 引擎构建，该引擎同样支撑着广受欢迎的 Thunderbird 邮件客户端，也是 Firefox 浏览器的基础。通过与这些项目的交叉协作，SeaMonkey 既能获取（同时贡献）新功能，又能持续获得现代互联网应用必备的安全更新。SeaMonkey 协会为该项目提供法律支持。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -22225,7 +22372,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Avangelista.CowabungaLite",
+    "id": "ASIX.AX88179DriverSetup",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22303,13 +22450,6 @@
   },
   {
     "id": "Atlassian.Sourcetree",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Apipost.ApiPost",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22495,6 +22635,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AnalogDevices.LTspice",
+    "name": "",
+    "publisher": null,
+    "description": "LTspice® 是一款强大高效的免费 SPICE 仿真器软件、原理图采集和波形观测器，为改善模拟电路的仿真提供增强功能和模型。其原理图捕获图形界面使您能够探测原理图并生成仿真结果，这些结果可以通过内置波形查看器进一步观察分析。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -24444,6 +24591,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ayangweb.BongoCat",
+    "name": "",
+    "publisher": null,
+    "description": "🐱 Cross-platform desktop pet BongoCat, adding fun to your desktop!\nFeatures:\n- Compatible with macOS, Windows, and Linux (x11).\n- Synchronizes mouse movements or keyboard taps based on your keyboard or mouse actions.\n- Supports importing custom models to freely create your unique cat avatar.\n- Fully open-source with transparent code—absolutely no user data collection.\n- Works offline—no internet required, ensuring user privacy.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Aserto.DSLoad",
     "name": "",
     "publisher": null,
@@ -25928,6 +26082,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ControlUp.ControlUpAgent",
+    "name": "",
+    "publisher": null,
+    "description": "在您的机器上安装 ControlUp 代理以监控与管理环境中物理和虚拟 Windows 设备。该代理可让您实时查看机器性能指标、用户会话、进程运行状态等丰富信息。任何安装了此代理的设备均被视为“受管机器”。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Castr.Castr",
     "name": "",
     "publisher": null,
@@ -25999,6 +26160,13 @@
   },
   {
     "id": "chen08209.FlClash",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Connective.ConnectiveSigningPlugins",
     "name": "",
     "publisher": null,
     "description": "",
@@ -26125,13 +26293,6 @@
   },
   {
     "id": "ctrl-f.userdiag",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "ZivverB.V.ZivverOfficePlugin",
     "name": "",
     "publisher": null,
     "description": "",
@@ -29673,13 +29834,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "AudioRangerIT.AudioRanger",
-    "name": "AudioRanger",
-    "publisher": "AudioRanger IT",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "AsaphaHalifa.AudioRelay",
     "name": "AudioRelay",
     "publisher": "Asapha Halifa",
@@ -30485,6 +30639,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "nilaoda.BBDown",
+    "name": "BBDown",
+    "publisher": "nilaoda",
+    "description": "一个命令行式哔哩哔哩下载器. Bilibili Downloader.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "endcloud.BBHouse",
     "name": "BBHouse",
     "publisher": "shizi",
@@ -30741,6 +30902,13 @@
     "name": "Billfish",
     "publisher": "Billfish Co., Ltd.",
     "description": "Billfish 是专为设计师打造的素材管理工具，可以高效地整理电脑的各类素材：支持 PNG、JPG、PSD、AI、GIF、SVG、EPS、CDR 等格式。Billfish 素材管理工具可以快速、轻松地管理素材，让你拥有更多的时间专注于设计本身。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Vector35.BinaryNinja",
+    "name": "Binary Ninja",
+    "publisher": "Vector 35",
+    "description": "Developed with a focus on delivering a high-quality API for automation and a clean and usable GUI, Binary Ninja is in active use by malware analysts, vulnerability researchers, and software developers worldwide. Decompile software built for many common architectures on Windows, macOS, and Linux for a single price, or try out one of our limited (but free!) versions.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -31101,6 +31269,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Greatis.BootLogXP",
+    "name": "BootLog XP",
+    "publisher": "Greatis Software",
+    "description": "Boot Log XP is that you search for troubleshooting Windows boot-up\nproblems in Windows XP.\n\nBoot Log XP creates the new boot log file and allows you to view it visually.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Greatis.BootRacer",
     "name": "BootRacer",
     "publisher": "Greatis Software",
@@ -31245,6 +31420,13 @@
     "name": "Brosix for Windows",
     "publisher": "Brosix",
     "description": "Brosix 是一款面向企业的即时通讯软件，提供跨多个应用程序的加密实时通讯，以简化日常业务的完成方式。\n不再通过不安全的应用程序发送信息。不再有等待时效性信息的停机时间。安全、即时的聊天、会议和团队协作可轻松存档和检索。再也不用无休止地搜索过去的公报了。\n有关更多功能介绍，请见 https://www.brosix.com/features/。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Brother.BRAdmin.Professional.4",
+    "name": "Brother BRAdmin Professional 4",
+    "publisher": "Brother Industries, Ltd.",
+    "description": "This software allows system administrators deploy and manage their networked/USB connected Brother printers and scanners and view the status of most other SNMP compliant printing devices.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -32949,6 +33131,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Faster3ck.Converseen",
+    "name": "Converseen",
+    "publisher": "Francesco Mondello",
+    "description": "Converseen is a free cross-platform batch image processor for Windows, Linux,\nmacOS, FreeBSD, and other operating systems. It allows you to convert, resize,\nrotate, and flip an infinite number of images with a single mouse click.\nMoreover, Converseen can convert an entire PDF document into a set of images\nwith your preferred characteristics. You can choose from over 100+ formats,\nset the size, resolution, and the filename.\n\nThanks to ImageMagick, the powerful image manipulation library, Converseen can\nhandle more than 100 image formats, including DPX, EXR, GIF, JPEG, JPEG-2000,\nPNG, SVG, TIFF, WebP, HEIC/HEIF, and many others. Converseen is designed to be\nuser-friendly, fast, practical, and best of all, it’s available for free!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Hydraulic.Conveyor",
     "name": "Conveyor",
     "publisher": "Hydraulic",
@@ -34013,6 +34202,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Greatis.DesktopKeeper",
+    "name": "DesktopKeeper",
+    "publisher": "Greatis Software",
+    "description": "DesktopKeeper is the totally unique software that really works with Windows 2000/XP. Desktop Lock feature might be useful if you want to protect your desktop from unauthorized access and determine if someone shows interest in it.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SoftwareOK.DesktopOK",
     "name": "DesktopOK",
     "publisher": "SoftwareOK",
@@ -34776,6 +34972,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "dotNetInstaller.dotNetInstaller",
+    "name": "dotNetInstaller",
+    "publisher": "DevAge, Vestris Inc. & Contributors",
+    "description": "dotNetInstaller is a widely used, general-purpose setup bootstrapper for Microsoft Windows XP, 2003, Vista, 2008, 7, 8, 2012, 8.1, 10, 2016, 2019, 2022, and 11.\ndotNetInstaller enables the developer to define the application prerequisites and install the correct version(s) of these components in a predictable order based on the processor architecture, user operating system type and language, allow the user to download these components from the web, install these components directly from a single packaged setup, local media or both. dotNetInstaller is very feature rich and runs on all known Windows operating systems with a very tiny footprint.\nA boostrapper doesn't replace tools like InstallShield, Wise, Visual Studio Setup and Deployment Project or Wix. The goal is to create an application to help users with installing the correct prerequisites. Most real world applications need to install several components to work properly, including Windows Service Packs, Internet Explorer, MDAC or .NET Framework. This kind of applications are most commonly known as bootstrappers. dotNetInstaller is such a bootstrapper.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "alexx2000.DoubleCommander",
     "name": "Double Commander",
     "publisher": "Alexander Koblov",
@@ -34899,6 +35102,13 @@
     "name": "DSSIM",
     "publisher": "Kornel",
     "description": "This tool computes (dis)similarity between two or more PNG &/or JPEG images using an algorithm approximating human vision. Comparison is done using a variant of the SSIM algorithm.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.DTrace",
+    "name": "DTrace",
+    "publisher": "Microsoft",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35483,17 +35693,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "7S2P.Effie.CN",
-    "name": "Effie",
-    "publisher": "7S2P Inc.",
-    "description": "Effie is a list making, mind mapping, note taking, focused markup-based writing tool that helps to visualize your ideas with mindmaps and outlines, and turn them into great writing pieces in the simple, discretion-free environment.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "7S2P.Effie",
     "name": "Effie",
     "publisher": "7S2P Inc.",
     "description": "Effie 是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie 都是您明智的选择。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "7S2P.Effie.CN",
+    "name": "Effie",
+    "publisher": "7S2P Inc.",
+    "description": "Effie is a list making, mind mapping, note taking, focused markup-based writing tool that helps to visualize your ideas with mindmaps and outlines, and turn them into great writing pieces in the simple, discretion-free environment.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35823,13 +36033,6 @@
     "name": "Epilogue Operator",
     "publisher": "Epilogue",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "EPOS.EPOSConnect",
-    "name": "EPOS Connect",
-    "publisher": "EPOS Group A/S",
-    "description": "EPOS Connect for Windows gives the end user access to the latest firmware updates and personalized audio device settings. Stay in control with a tool that keeps EPOS headsets and speakerphones work seamlessly with all leading softphones.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36215,13 +36418,6 @@
     "name": "Eyes Guard",
     "publisher": "Avestura Technologies",
     "description": "Windows Application for protecting your eyes",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "ez.launcher",
-    "name": "EZ Launcher",
-    "publisher": "Toine",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36851,7 +37047,7 @@
     "id": "FireDaemon.FireDaemonPro",
     "name": "FireDaemon Pro",
     "publisher": "FireDaemon Technologies Limited",
-    "description": "Run, schedule and monitor critical programs, applications and scripts to ensure uptime and resiliency. FireDaemon Pro allows your programs to be placed in a lightweight service container for fine-grained monitoring and control. With extensive options for time scheduling, operating system scheduling, life cycle management, preconditions, dependencies and security, FireDaemon Pro is your companion to help you secure mission-critical workloads on Microsoft Windows. It is also the only tool you need for Windows service management in general (single point of responsibility).",
+    "description": "Run, schedule and monitor critical programs, applications and scripts to ensure uptime and resiliency. FireDaemon Pro allows you to place your programs in a lightweight service container for fine-grained monitoring and control, or to schedule tasks as a cron equivalent on Windows. With extensive options for time scheduling, operating system scheduling, life cycle management, preconditions, dependencies and security, FireDaemon Pro is your companion to help you secure mission-critical workloads on Microsoft Windows. It is also the only tool you need for Windows service management in general (single point of responsibility).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40253,7 +40449,7 @@
     "id": "HHDSoftware.VirtualSerialPortTools",
     "name": "HHD Software Virtual Serial Port Tools",
     "publisher": "HHD Software, Ltd.",
-    "description": "",
+    "description": "Virtual Serial Port Tools is a consolidated serial ports management and emulation tool kit which combines the power of Virtual, Remote, Shared and Network Serial Ports modules together, allowing you to create complex virtual serial port configurations and sophisticated sharing & interconnection schemes. In addition to that, it also includes support for scripted serial ports, using which you can program virtual serial port logic using TypeScript/JavaScript programming language.\nIn addition to an intuitive and extremely clear user interface it also provides you with Software Developer Kit (SDK) to automate whole process from your application. This library comes in the form of ActiveX/COM and .NET Component that give you full control over the product's internal processes from native C++, Delphi, Java, Rust as well as .NET C# source codes and JavaScript / TypeScript scripts. Detailed documentation for Virtual Serial Port Tools Developer API is also provided.\nVirtual com ports and interconnection/sharing schemes created by this product fully emulate all hardware serial port settings, rs232 null-modem pinouts and communication options including flow control, control lines and even line noise.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40352,6 +40548,13 @@
     "name": "HMA VPN",
     "publisher": "Privax",
     "description": "Access blocked sites with the only top-rated VPN provider that covers the world. Limited-time offer.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FernandoMaclen.Hollama",
+    "name": "Hollama",
+    "publisher": "Fernando Maclen",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41625,7 +41828,7 @@
     "id": "SmartProjects.IsoBuster",
     "name": "IsoBuster",
     "publisher": "Smart Projects",
-    "description": "The Ultimate data recovery software! Supporting ALL types of media, including CD/DVD, BD/HD DVD, Hard Drives, SSM, USB flash drives, Zip drives, Jaz drives, floppies etc.",
+    "description": "IsoBuster is a highly specialized yet easy to use media data recovery tool. It supports all disc formats and all common file systems. Insert a disc, USB stick or memory card, Start up IsoBuster and select the drive or media (if not selected already) and let IsoBuster mount the media. IsoBuster immediately shows you all the partitions or tracks and sessions located on the media, combined with all file systems that are present. This way you get easy access, just like explorer, to all the files and folders per file system. Instead of being limited to one file system that the OS picks for you, you have access to \"the complete picture\". Access data from older sessions or hidden partitions, access data that your OS (e.g. Windows) does not see or hides from you etc.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42763,6 +42966,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BishwaSaha.Koncentro",
+    "name": "Koncentro",
+    "publisher": "Bishwa Saha",
+    "description": "A powerful productivity app combining Pomodoro technique, task management, and website blocking.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DavideMaggi.koncierge",
     "name": "koncierge",
     "publisher": "Davide Maggi",
@@ -43715,6 +43925,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BellSoft.LibericaJRE.22",
+    "name": "Liberica JRE 22",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BellSoft.LibericaJRE.22.Full",
     "name": "Liberica JRE 22 Full",
     "publisher": "BellSoft",
@@ -44422,13 +44639,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "AnalogDevices.LTspice",
-    "name": "LTspice",
-    "publisher": "Analog Devices Inc.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "JavaLikeScript.LuaJLS",
     "name": "Lua JLS",
     "publisher": "SPYL",
@@ -44552,6 +44762,13 @@
     "name": "MAA Assistant Arknights",
     "publisher": "MaaAssistantArknights",
     "description": "MAA means MAA Assistant Arknights. An Arknights assistant. Based on image recognition, helps you to complete daily quests efficiently!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Macrobond.MacrobondViewer",
+    "name": "MacrobondViewer",
+    "publisher": "Macrobond Financial",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44842,7 +45059,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Wiris.MathType7",
+    "id": "Wiris.MathType.7",
     "name": "MathType 7",
     "publisher": "WIRIS",
     "description": "MathType is the leading formula editor and equation writer used by K-12 and university STEM students and faculty worldwide. Discover why millions of them use it everyday!",
@@ -46015,13 +46232,6 @@
     "name": "MobaXterm",
     "publisher": "Mobatek",
     "description": "MobaXterm is your ultimate toolbox for remote computing. In a single Windows application, it provides loads of functions that are tailored for programmers, webmasters, IT administrators and pretty much all users who need to handle their remote jobs in a more simple fashion.\nMobaXterm provides all the important remote network tools (SSH, RDP, X11, SFTP, FTP, Telnet, Rlogin, ...) to Windows desktop, in a single portable exe file which works out of the box. Some plugins can be used to add functions to MobaXterm such as Unix commands (bash, ls, cat, sed, grep, awk, rsync, ...).",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "WatchGuard.MobileVPN.12.10",
-    "name": "Mobile VPN with SSL client",
-    "publisher": "WatchGuard",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47621,13 +47831,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "TTYPlus.MTPutty",
-    "name": "MTPuTTY",
-    "publisher": "TTYPlus",
-    "description": "wrap unlimited number of PuTTY applications in one tabbed GUI interface",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "staniel359.muffon",
     "name": "muffon",
     "publisher": "Aleksey Shpakovsky",
@@ -48703,6 +48906,55 @@
     "name": "novelWriter",
     "publisher": "novelWriter",
     "description": "A markdown-like text editor designed for writing novels and larger projects of many smaller plain text documents.\nIt is designed to be a simple text editor that allows for easy organisation of text files and notes, with a meta data syntax for comments, synopsis, and cross-referencing between files, and built on plain text files for robustness.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NoVirusThanks.OSArmor.Personal",
+    "name": "NoVirusThanks OSArmor",
+    "publisher": "NoVirusThanks Company Srl",
+    "description": "OSArmor is a Windows OS application that monitors and blocks suspicious processes behaviors to prevent infections by malware, ransomware, and other threats. This tool analyzes parent processes and prevents, for example, MS Word from running cmd.exe or powershell.exe. It prevents ransomware from deleting shadow copies of files via vssadmin.exe, blocks processes with double file extensions (i.e invoice.pdf.exe), blocks USB-spreading malware, and much more. It is lightweight, requires zero user input and protects your system while running in the background. In combination with OSArmor you can also use SysHardener to harden even more Windows OS settings.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NoVirusThanks.OSArmor.Business",
+    "name": "NoVirusThanks OSArmor (BUSINESS)",
+    "publisher": "NoVirusThanks Company Srl",
+    "description": "OSArmor is a Windows OS application that monitors and blocks suspicious processes behaviors to prevent infections by malware, ransomware, and other threats. This tool analyzes parent processes and prevents, for example, MS Word from running cmd.exe or powershell.exe. It prevents ransomware from deleting shadow copies of files via vssadmin.exe, blocks processes with double file extensions (i.e invoice.pdf.exe), blocks USB-spreading malware, and much more. It is lightweight, requires zero user input and protects your system while running in the background. In combination with OSArmor you can also use SysHardener to harden even more Windows OS settings.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NoVirusThanks.OSArmor.Enterprise",
+    "name": "NoVirusThanks OSArmor (ENTERPRISE)",
+    "publisher": "NoVirusThanks Company Srl",
+    "description": "OSArmor is a Windows OS application that monitors and blocks suspicious processes behaviors to prevent infections by malware, ransomware, and other threats. This tool analyzes parent processes and prevents, for example, MS Word from running cmd.exe or powershell.exe. It prevents ransomware from deleting shadow copies of files via vssadmin.exe, blocks processes with double file extensions (i.e invoice.pdf.exe), blocks USB-spreading malware, and much more. It is lightweight, requires zero user input and protects your system while running in the background. In combination with OSArmor you can also use SysHardener to harden even more Windows OS settings.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NoVirusThanks.SysHardener",
+    "name": "NoVirusThanks SysHardener",
+    "publisher": "NoVirusThanks Company Srl",
+    "description": "Windows OS security application that allows you to harden Windows settings to mitigate cybersecurity threats. With this tool you can restrict functionalities of Windows and secure vulnerable applications (i.e Office and Adobe Reader). You can unassociate VBS, VBE, JS, ISO, IMG, MSI, CHM file type associations, disable Macros and ActiveX on Office, disable unused Windows Services, block outbound connections of specific programs via Windows Firewall, and much more. Need real-time protection? Try OSArmor »",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NoVirusThanks.USBRadar",
+    "name": "NoVirusThanks USB Radar (STANDARD)",
+    "publisher": "NoVirusThanks Company Srl",
+    "description": "USB Radar is a service-only application that tracks USB device events on Windows OS",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NoVirusThanks.WinUpdateStop.Standard",
+    "name": "NoVirusThanks Win Update Stop",
+    "publisher": "NoVirusThanks Company Srl",
+    "description": "This application allows you to manually disable or enable automatic Windows Updates. Sometimes you may want to stop Windows Updates so you can choose when to download and install new Windows Updates. As you know, Windows Updates are very important but they are also known to occasionally create some incompatibilities or problems with the Operating System and the applications installed. Use this utility to block Windows Updates and re-enable them when you desire.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NoVirusThanks.WinUpdateStop.Enterprise",
+    "name": "NoVirusThanks Win Update Stop (ENTERPRISE)",
+    "publisher": "NoVirusThanks Company Srl",
+    "description": "This application allows you to manually disable or enable automatic Windows Updates. Sometimes you may want to stop Windows Updates so you can choose when to download and install new Windows Updates. As you know, Windows Updates are very important but they are also known to occasionally create some incompatibilities or problems with the Operating System and the applications installed. Use this utility to block Windows Updates and re-enable them when you desire.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50043,6 +50295,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PaperCutSoftware.MobilityPrint",
+    "name": "PaperCut Mobility Print",
+    "publisher": "PaperCut Software International Pty Ltd",
+    "description": "Mobility Print delivers network print services for iOS, Windows, macOS, Android, and ChromeOS devices across mixed fleet environments.\nIt enables all end-user clients (for example, iPhones, Chromebooks, Android phones, and laptops) that are not managed by your organization to securely print to any printer in your network. It also works with managed Chromebooks.\nWith Mobility Print’s Cloud Print feature, users can also print directly to the Mobility Print server over the internet while keeping their device’s native printing experience. This makes PaperCut Mobility Print a great replacement for the deprecated Google Cloud Print.\nCloud Print is currently available for Chromebooks, Windows, and macOS.\nSecure print release and authenticated printing are available when you set up Mobility Print together with PaperCut NG/MF.\nIt’s simple really. Mobility Print:\n- makes printing so easy it ‘just works’ from any client\n- provides a consistent print experience irrespective of the make and model of the printer.\nAnd it achieves both by having the Mobility Print server do the heavy lifting.\nFor users, Mobility Print is so easy to set up they don’t need to reach out to a SysAdmin for help. And behind the scenes, Mobility Print can scale from a small single subnet to the most complex enterprise network that serves tens of thousands of users.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PaperCutSoftware.NG",
     "name": "PaperCut NG",
     "publisher": "PaperCut Software International Pty Ltd",
@@ -51226,6 +51485,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.PowerAutomateProcessMining",
+    "name": "Power Automate Process Mining desktop app",
+    "publisher": "Microsoft Corporation",
+    "description": "Take advantage of additional enterprise process mining capabilities with the Power Automate Process Mining desktop app. For example, there are many ways to break down your process cycles into smaller pieces for analysis. With the Power Automate Process Mining desktop app, you can easily delve into the details of your processes.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "powertab.powertabeditor",
     "name": "Power Tab Editor",
     "publisher": "Power Tab Community",
@@ -51492,13 +51758,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SimonSteele.ProgrammersNotepad",
-    "name": "Programmer's Notepad",
-    "publisher": "Hashicorp",
-    "description": "A lightweight text editor with all the essentials",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Telerik.Fiddler.Classic",
     "name": "Progress Telerik Fiddler Classic",
     "publisher": "Progress Software Corporation",
@@ -51538,6 +51797,13 @@
     "name": "Project64 (Development)",
     "publisher": "Project64 Development Team",
     "description": "Project64 is a completely free and open-source emulator for the Nintendo 64 and 64DD written in C++.\nCapable of playing your favorite N64 games on your PC with high definition graphics, excellent compatibility, save states, built-in cheat codes, and more.\nA simple to use user interface, allowing games to just run out of the box with no configuring. Though if you want there are dozens of configuration options to make it work the way you want.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PartexMarkingSystems.PromarkCreator",
+    "name": "Promark Creator",
+    "publisher": "Partex Marking Systems",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52031,6 +52297,34 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "QNAP.NetBakPCAgent",
+    "name": "QNAP NetBak PC Agent",
+    "publisher": "QNAP Systems, Inc.",
+    "description": "NetBak PC Agent provides system backup and full device restoration for applications, system settings, and data from Windows® PC and servers. You can easily connect your Windows Client with QNAP NAS in just a few clicks and create backup jobs. NetBak PC Agent also supports restoration without shutting down for greater usage flexibility.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "QNAP.QfinderPro",
+    "name": "QNAP Qfinder Pro",
+    "publisher": "QNAP Systems, Inc.",
+    "description": "Qfinder Pro (available for Windows, Mac and Ubuntu) allows you to quickly find and easily access all of the QNAP NAS on the same LAN. The Windows version provides “Storage Plug & Connect” functionality, allowing the QNAP NAS to be used as a PC network drive or virtual disk for convenient data storage. You can also use the \"Media Upload\" feature to save NAS system resources by performing media file transcoding on your local PC before uploading them to the NAS.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "QNAP.Qsync",
+    "name": "QNAP Qsync Client",
+    "publisher": "QNAP Systems, Inc.",
+    "description": "Qsync enables automatic file synchronization across different devices. Simply drag and drop files in the “Qsync folder”, data on devices linked with the NAS is updated simultaneously when changes are made. Additional sync modes, such as Smart Sync or Advanced Selective Sync, allow users to only sync selective data or folders. You can also create download links to share files with others without them having to create a user account for download.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "QNAP.QVPNClient",
+    "name": "QNAP QVPN Client",
+    "publisher": "QNAP Systems, Inc.",
+    "description": "The QVPN Device Client is a powerful tool that allows VPN connections directly to your QNAP devices via multiple protocols including QNAP’s proprietary QBelt. With a built-in speed test, you can also easily know the VPN connection speed, and query all the historical connection records at any time.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "QNapi.QNapi",
     "name": "QNapi",
     "publisher": "QNapi",
@@ -52122,6 +52416,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "QNAP.Qsirch",
+    "name": "Qsirch PC Edition",
+    "publisher": "QNAP Systems, Inc.",
+    "description": "With the growth of files and data in homes and workplaces, you need a modern solution to find files no matter where they’re stored. Qsirch PC Edition allows you to quickly find files across your Windows PC and NAS using a full-text search engine with keywords, tags and various filters.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Qt.QtDesigner",
     "name": "Qt Designer",
     "publisher": "Michael Herrmann",
@@ -52203,6 +52504,13 @@
     "name": "Qucs-S",
     "publisher": "The Qucs Team",
     "description": "Qucs-S is a circuit simulation program based onQucs circuit simulator. The \"S\" letter indicates SPICE. The purpose of the Qucs-S project is to use free SPICE circuit simulation kernels with the GUI based on Qt toolkit. It merges the power of SPICE and the simplicity of the Qucs GUI.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "QNAP.QuDedupExtractTool",
+    "name": "QuDedup Extract Tool",
+    "publisher": "QNAP Systems, Inc.",
+    "description": "QNAP QuDedup Extract Tool helps restore deduplicated .qdff (QNAP deduplication file format) files to their normal status. Windows®, Mac® and Linux® (Ubuntu®) users can install it on their computers to restore .qdff files downloaded from a remote NAS or the cloud. The QuDedup Extract Tool also allows users to preview and select files before restoring them, while the granular recovery function allows for restoring specific folders or individual files, greatly improving the convenience and efficiency to access backed-up .qdff files.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52654,6 +52962,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ThomsonReuters.E-TranscriptBundleViewer",
+    "name": "RealLegal E-Transcript Bundle Viewer",
+    "publisher": "Thomson Reuters",
+    "description": "E-Transcript Bundle Viewer allows anyone to view transcripts, exhibits, and video created with the RealLegal line of products.\nUse E-Transcript Bundle Viewer to open and work with E-Transcript .ptx files, E-Transcript .ptz Bundles and related exhibits, and Portable Exhibit .pex files.\nNo subscription is required to download and use this free software.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Cockos.REAPER",
     "name": "REAPER",
     "publisher": "Cockos Incorporated",
@@ -52720,6 +53035,13 @@
     "id": "Hubitech.Reemo",
     "name": "Reemo",
     "publisher": "Hubitech S.A.R.L",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Squirrels.Reflector.Teacher",
+    "name": "Reflector Teacher",
+    "publisher": "Squirrels",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -53718,6 +54040,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Versent.saml2aws",
+    "name": "saml2aws",
+    "publisher": "Versent",
+    "description": "CLI tool which enables you to login and retrieve AWS temporary credentials using with ADFS or PingFederate Identity Providers.\nThis is based on python code from How to Implement a General Solution for Federated API/CLI Access Using SAML 2.0.\nThe process goes something like this:\n- Setup an account alias, either using the default or given a name\n- Prompt user for credentials\n- Log in to Identity Provider using form based authentication\n- Build a SAML assertion containing AWS roles\n- Optionally cache the SAML assertion (the cache is not encrypted)\n- Exchange the role and SAML assertion with AWS STS service to get a temporary set of credentials\n- Save these credentials to an aws profile named \"saml\"",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SamyGO.SammyWidgets",
     "name": "SammyWidgets",
     "publisher": "SamyGO",
@@ -54348,13 +54677,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "NAVERWEBTOONLtd.SeriesComicViewer",
-    "name": "Series Comic Viewer",
-    "publisher": "NAVER WEBTOON Ltd.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "MuhammadFareezIqmal.SeriLink",
     "name": "SeriLink Serial Monitor",
     "publisher": "Muhammad Fareez Iqmal",
@@ -54978,6 +55300,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AlexShovkoplyas.SkyRoof",
+    "name": "SkyRoof",
+    "publisher": "Alex Shovkoplyas",
+    "description": "SkyRoof combines satellite trackikng and SDR functions in one application, which opens some interesting possibilities.EFor example, all satellite traces on the waterfall are labeled with satellite names, the boundaries of the transponderEsegments follow the Doppler shift, and all frequency tuning is done visually, with a mouse.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ScaryRawr.SL",
     "name": "sl",
     "publisher": "sl",
@@ -55311,6 +55640,13 @@
     "name": "SomePythonThings Zip Manager",
     "publisher": "SomePythonThings",
     "description": "SomePythonThings Zip manager is an application that lets you compress and extract files in a clever way.\nNot as other compression applications, SomePythonThings Zip Manager has been developed to be useful.\nSomePythonThings Zip Manager is an open-source application, and it's also 100% free.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SonicPi.SonicPi",
+    "name": "Sonic Pi",
+    "publisher": "Sonic Pi",
+    "description": "Sonic Pi is your free code-based music creation and performance tool.\nPowerful for professional musicians and DJs.\nExpressive for composition and performance.\nAccessible for blind and partially sighted people.\nSimple for computing and music lessons.\nLearn to code creatively by composing or performing music in an incredible range of styles from Classical & Jazz to Hip hop & EDM.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55958,13 +56294,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Yamaha.SteinbergUSBDriver",
-    "name": "Steinberg USB Driver",
-    "publisher": "Yamaha Corporation",
-    "description": "The Yamaha Steinberg USB Driver enables communication between a USB device (which is compatible with the Yamaha Steinberg USB Driver) and your computer.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "TheStellaTeam.Stella",
     "name": "Stella",
     "publisher": "The Stella Team",
@@ -56301,6 +56630,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SURF.SURFdrive",
+    "name": "SURFdrive",
+    "publisher": "SURF",
+    "description": "With SURFdrive, store, synchronise and share your files easily and securely in SURF's community cloud. SURFdrive is the personal cloud storage service for Dutch education and research.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "StarlaneStudios.Surrealist",
     "name": "Surrealist",
     "publisher": "Starlane Studios",
@@ -56508,6 +56844,13 @@
     "name": "SynologyCameraTool",
     "publisher": "Synology",
     "description": "The Synology Camera Tool automatically locates cameras on the local network and lets you quickly configure network details like the IP address, subnet mask, and DHCP settings.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Sysinternals.Suite",
+    "name": "Sysinternals Suite",
+    "publisher": "Microsoft Corporation",
+    "description": "The Sysinternals Suite was created in 1996 by Mark Russinovich to host his advanced system utilities and technical information",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57138,6 +57481,13 @@
     "name": "Threema Work Beta",
     "publisher": "Threema GmbH",
     "description": "Threema Work is the professional communication solution for organizations that want to handle confidential communication easily and efficiently while ensuring strict data protection compliance. The solution is suitable for SMEs, large enterprises, and associations.\n- Enforcement of corporate policies and compliance regulations\n- Powerful user management and centralized access control (MDM)\n- Integration into existing systems (API)\n- Prevention of shadow IT through a privacy-compliant communication solution\n- Easy onboarding of employees, even without company-owned devices\n- Protection against unauthorized access, even in case of device loss or staff turnover",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TechPowerUp.ThrottleStop",
+    "name": "ThrottleStop",
+    "publisher": "TechPowerUp",
+    "description": "ThrottleStop is a small application designed to monitor for and correct the three main types of CPU throttling that are being used on many laptop computers",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58135,6 +58485,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Ultimaker.Cura",
+    "name": "Ultimaker Cura",
+    "publisher": "UltiMaker",
+    "description": "UltiMaker Cura is free, easy-to-use 3D printing software trusted by millions of users. Fine-tune your 3D model with 400+ settings for the best slicing and printing results.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Anjok07.UltimateVocalRemover",
     "name": "Ultimate Vocal Remover",
     "publisher": "Ultimate Vocal Remover, Inc.",
@@ -58177,6 +58534,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "UltraStarEspana.UltraStarWorldParty",
+    "name": "UltraStar WorldParty",
+    "publisher": "UltraStar España",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DucFabulous.UltraViewer",
     "name": "UltraViewer",
     "publisher": "DucFabulous",
@@ -58184,7 +58548,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "uvncbvba.UltraVnc",
+    "id": "uvncbvba.UltraVNC",
     "name": "UltraVnc",
     "publisher": "uvnc bvba",
     "description": "UltraVNC is an open source application that uses the VNC protocol to control another computer remotely over a network connection.\nUltraVNC allows the use of a remote computer as if the user were in front of it.\nThis is achieved by sending mouse movements and key-presses to the remote computer, and replicating the remote computer's display (subject to differences in resolution) locally in real time.\nUltraVNC bears a strong resemblance to RealVNC Free Edition.\nHowever, in addition to remote control it adds various features, such as an encryption plugin to secure the client/server connection.\nIt also supports file transfers, chat functionality and various authentication methods.\nThe two computers must be able to communicate across a network, such as a local subnet, internal network, or the Internet.",
@@ -58769,13 +59133,6 @@
     "name": "VBinDiff",
     "publisher": "Madsen",
     "description": "Visual Binary Diff (VBinDiff) displays files in hexadecimal and ASCII (or EBCDIC). It can also display two files at once, and highlight the differences between them. Unlike diff, it works well with large files (up to 4 GB).\n\nVBinDiff was inspired by the Compare Files function of the ProSel utilities by Glen Bredon, for the Apple II. When I couldn't find a similar utility for the PC, I wrote it myself.\n\nThe single-file mode was inspired by the LIST utility of 4DOS and friends. While less provides a good line-oriented display, it has no equivalent to LIST's hex display. (True, you can pipe the file through hexdump, but that's incredibly inefficient on multi-gigabyte files.)",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "SplitmediaLabs.VCam",
-    "name": "VCam",
-    "publisher": "SplitmediaLabs Limited",
-    "description": "VCam is a locally powered AI meeting companion app, complete with webcam background removal, logos and branding, camera enhancement effects, and more.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59395,13 +59752,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "VSDC.Editor",
-    "name": "VSDC Free Video Editor",
-    "publisher": "Flash-Integro LLC",
-    "description": "The video editor is intended for editing video files and creating videos of any complexity involving various visual and audio effects. The program offers rich functionality and yet has a simple and intuitive interface, allowing you to create videos with a bare minimum of efforts",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Microsoft.VSIXBootstrapper",
     "name": "VSIX Bootstrapper",
     "publisher": "Microsoft Corporation",
@@ -59591,7 +59941,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "WatchGuardTechnologies.WatchGuardSystemManager",
+    "id": "WatchGuard.WatchGuardSystemManager",
     "name": "WatchGuard System Manager",
     "publisher": "WatchGuard Technologies, Inc.",
     "description": "WatchGuard System Manager (WSM) is an out-of-the-box platform that enables you to centrally manage all the Firebox appliances in your network using one easy-to-use console.",
@@ -59927,6 +60277,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WiiLink24.PatcherGUI",
+    "name": "WiiLinkPatcherGUI",
+    "publisher": "WiiLink24",
+    "description": "WiiLink Patcher GUI is a Python program built around the excellent libWiiPy to make WiiLink patching a simple process, with a streamlined graphical user interface.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Wiimm.ISO",
     "name": "Wiimms ISO Tools",
     "publisher": "Wiimm",
@@ -60001,6 +60358,13 @@
     "name": "win-vind",
     "publisher": "pit-ray",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DaiyuuNobori.Win10Pcap",
+    "name": "Win10Pcap",
+    "publisher": "Daiyuu Nobori, University of Tsukuba, Japan",
+    "description": "Win10Pcap is a new WinPcap-based Ethernet packet capture library.\nUnlike original WinPcap, Win10Pcap is compatible with NDIS 6.x driver model to work stably with Windows 10. Win10Pcap also supports capturing IEEE802.1Q VLAN tags.\nWin10Pcap has the binary-compatibility with the original WinPcap DLLs. You can run Wireshark or other WinPcap-compatible applications with Win10Pcap by simply installing Win10Pcap DLLs, instead of original WinPcap.\nWin10Pcap is written as a personal project by Daiyuu Nobori, a Ph.D student of Computer Science of University of Tsukuba, Japan. The many parts of Win10Pcap was from WinPcap.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61425,21 +61789,21 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "XSplit.Broadcaster",
+    "id": "SplitmediaLabs.XSplitBroadcaster",
     "name": "XSplit Broadcaster",
     "publisher": "SplitmediaLabs",
     "description": "Simple, powerful and flexible live streaming.",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "XSplit.Broadcaster.PTR",
+    "id": "SplitmediaLabs.XSplitBroadcaster.PTR",
     "name": "XSplit Broadcaster PTR",
     "publisher": "XSplit",
     "description": "XSplit Broadcaster, the best all-in-one streaming and recording application for content creation, powers the biggest events in gaming, esports and more.",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "XSplit.VCam",
+    "id": "SplitmediaLabs.XSplitVCam",
     "name": "XSplit VCam",
     "publisher": "XSplit",
     "description": "",
@@ -61502,6 +61866,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Yamaha.SteinbergUSBDriver",
+    "name": "Yamaha Steinberg USB Driver",
+    "publisher": "Yamaha Corporation",
+    "description": "Enables communication between a \"Yamaha Steinberg USB Driver\"-compatible USB device and your computer.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LukasBach.Yana",
     "name": "Yana",
     "publisher": "Lukas Bach",
@@ -61555,6 +61926,27 @@
     "name": "Yazi",
     "publisher": "sxyazi",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Sumdog.Yenka.EN",
+    "name": "Yenka (English)",
+    "publisher": "Sumdog",
+    "description": "Yenka is a powerful tool for modelling in science, mathematics, technology and computing. It lets you experiment safely and easily in a virtual world. Its entirely new user interface is designed to be easier to use in the classroom, especially with interactive whiteboards.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Sumdog.Yenka.DE",
+    "name": "Yenka (German)",
+    "publisher": "Sumdog",
+    "description": "Yenka is a powerful tool for modelling in science, mathematics, technology and computing. It lets you experiment safely and easily in a virtual world. Its entirely new user interface is designed to be easier to use in the classroom, especially with interactive whiteboards.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Sumdog.Yenka.ES",
+    "name": "Yenka (Spanish)",
+    "publisher": "Sumdog",
+    "description": "Yenka is a powerful tool for modelling in science, mathematics, technology and computing. It lets you experiment safely and easily in a virtual world. Its entirely new user interface is designed to be easier to use in the classroom, especially with interactive whiteboards.",
     "icon": "/icons/intunify-default.png"
   },
   {
