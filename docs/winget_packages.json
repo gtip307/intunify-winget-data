@@ -1652,10 +1652,31 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SoftPerfect.SoftPerfectNetworkScanner",
+    "id": "SoftPerfect.SwitchPortMapper",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "SoftPerfect 交换机端口映射工具可与可管理网络交换机配合使用，报告交换机端口的连接状态及空闲端口情况。对于每个已连接的端口，该工具会列出关联设备的 MAC 地址、IP 地址及主机名。\n此外，软件还能显示每个客户端的网卡厂商、端口速率、设备类型、VLAN 分配及端口统计信息，这些功能在网络连通性故障排查中能提供有效帮助。\n主要特性\n- 通过扫描网络自动发现可管理交换机\n- 以简洁表格形式展示每个交换机端口的连接设备\n- 从路由器获取 ARP 表以显示已连接客户端的 IP 信息\n- 若无路由器，则扫描当前子网的 MAC-IP 地址映射关系\n- 提供图形界面（GUI）和命令行（控制台）两种版本，后者支持脚本调用\n- 完整支持 SNMPv1/v2c/v3 协议（含批量操作功能）",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftPerfect.ConnectionQualityMonitor",
+    "name": "",
+    "publisher": null,
+    "description": "连接质量监测器是一款用于监控互联网连接健康状况的软件包。它会定期检测网络是否在线，并记录 ping 值、抖动和宕机时间。此外，该软件还会周期性进行网速测试，记录实测的上传与下载速度。\n所有监测数据均以图表形式直观呈现，便于用户快速发现间歇性连接问题，并验证下载/上传速度是否稳定达标，是否符合网络服务商的承诺。\n该监测系统支持多地点部署（例如通过 VPN 连接的多个办公场所），所有监测节点均可通过单一控制点（如网络管理员工作站）进行集中管理。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftPerfect.NetWorx",
+    "name": "",
+    "publisher": null,
+    "description": "NetWorx 是一款简洁而多功能的工具，可帮助您监控网络连接。它能收集使用数据、监测连接质量并测量网速，还能协助识别潜在的网络问题源头，确保您不超出运营商流量限额，并追踪可疑的网络活动。\n通过 NetWorx，您可以监控本地网卡或路由器，也能追踪计算机中访问网络的应用程序。收集的历史使用数据会整理成每日、每周和每月报告。实时连接状态通过精美且高度可定制的图表呈现，并附带正在访问网络的应用程序列表。\n内置的网速测试功能支持手动或定时运行，让您验证实际网速是否达到运营商承诺的标准。此外，连接监控器会记录网络中断情况并全天候监测 ping 值，这两项功能共同保障您的网络连接质量。\n核心功能：\n- 按日/周/月生成历史使用报告\n- 实时精准监控上传下载流量\n- 追踪访问网络的应用程序\n- 支持本地网卡及远程 SNMP/UPnP 设备\n- 网络活动超限时可触发自定义操作\n- 网速测试仪\n- 连接状态定期检测\n使用 NetWorx 您可以：\n- 实时掌握网速及流量消耗情况\n- 验证运营商计费是否合理\n- 侦测计算机中的异常网络活动\n- 通过追踪断线率和 ping 值评估连接质量\n- 接收流量超额提醒",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftPerfect.RAMDisk",
+    "name": "",
+    "publisher": null,
+    "description": "SoftPerfect RAM Disk 是一款高性能内存虚拟磁盘工具，可将计算机内存完全模拟为物理磁盘使用。由于内存速度远快于传统硬盘，将临时数据存储于这种高速内存磁盘中能显著提升系统性能。无论您从事何种工作，下文将为您揭示内存盘能带来的诸多优势。\n这款软件创建的虚拟磁盘完全驻留在计算机内存中，可通过 Windows 资源管理器及其他应用程序访问，用于存储各类临时数据。您还可配置 Windows 系统将临时文件目录指向该内存盘，使得系统和多数应用程序都能利用这块高速存储区域处理临时数据。鉴于 Windows 及第三方软件常会生成大量短期存在的临时文件，使用内存盘能有效减少硬盘读写次数，延长其使用寿命——这对写入次数有限的固态硬盘（SSD）尤为重要。\n现代计算机通常配备数十 GB 内存，其中常有大量闲置资源可替代低速的 HDD 存储。本产品支持创建数量仅受可用内存限制的虚拟内存盘（实际最多 26 个，受盘符数量限制）。您还能通过磁盘镜像文件实现数据持久化存储，在会话之间保留内存盘内容。\n普通用户可通过将浏览器缓存和系统临时文件转移至内存盘获益，而 IT 专业人员更能发掘其深层价值：程序员可将编译器中间输出重定向至内存盘加速开发流程，数据库管理员则可利用内存盘存储 tempdb 等临时数据库提升性能。\n核心特性：\n- 支持创建任意数量内存盘（实际最多 26 个盘符）\n- 在 64 位系统（Intel/AMD/ARM64 平台）支持任意容量内存盘\n- 支持持久化内存盘（关联磁盘镜像+智能同步功能）\n- 支持临时内存盘（关机自动清空内容）\n- 内置磁盘镜像管理工具\n选择内存盘的五大理由：\n1. 提升计算机性能：在内存充足情况下，用高速内存盘处理临时数据可显著提升整体性能\n2. 降低物理磁盘损耗：避免临时文件写入硬盘，减少读写次数——这对笔记本常用的 SSD 寿命延长尤为重要\n3. 减少硬盘垃圾：多数软件产生的临时文件常被遗忘清理，而内存盘内容会在重启/关机时自动清空\n4. 减轻文件系统碎片：临时文件不写入物理磁盘，HDD/SSD 的文件碎片将大幅减少\n5. 增强数据安全性：敏感临时数据存储于内存盘，关机/重启后即彻底擦除",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -3402,6 +3423,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NextcloudGmbH.NextcloudTalk(Machine-MSI)",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NewsGator.FeedDemon",
     "name": "",
     "publisher": null,
@@ -3630,6 +3658,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NFON.Cloudya.CRM",
+    "name": "",
+    "publisher": null,
+    "description": "Cloudya 是 NFON 的智能商业通信平台，旨在帮助您优化工作流程。它具有多种功能，包括云电话服务。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -4389,6 +4424,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Google.WorkspaceSyncForMicrosoftOutlook",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Google.VPNByGoogleOne",
     "name": "",
     "publisher": null,
@@ -4844,13 +4886,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Geeks3D.FurMark.2",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "GitButler.GitButler",
     "name": "",
     "publisher": null,
@@ -5110,6 +5145,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Ginger.GingerWriter",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GNU.Wget2",
     "name": "",
     "publisher": null,
@@ -5173,21 +5215,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "GaetanSencie.AnnualAccounting",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "GaetanSencie.Retro-asteroid-war",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "GaetanSencie.ContabilidadAnual",
     "name": "",
     "publisher": null,
     "description": "",
@@ -5327,6 +5355,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Gravitational.Teleport",
+    "name": "",
+    "publisher": null,
+    "description": "Teleport 包含一个具备身份识别能力的访问代理、签发短期证书的 CA（证书颁发机构）、统一的访问控制系统以及穿透防火墙访问资源的隧道系统。\n我们已将 Teleport 实现为单一 Go 二进制程序，可集成多种协议和云服务：\n- SSH 节点\n- Kubernetes 集群\n- PostgreSQL、MongoDB、CockroachDB 和 MySQL 数据库\n- 内部 Web 应用\n- Windows 主机\n- 联网服务器\n您可以将 Teleport 部署为 Linux 守护进程或 Kubernetes 应用。\nTeleport 专注于基础设施安全的最佳实践：\n- 无需管理 SSH 密钥或 Kubernetes 令牌等共享密钥：所有协议均采用带过期时间的证书认证\n- 全面支持双因素认证(2FA)\n- 通过会话共享协作排查问题\n- 通过 GitHub 认证、OpenID Connect 或与 Okta/Microsoft Entra ID 等端点对接的 SAML 实现统一单点登录(SSO)\n- 基础设施可视化：通过 CLI 或 Web 界面查看每个 SSH 节点、数据库实例、Kubernetes 集群或内部 Web 应用的状态\nTeleport 采用 Go 加密库，完全兼容 OpenSSH、sshd 服务器、ssh 客户端、Kubernetes 集群等系统。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Glecun.soundboard",
     "name": "",
     "publisher": null,
@@ -5380,6 +5415,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AlexanderLitvinov.AutoText",
+    "name": "",
+    "publisher": null,
+    "description": "AutoText 是一款文本扩展（自动输入）工具，可大幅减少您输入常用短语的时间。您可以将缩写（自动文本）绑定到某个文本片段、短语或句子，之后每次输入该缩写时，AutoText 就会自动输出完整内容。通过使用宏功能，还支持键盘按键的按下/长按/切换操作。本软件兼容所有 Windows 程序。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -6027,6 +6069,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ALTEC.QlickPrint",
+    "name": "",
+    "publisher": null,
+    "description": "Whether you use barcodes, 2D codes, logos or text for your identification, QlickPrint software lets you print directly on all labels from our catalog. What's more, you can easily link to virtually any data source. The simple user interface, along with a number of useful features, ensures that truly anyone can design and print labels flawlessly. For example, the Auto Scale function helps you automatically adjust any text to your desired size. In addition, you can quickly extract logos or icons from the built-in gallery. And when we add enhancements to QlickPrint, you're one-click over to the update. So no hassle with separate downloads or installation files.\n- Print barcodes, 2D codes, QR codes, images, logos or text\n- Automatic scaling of text boxes\n- Built-in clip-art gallery including inspection rings, logos and warning icons\n- All labels from Altec's catalog available as templates\n- Linkable with virtually any data source, such as Excel or Access\n- Automatically generate ascending number sequences\n- All label templates are fully compatible with the ATP-300 Pro\n- Update QlickPrint with a single click - no separate downloads and installation files required\n- Free updates for a minimum of 5 years",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ALTEC.AltecDataPrint",
+    "name": "",
+    "publisher": null,
+    "description": "Print all your data easily and efficiently on labels with DataPrint. Identify cables, wires and components in the telecom and electrical industry or panel building. You can enter the text for the labels manually or import them from a data file, such as an Excel file.\nWhat makes DataPrint so simple?\n- Simple user interface - tailored to the data and power industry\n- Complete database with standard label templates\n- Import data from external data sources\n- Fully adapted to Altec label printers\n- All label formats pre-set\n- All label formats are predefined in a dedicated label database, so you don't have to worry about margin and format settings. DataPrint® is specifically tailored to Altec label printers to ensure perfect marking.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "aiko-chan-ai.DiscordBotClient",
     "name": "",
     "publisher": null,
@@ -6612,6 +6668,13 @@
     "name": "",
     "publisher": null,
     "description": "在 iPhone、iPad、iPod touch 或 Mac 上设置 iCloud 后，你可以通过 Windows 版 iCloud 在 Windows PC 上使用照片、视频、日历、文件和其他重要信息。你的信息会在所有设备上保持及时更新。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "axes4.PAC",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -7987,13 +8050,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "UCBerkeley.BOINC",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Unifaun.UnifaunOnlinePrinter",
     "name": "",
     "publisher": null,
@@ -8764,6 +8820,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Virtuworks.MSPControlAutopilot",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Verizon.OneTalk",
     "name": "",
     "publisher": null,
@@ -8926,13 +8989,6 @@
   },
   {
     "id": "VRCX.VRCX",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "VMware.IntelligentHub",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9709,6 +9765,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DieKeure.MolEnBeer",
+    "name": "",
+    "publisher": null,
+    "description": "Mol En Beer 是一款为幼儿园和一年级学生设计的教育应用程序。\n在一年级学习阅读需要特定的方法，但最重要的是要有趣！\n- 激励人心的主题角色\n- 虚拟练习世界，包含 Mol 和 Beer 的村庄\n- 经济实惠的方法\n- 为二年级做好充分准备\n- 丰富的阅读材料",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DarkfullDante.wol",
     "name": "",
     "publisher": null,
@@ -9878,6 +9941,13 @@
   },
   {
     "id": "DeaDBeeF.DeaDBeeF",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DisruptiveInnovations.BlueGriffon",
     "name": "",
     "publisher": null,
     "description": "",
@@ -10857,6 +10927,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenZFS.OpenZFS",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OleksisFraga.PythonLauncher",
     "name": "",
     "publisher": null,
@@ -11074,13 +11151,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Omnissa.WorkspaceONEIntelligentHub",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Optimate.OptimateSOLIDWORKSPlugin",
     "name": "",
     "publisher": null,
@@ -11211,6 +11281,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Termius.Termius.Beta",
+    "name": "",
+    "publisher": null,
+    "description": "Termius 是一款适用于 Windows 的现代 SSH 客户端，旨在提高工作效率，为用户每天节省多达 30 分钟的时间。它提供的功能包括：常用命令的自动完成、多终端会话的分割视图和命令广播，以及便于导航的多个终端选项卡。此外，Termius 还提供多种终端主题选择、用于高效文件管理的 SFTP 客户端、端口转发向导以及用于协作故障排除的终端共享。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -12635,6 +12712,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Texthelp.AutoCorrect",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TradingView.TradingViewDesktop",
     "name": "",
     "publisher": null,
@@ -12657,6 +12741,13 @@
   },
   {
     "id": "Texnomic.SecureDNS-Terminal",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "99designs.aws-vault",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12699,6 +12790,13 @@
   },
   {
     "id": "mspearpoint.Evacuationz",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MITMediaLab.Scratch.1",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14735,13 +14833,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "MIT.Scratch1",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "MilkyTracker.MilkyTracker",
     "name": "",
     "publisher": null,
@@ -15051,6 +15142,13 @@
   },
   {
     "id": "Microsoft.AzureDataStudio",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.DataMigrationAssistant",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15379,6 +15477,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.FuzzyLookupAddExcel",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.VFSforGit",
     "name": "",
     "publisher": null,
@@ -15667,6 +15772,13 @@
   },
   {
     "id": "Microsoft.BotFrameworkEmulator",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.HyperlapsePro",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17017,6 +17129,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HenrikWenz.All-in-OneMessenger",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HIKARI-FIELD.HIKARI-FIELD-CLIENT",
     "name": "",
     "publisher": null,
@@ -17063,6 +17182,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Haleclipse.Claudiatron",
+    "name": "",
+    "publisher": null,
+    "description": "Claudiatron 是一个基于 Electron + React + TypeScript 开发的现代化桌面应用，作为 Claude Code 的可视化图形界面。它从原始的 Tauri 版本演进而来，提供了更加完善和稳定的 Claude Code 集成体验。\nClaudiatron 是您使用 Claude Code 的全能控制中心，将命令行工具与直观的可视化界面完美结合，让 AI 辅助开发变得更加高效和便捷。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -17626,6 +17752,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "kSoft.Graphmatica",
+    "name": "",
+    "publisher": null,
+    "description": "Graphmatica 是一款功能强大且易于使用的方程绘图工具，具备数值计算与微积分功能：\n- 绘制笛卡尔函数、关系式及不等式，支持极坐标、参数方程和常微分方程。\n- 单屏最多可同时显示 999 个图形。\n- 提供数据绘图与曲线拟合功能。\n- 数值求解并可视化切线方程和积分结果。\n- 可查找临界点、方程解以及笛卡尔函数交点。\n- 支持黑白/彩色打印，或以位图/矢量格式复制到剪贴板，还可导出为 JPEG/PNG 文件。\n- 在线帮助和演示文件让您快速上手。\n总之，这是从高中代数到大学微积分课程中师生皆宜的绝佳工具。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KristenMcWilliam.Nyrna",
     "name": "",
     "publisher": null,
@@ -17833,6 +17966,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KhronosGroup.VulkanSDK",
+    "name": "",
+    "publisher": null,
+    "description": "Khronos Vulkan API 是一款显式、低开销、跨平台的图形与计算接口。Vulkan 赋予应用程序对系统执行和内存的精准控制能力，可在从 PC、游戏主机到移动设备和嵌入式平台的各类硬件上实现极致性能优化。\nVulkan SDK 为开发者提供了完整的应用开发支持，包含：\n- 通过 Khronos 验证层实现 API 使用合规性检查\n- 使用 Vulkan 配置器管理各功能层\n- SPIR-V 着色器编译/优化/验证工具链（含 slang、DXC、SPIRV Reflect 及 SPIRV-cross 等），完整工具列表详见 SPIR-V 工具链文档\n- 基于 GFXReconstruct 的 API 调用捕获与回放调试功能\n- Vulkan 硬件能力查看器：新一代设备能力检测方案，并可贡献至开源 GPU 能力数据库\n- 第三方库与工具支持（包括 GLM、SDL、Volk 和 VMA 等）",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -19495,6 +19635,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Elgato.Studio",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Elgato.4KCaptureUtility",
     "name": "",
     "publisher": null,
@@ -20538,6 +20685,34 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BioSilico.IdeaMapper.K12",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BioSilico.IdeaMapper.HigherEd",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BioSilico.IdeaMapper.Pro",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BioSilico.EssayWriter",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BasecampLLC.Basecamp3",
     "name": "",
     "publisher": null,
@@ -21049,6 +21224,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BrowserOS.BrowserOS",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "fotor.fotor",
     "name": "",
     "publisher": null,
@@ -21435,6 +21617,13 @@
   },
   {
     "id": "floating.frame",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Fotofabriek.Fotofabriek",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22079,6 +22268,13 @@
   },
   {
     "id": "LaurentPRenedeCotret.pandoc-plot",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LEGO.WeDo",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22981,13 +23177,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "CarnegieMellonUniversity.Alice3",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "CitraEmu.Citra",
     "name": "",
     "publisher": null,
@@ -23562,6 +23751,41 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ctron.oidc",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cjwdev.ADAccountResetTool",
+    "name": "",
+    "publisher": null,
+    "description": "在许多组织中，IT 管理员经常需要解锁用户账户或重置密码，但通过 Active Directory 用户和计算机 MMC 管理单元操作可能耗时（或让不熟悉 Active Directory 的非 IT 人员感到困惑，尽管他们仍需重置其他用户的密码）。此工具旨在为他们提供一个简单直观的解决方案来执行这些操作。\n\n功能特点\n- 简洁直观的图形界面\n- 解锁账户\n- 重置密码\n- 强制下次登录时修改密码\n- 启用/禁用账户\n- 设置账户过期日期\n- 支持多域环境——可指定任意域并选择使用备用凭证连接\n- 支持通过组策略控制设置",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cjwdev.ServicePermissionsReporter",
+    "name": "",
+    "publisher": null,
+    "description": "使用 Windows 内置命令（如“sc.exe /sdshow”）查看服务权限时，输出的 SDDL 格式不易阅读和理解。本工具提供了一个易于使用的图形界面替代方案，可查看 Windows 服务及服务控制管理器本身的权限。\n\n功能特点\n- 简单直观的图形界面，无需了解 SDDL！\n- 可查询本地或远程计算机上的服务\n- 查看服务控制管理器（scmanager）本身的权限\n- 将任意服务的权限 SDDL 格式复制到剪贴板，供其他工具使用\n- 更多功能将在正式版中推出（当前为测试版）",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cjwdev.ADPhotoEdit.Free",
+    "name": "",
+    "publisher": null,
+    "description": "Outlook 2010、Lync 和 SharePoint 可为 Active Directory 中的每个用户账户或联系人显示照片，但除了 Exchange 2010 自带的命令行工具外，系统并未提供直接向存储这些图像的\"thumbnailPhoto\"属性上传图片的方法。AD Photo Edit 是一款用户友好的应用程序，旨在简化这些图片的上传、编辑和导出操作。\n\n免费版功能\n- 快速查看任意数量用户或联系人的现有图片，并支持按组织单位(OU)及其他属性筛选搜索结果\n- 将现有图片导出为 JPG 文件\n- 删除现有图片\n- 向域内用户账户或联系人上传新图片（或指定连接至其他域）\n- 上传前可轻松旋转、调整尺寸和优化图片质量\n- 突破 Exchange 2010 命令行工具 10KB 的图片大小限制\n- 兼容所有版本 Exchange Server\n- 可选上传至 thumbnailPhoto 属性（供 Outlook 和 Lync 使用）或 jpegPhoto 属性（供第三方应用使用）",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cjwdev.ADInfo.Free",
+    "name": "",
+    "publisher": null,
+    "description": "相较于其他 Active Directory 报告工具，AD Info 具备更高的灵活性和现代化的用户友好界面，让您轻松查询 Active Directory 域中所需的信息。您可以直接使用内置的 190 多种预设查询，或通过自定义查询设计器，基于任意属性创建专属查询。\n\n免费版旨在为 IT 同行提供实用价值，并非标准版的试用/演示版本（当然您也可将其作为评估标准版功能的工具）。该版本完全免费，无时间限制，可自由用于个人及商业场景。虽然部分功能仅限标准版使用，但免费版仍提供超过 190 项预设查询并支持 CSV 导出，堪称当前最实用的免费 AD 报告工具。以下为免费版（及标准版）功能概览：\n- 强大：支持查询计算机、联系人、容器/组织单元、组、GPO、打印机及用户的海量属性\n- 高效：仅获取目标属性并采用智能缓存技术，成为速度最快的 AD 报告工具之一\n- 实用：轻松查询其他工具常忽略的属性（如直接/嵌套组成员关系）\n- 精准：通过轮询域内所有域控制器，确保非复制属性（如最后登录时间等）数值准确\n- 易用：现代化设计让您在首次启动后数秒内即可执行查询\n- 灵活：摒弃“域管理员成员”等硬编码值，允许指定任意组别（参见截图）\n- 安全：常规 LDAP 查询采用加密传输，并支持 SSL（LDAPS）选项\n- 可导出：所有查询结果均可导出为 CSV 文件，便于其他流程或报告调用\n- 多域适配：精准识别跨信任域/子域的组成员关系（支持非域机器运行）",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ChilliBits.CCom",
     "name": "",
     "publisher": null,
@@ -23892,6 +24116,13 @@
   },
   {
     "id": "CodeSystems.TurboStudio",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CodeLyokoGames.IFSCL.Standalone",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25592,6 +25823,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Yamaha.AudioPhraser",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Yamaha.THRRemote",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "YendisEntertainment.KrunkerClient",
     "name": "",
     "publisher": null,
@@ -26251,6 +26496,13 @@
   },
   {
     "id": "pixivInc.VRoidStudio",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PTC.CreoView.Express",
     "name": "",
     "publisher": null,
     "description": "",
@@ -27174,6 +27426,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "J2S3.MerciApp",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "jziolkowski.tdm",
     "name": "",
     "publisher": null,
@@ -28035,13 +28294,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Digola.7Caps",
-    "name": "7Caps",
-    "publisher": "Digola",
-    "description": "7Caps is a compact yet powerful application that keeps you informed in real-time about the status of your Caps Lock and Num Lock keys.\nWith the addition of the new Watermark indicator feature in the latest version, 7Caps now offers a transparent display of Caps Lock and Num Lock status directly on your desktop.\nIts versatility extends through multiple display options, including tray icons, floating notifications, and customizable audio alerts, ensuring seamless user awareness of key states.\nThis utility discreetly runs in the background, providing immediate notifications whenever the Caps Lock or Num Lock keys are activated or deactivated.\nCustomize the notification to your liking; position it anywhere on your screen for convenient visibility. The tiny application is invaluable for those who regularly use the Caps Lock or Num Lock keys and need instant updates about their status.\nWhat's more, purchasing a license for 7Caps grants you a lifetime subscription, allowing installation on one computer. Enjoy this seamless, always-aware experience while using your keyboard.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "86Box.86BoxManager",
     "name": "86Box Manager",
     "publisher": "86Box Project",
@@ -28375,6 +28627,27 @@
     "name": "Actual Installer Free",
     "publisher": "Softeza Development",
     "description": "If you are looking for a powerful and easy-to-use software installer tool for your Windows based programs, then Actual Installer is all that you need!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cjwdev.ADPermissionsReporter.Free",
+    "name": "AD Permissions Reporter",
+    "publisher": "Cjwdev",
+    "description": "AD Permissions Reporter is a modern, intuitive program that makes it easy to report on security permissons on your Active Directory objects. It can be used to document all permissions in the domain, or you can use the powerful filtering capabilities to track down specific types of permissions that do not conform to your organisation's standards, or simply to see which AD objects a particular user has been granted access to.\n\nThe free edition is provided in the hope that it is useful to fellow IT Pros, it is not intended to just be a trial/demo of the standard edition (though you could use it as such if you are considering purchasing the standard edition). Whilst some features are only available in the standard edition, the free edition is still usefule. See below for a summary of the features that can be found in the free edition (and the standard edition)\n- Powerful - With options such as being able to view group members (and nested group and primary group members) directly within the report\n- Fast - Intelligent caching helps make this one of the fastest permissions reporting tools available\n- Accurate - Unlike some other tools, you will always get accurate representations of permissions with AD Permissions Reporter\n- User Friendly - Designed to be easy to use and modern, you can be running your first report within seconds of launching the application for the first time\n- Exportable - Easily export report results to file (CSV file or HTML file in free edition, additional formats in standard edition)\n- Multi-Domain Friendly - Correctly reports display names and other account details for accounts in external trusted domains",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cjwdev.ADPhotoEdit.Bulk.Trial",
+    "name": "AD Photo Edit Bulk Edition Trial",
+    "publisher": "Cjwdev",
+    "description": "Outlook 2010, Lync, and Sharepoint can display a photo for each user account or contact in Active Directory but includes no way to upload images into the \"thumbnailPhoto\" Active Directory attribute that is used to store these images other than the command line tools included with Exchange 2010. AD Photo Edit is a user friendly application designed to make it easy to upload, edit, and export these images.\n\nBulk Edition Features\n- All of the features found in the Free Edition\n- Import images to Users or Contacts in bulk, using either CSV File or Named Images import methods\n- Resize images and adjust their quality as they are imported in bulk\n- Export images from Users or Contacts in bulk, with the option to only export images from accounts in a specified OU\n- Command line support for bulk imports",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cjwdev.ADTidy.Free",
+    "name": "AD Tidy Free Edition",
+    "publisher": "Cjwdev",
+    "description": "Search your Active Directory domain for user/computer accounts that are no longer in use by filtering based on last logon time, DNS record timestamp, and much more. You can then perform a number of actions on the accounts that were found - such as moving them to another OU, disabling them, setting a random password, removing them from all groups, and much more.\n\nFeatures\n- Report on both user and computer accounts\n- Search entire domain or select a specific OU\n- Multi-domain friendly - specify any domain and optionally use alternate credentials to connect to it\n- Get account last logon information from all DCs or select specific DCs (using either lastLogon attribute or lastLogonTimeStamp attribute)\n- Choose to only find accounts that have not logged on for a specified number of days\n- Confirm whether or not computer accounts are still active by using the Ping test and DNS record timestamp check\n- Powerful filtering capabilities let you filter results accounts based on name, group membership, expiration date, LDAP attribute, and more\n- Export report results to CSV or Excel XLSX file\n- Save report settings to file so that you can reload them whenever you want  or share them with colleagues\n- Option to reverse actions that were previously performed (Standard Edition only)\n- Command line support and Automated Rules allow for automation of account clean up tasks (Standard Edition only)\n\nFor any accounts that are found in the report, you can perform one or more of the following actions:\n- Disable\n- Delete\n- Move To Another OU\n- Set Description\n- Set Expiration Date\n- Add To Group\n- Remove From Group\n- Remove From All Groups\n- Hide From Exchange Address Lists\n- Delete home drive\n- Clear LDAP Attribute Value\n- Run External Script\n- Set Random Password\n- Disable OWA\n- Set Password To Never Expire\n\nYou can also combine any of these actions into an Action Sequence to speed up common clean up tasks such as disabling accounts and moving them to another OU at the same time. Action sequences can be performed manually on any selected accounts, or by automated rules and command line scripts.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -28963,6 +29236,13 @@
     "name": "Alibaba Cloud CLI",
     "publisher": "Alibaba Cloud",
     "description": "Alibaba Cloud Command Line Interface (Alibaba Cloud CLI) is an open source tool built on the Alibaba Cloud SDK for Go. You can use the aliyun command to interact with other Alibaba Cloud services to manage your Alibaba Cloud resources.\nAlibaba Cloud CLI can directly access the Alibaba cloud product OpenAPI. You can manage and maintain your own Alibaba Cloud resources by developing the shell script based on Alibaba Cloud CLI. Make sure that you have activated the cloud product you want to use and understand the API usage of the product.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CMU.Alice.3",
+    "name": "Alice 3",
+    "publisher": "Alice Team, Carnegie Mellon University",
+    "description": "Alice is an innovative block-based programming environment that makes it easy to create animations, build interactive narratives, or program simple games in 3D. Unlike many of the puzzle-based coding applications Alice motivates learning through creative exploration. Alice is designed to teach logical and computational thinking skills, fundamental principles of programming and to be a first exposure to object-oriented programming. The Alice Project provides supplemental tools and materials for teaching using Alice across a spectrum of ages and subject matter with proven benefits in engaging and retaining diverse and under served groups in computer science education.\nAlice 3 is the latest IDE (integrated development environment) for the Alice programming language. It has all of the features that have make Alice an exciting and creative first programming experience with an added emphasis on object-oriented concepts. Alice 3 has a new rich gallery of models that includes everything you need to spark your creativity including a full The Sims™ character builder. The new gallery is built upon a class joint structure allowing you to share animations between different characters of the same type. In addition, it has features to assist in a full transition to the Java programming language including viewing the generated Java code side-by-side and even exporting your world into NetBeans to be able to extend the functionality by coding Alice worlds directly in Java.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30121,6 +30401,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "projectkudu.ARMClient",
+    "name": "ARMClient",
+    "publisher": "projectkudu",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OfficialAroCodes.AroCrypt",
     "name": "AroCrypt",
     "publisher": "AroCodes",
@@ -30489,6 +30776,13 @@
     "name": "AviSynth+",
     "publisher": "The Public",
     "description": "AviSynth+ 是著名的帧服务器的一个分支，但其社区贡献直到现在都在避免包含主线。为了能够促进 AviSynth 现代化以满足当今的需求和期望，该项目鼓励每个人帮助实现我们的目标：添加一直寻求的特性，为社区注入活力，并提高开发者和用户的友好性。AviSynth+ 与为 AviSynth 编写的插件和脚本完全兼容。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Kenkun.AviUtlExEdit2",
+    "name": "AviUtl ExEdit2",
+    "publisher": "Kenkun",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30919,6 +31213,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SeagullSoftware.BarTender",
+    "name": "BarTender",
+    "publisher": "Seagull Software",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Cencit.BAS21",
     "name": "BAS21",
     "publisher": "Cencit as",
@@ -31276,6 +31577,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "StructuredData.BERTTookit",
+    "name": "BERT Tookit",
+    "publisher": "Structured Data LLC",
+    "description": "BERT is a tool for connecting Excel with the statistics language R. Specifically, it’s designed to support running R functions from Excel spreadsheet cells. In Excel terms, it’s for writing User-Defined Functions (UDFs) in R.\nAll you have to do is write the function. Everything else – loading the function into Excel, managing parameters, and handling type conversion – is done automatically for you. It really could not be any easier.\nBERT also has a console that you can use to control Excel in real time, right from your R code. And (if you want), you can call R functions from VBA as well.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BespokeSynth.BespokeSynth",
     "name": "Bespoke Synth",
     "publisher": "Ryan Challinor",
@@ -31378,6 +31686,13 @@
     "name": "Billfish",
     "publisher": "Billfish Co., Ltd.",
     "description": "Billfish is a reference image management tool for designers to efficiently manage all kinds of reference images, supporting a variety of image formats including PNG, JPG, PSD, AI, GIF, SVG, EPS, CDR, etc. Billfish allows you to manage reference images quickly and easily so you can spend more time focusing on the design.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Datacomp.BIMvision",
+    "name": "BIMvision",
+    "publisher": "Datacomp IT Sp. z o.o.",
+    "description": "BIMvision is a freeware IFC model viewer. It allows to view the virtual models coming from CAD systems like Revit, Archicad, BricsCAD BIM, Advance, DDS-CAD, Tekla, Nemetschek VectorWorks, Bentley, Allplan and others without necessity of having commercial licenses of these systems or having each of particular vendor’s viewer. BIMvision visualizes the BIM models created in IFC format 2×3 and 4.0. It has many built-in features and is the first viewer with plugin interface.\nBIMvision is a tool extremely easy to use which will help you save time, money and energy invested in task implementation. BIMvision allows project participants to identify the problems and solve them still during the design phase. More efficient than ever circulation of information between the participants of the investment process and the optimization of working time are the biggest advantages of working with this tool.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -31591,13 +31906,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "DisruptiveInnovationsSAS.BlueGriffon",
-    "name": "BlueGriffon",
-    "publisher": "Disruptive Innovations SAS",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "BlueJTeam.BlueJ",
     "name": "BlueJ",
     "publisher": "BlueJ Team",
@@ -31658,6 +31966,13 @@
     "name": "Bob the Hamster VGA",
     "publisher": "Hamster Republic Productions",
     "description": "Bob the Hamster is a spiffy game, inspired by old arcade classics like `Dig Dug' and `Mr. Do'. Choose to play as Bob the Hamster and gather carrots, or as Vlad the Hamster and smite foes. Playable in both English and Japanese text modes.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "UCBerkeley.BOINC",
+    "name": "BOINC",
+    "publisher": "Space Sciences Laboratory, U.C. Berkeley",
+    "description": "BOINC lets you help cutting-edge science research using your computer. The BOINC app, running on your computer, downloads scientific computing jobs and runs them invisibly in the background. It's easy and safe.\nAbout 30 science projects use BOINC. They investigate diseases, study climate change, discover pulsars, and do many other types of scientific research.\nThe BOINC and Science United projects are located at the University of California, Berkeley and are supported by the National Science Foundation.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -31987,6 +32302,13 @@
     "name": "Buckets",
     "publisher": "Buckets",
     "description": "Buckets is a simple family budgeting app based on the envelope method. It is built with privacy in mind - your financial data stays on your computer and under your control. Sharing the budget between multiple devices, including smartphones, is supported, and there are multiple advanced features like macros, bank import and Amazon reconciliation.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "bufbuild.buf",
+    "name": "Buf",
+    "publisher": "bufbuild",
+    "description": "A CLI tool for working with Protocol Buffers with a linter, breaking change detector, a generator, a formatter and integration with the Buf Schema Registry.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -32824,7 +33146,7 @@
   },
   {
     "id": "Chromium.ChromeDriver",
-    "name": "ChromeDriver for Chrome 110",
+    "name": "ChromeDriver",
     "publisher": "Chromium",
     "description": "WebDriver is an open source tool for automated testing of webapps across many browsers. It provides capabilities for navigating to web pages, user input, JavaScript execution, and more.  ChromeDriver is a standalone server that implements the W3C WebDriver standard. ChromeDriver is available for Chrome on Android and Chrome on Desktop (Mac, Linux, Windows and ChromeOS).",
     "icon": "/icons/intunify-default.png"
@@ -33261,6 +33583,13 @@
     "name": "CloudShow Launcher",
     "publisher": "Binary Fortress Software",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NFON.Cloudya",
+    "name": "Cloudya (without CRM)",
+    "publisher": "NFON",
+    "description": "Cloudya is NFON's smart business communication platform that helps make your workflow smart. It has several functions, including cloud telephony.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34622,6 +34951,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Sysinternals.DebugView",
+    "name": "DebugView",
+    "publisher": "Microsoft Corporation",
+    "description": "DebugView is an application that lets you monitor debug output on your local system, or any computer on the network that you can reach via TCP/IP. It is capable of displaying both kernel-mode and Win32 debug output, so you don't need a debugger to catch the debug output your applications or device drivers generate, nor do you need to modify your applications or drivers to use non-standard debug output APIs.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RivaFarabi.Deckboard",
     "name": "Deckboard",
     "publisher": "Riva Farabi",
@@ -35518,13 +35854,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Digola.DoorControl",
-    "name": "Door Control",
-    "publisher": "Digola",
-    "description": "日常使用电脑时，我们经常需要打开和关闭 DVD 驱动器仓门。不过，如果电脑机箱在桌子下面，或者我们的笔记本电脑的 DVD 驱动器仓门在笨拙的侧面，这可能会有点麻烦。\nDoor Control 软件可以帮你解决这些问题。软件在系统托盘中显示了用于打开和关闭 DVD 驱动器仓门的按钮。单击一下即可打开或关闭 DVD 驱动器仓门。您还可以为该功能指定一个热键。与同类软件相比，Door Control 使用一种特殊算法来识别仓门是打开还是关闭。单击一下即可打开或关闭 DVD 驱动器仓门。\n用户可以自定义按钮的颜色，指定热键，并在系统启动时启动软件。Door Control 软件非常小巧，运行时只占用极少量的 RAM。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "NHNCorporation.Dooray!Drive",
     "name": "Dooray! Messenger",
     "publisher": "NHN Dooray! Corp.",
@@ -36023,16 +36352,16 @@
   },
   {
     "id": "EaseUS.TodoBackup",
-    "name": "EaseUS Todo Backup Free",
+    "name": "EaseUS Todo Backup",
     "publisher": "EaseUS",
-    "description": "EaseUS Todo Backup Home covers all backup types: individual files and folders, whole drives or partitions, or a full system backup.\nWhat's more, It supports to \"restore system to dissimilar hardware\", which is an efficient way for you to migrate the current system to dissimilar hardware with all necessities saved on the system partition.",
+    "description": "EaseUS free backup software for Windows secures your data as well as your future! It comes with a simple UI but powerful abilities to create backups of the disk, partition, OS and files and save backups to local drives, external hard drives, NAS, network and cloud.\n\nFile backup software doesn't mean essential functions. Advanced backup options are open to free users, such as incremental and differential backup, scheduled backup, encrypted backup, set backup frequency, enable image reserve strategy, and more.\n- Disk/Partition Backup\n- System Backup\n- File Backup\n- Cloud Backup\n- System image recovery",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "EaseUS.TodoPCTrans",
     "name": "EaseUS Todo PCTrans",
     "publisher": "EaseUS",
-    "description": "Automatically transfer everything including files, apps, settings, accounts, passwords, and more to a new computer, hard drive or Windows OS while keeping your data safe.",
+    "description": "EaseUS Todo PCTrans helps automatically migrate your programs, software settings, documents, music, pictures, videos, favorites, emails, etc., from one computer to another without data loss. The most common applications/programs, including MS Office (Word, Excel, Outlook, etc.), are all supported.\n\n- Free to transfer data, application, and account migration between old and new Windows PCs.\n- Move programs and software to another HDD/SSD or external disk without reinstallation.\n- Experience 5-10x faster wired connections for seamless PC-to-PC data transfer.\n- Migrate 2 GB of data and 5 programs for free.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36883,6 +37212,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BioSilico.MicroBreak",
+    "name": "EssayWriter",
+    "publisher": "BioSilico Limited",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ESUNBank.WebATMService",
     "name": "ESUNBank WebATM Service",
     "publisher": "E.SUN Commercial Bank, Ltd.",
@@ -36915,6 +37251,13 @@
     "name": "EurKEY Keyboard Layout",
     "publisher": "Steffen Brüntjen",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "EuropeanCommission.EUROMOD",
+    "name": "EUROMOD",
+    "publisher": "European Commission - Joint Research Centre",
+    "description": "EUROMOD is the tax-benefit microsimulation model for the European Union that enables researchers and policy analysts to calculate, in a comparable manner, the effects of taxes and benefits on household incomes and work incentives for the population of each country and for the EU as a whole. Cross-country comparability is enabled by coding the policy systems of the EU Member States according to a common framework based on a standard set of modelling conventions. The EUROMOD platform is highly flexible but also organised, documented, validated and transparent. Underpinning the model is the purpose-built software comprising a user-friendly interface, supplemented by extended functionalities (plugins and add-ons) for special purpose analysis. The software is used in many country-specific models around the world.\nOriginally maintained, developed and managed by the Institute for Social and Economic Research (ISER) of the University of Essex, since 2021 EUROMOD is maintained, developed and managed by the Joint Research Centre (JRC) of the European Commission, in collaboration with Eurostat and national teams from the EU countries. The model is open source since December 2020 (before December 2020 it was open access), with an increasing number of users across Europe and beyond. There are now several hundred active users from a range of institutional backgrounds, helping bridge the gap between academic research and policymaking.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37303,6 +37646,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FCEUX.FCEUX",
+    "name": "FCEUX",
+    "publisher": "FCEUX",
+    "description": "FCEUX is an evolution of the original FCE Ultra emulator. Over time FCE Ultra had separated into many distinct branches. The concept behind FCEUX is to merge elements from FCEU Ultra, FCEU rerecording, FCEUXD, FCEUXDSP, FCEUXDSP CE, and FCEU-mm into a single branch of FCEU. As the X implies, it is an all-encompassing version of the FCEU emulator that provides the best of all worlds for the general player, the ROM-hacking community, and the Tool-Assisted Speedrun Community.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SmokeCloud.FdsPp",
     "name": "FdsPp",
     "publisher": "Smoke Cloud",
@@ -37342,6 +37692,13 @@
     "name": "Feishu",
     "publisher": "Beijing Feishu Technology Co., Ltd.",
     "description": "Empowering teams by messenger, meetings, calendar, docs, and emails. It's all in one place.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SteamMemory.Fellou",
+    "name": "Fellou",
+    "publisher": "Beijing Steam Memory Technology Co., Ltd.",
+    "description": "Fellou is the world's first agentic browser that automates complex tasks with Deep Action technology. Enjoy hands-free research, cross-platform workflow automation, and AI-powered report generation - all with military-grade security. Transform how you browse and work with your intelligent digital partner.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37583,6 +37940,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Cjwdev.FilePermissionsCheck",
+    "name": "File Permissions Check",
+    "publisher": "Cjwdev",
+    "description": "File Permissions Check provides a simple and intuitive GUI that you can use to scan your file shares to discover files that are not compliant with the permissions you have placed on your folders. Once such files have been located by the program, you have the option to set them back to inheriting permissions and remove any explicit permissions on them\n\nFeatures\n- Easy to use, intuitive GUI\n- Scan multiple folders and optionally ignore system files/folders or files in sub folders more than a specified number of levels deep\n- Locate files that are not inheriting permissions or files that are inheriting but have additional explicit permissions, or both\n- Export results to CSV file or HTML file\n- Once files have been located, the program can reset inheritance and remove explicit permissions from any selected files",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PointPlanck.FileBot",
     "name": "FileBot",
     "publisher": "Point Planck Limited",
@@ -37594,6 +37958,13 @@
     "name": "FileList",
     "publisher": "JAM Software",
     "description": "FileList is a command-line utility that generates a CSV file listing the contents of a given directory. \nBy default, the list includes the file name, size, and path, as well as the last-access, last-modified, and creation dates, etc. \nYou can easily import all results to a spreadsheet or database.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Mythicsoft.FileLocator",
+    "name": "FileLocator Pro",
+    "publisher": "Mythicsoft Ltd",
+    "description": "FileLocator Pro is a powerful Windows search tool for instantly finding text, patterns, and data within files (including Office, PDF, archives, and code) using advanced filters, regex, and scripting.\n- Deep Content Search: Scans inside 100+ file formats (text/binary).\n- Advanced Features: Regex, Boolean logic, scripting (JavaScript/Python), hex view.\n- Speed: Indexed or instant \"raw\" disk searches.\n= Professional Tools: Save templates, batch processing, command-line support.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38738,6 +39109,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ne43.foks",
+    "name": "foks",
+    "publisher": "ne43",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Brio.FolderSize",
     "name": "Folder Size",
     "publisher": "Brio",
@@ -39008,13 +39386,6 @@
     "name": "Front",
     "publisher": "Front",
     "description": "Front is a platform that brings all your work communication to one place. Instead of logging in to Gmail or Outlook to check your email, you’ll log into Front. If you communicate for work over email groups, text, website chat, or social media, you can manage those messages in Front, too.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Digola.FrontSketch",
-    "name": "FrontSketch",
-    "publisher": "Digola",
-    "description": "FrontSketch 是一款多功能软件，让您直接在电脑屏幕上绘图和注释，并覆盖 Windows 中的其它应用程序。它提供了一种模拟玻璃画板的体验，让你在使用虚拟画板的同时，还能与其它应用程序无缝协作。有了 FrontSketch，你可以轻松创建桌面绘图、在屏幕上绘图、添加注释、突出重要细节，甚至在应用程序上绘图。无论是教育、商务还是个人用途，FrontSketch 都能提高您的工作效率和创造力。该软件用户界面友好，无需特殊培训，是任何希望进行桌面绘图、在屏幕上绘图和轻松添加突出显示内容的人的理想工具。\n利用我们的全功能 10 天试用版，体验 FrontSketch 的强大功能。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39340,6 +39711,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Geeks3D.FurMark.2",
+    "name": "Geeks3D FurMark 2",
+    "publisher": "Geeks3D",
+    "description": "FurMark 2 (successor of the venerable FurMark 1), is a lightweight and very intensive graphics card / GPU stress test. It's also a handy OpenGL and Vulkan graphics benchmark.\n\nKey Features:\n- Extreme Load Testing: Maximizes GPU utilization to detect instability, overheating, or throttling.\n- Real-Time Monitoring: Temps, fan speed, clocks, FPS, and power draw (via supported hardware).\n- Burn-in Mode: Sustained stress tests for system validation or cooling checks.\n- Benchmarking: Scores performance across preset resolutions/AA settings.\n- Customization: Adjust resolution, anti-aliasing, and duration.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "U14.GeminiNextChat",
     "name": "gemini-next-chat",
     "publisher": "u14",
@@ -39410,10 +39788,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftwareCompanions.GerbView",
+    "name": "GerbView",
+    "publisher": "Software Companions",
+    "description": "Gerbview is a powerful viewer and converter that will visualize your design, on the screen or in hardcopy. You no longer have to wait for a prototype circuit board to see your true design.\nGerbView supports both RS-274D and RS-274X Gerber formats, and you can use it to convert your older Gerber files to the new RS-274X extended format. The newer extended Gerber format contains embedded aperture information and minimizes the risk for errors during the manufacturing of the PCB.\n\nWith GerbView you can export individual layers, or the whole workspace, to any of the supported raster formats, which includes TIFF, JPEG, PNG and BMP. The resolution and number of colors used for the conversion can be set by the user.\n\nIn GerbView you work with a workspace that can contain one or more files (layers) of any of the supported file formats. The workspace can be saved for later use. The workspace will reference your design files, so only need to reload the workspace to see the whole design. You can set the size of this workspace to one of the preselected paper sizes, or to a custom size.\n\nFully working 30-day evaluation versions. You can turn the evaluation into a full product by entering a serial number.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TransposonY.GestureSign",
     "name": "GestureSign",
     "publisher": "TransposonY",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cjwdev.GetLocalAdminsGUI",
+    "name": "Get Local Admins GUI",
+    "publisher": "Cjwdev",
+    "description": "Ever wanted to see who actually has local Administrator permissions on all of your workstations and servers? If so then this free tool is for you. Simply enter the names of the computers you want to scan (or import them from Active Directory or a text file), and the application will show you who is a member of the local Administrators group on each of them - optionally including members of nested groups within the Administrators group.\n\nFeatures\n- Easy to use, intuitive GUI\n- Scan multiple remote computers (import computers from Active Directory, text file, or enter manually)\n- Optionally include members from nested domain groups that are members of the Administrators group\n- Export results to CSV file or HTML file",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39594,8 +39986,8 @@
   {
     "id": "DuckStudio.GitHubLabelsManager",
     "name": "GitHub Labels Manager",
-    "publisher": "Duck Studio",
-    "description": "Tools that automatically help you copy repo labels, get repo labels, and empty existing labels.",
+    "publisher": "DuckStudio",
+    "description": "GitHub Labels Manager - Automatically help you copy repo labels, get repo labels, and empty existing labels.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39607,7 +39999,7 @@
   },
   {
     "id": "DuckStudio.GitHubView.Nightly",
-    "name": "GitHubView",
+    "name": "GitHubView (Nightly)",
     "publisher": "鸭鸭「カモ」",
     "description": "GitHubView 是一个用于查看 GitHub 上的信息的命令行工具。",
     "icon": "/icons/intunify-default.png"
@@ -39985,9 +40377,9 @@
   },
   {
     "id": "xiaoyifang.GoldenDict-ng",
-    "name": "GoldenDict-ng",
-    "publisher": "xiaoyifang",
-    "description": "",
+    "name": "goldendict-ng",
+    "publisher": "Humanity",
+    "description": "GoldenDict-ng is an advanced dictionary lookup program.\nFeatures\n- Supports many dictionary formats, such as MDX, DSL, StarDict, Zim...\n- Presents lookup results of multiple dictionaries in the same page\n- Supports special types of \"dictionaries\", such as external program, website, audio files...\n- Lots of auxiliary features\n  - Popup window\n  - Full text search\n  - Anki integration\n  - Transliteration for some languages\n  - Word stemming and spelling correction via Hunspell's morphology analysis\n  - Unicode case, diacritics, punctuation and whitespace folding (e.g. typing 'Grussen' would yield 'grüßen' in German dictionaries).\n  - ...",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40379,7 +40771,7 @@
     "id": "Greenshot.Greenshot",
     "name": "Greenshot",
     "publisher": "Greenshot",
-    "description": "Greenshot is a screenshot software tool that can be used as an alternative to the Microsoft Snipping Tool. It allows you to create screenshots of a selected region, window or fullscreen. It can also be used to easily annotate, highlight or obfuscate parts of the screenshot.",
+    "description": "Greenshot is a light-weight screenshot software tool for Windows with the following key features:\n- Quickly create screenshots of a selected region, window or fullscreen; you can even capture complete (scrolling) web pages from Internet Explorer.\n- Easily annotate, highlight or obfuscate parts of the screenshot.\n- Export the screenshot in various ways: save to file, send to printer, copy to clipboard, attach to e-mail, send Office programs or upload to photo sites like Flickr or Picasa, and others.\n...and a lot more options simplyfying creation of and work with screenshots every day.\nBeing easy to understand and configurable, Greenshot is an efficient tool for project managers, software developers, technical writers, testers and anyone else creating screenshots.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40457,6 +40849,20 @@
     "name": "Groovy 4",
     "publisher": "The Apache Software Foundation",
     "description": "Groovy is a powerful multi-faceted programming language for the JVM platform.\nIt supports a spectrum of programming styles incorporating features from dynamic languages such as optional and duck typing, but also static compilation and static type checking at levels similar to or greater than Java through its extensible static type checker.\nIt aims to greatly increase developer productivity with many powerful features but also a concise, familiar and easy to learn syntax.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cjwdev.GroupManager.Free",
+    "name": "Group Manager Free Edition",
+    "publisher": "Cjwdev",
+    "description": "If you have ever assigned a user as a manager of a security/distribution group in Active Directory, you may have noticed the option \"Manager can update membership list\" which grants the user permission to add and remove members from this group. The only problem with this is that there is no easy way for the user to actually make these changes, other than through Microsoft Outlook.\nSo Group Manager was designed to be an easy to use tool for end users to add and remove users/contacts/groups to any groups that they are managers of, for any organisations that do not have (or do not want to use) Microsoft Outlook for this task. It will also be useful for any organisations that are using Outlook but are moving to a hosted Exchange solution, as end users will not be able to make changes to the local domain through Outlook in this scenario.\n\nFeatures\n- No configuration required - automatically detects current user and finds only groups that they are manager of\n- Allows end users to add new members or remove existing members (users, contacts, computers, or groups) to any of the groups they manage\n- Works with groups that are managed by other groups that the user is a member of\n- User friendly and simple to use\n- Add members from other domains in your forest or from externally trusted domains\n- Control via Group Policy - control which types of objects the user can add to groups, whether or not they are allowed to remove existing members, and more\n- Export current group members to CSV file\n\nFree Edition Limitations\n- The free edition is intended to be used by smaller organisations where users only manage a single group, or by anyone that wants to test the application out before purchasing the standard edition. It is only able to manage a single group (if the user is a manager of more than one group then a warning will appear and they will only see the first group found) and the user is also not able to change any of the program options (manually or via Group Policy) or add new members from other domains.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "fullstorydev.grpcurl",
+    "name": "gRPCurl",
+    "publisher": "Engineering at Fullstory",
+    "description": "grpcurl is a command-line tool that lets you interact with gRPC servers. It's\nbasically curl for gRPC servers.\n\nThe main purpose for this tool is to invoke RPC methods on a gRPC server from\nthe command-line. gRPC servers use a binary encoding on the wire (protocol\nbuffers, or \"protobufs\" for short). So they are basically impossible to interact\nwith using regular curl (and older versions of curl that do not support HTTP/2\nare of course non-starters). This program accepts messages using JSON encoding,\nwhich is much more friendly for both humans and scripts.\n\nWith this tool you can also browse the schema for gRPC services, either by\nquerying a server that supports server reflection, by reading proto source\nfiles, or by loading in compiled \"protoset\" files (files that contain encoded\nfile descriptor protos). In fact, the way the tool transforms JSON request data\ninto a binary encoded protobuf is using that very same schema. So, if the server\nyou interact with does not support reflection, you will either need the proto\nsource files that define the service or need protoset files that grpcurl can\nuse.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40639,6 +41045,13 @@
     "name": "Halloy",
     "publisher": "Squidowl",
     "description": "Halloy is an open-source IRC client written in Rust, with the Iced GUI library. It aims to provide a simple and fast client for Mac, Windows, and Linux platforms.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Creality.HALOTBOX",
+    "name": "HALOT BOX",
+    "publisher": "HALOT BOX",
+    "description": "Halot Box is a slicing software for light-curing 3D printers, independently developed by Creality. It is an easy-to-operate software that provides various model processing functions for free. It can help you remotely control and monitor your 3D printer, and assist you in printing directly from your computer.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41097,6 +41510,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BreakPointSoftware.HexWorkshop",
+    "name": "Hex Workshop v6.7",
+    "publisher": "BreakPoint Software",
+    "description": "The Hex Workshop Hex Editor is a set of hexadecimal development tools for Microsoft Windows, combining advanced binary editing with the ease and flexibility of a word processor.\n\nWith Hex Workshop you can edit, cut, copy, paste, insert, and delete hex, print customizable hex dumps, and export to RTF or HTML for publishing. Additionally, you can find, replace, compare, add smart bookmarks, and generate character distributions within a sector or file. Hex Workshop supports drag-and-drop and is integrated with the Windows operating system so you can quickly and easily hex edit from your most frequently used workspaces. The Data Inspector is perfect for interpreting, viewing, and editing decimal and binary values. An Integrated Structure Viewer allows you to view and edit data in the most intuitive and convenient way.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HexChat.HexChat",
     "name": "HexChat",
     "publisher": "HexChat",
@@ -41317,6 +41737,13 @@
     "id": "CenSoft.HostTE",
     "name": "HostTE",
     "publisher": "Century Software, Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HalfBaked.HotPotatoes",
+    "name": "HotPotatoes",
+    "publisher": "HalfBaked",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -41769,6 +42196,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BioSilico.IdeaMapper",
+    "name": "Idea Mapper",
+    "publisher": "BioSilico Limited",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Raise3D.ideaMaker",
     "name": "ideaMaker",
     "publisher": "Raise3D",
@@ -42186,13 +42620,6 @@
     "name": "InstalledPackagesView",
     "publisher": "NirSoft",
     "description": "Tool for Windows that displays the list of all software packages installed on your system with\nWindows Installer, and lists the files, Registry keys, and .NET Assemblies associated with them.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Digola.InstaMonitr",
-    "name": "InstaMonitr",
-    "publisher": "Digola",
-    "description": "InstaMonitr enhances the standard Windows screen duplication or extension with a variety of new features and options, making it the ultimate tool for managing large-screen projections. With InstaMonitr, you can easily display any part of your desktop, add scrolling text, manage windows, and display graphics from your clipboard. The software comes equipped with two graphic editors. Whether you're presenting at a business meeting, conference, seminar, or lecture, InstaMonitr is the perfect tool to manage your content and make it more engaging and interactive for your audience.\nSoftware is designed to manage and project the contents of your computer screen onto a secondary screen, such as a projector screen, TV, or any other display.\nInstaMonitor provides a free trial of all its features for 21 days. After the trial period, some features become unavailable unless the user decides to purchase a license. Despite the limited features, InstaMonitor remains a useful and effective solution for managing and projecting content on a secondary screen.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43050,6 +43477,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AnnyStudio.JPEGLosslessRotator",
+    "name": "JPEG Lossless Rotator",
+    "publisher": "Anny",
+    "description": "When photos are taken, the camera or phone may be held in different positions, which means some photos need to be rotated to display correctly on the screen. For rotating photos, most image editors decode the JPEG photo, rotate the bitmap and then re-encode it back to JPEG. This process decreases the final image quality. Unlike those tools, JPEG Lossless Rotator does not recode the images and instead performs a special lossless block transformation, which helps to preserve the quality of the images. In addition, JPEG Lossless Rotator has a simple multilingual interface and is very easy to use even for inexperienced computer users.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TimoKokkonen.Jpegoptim",
     "name": "Jpegoptim",
     "publisher": "Timo Kokkonen",
@@ -43544,6 +43978,13 @@
     "name": "Kindle Previewer",
     "publisher": "Amazon",
     "description": "Want to see how your eBook will look before you publish it? Use Kindle Previewer, a free desktop standalone application, as you format your book so you can make sure it looks as intended. Kindle Previewer also shows you how your book will look with the latest typographic and layout improvements that come with Enhanced Typesetting.\nIf you're planning on publishing your eBook on KDP, you can also use our Online Previewer to make sure your book meets your expectations before you publish. The Online Previewer has the same basic functions (preview by device type, orientation, and font size) as the desktop version but has a different look and fewer filter and display options.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Amazon.Kiro",
+    "name": "Kiro",
+    "publisher": "Amazon Web Services",
+    "description": "Kiro is an agentic IDE that helps you go from prototype to production with spec-driven development. From simple to complex tasks, Kiro works alongside you to turn prompts into detailed specs, then into working code, docs, and tests—so what you build is exactly what you want and ready to share with your team. Kiro’s agents help you solve challenging problems and automate tasks like generating documentation and unit tests. With Kiro, you can build beyond prototypes while being in the driver’s seat every step of the way.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44884,7 +45325,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "LWKS.lightworks",
+    "id": "LWKS.Lightworks",
     "name": "Lightworks",
     "publisher": "LWKS Software Ltd.",
     "description": "",
@@ -44923,6 +45364,13 @@
     "name": "Lingdys 4",
     "publisher": "Lingit AS",
     "description": "LingDys 4 - Gir hjelp i lese- og skriveopplaeringen, dekker ulike behov, bidrar til oekt digital kompetanse.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.LingeringObjectLiquidator",
+    "name": "Lingering Object Liquidator (LoL)",
+    "publisher": "Microsoft",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45175,13 +45623,6 @@
     "name": "Local Mock Server",
     "publisher": "Jaya Kumar Reddy Regalla",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Digola.LockCursorTools",
-    "name": "Lock Cursor Tools",
-    "publisher": "Digola",
-    "description": "Lock Cursor Tools 可以简单地锁住鼠标光标。你可以选择一个预定区域、主副显示器屏幕或特定应用程序窗口的一部分。\nLock Cursor Tools 可以提高电脑的运行质量和性能，从而提高工作效率。你可以将它用于专业工作或娱乐活动。通过将光标锁定在屏幕上的特定区域，你可以更好地专注于电脑上的实际工作，而无需查看鼠标指针的位置。你可以只专注于某个应用程序。使用键盘快捷键或单击任务栏中的应用程序图标，即可打开或关闭光标锁定功能。\n选择预定区域时，只需用鼠标标出希望光标移动的区域即可。该区域可扩展至多个显示器。\n您可以通过点击选择界面中的可用窗口来选择特定应用程序的窗口。\n与同类应用程序相比，Lock Cursor Tools 使用简单，效率极高。它在后台运行流畅，对系统资源的占用也不大。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45654,6 +46095,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Cjwdev.ManagedServiceAccountsGUI",
+    "name": "Managed Service Accounts GUI",
+    "publisher": "Cjwdev",
+    "description": "Managed Service Accounts are a great new feature that was added to Windows Server 2008 R2 and Windows 7, but up until now the only way to create and configure them has been via Powershell cmdlets (requiring at least 3 separate commands to be run, one of which has to be run locally on the computer that will use the MSA). So we created this tool to provide a free, easy to use GUI application for working with MSAs.\n\nFeatures\n- Simple and intuitive graphical user interface (no LDAP or powershell knowledge required)\n- Quick and easy to create and assign new MSAs, as well as removing old MSAs\n- Create and configure Group Managed Service Accounts introduced in Windows Server 2012\n- Install and uninstall MSAs on remote computers\n- Configure properties of existing MSAs, including the ability to disable them, set their expiry date, add them to groups, modify SPNs, and more\n- Uses native Windows APIs and LDAP operations where possible instead of Powershell for improved performance\n- Multi-domain friendly, simply enter the domain name (and credentials) for any domain you want to manage MSAs on",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WonderIdea.MangoCharacterMaker",
     "name": "Mango CM",
     "publisher": "Wonder Idea Technology Limited",
@@ -45860,7 +46308,7 @@
     "id": "Softpcapps.MaximizeAlways",
     "name": "Maximize Always",
     "publisher": "softpcapps Software",
-    "description": "Maximize Always is a utility that allows the user to start maximized automatically any specified application and keep it maximized.",
+    "description": "Maximize Always is a utility that allows the user to start maximized automatically any specified application and keep it maximized. This is useful to save the time and effort to start and keep maximized frequently used applications and makes using your applications more convenient. It is only necessary to specify the application's filename and then the application will be maximized automatically when it is run or when it is reactivated. You can also specify to maximize windows that contain specific text using wildcards and regular expressions.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46207,7 +46655,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Agisoft.MetashapeStandard",
+    "id": "Agisoft.Metashape.Professional",
+    "name": "Metashape",
+    "publisher": "Agisoft",
+    "description": "Agisoft Metashape is a stand-alone software product that performs photogrammetric processing of digital images and generates 3D spatial data to be used in GIS applications, cultural heritage documentation, and VFX.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Agisoft.Metashape.Standard",
     "name": "Metashape Standard",
     "publisher": "Agisoft",
     "description": "It is widely used by archaeologists. Many UAV companies are also using it. The software is available in Standard and Pro versions, the standard version is sufficient for interactive media tasks, while the Pro version is designed for authoring GIS content",
@@ -46554,6 +47009,13 @@
     "name": "Microsoft ODBC Driver 18 for SQL Server",
     "publisher": "Microsoft Corporation",
     "description": "Microsoft ODBC Driver for SQL Server 是独立的 ODBC 驱动程序，可提供一个用于实现针对 Microsoft SQL Server 的标准 ODBC 接口的应用程序编程接口 (API)。\nMicrosoft ODBC Driver for SQL Server 可用于创建新应用程序。还可以升级当前使用较旧的 ODBC 驱动程序的较旧应用程序。ODBC Driver for SQL Server 支持连接到 Azure SQL 数据库、Azure Synapse Analytics 和 SQL Server。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Office.2010.FilterPacks",
+    "name": "Microsoft Office 2010 Filter Packs",
+    "publisher": "Microsoft Corporation",
+    "description": "IFilters are components that allow search services to index content of specific file types, letting you search for content in those files. They are intended for use with Microsoft Search Services (Sharepoint, SQL, Exchange, Windows Search).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47026,6 +47488,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Mobirise.Mobirise",
+    "name": "Mobirise",
+    "publisher": "Mobirise.com",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MochaSoft.MochaTN3270",
     "name": "Mocha TN3270",
     "publisher": "MochaSoft",
@@ -47253,7 +47722,7 @@
     "id": "RaisingTheFloor.Morphic",
     "name": "Morphic",
     "publisher": "Raising the Floor - US, Inc.",
-    "description": "Morphic is a tiny app that makes computers easier to use by:\n- providing a toolbar that makes it easy to discover and use accessibility features built into computers\n- allowing assistive technology (AT) users to use their AT on any computer that has Morphic installed.\n\nMorphic’s basic features include:\n1. A MorphicBar – that\na. that makes it easy to discover the accessibility features built into your computer but buried in the settings panels.\nb. gives you 1-click access to key features – and a simple menu to access the rest.\n2. The ability to save your accessibility and assistive technology settings securely to the cloud. Then, when using any computer with Morphic on it, you can apply your saved settings so it’s set up just for you. After you’re done, the settings disappear.",
+    "description": "Morphic is a tiny app that makes computers easier to use by:\n- providing a toolbar that makes it easy to discover and use accessibility features built into computers\n- allowing assistive technology (AT) users to use their AT on any computer that has Morphic installed.\n\nMorphic’s basic features include:\n1. A MorphicBar\n   a. that makes it easy to discover the accessibility features built into your computer but buried in the settings panels.\n   b. that gives you 1-click access to key features – and a simple menu to access the rest.\n2. The ability to save your accessibility and assistive technology settings securely to the cloud. Then, when using any computer with Morphic on it, you can apply your saved settings so it’s set up just for you. After you’re done, the settings disappear.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48727,6 +49196,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Atola.MultiDrive",
+    "name": "MultiDrive",
+    "publisher": "Atola Technology",
+    "description": "MultiDrive is a powerful free disk management tool that allows to clone, backup, erase drives. \n\nKey Features:\n- Backup/restore, clone, and erase drives fully or partially\n- Process drives with errors (bad sectors) \n- Backup supports standard ZIP format for maximum compatibility\n- Pause and resume any tasks at your convenience\n- Full-featured command-line interface (CLI)\n- Run multiple tasks in parallel for efficiency\n- Beautiful, responsive user interface\n- Dark theme \n- Free for personal and commercial use",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DrobinskiMaciejStrongRecovery.MultiExtractor",
     "name": "MultiExtractor",
     "publisher": "Drobinski Maciej StrongRecovery",
@@ -48800,6 +49276,13 @@
     "id": "Sony.MusicCenter",
     "name": "Music Center for PC",
     "publisher": "Sony Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "M336.MusicLibraryPlayer",
+    "name": "Music Library Player",
+    "publisher": "M336",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -49087,7 +49570,7 @@
     "id": "JavadMotallebi.NeatDownloadManager",
     "name": "Neat Download Manager",
     "publisher": "Javad Motallebi",
-    "description": "",
+    "description": "Neat Download Manager is a free Internet Download Manager for macOS (OS X 10.10  or higher) and Windows (Windows 7 or higher)\n- Uses an optimized Dynamic Segmentation Algorithm.\n- Speeds up your Downloads up to your total available Bandwidth.\n- Organizes your Downloads based on Download Status (Complete, Incomplete) And File Type (Video, Document , ...)\n- Supports HTTP, HTTPS and FTP Protocols.\n- Supports HTTP Proxy and SOCKS Protocol.\n- Supports HTTP Authentication and Proxy Authentication (Basic, Digest, NTLM)\n- Has Pause/Resume Capabilities and can resume crashed Downloads.\n- Has Browser Extension that can send Download Links to it and helps you download Video/Audio from any WebSite.\n- Lets you set Bandwidth Limit on your Downloads even when Download is in progress.\n- Lets you set maximum Connection Number on your Downloads even when Download is in progress.\n- Can download all .ts files of an HLS video and at the end merge all segments into a single .ts file.\n- Can Renew expired Downloads.\n- Works with Drag and Drop (just for Mac , watch Video Clip)",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49235,6 +49718,13 @@
     "name": "NetDocuments ndOffice",
     "publisher": "NetDocuments",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftPerfect.NetGenius",
+    "name": "NetGenius",
+    "publisher": "SoftPerfect Pty Ltd",
+    "description": "NetGenius is a modern Internet connection monitoring, control and optimisation tool. It lets you watch the apps using your Internet in real-time, control their access, and get detailed usage reports. Bandwidth-sensitive applications like voice calls, videos or games can be prioritised. Less important applications like software updates, file downloads or cloud backups can be restricted to and prevented from occupying your entire connection. Finally, the applications that should not be going online can be blocked from accessing the Internet, which is important for better privacy and security.\nKey features\n- Internet usage monitoring in real-time.\n- Bandwidth prioritisation for important apps.\n- Bandwidth caps on less important apps.\n- Firewall functionality that blocks Internet for selected apps and folders.\n- Comprehensive usage reports for any time period.\nAdditionally NetGenius is\n- Capable of excluding LAN traffic and handling up to 1 Gbps speed.\n- Built atop the Windows Filtering Platform and fully supports Windows 7 to Windows 10.\n- Able to manage multiple computers from one place.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49735,13 +50225,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Digola.NooG",
-    "name": "NooG",
-    "publisher": "Digola",
-    "description": "We search for all kinds of information on the internet. Popular search engines usually give us general results that we are not always happy with.\nBut there is some good news!\nNow the search has been made much easier ...\nThe NooG programme is used to make queries by country, language, document type, time of creation, website, excluding certain phrases, etc.\nIn doing so, it sends queries to search engines, such as Chrome, Firefox, Opera and Explorer.\nIt allows you to accurately save history and certain advanced search combinations. It is very useful in searching for any type of data\nanywhere in the world.\nNooG can be helpful tools for SEO professionals, journalists, researchers, students ... The program is very small and takes up virtually no space on your desktop.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Sandakan.Nora",
     "name": "Nora",
     "publisher": "Sandakan Nipunajith",
@@ -50075,6 +50558,13 @@
     "name": "NTFS Data Recovery",
     "publisher": "LSoft Technologies Inc",
     "description": "NTFS Data Recovery Toolkit is a set of tools for analyzing problems with NTFS\npartitions and files, and Data Recovering in Manual and Automated modes.\n\nManual mode allows you to analyze disk's structures and define the problem using\nincluded freeware Disk Editor. You can fix the problem using either Disk Editor,\nor included freeware Partition Manager, or Microsoft Windows(c) system\nutilities.\n\nAutomated mode simplifies your work by avoiding low-level disk surface analysis,\nand lets you concentrate on a recovery of specific data using included File\nRecovery and Partition Recovery software tools.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cjwdev.NTFSPermissionsReporter.Free",
+    "name": "NTFS Permissions Reporter Free Edition",
+    "publisher": "Cjwdev",
+    "description": "NTFS Permissions Reporter is a modern user friendly tool for reporting on directory permissions on your Windows file servers. It lets you quickly see which groups and users have access to which directories and allows you to export this information to file for further reviewing.\nFeatures such as the highly customisable filtering system and the ability to display group members (direct and nested) directly in the report, combined with the choice of a tree or table based result view format and the option to highlight different permissions in different colours, make this one of the most powerful and easy to use permissions reporting tools available. The filtering options allow you to quickly find rogue permissions that do not conform to your company standards or to easily detect directories that have permissions assigned for accounts that no longer exist, and let you exclude permissions that you are not interested in (for example you could exclude all inherited permissions or exclude directories where permissions are the same as the parent directory). You can build your filter based on a huge number of attributes, including: the account name, account type, which domain the account is from, whether or not the permissions is inherited, whether or not the account is currently disabled, the account SID, whether or not a group has no members, and much more.\n\nThe free edition is provided in the hope that it is useful to fellow IT Pros, it is not intended to just be a trial/demo of the standard edition (though you can use it as such if you are considering purchasing the standard edition). Whilst some features are only available in the standard edition, hopefully the free edition will still be useful to people. See below for a summary of the features that can be found in the free edition (and the standard edition)\n- Powerful - With options such as being able to view group members (and nested group and primary group members) directly within the report\n- Fast - Intelligent caching helps make this one of the fastest permissions reporting tools available\n- Accessible - Just right click on any directory in Windows Explorer and choose Report Permissions to see permissions for the full directory tree\n- Accurate - Unlike some other tools out there, you will always get accurate representations of permissions with NTFS Permissions Reporter\n- User Friendly - Designed to be easy to use and modern, you can be running your first report within seconds of launching the application for the first time\n- Exportable - Easily export report results to file (HTML file in free edition, additional formats in standard edition)\n- Multi-Domain Friendly - Correctly reports display names and other account details for accounts in external trusted domains",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51940,6 +52430,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PhotoVariantsSoftware.PhotoVariants",
+    "name": "Photo Variants",
+    "publisher": "Photo Variants Software",
+    "description": "Photo Variants offers an intuitive image processing tool designed to help you adjust, edit, and retouch your photos. With a comprehensive suite of features, this software addresses various aspects of photo enhancement, making it easy to achieve your desired results.\n\nPhoto Variants showcases a well-thought-out design that balances functionality with simplicity. Its streamlined layout ensures that users can access a wide range of image-processing features without feeling overwhelmed by complexity or clutter. It features a comprehensive toolbar, along with dedicated panels that facilitate layer management and editing history. Additionally, it provides separate tools designed specifically for image geometry transformation, color adjustments, and the application of filters.\n\nPhoto Variants Features:\n- Color Adjustment: Control brightness, hue, saturation, contrast, levels, GRB balance, white balance, replace colors, and many more.\n- Retouching: Enjoy professional retouching tools: healing, cloning, smudge, blur, sharpness, lightening, and colorization. Сorrect minor flaws in the photo!\n- Drawing: Use brushes, pencil, and filling tools to create raster graphics or to correct existing photos. Blend the images and apply effects.\n- Transformation: Crop, flip, resize, warp, and rotate. Apply changes to a layer, a group of layers, or the entire image.\n- Filters: Take advantage of layer support and create texts, shapes, polygons, and masks. Combine images and apply effects. Use a ready-made collection of fonts, icons, and other vector graphics.\n- Graphic Design: Take advantage of layer support and create texts, shapes, polygons, and masks. Combine images and apply effects. Use a ready-made collection of fonts, icons, and other vector graphics.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Tenpi.PhotoViewer",
     "name": "Photo Viewer",
     "publisher": "Tenpi",
@@ -52350,6 +52847,13 @@
     "name": "poi",
     "publisher": "Magica",
     "description": "poi is a scalable browser and tool set for Kantai Collection(KanColle).\nKey features include:\n\n* Proxy: HTTP, Socks5 and PAC (Experimental)\n* Cache, including custom cache\n* Data synthesis and analysis\n* Notification\n* Plugin support for extensive functionalities",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "digitalghost-dev.poke-cli",
+    "name": "poke-cli",
+    "publisher": "digitalghost-dev",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52766,6 +53270,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Cjwdev.ProcessPrompt",
+    "name": "Process Prompt",
+    "publisher": "Cjwdev",
+    "description": "When deploying software installations or updates, sometimes certain programs need to be closed first before the install/upgrade can complete successfully. However, most automated software deployment tools such as Microsoft SCCM (and other similar tools) have no option to take this in to account and so the deployment task will simply fail if a particular process was running at the time. Process Prompt was designed to be used with your existing deployment tool and will check to see if specified processes are running before attempting to run your software deployment task - if any of the specified processes are running then it will prompt users to close those programs and will wait until they have done so before it executes the software deployment task.\n\nFeatures\n- Check for any number of running processes before executing a specified installer or script\n- Set user friendly display names for each process so that the end user knows which programs they need to close\n- Specify a time limit that the end user must close the programs within (optionally force them to terminate if they have not been closed by this point)\n- Complete control over return codes from the process prompt executable for various scenarios\n- Choose whether or not the end user sees a progress window while the deployment task is executing and is notified when it has completed\n- All options are specified via XML file which is generated by the easy to use GUI config editor, which has detailed explanations of each setting",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ArturKharin.ProcessesPriorityManager",
     "name": "Processes Priority Manager",
     "publisher": "Artur Kharin",
@@ -52798,6 +53309,13 @@
     "name": "Product Portal",
     "publisher": "iZotope, Inc.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VaclavJedlicka.ProfiCAD",
+    "name": "ProfiCAD",
+    "publisher": "Václav Jedlička",
+    "description": "ProfiCAD is designed for drawing electrical and electronic diagrams, schematics, and control circuit diagrams. It can also be used for pneumatics, hydraulics, and other types of technical diagrams.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53907,6 +54425,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Ryuapp.Rb",
+    "name": "rb",
+    "publisher": "ryuapp",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Toborek.rBiblia",
     "name": "rBiblia",
     "publisher": "Rafał Toborek",
@@ -54586,6 +55111,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BlueprintFreespeech.RicochetRefresh",
+    "name": "RicochetRefresh",
+    "publisher": "BlueprintFreespeech",
+    "description": "Ricochet Refresh is a peer-to-peer messenger app that uses Tor to connect clients. When you start Ricochet Refresh it creates a Tor hidden service on your computer. The address of this hidden service is your anonymous identity on the Tor network and how others will be able to communicate with you.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RIDI.Ridibooks",
     "name": "Ridibooks",
     "publisher": "RIDI Labs",
@@ -54842,6 +55374,13 @@
     "name": "RoyalPro",
     "publisher": "the sz development",
     "description": "Read posts on RSS feeds. This RSS reader checks on startup for new posts on RSS 0.91/0.92/1.0/2.0/Atom feeds.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "seeyebe.rq",
+    "name": "rq",
+    "publisher": "seeyebe",
+    "description": "rq is a lightning-fast file search utility built specifically for Windows. Written in modern C17, it leverages parallel processing and optimized algorithms to outperform traditional tools by 3-7x while providing a clean, intuitive interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55489,13 +56028,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Digola.ScreenGridy",
-    "name": "ScreenGridy",
-    "publisher": "Digola",
-    "description": "ScreenGridy 是一款实用的工具，可简化并加快 Windows 工作速度。它改进了桌面的工作方式。ScreenGridy 使用最简单有效的方法来变换窗口的位置和大小。它在桌面上显示一个网格。通过在桌面网格单元上移动鼠标，你可以比默认模式下快十倍、更精确地改变网格单元。对于高级用户，我们建议使用我们的应用程序 SetMate。它不仅拥有 ScreenGridy 的所有优点，还有额外功能。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "SmilyOrg.screenmqtt",
     "name": "screenmqtt",
     "publisher": "SmilyOrg",
@@ -55825,17 +56357,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Cjwdev.ServiceCredentialsManager.Free",
+    "name": "Service Credentials Manager Free Edition",
+    "publisher": "Cjwdev",
+    "description": "When it comes to changing an admin or service account password there is almost always at least one service or scheduled task that is only discovered when the service stops working after the password change, so this tool was developed to help make sure you have discovered every single one and it can also update the password on each of them remotely for you.\n\nThe free edition is provided in the hope that it is useful to fellow IT Pros, it is not intended to just be a trial/demo of the standard edition (though you could use it as such if you are considering purchasing the standard edition). Whilst some features are only available in the standard edition, the free edition can still save you hours of work tracking down all the services and tasks using a specified account. See below for a summary of the features that can be found in the free edition (and the additional features in the standard edition)\n- Time Saving - Scan any number of servers to automatically find all Windows services and scheduled tasks and see who they are running as\n- Import Computers - Import a list of computers to scan from an Active Directory OU, CSV file, or manually type them in\n- Task Scheduler 2.0 Compatible - Works with Server 2008 format scheduled tasks as well as XP/2003 format\n- Intelligent - Automatically looks up alternate formats for the username you specify (i.e. searching for DOMAIN\\User will also find user@domain.local)\n- Fast - Uses native Windows APIs (does not rely on WMI) and multi-threading to query multiple remote servers quickly\n- Managed Service Account Aware - Works with Managed Service Accounts, allowing you to find and update services running under MSA credentials",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Session.Session",
     "name": "Session",
     "publisher": "Loki Project",
     "description": "Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Digola.SetMate",
-    "name": "SetMate",
-    "publisher": "Digola",
-    "description": "SetMate 将桌面工作区划分为网格。\n只需点击网格和高亮单元格，即可轻松改变当前窗口的位置和大小。\n这不仅能提高工作效率，还能简化工作。\n新版程序最重要的功能是可以将窗口分组，最多可分为四组。\n程序现在还可以全屏显示网格。\n使用 Windows 工作时，很多时候都会遇到如何正确获取所需窗口的问题。Alt-Tab 组合键速度太慢。尤其是打开多个窗口时。\n对于每个窗口，你都可以执行调整大小、最小化、半透明、保持在顶部、前置、平铺、级联等操作。只需单击或使用快捷键即可在每组窗口之间进行切换。\nSetMate 界面可完全自定义。您可以为所有程序操作定义快捷方式。初学者和专家用户都能轻松使用该程序。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56105,6 +56637,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Silhouette.SilhouetteStudio",
+    "name": "Silhouette Studio",
+    "publisher": "Silhouette America",
+    "description": "Silhouette Studio is a robust, free design software that gives makers the freedom to imagine, design, and create unique craft projects. With dozens of design tools and easy integration with Silhouette cutting machines, Silhouette Studio is the ultimate tool for crafters who want to make their own unique, personalized projects.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Amazon.AthenaODBCDriver.1",
     "name": "Simba Athena ODBC Driver",
     "publisher": "Simba Technologies",
@@ -56129,7 +56668,7 @@
     "id": "GaetanSencie.SimpleAnnualAccounting",
     "name": "Simple Annual Accounting",
     "publisher": "Gaëtan Sencie",
-    "description": "https://github.com/STENS66/Comptabilite_annuelle",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56700,10 +57239,31 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SoftPerfect.RAMDisk",
-    "name": "SoftPerfect RAM Disk",
+    "id": "SoftPerfect.BandwidthManager",
+    "name": "SoftPerfect Bandwidth Manager",
     "publisher": "SoftPerfect Pty Ltd",
-    "description": "SoftPerfect RAM Disk is a high-performance RAM disk application that lets you have a disk on your computer stored entirely in its memory. As the memory is much faster than physical hard disks, storing temporary data on a fast in-memory disk achieves a higher performance. Whatever your job is, read on to find out what a RAM disk can offer you.",
+    "description": "Are your Internet usage or costs unexpectedly high? Does inappropriate use of the network or the Internet have an adverse effect on your business performance? Did the Internet access bandwidth become a major bottleneck in your network?\nIf your network has any of these problems, SoftPerfect Bandwidth Manager will provide a cost-effective solution. The software monitors your network traffic and limits bandwidth in whatever manner you specify. The result is an immediate increase in the efficiency of your network together and a reduction in your overall bandwidth requirements while allowing important Internet applications to run at full speed.\nSoftPerfect Bandwidth Manager is a full-featured traffic management tool for Windows that offers cost-effective bandwidth control and quality of service based on built-in prioritised rules. These rules can specify a bandwidth limit for each Internet user. The software of this kind is otherwise known as bandwidth limiter or traffic shaper. With its help, you can apply speed-throttling rules to specified IP and MAC addresses, ports and even network interfaces with no changes to your existing network infrastructure. The rich feature set of SoftPerfect Bandwidth Manager software is easily managed via the intuitive Windows GUI.\nKey features\n- Centralised configuration from a single network location.\n- Flexible, prioritised, bidirectional rules to specify maximum data rates and usage allowances.\n- Rules for IP and MAC addresses, protocols, ports (for TCP/IP) and network interfaces.\n- Transparency for end users with no client software installation required in most cases.\n- Quotas, scheduler, email notifications and comprehensive usage reports.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftPerfect.ConnectionEmulator",
+    "name": "SoftPerfect Connection Emulator",
+    "publisher": "SoftPerfect Pty Ltd",
+    "description": "SoftPerfect Connection Emulator (SCE) is a WAN environment emulator for network application developers, system administrators and network engineers. Software developers creating network-enabled applications, especially time-critical ones like VoIP software or real time protocols, need to thoroughly test their products in a range of environments. Most applications work well on broadband connections, but what if your application will also be used on low-speed communication links such as GPRS or Satellite?\nThis is where SCE comes in handy. It imitates a network connection with low bandwidth limits, latency and losses. With SCE you can test how well your application performs on slow or long-distance connections to ensure the quality of your software product. SCE runs on any PC with Windows, allowing you to selectively apply bandwidth limits, introduce random or fixed delays on data flows, and simulate packet loss to mimic a low-grade communication channel.\nSoftPerfect Connection Emulator is available as an unlimited duration trial, however maximum simulation session is limited to 30 seconds. Purchasing a licence will remove this limitation and allow running lengthy simulations.\nKey features\n- Runs on any PC with Windows 10 or higher.\n- Restricts connection speed.\n- Imitates fixed or variable latency.\n- Simulates individual and sequential packet loss, corruption, duplication and reordering.\n- Displays live packet simulation chart.\n- Supports multiple simulation profiles.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftPerfect.NetworkScanner",
+    "name": "SoftPerfect Network Scanner",
+    "publisher": "SoftPerfect Pty Ltd",
+    "description": "This fast, highly configurable IPv4/IPv6 scanner can streamline many of your network support procedures. Its well-designed interface, light weight and portability coupled with an extensive range of options and advanced features make SoftPerfect Network Scanner an invaluable tool, whether you are a professional system administrator, someone providing occasional network maintenance, or a general user interested in computer security.\nSoftPerfect Network Scanner can ping computers, scan ports, discover shared folders and retrieve practically any information about network devices via WMI, SNMP, HTTP, SSH and PowerShell. It also scans for remote services, registry, files and performance counters; offers flexible filtering and display options and exports NetScan results to a variety of formats from XML to JSON.\nKey features\n- Fully supports both IPv4 and IPv6 discovery.\n- Performs a ping sweep and displays live devices.\n- Detects hardware MAC-addresses, even across routers.\n- Discovers writable and hidden shared folders.\n- Detects internal and external IP addresses.\n- Retrieves any system information via WMI, remote registry, file system and service manager.\n- Scans for listening TCP ports, some UDP and SNMP services.\n- Retrieves currently logged-on users, configured user accounts, uptime, etc.\n- Supports remote SSH, PowerShell and VBScript command execution.\n- Launches external third party applications.\n- Supports Wake-On-LAN, remote shutdown and sending network messages.\n- Exports results to HTML, XML, JSON, CSV and TXT.\n- Integrates with Nmap for OS discovery, vulnerability tests, and much more.\n- Can be run from a USB flash drive without installation.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftPerfect.WiFiGuard",
+    "name": "SoftPerfect WiFi Guard",
+    "publisher": "SoftPerfect Pty Ltd",
+    "description": "SoftPerfect WiFi Guard is an essential tool for everyone running a small wireless network and striving to keep it safe and secure. Generally, modern Wi-Fi networks are well protected, but there are a number of weaknesses that can compromise your Wi-Fi password; this includes vulnerabilities in encryption and brute force attacks. As a result, someone can gain unauthorised access to your Internet connection and LAN and exploit them while staying unnoticed.\nPerhaps, you can say: “No big deal, I have unlimited Internet traffic!”, but what about someone reading your personal emails, stealing private information or breaking the law online while using your Internet connection?\nWiFi Guard will alert you if your network is used without your knowledge. It is a specialised monitoring application that runs through your network at set intervals and reports immediately if it has found any unrecognised connected devices that could possibly belong to an intruder.\nKey features\n- Pings computers and other network devices and displays those online.\n- Detects firewalled computers that do not respond to ping.\n- Scans your network at a specified interval.\n- Immediately alerts you if an unknown device is found.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56711,6 +57271,13 @@
     "name": "Solidigm™ Storage Tool",
     "publisher": "Solidigm™",
     "description": "The Solidigm™ Storage Tool, also called SST, assists with managing Solidigm™ SSDs.\nIt provides access to drive information and health, SMART Attributes, Firmware Updates, diagnostic scans, and secure erase.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Soluling.Soluling",
+    "name": "Soluling setup",
+    "publisher": "Soluling",
+    "description": "Soluling localization tool is an easy way to create and maintain multilingual software, documents, and data. Add Soluling as a part of your development process. No matter if you use continuous localization or waterfall localization, Soluling works with your process.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57820,6 +58387,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Ethersphere.Swarm-Desktop",
+    "name": "Swarm Desktop",
+    "publisher": "Swarm Association",
+    "description": "Electron Desktop app that helps you easily spin up and manage Swarm node",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SpikeHD.swerve",
     "name": "swerve",
     "publisher": "SpikeHD",
@@ -58355,7 +58929,7 @@
     "id": "TechPowerUp.GPU-Z",
     "name": "TechPowerUp GPU-Z",
     "publisher": "TechPowerUp",
-    "description": "",
+    "description": "GPU-Z is a lightweight system utility designed to provide vital information about your video card and graphics processor.\nMain Features\n- Supports NVIDIA, AMD, ATI and Intel graphics devices\n- Displays adapter, GPU and display information\n- Displays overclock, default clocks and 3D/boost clocks (if available)\n- Detailed reporting on memory subsystem: memory size, type, speed, bus width\n- Includes a GPU load test to verify PCI-Express lane configuration\n- Validation of results\n- GPU-Z can create a backup of your graphics card BIOS\n- No installation required, optional installer is available\n- Support for Windows 11 / Windows 10 / Windows 8 / Windows 7 / Vista / Windows XP (both 32 and 64 bit versions are supported)\n- .. and yes, the author of CPU-Z has granted us permission to use a name similar to his product. Thanks Franck.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59192,6 +59766,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Nadeo.TrackManiaUnitedForever",
+    "name": "TrackMania United Forever",
+    "publisher": "Nadeo",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Rhinode.TradingPaints",
     "name": "Trading Paints",
     "publisher": "Rhinode LLC",
@@ -59598,6 +60179,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TwintailTeam.TTL",
+    "name": "twintaillauncher",
+    "publisher": "TwintailTeam",
+    "description": "Twintaillauncher is a multi-platform launcher that brings mod support, quality-of-life improvements, and advanced features to a variety of anime-styled games.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TypeFaster.TypeFaster",
     "name": "TypeFaster Typing Tutor",
     "publisher": "TypeFaster",
@@ -59686,6 +60274,13 @@
     "name": "Ubuntu 24.04 LTS",
     "publisher": "Canonical Group Limited",
     "description": "Install a complete Ubuntu terminal environment in minutes with Windows Subsystem for Linux (WSL). Develop cross-platform applications, improve your data science or web development workflows and manage IT infrastructure without leaving Windows.\n\nKey features:\n  - Efficient command line utilities including bash, ssh, git, apt, npm, pip and many more\n  - Manage Docker containers with improved performance and startup times\n  - Leverage GPU acceleration for AI/ML workloads with NVIDIA CUDA\n  - A consistent development to deployment workflow when using Ubuntu in the cloud\n  - 5 years of security patching with Ubuntu Long Term Support (LTS) releases\n\nUbuntu 24.04.1 LTS is the LTS version of Ubuntu and receives updates for five years. Upgrades to future LTS releases will not be proposed.\n\nInstallation tips:\n  - Search for \"Turn Windows features on or off\" in the Windows search bar and ensure that \"Windows Subsystem for Linux\" is turned on before restarting your machine.\n  - To launch, use \"ubuntu2404\" on the command-line prompt or Windows Terminal, or click on the Ubuntu 24.04.1 LTS tile in the Start Menu.\n\nFor more information about Ubuntu WSL and how Canonical supports developers please visit:\n\nhttps://ubuntu.com/wsl",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PolarGoose.uchardet",
+    "name": "uchardet",
+    "publisher": "PolarGoose / freedesktop",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61096,13 +61691,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "KhronosGroup.VulkanSDK",
-    "name": "Vulkan SDK",
-    "publisher": "LunarG Inc.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "stark81.VutronMusic",
     "name": "VutronMusic",
     "publisher": "stark81",
@@ -61274,7 +61862,7 @@
     "id": "KnifMelti.WAU-Settings-GUI",
     "name": "WAU Settings GUI",
     "publisher": "KnifMelti",
-    "description": "Significantly enhance WAU's usability for home users while maintaining enterprise-grade functionality. Benefits from not having to manage the settings in several places when testing etc. (great for developers)... ...a perfect companion for those supporting the community (if the community actually uses it!) - being able to ask for a screenshot of the settings because it comes with all included (even a screenshot function masking potentially sensitive data)!",
+    "description": "Significantly enhance WAU's usability for home admin users while maintaining enterprise-grade functionality. Benefits from not having to manage the settings in several places when testing etc. (great for developers)... ...a perfect companion for those supporting the community (if the community actually uses it!) - being able to ask for a screenshot of the settings because it comes with all included (even a screenshot function masking potentially sensitive data)!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62216,6 +62804,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WiseCleaner.WiseCare365",
+    "name": "Wise Care 365",
+    "publisher": "WiseCleaner.com",
+    "description": "Wise Care 365 is the most important product of WiseCleaner, it is an all-in-one utility that includes PC checkup, System Cleaner, System Tune-up, Privacy Protector, and System Monitor.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WiseCleaner.WiseDataRecovery",
     "name": "Wise Data Recovery",
     "publisher": "WiseCleaner.com, Inc.",
@@ -62233,7 +62828,7 @@
     "id": "WiseCleaner.WiseDuplicateFinder",
     "name": "Wise Duplicate Finder",
     "publisher": "WiseCleaner.com, Inc.",
-    "description": "A duplicate file management tool that can help you find and delete duplicate files by comparing file name, file size or contents. Get rid of annoying duplicates and free up more space on your hard disks.",
+    "description": "Wise Duplicate Finder is a free disk management software, it scans your local disks to find duplicate documents, images, videos, and so on. By removing(deleting) these duplicate files, you can free up your valuable disk space. It is really fast, accurate and easy to use.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62244,17 +62839,31 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WiseCleaner.WiseForceDeleter",
+    "name": "Wise Force Deleter",
+    "publisher": "WiseCleaner.com",
+    "description": "Wise Force Deleter can help you forcedly and permanently get rid of any file that can’t be deleted by Windows. What’s more, it is an easy-to-use tool for Windows’ users and totally free!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WiseCleaner.WiseGameBooster",
     "name": "Wise Game Booster",
     "publisher": "WiseCleaner.com, Inc.",
-    "description": "Close startups, free up memory and tuneup network to keep your PC in top Game Performance.",
+    "description": "Wise Game Booster is a free game speed up tool. It not only helps you manage installed games, but also improves PC performance by optimizing the system, stopping useless services, and ending processes that use the most memory, thereby helping you improve your gaming experience.",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "WiseCleaner.WiseHotKey",
     "name": "Wise Hotkey",
     "publisher": "WiseCleaner.com, Inc.",
-    "description": "An easy-to-use program helps you improve the efficiency of using the computer. Quickly start and switch any application, folder or website by using keyboard shortcuts.",
+    "description": "Wise Hotkey is a powerful hotkey managing tool for Windows users. With its help, you can easily to assign hotkeys to certain applications, folders as well as websites. Follow me to experience the convenience and efficiency that this program will bring to you.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WiseCleaner.WiseJetSearch",
+    "name": "Wise JetSearch",
+    "publisher": "WiseCleaner.com",
+    "description": "Wise JetSearch can help you search files or folders on all your local drives in just a few seconds. Input your keywords, select the drive and then start to search. After searching, Wise JetSearch will show you the searching results such as file/folder name, path, size, and last modified date. Also, a right-click can provide you with a direct and convenient way to deal with the file/folder you found out.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62272,6 +62881,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WiseCleaner.WiseRegistryCleaner",
+    "name": "Wise Registry Cleaner",
+    "publisher": "WiseCleaner.com",
+    "description": "Wise Registry Cleaner can help you clean up Windows registry within a few minutes, clean obsolete registry entries, fix registry errors, such as invalid ActiveX and COM components, invalid startup entries, useless or obsolete uninstallation information, and so on.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WiseCleaner.RegistryCleaner.Portable",
     "name": "Wise Registry Cleaner",
     "publisher": "WiseCleaner",
@@ -62283,6 +62899,13 @@
     "name": "Wise Toys",
     "publisher": "WiseCleaner.com",
     "description": "As a set of utilities for greater productivity, Wise Toys has built in a powerful local file search engine and many plugins, covering all aspects of life and learning, provides many conveniences and saves time for Windows users.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WiseCleaner.WiseVideoConverter",
+    "name": "Wise Video Converter",
+    "publisher": "WiseCleaner.com, Inc.",
+    "description": "Wise Video Converter is a free video format conversion tool. It is easy to use and very fast, which allows you to convert all formats of videos for many kinds of devices.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63182,6 +63805,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Yamaha.ExpansionManager",
+    "name": "Yamaha Expansion Manager",
+    "publisher": "Yamaha Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Yamaha.SteinbergUSBDriver",
     "name": "Yamaha Steinberg USB Driver",
     "publisher": "Yamaha Corporation",
@@ -63480,6 +64110,13 @@
     "name": "Zentimo",
     "publisher": "Crystal Rich Ltd",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ColorLogic.ZePrA",
+    "name": "ZePrA",
+    "publisher": "ColorLogic",
+    "description": "ZePrA Smart Color Server is a full-featured color server that optimizes PDF printing data and image files such as PSD, TIFF and JPEG via DeviceLink profiles. Create customized configurations and queues to automate day-to-day color management tasks. ZePrA's easy-to-use interface simplifies the process of custom color conversions with SmartLink and can be integrated into an existing workflow for immediate results. \n\nOur high quality color conversion and optimization of CMYK, RGB, Grayscale, Multicolor and ECG printing data is achieved through DeviceLink profiles built on-the-fly, as well as intelligent PDF processing. Our sophisticated spot color rendering uses state-of-the-art spectral color prediction technology, supports CxF/X-4, and allows production of proofs with high color accuracy.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64276,7 +64913,7 @@
   {
     "id": "360.PalmInput",
     "name": "手心输入法",
-    "publisher": "北京酷睿蒙数字科技有限公司",
+    "publisher": "360.cn",
     "description": "Palm Input is an intelligent, efficient, ad-free and pure input method that focuses only on the essence of input. It can bring users a superb input experience by powerful intelligent input engine, rich local thesaurus, online thesaurus and exquisite skins.",
     "icon": "/icons/intunify-default.png"
   },
