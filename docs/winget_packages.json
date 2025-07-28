@@ -693,6 +693,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ImperativeSoftware.InputDirector",
+    "name": "",
+    "publisher": null,
+    "description": "Input Director 允许通过一台电脑连接的键盘/鼠标控制多台 Windows 系统\n可通过热键切换控制权，或将光标移至屏幕边缘使其跳转至相邻电脑\n支持共享剪贴板功能——在一台电脑复制内容，切换控制权后即可在另一台电脑粘贴",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Ivanti.PackageStudio",
     "name": "",
     "publisher": null,
@@ -774,6 +781,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IDmelon.IDmelonPairingTool",
+    "name": "",
+    "publisher": null,
+    "description": "IDmelon Pairing Tool 是一款安装在电脑上的软件。它能让您的智能手机与电脑配对，从而替代密码登录微软或 Twitter 等账户。这是一种快速、经济、便捷且安全的方式，可有效防止账户被盗。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -1754,6 +1768,13 @@
     "name": "",
     "publisher": null,
     "description": "MOOS Project Viewer 是一款专为 Microsoft® Project 设计的查看器，支持动态打开、浏览及打印任何 Microsoft® Project 文件。它能在所有支持 Java 的平台上运行，包括 Windows®、Mac OS X 和 Linux 系统。市面上虽有众多 Microsoft® Project 查看器（含免费版和商业版），但 MOOS Project Viewer 以卓越的性价比脱颖而出。无需轻信我们的宣传，亲自试用便知分晓！",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Sysinternals.Autologon",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -2793,6 +2814,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Samsung.EasySettingBox",
+    "name": "",
+    "publisher": null,
+    "description": "Easy Setting Box SW 能让用户将屏幕划分为多种分区布局，轻松实现多任务处理。\n这款强大工具通过便捷的多窗口管理，显著提升工作效率。\n核心功能\n- 通过预设多样布局，轻松管理多个屏幕窗口\n- 一键点击即可将窗口定位到选定布局区域\n- 即使在固定布局中，仍可手动调节每个窗口尺寸",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SwingTeam.Pendulums",
     "name": "",
     "publisher": null,
@@ -2881,6 +2909,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SamsidParty.TopNotify",
+    "name": "",
+    "publisher": null,
+    "description": "Windows 终极通知自定义工具\n\n功能特性：\n- 将通知弹窗自由拖放至屏幕任意位置\n- 让通知显示在另一块显示器上\n- 调节通知窗口透明度\n- 设置穿透点击式通知\n- 为每个应用单独定制提示音效\n- 极致性能优化，CPU/内存占用极低\n- 原生支持 ARM64 架构",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -3297,6 +3332,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "StephenRessler.BridgeDesigner",
+    "name": "",
+    "publisher": null,
+    "description": "Bridge Designer 是一款免费的教育软件，专为初高中学生设计，通过公路桁架桥的建模实践引导他们真实接触工程领域。该软件荣获两项国家级教育软件开发大奖，既保留了专业工程师使用的计算机辅助设计（CAD）软件界面风格与操作逻辑，又大幅降低了使用门槛，支持 Windows 和 Mac 双平台安装。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SJTU.SJTUDrive",
     "name": "",
     "publisher": null,
@@ -3388,6 +3430,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Niko.HomeControlProgrammingSoftware",
+    "name": "",
+    "publisher": null,
+    "description": "该软件界面友好、直观且视觉层次分明。通过向导功能，您能快速完成高级配置编程。在将新程序上传至连接的控制器前，软件会自动扫描安装环境以检测是否需要升级。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Nbc66.VTFEditReloaded",
     "name": "",
     "publisher": null,
@@ -3417,13 +3466,6 @@
   },
   {
     "id": "Nstr.Igitt",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NextcloudGmbH.NextcloudTalk(Machine-MSI)",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4018,6 +4060,27 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NetworkOptix.NxWitness.Server",
+    "name": "",
+    "publisher": null,
+    "description": "Nx Witness 是一款快速、跨平台的 IP 视频监控管理系统，旨在轻松实时发现、查看、录制和管理 IP 摄像头。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NetworkOptix.NxWitness.Client",
+    "name": "",
+    "publisher": null,
+    "description": "Nx Witness 是一款快速、跨平台的 IP 视频监控管理系统，旨在轻松实时发现、查看、录制和管理 IP 摄像头。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NetworkOptix.NxWitness.Bundle",
+    "name": "",
+    "publisher": null,
+    "description": "Nx Witness 是一款快速、跨平台的 IP 视频监控管理系统，旨在轻松实时发现、查看、录制和管理 IP 摄像头。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NotionRepackaged.NotionEnhanced",
     "name": "",
     "publisher": null,
@@ -4529,10 +4592,10 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "GPAC.GPAC",
+    "id": "GregVanMullem.MathGV",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "MathGV 是一款适用于 Windows XP、Vista 和 Windows 7 系统的数学函数绘图软件。MathGV 4.1 版本已根据自由开源的 GNU 通用公共许可证第三版重新授权。\n该软件能够绘制二维函数、参数方程、极坐标以及三维函数图形。MathGV 不含任何间谍软件、广告软件或其他类似问题组件。在大学期间多年使用笨重的命令行数学程序后，我决定开发一款符合理想操作界面的数学软件。MathGV 采用对话式交互界面，支持随时修改任意参数并即时呈现结果，这种实时可视化反馈使得数学函数理解变得更为直观。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -5149,6 +5212,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GregGalloway.OLAPPivotTableExtensions",
+    "name": "",
+    "publisher": null,
+    "description": "OLAP PivotTable 扩展插件是一款 Excel 加载项，可增强所有类型 Analysis Services 多维数据集上数据透视表的功能。它支持 Analysis Services 表格模型、Analysis Services 多维模型、Azure Analysis Services 以及 Power BI（包括“在 Excel 中分析”功能和 XMLA 端点）。\nExcel API 中某些数据透视表功能未在用户界面中开放。OLAP PivotTable 扩展插件为部分此类功能提供了操作界面，同时还新增了多维数据集搜索、默认设置配置、剪贴板列表筛选等实用特性。用户可通过数据透视表右键菜单中的选项启动该插件。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -5978,6 +6048,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "aluxnimm.OutlookCalDavSynchronizer",
+    "name": "",
+    "publisher": null,
+    "description": "Outlook CalDav Synchronizer 是一款免费的 Outlook 插件，可在 Outlook 与 Google、SOGo、Nextcloud 或其他任何 CalDAV/CardDAV 服务器之间同步日程、任务和联系人。支持的 Outlook 版本包括 Office 365、2019、2016、2013、2010 及 2007。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AhoyLabs.BackyardAI",
     "name": "",
     "publisher": null,
@@ -6367,6 +6444,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ArcanaDevelopment.adTempus.5.Console",
+    "name": "",
+    "publisher": null,
+    "description": "我们的旗舰产品 adTempus Windows 任务调度与系统自动化软件，可帮助您自动化执行基于 Windows 的计算机、服务器或网络上的任何任务。它提供了一套全面的任务调度功能，专注于满足中小型企业的需求与预算。\n功能特点：\n您所需的任务调度功能：adTempus 提供强大的 Windows 任务调度功能集，包括基于时间的触发、文件监控、通知提醒、报告生成、任务依赖关系等。\n自动化一切：可调度程序、批处理文件、脚本或任何其他任务。根据时间表或各类系统事件（包括文件创建和电子邮件）触发任务。\n轻松评估：立即下载全功能试用版，10 分钟内即可完成安装运行。如有疑问，我们的团队将为您快速解答。\n简单实施：adTempus 安装简便、易于使用且文档详尽。您无需培训、咨询顾问或大量时间即可部署使用。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -7196,13 +7280,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Asana.Asana",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "axcore.tartube",
     "name": "",
     "publisher": null,
@@ -7977,6 +8054,13 @@
     "name": "",
     "publisher": null,
     "description": "功能齐全的 SQL 查询工具，用于处理数据和 SQL 查询，并配有强大的 SQL 查询生成器和便捷的数据浏览工具。FlySpeed SQL Query 适用于绝大多数现代数据库服务器。它完全支持 MS SQL Server、MySQL、Oracle 等 SQL 方言。\n无论用户是高级用户还是新手，FlySpeed SQL Query 都能最大限度地提高工作效率。只要使用过一次 FlySpeed SQL Query，你就一定会成为这个工具的忠实拥护者。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ACS.CCIDPCSCDriver",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -8772,6 +8856,41 @@
   },
   {
     "id": "ve3nea.HamCockpit",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VictronEnergy.VGRConfigure",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VictronEnergy.DataControl",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VictronEnergy.VictronConnect",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VictronEnergy.BMVReader",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VictronEnergy.ImpulseChargerTool",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9618,6 +9737,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Databricks.SparkODBCDriver",
+    "name": "",
+    "publisher": null,
+    "description": "Simba Apache Spark ODBC 连接器用于直接通过 SQL 和 HiveQL 访问 Apache Hadoop/Spark 发行版，实现对基于 Hadoop 数据的商业智能(BI)、分析和报表功能。该连接器能高效地将应用程序的 SQL 查询转换为等效的 HiveQL 形式（HiveQL 是 SQL-92 的子集）。若应用程序支持 Spark，连接器可配置为将查询直接传递给数据库处理。连接器会向 Spark 获取模式信息，以供基于 SQL 的应用程序使用。包括连接操作在内的各类查询均可从 SQL 转换为 HiveQL。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Databricks.DatabricksCLI",
     "name": "",
     "publisher": null,
@@ -9961,6 +10087,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Danfoss.Coolselector.2",
+    "name": "",
+    "publisher": null,
+    "description": "Coolselector®2 是一款免费下载的制冷软件。它能够帮助您以科学、省事的方式选择丹佛斯制造的组件，还可以提供准确的技术信息，确保制冷和空调系统达到最优性能。Coolselector®2 根据用户输入或标准工作条件，提供制冷和空调组件选择的客观计算。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Danfoss.CCMS",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DeepCool.DeepCool",
     "name": "",
     "publisher": null,
@@ -10179,6 +10319,13 @@
   },
   {
     "id": "Devolutions.Launcher",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Deminimis.MinimalFirewall",
     "name": "",
     "publisher": null,
     "description": "",
@@ -11362,6 +11509,13 @@
   },
   {
     "id": "Tencent.WeiyunSync",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Tencent.CodeBuddy",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13034,6 +13188,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Meta.QuestRemoteDesktop",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Meta.Zstandard",
     "name": "",
     "publisher": null,
@@ -14672,6 +14833,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "memtime.memtime",
+    "name": "",
+    "publisher": null,
+    "description": "Memtime 自动记录您在各类程序中的时间使用情况，并直观展示每日动态——助您即刻掌握每一分钟的去向。我们是唯一通过本地离线存储活动数据来确保隐私安全的自动时间追踪工具。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Maxon.CinebenchR23",
     "name": "",
     "publisher": null,
@@ -14997,7 +15165,7 @@
     "id": "Microsoft.Bicep",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "Bicep 是一种用于以声明方式部署 Azure 资源的领域特定语言 (DSL)。它旨在通过更简洁的语法、改进的类型安全性以及对模块化和代码重用的更好支持，大幅简化编写体验。Bicep 是对 ARM 和 ARM 模板的透明抽象，这意味着在 ARM 模板中可以完成的任何操作都可以在 Bicep 中完成（临时已知限制除外）。在 ARM 模板中有效的所有资源类型、apiVersions 和属性，从第一天起在 Bicep 中同样有效（注意：即使 Bicep 警告某个资源的类型信息不可用，它仍然可以部署）。\nBicep 代码会被转换为标准的 ARM 模板 JSON 文件，这实际上将 ARM 模板视为一种中间语言 (IL)。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -15138,13 +15306,6 @@
     "name": "",
     "publisher": null,
     "description": "Power BI 是统一、可扩展的自助服务和企业商业智能 (BI) 平台。连接到任何数据并将其可视化，并将视觉对象无缝注入到每天使用的应用中。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.AzureDataStudio",
-    "name": "",
-    "publisher": null,
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -15421,6 +15582,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.AccessDatabaseEngine.2016",
+    "name": "",
+    "publisher": null,
+    "description": "Microsoft Access database engine 2016 帮助在现有的 Microsoft Office 文件（例如 Microsoft Office Access（*.mdb 和 *.accdb）文件和 Microsoft Office Excel（*.xls、*.xlsx 和 *.xlsb）文件）与其他数据源（例如 Microsoft SQL Server）之间传输数据。还支持与现有文本文件建立连接。此外，还会安装 ODBC 和 OLEDB 驱动程序，供应用程序开发人员在开发与 Office 文件格式连接的应用程序时使用。\n\nAccess 2016 数据库引擎可再发行程序包不用于以下用途：\n1. 作为 Jet 的一般替代品（如果需要 Jet 的一般替代品，应使用 SQL Server Express Edition）。\n2. 作为服务器端应用程序的 Jet OLEDB 提供程序的替代品。\n3. 作为常规文字处理、电子表格或数据库管理系统，可以用来创建文件。（可使用 Microsoft Office 或 Office 自动化来创建 Microsoft Office 支持的文件。）\n4. 由系统服务或代码将在系统帐户下运行的服务器端程序使用，或将同时处理多个用户标识，或可高度重入并且期望无状态行为。例如，当没有任何用户登录时从任务计划程序运行的程序；或者，从像 ASP.NET 这样的服务器端 Web 应用程序调用的程序；或者，在 COM+ 服务下运行的分布式组件。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.AIShell",
     "name": "",
     "publisher": null,
@@ -15429,6 +15597,20 @@
   },
   {
     "id": "Microsoft.IISManagerRemoteAdministration",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Azure.ConnectedMachineAgent",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Azure.TemplateAnalyzer",
     "name": "",
     "publisher": null,
     "description": "",
@@ -19061,6 +19243,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ElectronX.GbxDump",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ETXSoftwareInc.DuckDns",
     "name": "",
     "publisher": null,
@@ -19342,13 +19531,6 @@
   },
   {
     "id": "Extensis.ConnectFonts",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "EXEMSI.MSIWrapper",
     "name": "",
     "publisher": null,
     "description": "",
@@ -19908,6 +20090,27 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ECSoftware.eWriter",
+    "name": "",
+    "publisher": null,
+    "description": "eWriter 是一款广受欢迎的 HTML 编译器，兼具小巧体积与强大功能。它能将完整的 HTML 应用（包括 HTML、CSS、JavaScript、图片等所有相关文件）打包成单文件电子书。内置的 HTML 转 EXE 转换器可生成包含电子书内容的 Windows 可执行程序，这种可执行的 HTML 应用可以是电子书、演示文稿、游戏等多种形式。\neWriter 能将网站打包成集成服务器和浏览器的单文件便携版。您无需对网站做任何修改，只需将 eWriter 指向包含 HTML 及其他源文件的文件夹，程序便会将所有内容压缩成便携单文件版本。\n该文件是 Windows 可执行程序（EXE），内嵌您的网站内容及其专属的网页服务器和浏览器。用户打开文件时，便携版网站的运作方式与通过网页浏览器在线访问完全一致——所有站内导航和链接均完整保留，外部页面链接也能正常跳转。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ECSoftware.HelpXplain",
+    "name": "",
+    "publisher": null,
+    "description": "HelpXplain 是制作基于 HTML 的分步指导的完美工具。\n只需几分钟而非数小时，即可创建动画式分步教程和快速指引。其秘诀在于独特方法：它能将一系列简易截图动态呈现，每张截图均可随时编辑或替换。\nHelpXplain 还能录制电脑屏幕上程序的多页面屏幕演示，这些演示能像视频一样自动播放。录制和编辑过程比制作视频简单得多！\n所有 Xplain 作品均 100% 符合 HTML5 和 Javascript 标准，100% 响应式且跨平台。其体积轻巧，加载时间不足一秒！",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ECSoftware.Help+ManualTranslationAssistant",
+    "name": "",
+    "publisher": null,
+    "description": "Help+Manual 翻译助手 (HMTA)是一款强大的 Help+Manual 文档项目翻译工具。它集成了翻译人员执行初始翻译和更新所需的所有功能。\n\n包含基于 AI 的 DeepL 机器翻译\n  常规翻译功能与强大的 DeepL 机器翻译相结合。依托先进的人工智能系统，DeepL 生成的翻译质量远超您以往所见。过去机器翻译常被视为笑谈，而 DeepL 能提供真正可用的译文，通常只需稍加修改即可。专业译员评价其效果“好到令人惊讶”。\n  使用 DeepL 可节省 90% 以上的常规翻译成本和时间。\n\nHelp+Manual 翻译助手核心功能\n- 原文与译文的并排视图对比\n- 支持整批翻译整个项目的 DeepL 机器翻译\n- 新旧原文内容对比的并排视图（用于翻译更新）\n- 所见即所得编辑器，完整支持 Help+Manual 格式和样式工具",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "emoacht.Monitorian",
     "name": "",
     "publisher": null,
@@ -20286,6 +20489,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Beeper.Beeper",
+    "name": "",
+    "publisher": null,
+    "description": "只需一个 app，就能在 iMessage、WhatsApp 和其它 13 个聊天网络上聊天。你可以搜索、暂停或存档信息。有了统一的收件箱，你再也不会错过任何信息。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BackstaffSoftware.InstallBuilder.Enterprise",
     "name": "",
     "publisher": null,
@@ -20381,6 +20591,20 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BitSum.ProcessLasso.Beta",
+    "name": "",
+    "publisher": null,
+    "description": "Process Lasso 是一款用于 Windows 的进程自动化和优化软件。从 ProBalance 等调优算法到用户创建的规则以及诸如 CPU 亲和性和优先级类别等持久设置，Process Lasso 使您能够完全控制运行中的应用程序！\n我们著名的 ProBalance 算法在高 CPU 负载期间保持系统响应能力。这个专有算法会动态调整运行程序的优先级，使某些程序比其他程序更优先获得 CPU 资源。有了 ProBalance，无论是单个还是多个进程，都无法再让您的系统陷入几乎停滞的状态。即使在高 CPU 负载下，Process Lasso 也能让您继续与计算机交互。试试我们的 CPUEater 演示，亲身体验 ProBalance 的强大功能。\nProcess Lasso 还允许用户通过许多独特且实用的功能来自定义和自动化应用程序的运行方式。这些功能包括持久优先级类别、持久 CPU 亲和性、不允许运行的进程、按进程设置的电源配置文件、用于高级规则的进程监视器、进程实例数量限制、实例或应用程序的平衡以及更多功能！这些功能让您能够根据自动应用的设置，控制程序如何使用计算机的资源。有了 Process Lasso，您可以完全决定进程的运行方式。\n此外，Process Lasso 还提供了许多附加功能，如电源计划自动化、系统响应度指标以及进程活动日志记录等。\n为了最大限度地减少资源使用，所有算法和进程规则均由一个独立的后台服务 Process Governor 执行。GUI（图形用户界面）完全是可选的。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BitSum.ProcessLasso",
+    "name": "",
+    "publisher": null,
+    "description": "Process Lasso 是一款用于 Windows 的进程自动化和优化软件。从 ProBalance 等调优算法到用户创建的规则以及诸如 CPU 亲和性和优先级类别等持久设置，Process Lasso 使您能够完全控制运行中的应用程序！\n我们著名的 ProBalance 算法在高 CPU 负载期间保持系统响应能力。这个专有算法会动态调整运行程序的优先级，使某些程序比其他程序更优先获得 CPU 资源。有了 ProBalance，无论是单个还是多个进程，都无法再让您的系统陷入几乎停滞的状态。即使在高 CPU 负载下，Process Lasso 也能让您继续与计算机交互。试试我们的 CPUEater 演示，亲身体验 ProBalance 的强大功能。\nProcess Lasso 还允许用户通过许多独特且实用的功能来自定义和自动化应用程序的运行方式。这些功能包括持久优先级类别、持久 CPU 亲和性、不允许运行的进程、按进程设置的电源配置文件、用于高级规则的进程监视器、进程实例数量限制、实例或应用程序的平衡以及更多功能！这些功能让您能够根据自动应用的设置，控制程序如何使用计算机的资源。有了 Process Lasso，您可以完全决定进程的运行方式。\n此外，Process Lasso 还提供了许多附加功能，如电源计划自动化、系统响应度指标以及进程活动日志记录等。\n为了最大限度地减少资源使用，所有算法和进程规则均由一个独立的后台服务 Process Governor 执行。GUI（图形用户界面）完全是可选的。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -20482,7 +20706,21 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BRAK.beAClientSecurity",
+    "name": "",
+    "publisher": null,
+    "description": "The beA Client Security is a program that is installed directly on the user's computer or within the terminal server environment. It is used to perform security-critical functions that must not take place on the internet.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "brackets-cont.brackets",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Bit4id.Firma4ng.InfoCamere",
     "name": "",
     "publisher": null,
     "description": "",
@@ -20717,6 +20955,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BUT.NetfoxDetective",
+    "name": "",
+    "publisher": null,
+    "description": "NFX 侦探是一款创新的网络取证分析工具，通过支持协议实现通信中应用层内容的提取。其核心功能包括：\n- 支持多 PCAP 文件分析的会话式项目管理，可处理 GB 级大型数据包文件\n- 提供从全局概览到单包细节的多层级可视化视图\n- 集成常用应用协议的解析器与内容提取方法\n- 支持流量过滤与全文检索功能\n本平台具备高度可扩展性，支持以下定制化需求：\n- 可通过协议描述语言开发新协议提取模块，并实现数据转换与定制化展示视图\n- 基于开放式数据模型，允许用户添加自定义分析方法并灵活修改\n- 支持定义新型数据视图，所有数据存储于 NoSQL 数据库并通过标准化接口高效访问",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -21577,7 +21822,7 @@
     "id": "Folge.Folge",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "Folge 是一款桌面工具，能够通过每次鼠标点击捕捉操作步骤，自定义截图，添加注释，并最终生成 HTML、Word 文档、PDF、PowerPoint 幻灯片等多种格式的指南。\n主要功能包括：\n- 截取应用程序、任意选定区域、窗口或全屏画面。支持暂停、调整和继续操作，每次鼠标点击或按键均可触发截图。\n- 为每个步骤命名并添加描述。可随时重新排序、隐藏或新增步骤，并将指南按项目分类管理。\n- 支持将指南导出为 HTML、PDF、DOC、PPT、JSON、Markdown 等格式，便于分享。未来还将支持更多文件类型。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -21732,6 +21977,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FinancialID.BankID",
+    "name": "",
+    "publisher": null,
+    "description": "BankID 是数字环境中常用的身份验证方式。您无需为不同机构创建带密码的账户，只需使用这一通用安全解决方案即可。就像出示身份证件一样，只不过是以数字形式实现。\n您可以通过 BankID 与数千家企业和政府机构进行身份认证或数字签名。还可在 BankID 应用中激活电子身份证功能。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -22037,6 +22289,13 @@
   },
   {
     "id": "Fabio286.antares",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Filestar.Filestar",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22988,6 +23247,27 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Creality.CRStudio",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Creality.CrealityScan.4",
+    "name": "",
+    "publisher": null,
+    "description": "Creality Scan is a dedicated 3D scanning software designed for Creality's scanners, offering a wide range of features to help users achieve high-quality scans and complete model construction. The software supports practical functions such as one-click model optimization, multi-position automatic alignment, automatic denoising, topology simplification, and color texture mapping. It also allows users to export 3D models and point cloud data in STL, OBJ, and PLY formats, making operations simpler and more efficient.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Creality.CrealityScan",
+    "name": "",
+    "publisher": null,
+    "description": "Creality Scan is a dedicated 3D scanning software designed for Creality's scanners, offering a wide range of features to help users achieve high-quality scans and complete model construction. The software supports practical functions such as one-click model optimization, multi-position automatic alignment, automatic denoising, topology simplification, and color texture mapping. It also allows users to export 3D models and point cloud data in STL, OBJ, and PLY formats, making operations simpler and more efficient.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Corona.Solar2D",
     "name": "",
     "publisher": null,
@@ -23020,6 +23300,20 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CoenFin.BankStatementAnalyser",
+    "name": "",
+    "publisher": null,
+    "description": "For conducting analyses on bank files, it is useful to have a tool that can make digital bank files such as CAMT053, CAMT052, MT940, OFX (Open Financial Exchange), and Belgian CODA files readable. Additionally, SEPA payment and direct debit files can also be displayed using this tool. The data in these files can be exported with this program to Excel (for further analysis), to HTML (to view the bank transactions in bank statement format), or to an MT940, CAMT053, or OFX file (for example, to merge CAMT files or convert an MT940 to CAMT053 format and vice versa). Furthermore, the database (sqlite) can be exported for analysis purposes in tools like Power BI.\nMoreover, there are analysis features such as searching for text, drilling down on counterparties (PartyIBAN), Benford Law Analysis, identifying account numbers linked to multiple names, transactions by weekday, etc. These analysis features will be further expanded in upcoming versions.\nThe program can be seen as the successor to the MT940 Reader. However, the BankStatement Analyzer can handle CAMT files and splits the :86: tag of MT940 files (currently from major banks in the Netherlands) into separate fields based on specific structured fields.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CoenFin.AuditfileConverterAndAnalyser",
+    "name": "",
+    "publisher": null,
+    "description": "Audit files enable the exchange of data between administrative systems using a standard format. This is convenient because no specific knowledge of different accounting packages is required. The data can then be further analyzed in a custom analysis tool.\nThe initiative for the development of audit files originally came from the tax authorities. The first version was released in 1999 in the form of an ASCII text file (ADF). Later, its successor was introduced in the form of an XML file, known as the XAF audit files. The first version of this was version 2.0. Currently, development is more driven by commercial parties. The current versions are in the 3.x series.\nIn addition to the tax authorities, audit files are also very useful for other parties such as accountants and consultants. In this context, the tax authorities provided an Auditfile Viewer, which can be downloaded for free via softwarepakketten.nl. However, the tax authorities stopped developing the viewer in 2008. As a result, the latest versions (3.x series) of the audit file are not supported.\nThis program is the successor to Auditfile Converter version 1 (from 2014). The first version addressed the issue of newer audit file versions not working in, for example, the Auditfile Viewer from the tax authorities, and the problem of split audit files that needed to be merged. However, the first version of the Auditfile Converter had issues with overly large fields due to the underlying database used. Therefore, the program has been completely rewritten and now offers, in addition to the features already available in the first version, options for performing limited analyses on the data imported into the database. Additionally, the Auditfile Converter is also available for MAC and, upon request, for Linux.\nFrom version 2.10, it is also possible to import and analyze Payroll audit files. And from version 2.14, Auditfile POS systems and Auditfile Trip Administration.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -23493,6 +23787,20 @@
   },
   {
     "id": "Canva.Canva",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Canva.Canva.CN",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CREALOGIX.PayEye",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25046,6 +25354,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Radekyspec.StartLive",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RyanGregg.GCFScape",
     "name": "",
     "publisher": null,
@@ -25166,6 +25481,13 @@
   },
   {
     "id": "RayCarrot.RaymanControlPanel",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "rtkktr.WriteImage",
     "name": "",
     "publisher": null,
     "description": "",
@@ -26187,6 +26509,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PEAKSystem.PEAKDrivers",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PA7LIM.BlueDV",
     "name": "",
     "publisher": null,
@@ -26488,6 +26817,27 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Pathway.HoverCamFlex.11",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Pathway.FlexWhiteboard",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Pathway.HoverCamHDMIViewer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PhapDieuDuong.ExifGlass",
     "name": "",
     "publisher": null,
@@ -26544,6 +26894,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PROSA.Log4View",
+    "name": "",
+    "publisher": null,
+    "description": "LOG4VIEW 是一款便捷的 XML 格式 log4net 日志查看工具，能够可视化并过滤来自 UDP 附加器、文件附加器甚至专用 TCP 附加器等多种日志源的输出内容。\nLOG4VIEW 会从配置的日志附加器中读取所有日志消息并存储于内部缓冲区。用户可自由设定各日志记录器的显示级别，当调整过滤设置时，先前隐藏的日志消息会即时显示，反之亦然。\nLOG4VIEW 专为开发者设计，致力于以最高效舒适的方式呈现日志信息。LOG4VIEW 是一款纯.NET 应用，采用 C# 语言开发。\nLOG4VIEW 的独特优势在于能将不同日志源合并显示于统一视图，极大简化分布式应用的调试过程。\n核心功能：\n- 支持同时查看多份日志\n- 动态扩展的日志记录器树展示所有已知记录器\n- 可视化信息的类型与布局完全可定制\n- 可根据记录器名称、日志级别、消息文本等条件自定义消息字体颜色\n- 便捷的单一日志记录器级别过滤配置\n- UDP 接收器兼容原生 log4net UDP 附加器\n- TCP 接收器需配合专用 TCP 附加器使用，确保可靠传输\n- 文件接收器支持 log4net 文件/滚动文件附加器，可读取归档日志\n- 数据库接收器支持 SQL Server、Oracle、DB2 及 MySQL\n- 兼容 XML 格式与模式化格式日志文件\n- 链接式接收器支持直接编辑 log4net 配置\n- 多接收器消息可合并显示或分窗口展示\n- 快速加载超大规模日志文件（>10 万行）\n- 支持自定义日志级别与附加内容字段",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Prowise.ProwiseReflect",
     "name": "",
     "publisher": null,
@@ -26590,6 +26947,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Pantaray.QSetup",
+    "name": "",
+    "publisher": null,
+    "description": "来自“Pantaray Research LTD.”的 QSetup，是当今最有效且功能强大的安装程序。\nQSetup 旨在让您以最小的工作量且无需脚本编程，即可创建高质量的复杂安装交付方案。\nQSetup 具备用户友好且直观的界面，可帮助您在极短时间内创建稳定可靠的安装程序。\nQSetup 能生成单一的自解压安装文件，便于从互联网下载、通过 CD 分发或部署在中央文件服务器上。\nQSetup 还能创建分体式安装包，仅需向客户提供小型安装内核，即可从互联网自动下载剩余安装文件。\nQSetup 的独特之处在于能创建具备自动更新功能的安装程序，当程序新版本发布时可从互联网自动升级。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -26734,6 +27098,13 @@
   },
   {
     "id": "prefix-dev.pixi",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Palsternakka.OutlookWindowHook",
     "name": "",
     "publisher": null,
     "description": "",
@@ -28308,13 +28679,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Kumospace.Kumospace",
-    "name": "A virtual office to bring teams together to do their best work.",
-    "publisher": "Kumospace, Inc.",
-    "description": "A virtual office to bring teams together to do their best work.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "AIVOICE.KURITA",
     "name": "A.I.VOICE 栗田 まろん",
     "publisher": "AI, Inc.",
@@ -28438,6 +28802,13 @@
     "name": "ACS",
     "publisher": "Splunk",
     "description": "Admin Config Service CLI for managing splunk cloud stacks.\nThe Admin Config Service (ACS) provides a command line interface (CLI) that lets you perform many Splunk Cloud Platform configuration and management tasks in a self-service manner. You can use the CLI to run corresponding ACS API operations from the command line, without having to know specific API endpoint details.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ACS.UnifiedPCSCDriver",
+    "name": "ACS Unified PC/SC Driver",
+    "publisher": "Advanced Card Systems Ltd.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30464,6 +30835,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Asana.Asana",
+    "name": "Asana",
+    "publisher": "Asana, Inc.",
+    "description": "Asana is a leader in collaborative project management software for teams, no matter their size or locational distribution. Asana helps you, your teams, and your stakeholders collaborate faster and smoother to achieve business objectives.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AMustInEveryOffice.ASAPUtilities.Business",
     "name": "ASAP Utilities (Business edition)",
     "publisher": "A Must in Every Office BV - Bastien Mensink",
@@ -30674,7 +31052,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Armin2208.WindowsAutoNightMode",
+    "id": "ArminOsaj.AutoDarkMode",
     "name": "Auto Dark Mode",
     "publisher": "Armin Osaj & Samuel Schiegg",
     "description": "Automatically switches between the dark and light theme of Windows 10 and Windows 11.\nAuto Dark Mode helps you to be more productive.\nBecause you shouldn't care about changing Windows settings several times a day.\nAs soon as the sun goes down, we'll take care of everything for you.\nBecause a simple design change would be too boring, Auto Dark Mode is packed with useful functions.\nFor example, we can also change your desktop wallpaper.",
@@ -31017,6 +31395,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.AzureDataStudio",
+    "name": "Azure Data Studio",
+    "publisher": "Microsoft Corporation",
+    "description": "Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostgreSQL, and MongoDB.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.Azd",
     "name": "Azure Developer CLI",
     "publisher": "Microsoft Corporation",
@@ -31062,7 +31447,7 @@
     "id": "Microsoft.AzureMonitorAgent",
     "name": "Azure Monitor Agent",
     "publisher": "Microsoft Corporation",
-    "description": "",
+    "description": "The Azure Monitor Agent collects monitoring data from the guest operating system of Azure and hybrid virtual machines (VMs). It delivers the data to Azure Monitor for use by features, insights, and other services, such as Microsoft Sentinel and Microsoft Defender for Cloud.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -31377,7 +31762,7 @@
     "id": "PassmarkSoftware.BatteryMon",
     "name": "BatteryMon",
     "publisher": "PassMark Software",
-    "description": "",
+    "description": "BatteryMon can graph your batteries charge levels in real time, alongside an extrapolated trend line and comparison trend line.\n\nA log file is maintained of the battery charge level and other statistics for later analysis.\n\nTypical users include portable computer repair centers, system integrators, server administrators who must manage laptops and, home users trying to diagnose battery problems.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -31507,13 +31892,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Beeper.Beeper",
-    "name": "Beeper",
-    "publisher": "Beeper Inc.",
-    "description": "只需一个 app，就能在 iMessage、WhatsApp 和其它 13 个聊天网络上聊天。你可以搜索、暂停或存档信息。有了统一的收件箱，你再也不会错过任何信息。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "CHMS.Behindyou",
     "name": "Behind you",
     "publisher": "CHMS",
@@ -31574,6 +31952,13 @@
     "name": "Benthic Software: PLEdit 7.x",
     "publisher": "Benthic Software",
     "description": "PLEdit allows editing and compiling of Oracle PL/SQL code modules (stored procedures.) It is optimized to be quick and resource friendly.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AxiomaticSystems.Bento4",
+    "name": "Bento4",
+    "publisher": "Axiomatic Systems, LLC.",
+    "description": "Bento4 is a C++ class library and tools designed to read and write ISO-MP4 files. This format is defined in international specifications ISO/IEC 14496-12, 14496-14 and 14496-15. The format is a derivative of the Apple Quicktime file format, so Bento4 can be used to read and write most Quicktime files as well. In addition to supporting ISO-MP4, Bento4 includes support for parsing and multiplexing H.264 and H.265 elementary streams, converting ISO-MP4 to MPEG2-TS, packaging HLS and MPEG-DASH, CMAF, content encryption, decryption, and much more.\nFeatures\nA number of formats and features based on the ISO-MP4 format and related technologies are also supported, including:\n- MPEG DASH with fragmented MP4 files, as defined in the international specification ISO/IEC 23009-1\n- HLS with TS or MP4 segments (dual DASH/HLS output), as defined in RFC 8216\n- CMAF (Common Media Application Format) as defined in ISO/IEC 23000-19\n- MPEG Common Encryption (CENC) as specified in the international specification ISO/IEC 23001-7\n- PIFF (Protected Interoperable File Format), and encrypted, fragmented MP4 format specified by Microsoft and used for encrypted HTTP Smooth Streaming.\n- Reading and writing 3GPP and iTunes-compatible metadata.\n- ISMA Encrytion and Decryption as defined in the ISMA E&A specification\n- OMA 2.0 and 2.1 DCF/PDCF Encryption and Decryption as defined in the OMA specifications.\n- ISO-MP4 files profiled as part of the 3GPP family of standards.\n- The UltraViolet (DECE) CFF (Common File Format).\n- Parsing and multiplexing of H.264 (AVC) video and AAC audio elementary streams\n- Support for multiple DRM systems that are compatible with MP4-formatted content (usually leveraging CENC Common Encryption), such as Marlin, PlayReady, Widevine, FairPlay and Adobe Access.\n- Support for a wide range of codecs, including H.264 (AVC), H.265 (HEVC), AAC, HE-AAC, xHE-AAC, AC3 and eAC3 (Dolby Digital), AC4, Dolby Atmos, DTS, ALAC, and many more.\n- Support for Dolby Vision and HDR.\nThe SDK is designed to be cross-platform. The code is very portable; it can be compiled with any sufficiently modern C++ compiler. The implementation does not rely on any external library. All the code necessary to compile the SDK and tools is included in the standard distribution. The standard distribution contains makefiles for unix-like operating systems, including Linux and Android, project files for Microsoft Visual Studio, and an XCode project for MacOS X and iOS. There is also support for building the library with the SCons build system as well as CMake.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -32095,7 +32480,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SecombaGmbH.Boxcryptor",
+    "id": "Secomba.Boxcryptor",
     "name": "Boxcryptor",
     "publisher": "Secomba GmbH",
     "description": "",
@@ -32526,13 +32911,6 @@
     "name": "Cairo Desktop Environment",
     "publisher": "Cairo Development Team",
     "description": "Cairo is a desktop environment for Windows.\nOur goal is to develop a desktop experience that increases productivity and advances current technology standards.\nWith a focus on stability, performance, and productivity, Cairo aims to deliver an interface that exceeds expectations and delivers superior ease of use.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "aluxnimm.outlookcaldavsynchronizer",
-    "name": "CalDavSynchronizer",
-    "publisher": "Gerhard Zehetbauer",
-    "description": "Outlook CalDav Synchronizer is a free Outlook Plugin, which synchronizes events, tasks and contacts between Outlook and Google, SOGo, Nextcloud or any other CalDAV or CardDAV server. Supported Outlook versions are Office 365, 2019, 2016, 2013, 2010 and 2007.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33016,6 +33394,13 @@
     "name": "CheckIP",
     "publisher": "Exploitox - Unleash your exploits!",
     "description": "CheckIP is a GUI based application which can provide much information about an IP address.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Sjord.Checkmate",
+    "name": "Checkmate MP3 checker",
+    "publisher": "Sjoerd Langkemper",
+    "description": "Checkmate MP3 Checker is a free program that checks MP3 files for errors. It scans MP3 files to see if the frames are where they are supposed to be, whether the frame headers are correct and whether the frame headers are consistent throughout the file. It reports some information on each file and an indication whether the file is good or bad.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33754,6 +34139,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ColorLogic.ColorAnt",
+    "name": "ColorAnt",
+    "publisher": "ColorLogic",
+    "description": "ColorAnt is a professional color data certification and profiling tool used in prepress and printing to analyze, optimize, and correct ICC profiles, measurement data, and color workflows for ISO-compliant results.\n\nKey Features:\n- Data Certification: Validates color data against ISO 12647/15339 standards.\n- Profile Optimization: Corrects gradients, smooths gamut mappings, and fixes profile errors.\n- Device Linking: Creates accurate device link profiles for complex print workflows.\n- Measurement Tools: Analyzes lab/Lch values, ΔE differences, and gamut volumes.\n- Hardware Integration: Works with major spectrophotometers (X-Rite, Barbieri, etc.).\n- Automation: Scriptable for batch processing and integration (e.g., with Zebra or CoPrA).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Coloryr.ColorMC",
     "name": "ColorMC",
     "publisher": "Coloryr",
@@ -34027,10 +34419,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Danfoss.CoolConfig",
+    "name": "CoolConfig",
+    "publisher": "Danfoss A/S",
+    "description": "The CoolConfig tool allows the project engineer to generate the settings for the EKE 400/450 evaporator controller, IPS 8 Air Purger, LLS 400 or ICAD B offline, and hand over the file to the commissioning engineer at the appropriate time for the installation. It also allows the commissioning engineer to download the settings from these devices already installed at a job-site and modify and store these on a PC.\nFeatures and benefits:\n- Easily setup or modify the settings of an EKE 400/450 evaporator controller, IPS 8 Air Purger, LLS 4000 or ICAD B on a PC.\n- Easily upload the settings to multiple EKE 400/450 evaporator controllers, IPS 8 Air Purger, LLS 4000 or ICAD B.\n- Easily download settings from an EKE 400/450 evaporator controller, IPS 8 Air Purger, LLS 4000 or ICAD B installed at a job site and store on a PC.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "COPASI.COPASI",
     "name": "COPASI",
     "publisher": "copasi.org",
     "description": "COPASI is a software application for simulation and analysis of biochemical networks and their dynamics.\nCOPASI is a stand-alone program that supports models in the SBML standard and can simulate their behavior using ODEs, SDEs, or Gillespie's stochastic simulation algorithm. Arbitrary discrete events can be included in such simulations. COPASI provides a set analysis methods and parameter estimation.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ColorLogic.CoPrA",
+    "name": "CoPrA",
+    "publisher": "ColorLogic",
+    "description": "CoPrA is the control center for any ICC color profiling task. CoPrA creates high quality printer, DeviceLink and SaveInk profiles with a user friendly interface for any color space and printing process. Offering some of the most intelligent and advanced profiling tools in the industry today, CoPrA can be even used for industrial printing processes such as textiles, ceramics, flexo and others.\n\nSave time and money with its wide range of features to optimize print production. A must-have tool for any color management professional to capture the characteristics of their presses and printers or to implement high quality extended gamut printing.\n\nKey Features:\n- Automated Color Fixes: Corrects out-of-gamut colors, preserves spot colors, and adjusts CMYK/Separations.\n- Preflight & Compliance: Validates PDF/X-4 files against ISO 12647-2/7 and G7 requirements.\n- Brand Color Tools: Enforces color libraries (Pantone, HKS, brand-specific) with ΔE tolerance controls.\n- Cloud/API Integration: Runs via browser or integrates into workflows (e.g., MIS, web-to-print).\n- Reporting: Generates certified PDF audit trails for proof approval.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36260,6 +36666,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Bay12Games.DwarfFortressClassic",
+    "name": "Dwarf Fortress Classic",
+    "publisher": "Bay 12 Games",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Maplespe.DWMBlurGlass",
     "name": "DWMBlurGlass",
     "publisher": "Maplespe",
@@ -36344,10 +36757,38 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EaseUS.BackupCenter",
+    "name": "EaseUS Backup Center",
+    "publisher": "EaseUS",
+    "description": "EaseUS Backup Center – the centralized backup management solution helps to deploy backup tasks to multiple terminal machines from one console, run and monitor backups on all systems easily.\n\nEaseUS Backup Center is a web-based portal working with EaseUS Todo Backup Enterprise, which enables IT administrators, and service providers to deliver the centralized management of the backup tasks to the client PCs.\n\nEaseUS Backup Center needs to be installed on one of your machines as the server-side. Next, all the management is available through a web application called the Management Portal. \n\nThe management portal enables administrators to:\n  1. Add client PCs to the portal.\n  2. Manage and Group the client PCs.\n  3. Create multiple backup tasks with the intelligent backup scheme and cleanup strategy.\n  4. Remotely deploy and manage backup tasks to different clients/group\n  5. Monitor the backup tasks on the Client PCs.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "EaseUS.ChatTrans",
+    "name": "EaseUS ChatTrans",
+    "publisher": "EaseUS",
+    "description": "EaseUS.ChatTrans -  Easy WhatsApp Transfer, Backup & Restore\n- Transfer WhatsApp messages, images, videos, contacts, etc between iOS & Android.\n- Transfer WhatsApp business between iOS & Android\n- Backup WhatsApp from iPhone, iPad, Android to PC\n- Restore WhatsApp backup to iPhone, iPad, Android\n- Backup Kik and Viber App Data\n\nDevices Supported\n- iPhone 4s/5/5s and later series, including 15\n- iPad mini2/3/4/5, iPad3/4/5/6/7, ipad Air 2,Air 3,iPad Pro and later series\n- Samsung, Huawei, Xiaomi, Oppo, Vivo, HTC, LG, Sony, Motorola（New support）",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "EaseUS.MobiMover",
+    "name": "EaseUS MobiMover",
+    "publisher": "EaseUS",
+    "description": "Multi-directional Transfer on iPhone, Android, PC and Mac\n\nBrowse and access files on your iPhone, and easily transfer individual files or a batch of data between your iPhone and your computer. Especially when you want to transfer photos from your computer to your iPhone for sharing on Facebook, Twitter or Instagram or other purposes.\n\nDelete files in bulk on your iPhone to optimize storage space. Easily free up storage by removing multiple files at once. You can also uninstall unwanted apps with one-click.\n\nDevices Supported\n- Android: Samsung, Google, and Moto smartphones and tablets running Android 5.0 and above.\n- All models of iPhone that can run iOS 18 Beta/17/16/15/14/13/11/10, iOS 9 and former; iPad: All models of iPad Air (4th Gen), iPad mini, iPad Pro and iPad that can run iPadOS 18 Beta/17/16/15/14/13.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EaseUS.PartitionMaster",
     "name": "EaseUS Partition Master",
     "publisher": "EaseUS",
     "description": "EaseUS Partition Master is a smart and reliable assistance to manage your hard drive in many different ways. With its help, you are able to easily organize and optimize your hard drive with Create, Delete, Resize and other dozens of powerful features.\nThe user-friendly interface with comprehensive wizards greatly simplifies even the most complex operation on managing your partitions and ensures every feature in this product can be easy to found and navigate.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "EaseUS.RecExperts",
+    "name": "EaseUS RecExperts",
+    "publisher": "EaseUS",
+    "description": "EaseUS RecExperts is easy-to-use screen recording software with a lot of features to offer. This recording tool can capture audio and webcam video in addition to what’s happening on your screen. We also liked that it offers scheduled recordings and an auto-stop function.\n- Capture any region on the PC screen along with audio or webcam.\n- Record all 2D/3D gameplay highlights without lag or time limit.\n- Enhance user experience with embedded video editor and media player.\n- Advanced AI-powered noise remover, video enhancer for 4K/8K videos, auto recording & audio extractor.\n\nSupported Output Formats\n- MP4, MOV, FLV, MKV, AVI\n- MP3, AAC, WAV, OGG, WMA, FLAC\n-  GIF, PNG",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37359,6 +37800,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ECSoftware.eWriterViewer",
+    "name": "eWriter Viewer",
+    "publisher": "EC Software GmbH",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ExacqTechnologies.exacqVisionClient",
     "name": "exacqVision Client",
     "publisher": "Exacq Technologies",
@@ -37962,9 +38410,9 @@
   },
   {
     "id": "Mythicsoft.FileLocator",
-    "name": "FileLocator Pro",
+    "name": "FileLocator Pro/Lite",
     "publisher": "Mythicsoft Ltd",
-    "description": "FileLocator Pro is a powerful Windows search tool for instantly finding text, patterns, and data within files (including Office, PDF, archives, and code) using advanced filters, regex, and scripting.\n- Deep Content Search: Scans inside 100+ file formats (text/binary).\n- Advanced Features: Regex, Boolean logic, scripting (JavaScript/Python), hex view.\n- Speed: Indexed or instant \"raw\" disk searches.\n= Professional Tools: Save templates, batch processing, command-line support.",
+    "description": "FileLocator Pro is a powerful Windows search tool for instantly finding text, patterns, and data within files (including Office, PDF, archives, and code) using advanced filters, regex, and scripting.\n- Deep Content Search: Scans inside 100+ file formats (text/binary).\n- Advanced Features: Regex, Boolean logic, scripting (JavaScript/Python), hex view.\n- Speed: Indexed or instant \"raw\" disk searches.\n- Professional Tools: Save templates, batch processing, command-line support.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38875,6 +39323,13 @@
     "name": "Flat",
     "publisher": "Agora",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Google.flatbuffers",
+    "name": "flatbuffers",
+    "publisher": "Google, Inc.",
+    "description": "Cross platform serialization library architected for maximum memory efficiency.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40600,6 +41055,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "GPAC.GPAC",
+    "name": "GPAC",
+    "publisher": "GPAC",
+    "description": "The GPAC Open Source framework empowers the seamless handling of a diverse range of multimedia elements. It is an all-in-one solution for processing, inspecting, packaging, streaming, playback and interaction with media content.\nGPAC handles audio, video, subtitles, metadata, scalable graphics, encrypted media, 2D/3D graphics and ECMAScript to enable the most beautiful and unimaginable ultramedia experiences. GPAC’s comprehensive suite of tools, including the renowned MP4Box and the versatile gpac application, offer robust functionality for media manipulation, packaging and streaming.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GnuPG.Gpg4win",
     "name": "Gpg4win",
     "publisher": "The Gpg4win Project",
@@ -41489,6 +41951,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ECSoftware.Help+Manual.9",
+    "name": "Help+Manual 9",
+    "publisher": "EC Software",
+    "description": "Help+Manual is a single-source help authoring and content management system for both single and multi-author editing. Working with Help+Manual is as easy as writing text with a word processor. Help+Manual scales from small to really large projects with thousands of pages and creates Windows help files, Webhelp and manuals in print and PDF format. Try yourself and download a trial of Help+Manual! Writing help has never been easier.\n\nHelp+Manuals working environment gives you all the formatting and editing features of a modern word processor, including dynamic styles and complex tables. The software creates all classic help file and documentation formats:\n* Microsoft HTML Help (.chm)\n* Visual Studio Help\n* Webhelp for integration into your website\n* User manuals in Adobe PDF format\n* Apple iPad e-books\n\nFeatures:\n* Multiple output from one single source\n* All outputs are highly customizeable\n* PDF manuals with active hyperlinks\n* Built-in multi-user authoring capabilities\n* Tools includes: reports, translation assistants, image and screen shot tools\n\nSingle source, Multiple output\nSingle source is much more than just outputting exactly the same information to different formats. Help+Manual supports conditional and customized output features that enable you to include variant content versions for different output formats and purposes - all in the same project, no post-processing is required.\n\nHelp+Manual handles all the complexities of help formatting and generation for you, letting you concentrate on the work of writing. But there is also extensive support for power users and experienced help authors. You can get under the hood and insert your own HTML code, change the code the program uses to generate your projects, manipulate topic and project templates and more.\n\nHelp+Manual gives you the best of both worlds.\nDownload the fully functional evaluation version to try Help+Manual for 30 days!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BrettMayson.HEMTT",
     "name": "HEMTT",
     "publisher": "BrettMayson",
@@ -42284,6 +42753,13 @@
     "name": "IIS Crypto GUI",
     "publisher": "Nartac Software Inc.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IkemenGO.IkemenGO",
+    "name": "Ikemen GO",
+    "publisher": "Ikemen GO",
+    "description": "Ikemen (short for Itsumademo Kanseishinai Eienni Mikansei ENgine) is a free and open-source fighting game engine designed to be compatible with M.U.G.E.N content, while also expanding on its feature set to allow for more flexible customization. The engine is notable for introducing stage zoom prior to the release of the M.U.G.E.N 1.1 beta, and for allowing netplay matches, a feature that is not supported in any official build of M.U.G.E.N. Unlike M.U.G.E.N, the engine is open source, which allows users to modify the engine outside of simple content additions, as well as the addition of new features, such as new state controllers and menus. Because of its open source nature, the engine has been split into multiple versions handled by different individuals; the original Ikemen was created by SuperSuehiro, which was later forked and extended into Ikemen Plus by K4thos, and later rewritten in the GO language as Ikemen GO by SuperSuehiro, which is currently maintained by multiple individuals.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44363,6 +44839,13 @@
     "name": "Kubri",
     "publisher": "Kubri",
     "description": "Kubri signs and releases software for common package managers and software update frameworks.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Kumospace.Kumospace",
+    "name": "Kumospace",
+    "publisher": "Kumospace, Inc.",
+    "description": "A virtual office to bring teams together to do their best work.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46606,6 +47089,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Zoid.Meru",
+    "name": "Meru",
+    "publisher": "Tim Cheung",
+    "description": "Meru is an open-source desktop application that brings your Gmail experience out of the browser and onto your desktop. It provides a cleaner, more focused way to access and manage your Gmail account(s).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MeshHouse.MeshHouse",
     "name": "MeshHouse",
     "publisher": "Maxim Makarov",
@@ -46844,7 +47334,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Microsoft.AgentsPlayground",
+    "id": "Microsoft.M365AgentsPlayground",
     "name": "Microsoft 365 Agents Playground",
     "publisher": "Microsoft Corporation",
     "description": "Helps developers to debug, test and iterate on the app design of a agent/bot application in a web-based chat environment that emulates the behavior, look and feel of different channels.",
@@ -47268,6 +47758,13 @@
     "name": "Min",
     "publisher": "PalmerAL",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Dextronet.MindCollected",
+    "name": "Mind Collected",
+    "publisher": "Dextronet",
+    "description": "Visually catalog and connect ideas and things from your life.\n\nEach object in your visual database has a picture, name, tags, rich notes, and connections to other items.\n\nMind Collected can automatically search and download pictures for your objects from the Internet, or you can use your own photos.\n\nMind Collected is your new super-brain\n- Remember and learn things faster and better. All you have to do is to visually catalog the things and concepts you want to learn, and connect them with other things you've already collected. Your brain will do the rest automatically - it will see it all.\n- Master any subject quickly\n- Change your thinking - by visually cataloging things and ideas, you will make them \"psychoactive\" and prime yourself to automatically think about them more often with no additional effort on your part.\n- Change your behavior - by visually cataloging and connecting ideas and habits, you are more likely to act accordingly. For example, entering a specific healthy food into your visual database will make you more likely to buy, order and eat it in the future.\n- Re-live your favorite memories and times of your life. Easily and quickly make a gallery of the things, activities, games, people or places you love.\n- Build your own visual collection over time. The more items your collection has, the more valuable it becomes.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49119,6 +49616,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EXEMSI.MSIWrapper",
+    "name": "MSI Wrapper",
+    "publisher": "exemsi.com",
+    "description": "MSI Wrapper is a tool that can convert non-MSI installers (EXE, scripts, etc.) into standardized MSI packages for streamlined enterprise deployment via systems like SCCM, Intune, or Group Policy.\n\nKey Features/Capabilities:\n- Repackaging: Transforms EXE, ZIP, or script-based setups into Windows Installer (.msi) format.\n- Silent Installation: Enables unattended deployments with parameters (/qn).\n- Basic Customization: Adds product metadata, shortcuts, registry keys, or file associations.\n- Compatibility: Ensures installer compliance with enterprise management tools (SCCM/WSUS).\n\nUse Cases:\n- IT admins needing to deploy legacy or non-MSI software across corporate networks.\n- Standardizing third-party apps lacking native MSI support.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DanielGehriger.MSI2XML",
     "name": "msi2xml",
     "publisher": "Daniel Gehriger",
@@ -49151,6 +49655,13 @@
     "name": "MSYS2 Installer",
     "publisher": "The MSYS2 Developers",
     "description": "MSYS2 is a collection of tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CoenFin.MT940Creator",
+    "name": "MT940 Creator",
+    "publisher": "CoenFin Software",
+    "description": "In het kader van een efficiënte boekhouding is het handig om bankmutaties te kunnen inlezen in een (online) boekhoudpakket. Vrijwel alle boekhoudpakketten lezen bankmutaties in met zogenoemde MT940 bestanden. Nagenoeg bij alle zakelijke bankrekeningen is er ook een mogelijkheid om bankmutaties te exporteren naar een MT940-bestand. Vanaf versie 2.0 kunnen ook CAMT053 gegenereerd worden.\nVeel ZZP’ers en kleine ondernemingen maken echter geen gebruik van zakelijke bankrekeningen. Niet zakelijke bankrekeningen hebben het voordeel dat ze een stuk goedkoper zijn dan een zakelijke tegenhanger. Echter de meeste niet zakelijke bankrekeningen bieden echter geen mogelijkheid om te exporteren naar MT940 bestanden. Deze rekeningen kunnen veelal alleen exporteren naar CSV.\nDe MT940 Creator speelt hierop in. Met de MT940 Creator kunt u CSV bestanden van o.a. ING-Bank, Rabobank, Triodus, KNAB-Bank, SNS en Leaseplanbank omzetten in een MT940 bestand. Daarnaast kunt u ook CSV bestanden van payproviders Paypal, Sisow, Buckaroo, PaySquare en Atos Worldline omzetten in een MT940 bestand.\nHet programma is getest i.c.m. verschillende boekhoudomgevingen zoals o.a. BIZZcounter, Davilex Online, Exact Online, Minipak, Snelstart, InformerOnline, Reeleezee, AFAS(personal), Cash Software, E-Boekhouden en MoneyBird.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50281,6 +50792,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NetAtWork.NoSpamProxyOutlookAddin",
+    "name": "NoSpamProxy Outlook add-in",
+    "publisher": "Net at Work GmbH",
+    "description": "Functions of the Outlook Add-In when composing emails\n- Automatic Encryption| Enables the delivery of encrypted emails to recipients who do not have cryptographic keys in their possession. NoSpamProxy Encryption automatically selects the appropriate delivery method nd delivers the email securely.\n- PDF Mail| Converts the email content with all attachments into a PDF document and secures this document with a password. This allows you to securely deliver emails with all attachments even to recipients without cryptographic keys.\n- S/MIME or PGP| Allows the signature and encryption of emails using cryptographic keys such as PGP key pairs or S/MIME certificates.\n- Large Files| Transfers large files via the NoSpamProxy Web Portal. Instead of the file, a link is attached to the email, with the help of which the recipient(s) of the email can download the files secured by SSL. The link can be protected by a password.\n- De-Mail: Displays all the delivery options available to you for De-Mail delivery.\nFunctions of the Outlook Add-In when reading emails\n- Decrypting PDF attachments| Decrypts password-protected PDF attachments and removes passwords.\n- Deleting passwords| Deletes previously saved PDF decryption passwords.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Amazon.NoSQLWorkbench",
     "name": "NoSQL Workbench",
     "publisher": "DynamoDB Developer Experience",
@@ -50494,13 +51012,6 @@
     "id": "NOWTV.NOWTVPlayer",
     "name": "NOW TV Player",
     "publisher": "NOW TV",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Insecure.Npcap",
-    "name": "Npcap",
-    "publisher": "Insecure",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -51971,7 +52482,7 @@
     "id": "GDGSoftware.PaquetBuilder",
     "name": "Paquet Builder",
     "publisher": "G.D.G. Software",
-    "description": "Paquet Builder is a powerful installer software and an advanced Self-Extracting\n7z (7zip archive) tool designed for professional file and software distribution.\n\nWith Paquet Builder, you can easily create compact, fully-customized Windows\ninstaller packages that simplify software delivery and enhance user experience.",
+    "description": "Paquet Builder is a powerful installer software and an advanced Self-Extracting 7z (7zip archive) tool designed for professional file and software distribution.\nWith Paquet Builder, you can easily create compact, fully-customized Windows installer packages that simplify software delivery and enhance user experience.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52252,6 +52763,13 @@
     "name": "PDFgear",
     "publisher": "PDFgear",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CoenFin.PDFinvoice2UBL",
+    "name": "PDFinvoice2UBL",
+    "publisher": "CoenFin Software",
+    "description": "Dit programma is bedoeld voor ondernemers en administratie- en accountantskantoren van ondernemers welke verkoopfacturen maken in Word of Excel of welke een facturatieprogramma gebruikt welke wel PDF facturen genereerd maar geen digitaal factuur in de vorm van een UBL factuur welke direct in een boekhoudpakket verwerkt kan worden.\nDit programma wil hierop inspelen. Als verkoopfacturen redelijk homogeen zijn dan is het zeer tijdrovend om deze allemaal handmatig in te boeken. Dat is immers dubbel werk omdat bij het aanmaken van de factuur in Word / Excel of facturatieprogramma alle relevante gegevens al op de factuur zijn gezet.\nMet dit programma kunt u slimme maskers aanmaken waarmee u verkoopfacturen in bulk kunt omzetten naar digitale UBL facturen. U kunt deze UBL facturen gelijk e-mailen naar uw online boekhoudomgeving (bijvoorbeeld Exact Online). U hoeft ze alleen nog de akkoorderen en u heeft daarmee een boeking plus een PDF versie van de factuur in uw administratie zitten.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52668,6 +53186,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "kagg886.Pixiv-MultiPlatform",
+    "name": "Pixiv-MultiPlatform",
+    "publisher": "kagg886",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PixPin.PixPin",
     "name": "PixPin",
     "publisher": "Shenzhen Shendu Tujing Technology Co., Ltd.",
@@ -52853,7 +53378,7 @@
     "id": "digitalghost-dev.poke-cli",
     "name": "poke-cli",
     "publisher": "digitalghost-dev",
-    "description": "",
+    "description": "A hybrid CLI/TUI tool written in Go for viewing Pokémon data from the terminal!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53228,13 +53753,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Pritunl.Pritunl",
-    "name": "Pritunl",
-    "publisher": "Pritunl",
-    "description": "Free and open source cross platform OpenVPN client",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "PrivateInternetAccess.PrivateInternetAccess",
     "name": "Private Internet Access",
     "publisher": "Private Internet Access, Inc.",
@@ -53249,17 +53767,10 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BitSum.ProcessLasso",
-    "name": "Process Lasso",
-    "publisher": "Bitsum",
-    "description": "Process Lasso is a tool designed to manage and edit how your processes and services run. It offers a robust list of capabilities including default process priorities and affinities, termination of disallowed processes, instance count limits, a system responsiveness graph, logging of processes, keep select processes running (auto-restart), and much more.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "BitSum.ProcessLasso.Beta",
-    "name": "Process Lasso Beta",
-    "publisher": "Bitsum",
-    "description": "It offers a robust list of capabilities including default process priorities and affinities, termination of disallowed processes, instance count limits, a system responsiveness graph, logging of processes, keep select processes running (auto-restart), and much more.",
+    "id": "Privoxy.Privoxy",
+    "name": "Privoxy",
+    "publisher": "Privoxy Developers",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53631,6 +54142,13 @@
     "name": "Puppet Development Kit",
     "publisher": "Puppet Inc",
     "description": "The Puppet Development Kit (PDK) includes key Puppet code development and testing tools for Linux, Windows, and OS X workstations, so you can install one package with the tools you need to create and validate new modules.\nPDK includes testing tools, a complete module skeleton, and command line tools to help you create, validate, and run tests on Puppet modules. PDK also includes all dependencies needed for its use.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "pingbird.Puro",
+    "name": "Puro",
+    "publisher": "pingbird",
+    "description": "Puro is a powerful tool for installing and upgrading Flutter versions, it is essential for developers that work on multiple projects or have slower internet.\nWith Puro you can:\n- Use different versions of Flutter at the same time\n- Download new versions twice as fast with significantly less disk space and internet bandwidth\n- Use versions globally or per-project\n- Automatically configure IDE settings with a single command",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55902,6 +56420,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Mozilla.sccache",
+    "name": "sccache",
+    "publisher": "Mozilla",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Gluon.SceneBuilder",
     "name": "SceneBuilder",
     "publisher": "Gluon",
@@ -56277,6 +56802,13 @@
     "name": "sentry-cli",
     "publisher": "Sentry",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CoenFin.SEPACreator",
+    "name": "SEPA Creator",
+    "publisher": "CoenFin Software",
+    "description": "Met bijgaande programma kunt u SEPA betaal- en incassobestanden maken. U kunt ook SEPA bestanden inlezen en bewerken. U kunt met het programma:\n– PAIN001 (SEPA betaalbestanden) inlezen en aanmaken voor het verrichten van batch betalingen\n– PAIN008 (SEPA incassobestanden) inlezen en aamaken voor het verrichten van incasso’s\nU kunt hier ook een relatieboek aanleggen zodat u dit bij het aanmaken van een nieuwe SEPA bestand kunt gebruiken.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57155,6 +57687,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ECSoftware.SnipSVG",
+    "name": "SnipSVG by EC Software",
+    "publisher": "EC Software",
+    "description": "SnipSVG is a screen capture and graphics editor that uses SVG vector images as its primary format.\nSVG images can be used directly in HTML and many other applications. They give you the same sharp quality at all zoom settings, and unlike JPG or PNG images you can always edit all the elements of the image separately.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Sniptool.Sniptool",
     "name": "Sniptool",
     "publisher": "Sniptool",
@@ -57275,9 +57814,9 @@
   },
   {
     "id": "Soluling.Soluling",
-    "name": "Soluling setup",
+    "name": "Soluling",
     "publisher": "Soluling",
-    "description": "Soluling localization tool is an easy way to create and maintain multilingual software, documents, and data. Add Soluling as a part of your development process. No matter if you use continuous localization or waterfall localization, Soluling works with your process.",
+    "description": "Soluling localization tool is an easy way to create and maintain multilingual software, documents, and data. Add Soluling as a part of your development process. No matter if you use continuous localization or waterfall localization, Soluling works with your process.\n\nSoluling has all the features you need to localize your projects quickly. Soluling supports 100+ file and database formats.\n\nSoluling contains editions for three kinds of user roles.\n- Developer's editions are for developers and localization engineers. They let you create a new project, configure it, translate items, and build localized files.\n- Build automation edition is for the build process. It contains only the command-line tool that you can use in you build server to scan, translate, import, export, and build your projects. Use the build automation edition in your makefiles, batch files, and DevOps pipelines.\n- Translator's editions are for translators. They let you translate existing projects.\n\nSoluling understands your file formats\n- Desktop projects: Visual Studio, .NET, .NET Framework, WPF, Windows Forms, Visual C++, Delphi, Qt, and more.\n- Web projects: ASP.NET Core, ASP.NET Framework, Blazor, Angular, React, Vue, Django, Go, Ruby on Rails, PHP, Java, Magento, and more.\n- Mobile projects: Android, iOS, UWP, Xamarin, FireMonkey, and more.\n- Resource formats: ResX, XAML, Text, XML, JSON, YAML, INI, GetText/PO, TS, scripts, RC, and more.\n- Document formats: Markdown, HTML, HTML Help, SVG, Word, Excel, PowerPoint, DITA, Help & Manual, and more.\n- Databases: SQL Server, MySQL, PostgreSQL, SQLite, Access, InterBase, Firebird, and more.\n- Other formats: TMX, SalesForce, SubRip, WebVTT, and more.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58380,6 +58919,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Suwayomi.Suwayomi-Server",
+    "name": "Suwayomi Server",
+    "publisher": "Suwayomi",
+    "description": "A free and open source manga reader server that runs extensions built for Mihon (Tachiyomi).\nSuwayomi-Server ships with Suwayomi-WebUI, the web/ElectronJS front-end for Suwayomi-Server.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SVGExplorerExtension.SVGExplorerExtension",
     "name": "SVG See",
     "publisher": "Tibold Kandrai",
@@ -58650,13 +59196,6 @@
     "name": "TablePlus",
     "publisher": "TablePlus, Inc",
     "description": "具有直观图形用户界面工具的现代本地客户端，可创建、访问、查询和编辑多个关系数据库： MySQL、PostgreSQL、SQLite、Microsoft SQL Server、Amazon Redshift、MariaDB、CockroachDB、Vertica 和 Redis。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Suwayomi.Suwayomi-Server",
-    "name": "Tachidesk Server",
-    "publisher": "Suwayomi",
-    "description": "Tachidesk is free and open source manga reader that runs extensions built for Tachiyomi.\nTachidesk Server ships with Tachidesk-WebUI, the web/ElectronJS front-end for Tachidesk.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60025,6 +60564,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Danfoss.TTServiceMonitoringTools",
+    "name": "TT Service Monitoring Tools",
+    "publisher": "Danfoss LLC",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ttimer.ttimer",
     "name": "ttimer",
     "publisher": "Maxime Cote",
@@ -61033,10 +61579,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "VictronEnergy.VEPowerSetup",
+    "name": "VE Power Setup",
+    "publisher": "Victron Energy",
+    "description": "Use this to update firmware for Victron products that are updateable via a VE.Can communication port. These are:\n- BlueSolar Chargers 150/70 and 150/85\n- Lynx Shunt VE.Can\n- All four Skylla-i battery chargers\n- All our different VE.Can and NMEA2000 interfaces\n- Ion Control",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Veeam.VeeamAgent",
     "name": "Veeam Agent",
     "publisher": "Veeam",
     "description": "The FREE standalone Veeam Agent for Microsoft Windows provides a simple solution for backing up Windows-based desktops, laptops and tablets with Veeam Agent for Microsoft Windows FREE. So, you can easily back up your computer to an external hard drive, network-attached storage (NAS) share or a Veeam Backup & Replication repository.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VictronEnergy.VEConfigureTools",
+    "name": "VEFlash, VEConfig and VE.Bus configure tools",
+    "publisher": "Victron Energy",
+    "description": "This package contains:\n- VEConfigure 3\n- VE.Bus Quick Configure - For installations up to 3 Multis\n- VE.Bus System Configurator - For larger installations\n- VEFlash - Firmware update tool to update VE.Bus products\nTo connect your computer to a VE.Bus product (Multis, Quattros and Inverters), you need a driver for MK2-USB (ASS030130000) / MK3-USB (ASS030140000) and an RJ45 UTP cable (ASS030064xxx and ASS030065xxx).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62860,6 +63420,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WiseCleaner.WiseImageX",
+    "name": "Wise ImageX",
+    "publisher": "WiseCleaner.com",
+    "description": "Wise ImageX provides a range of powerful AI-powered image enhancement and optimization tools. With these impressive features, you can easily restore damaged photos, colorize black-and-white pictures, enlarge pictures and improve clarity, reduce image file size without quality loss, and face swapping.\n\n- Photo Restoration\n- Picture Colorization\n- Face Swap\n- Super Resolution\n- Smart Eraser\n- Image Compression",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WiseCleaner.WiseJetSearch",
     "name": "Wise JetSearch",
     "publisher": "WiseCleaner.com",
@@ -62871,6 +63438,13 @@
     "name": "Wise Memory Optimizer",
     "publisher": "WiseCleaner.com, Inc.",
     "description": "Wise Memory Optimizer is the best free Windows memory optimization tool. It helps you free up and tune up the physical memory taken up by some useless applications to enhance PC performance. Wise Memory Optimizer, as automatic and intelligent as other products from WiseCleaner.com, can execute its tasks in accordance with your settings and the physical truth of your computer. It is really easy to use for both novices and experts alike. 100% free of charge, able to optimize memory automatically in the background, able to free up as much memory as possible Inserted a real-time dynamic chart to show your memory status. Supports of Windows 11, Windows 10, Windows 8.1/8, Windows 7, Windows Vista, and Windows XP.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WiseCleaner.WiseNote",
+    "name": "Wise Note",
+    "publisher": "WiseCleaner.com",
+    "description": "Wise Note is a handy and practical note-taking software that mainly covers two functions: creating notes and to-do lists. It also supports adding images, checklists, and links to notes and to-do lists. Follow the several simple steps below to get started.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62934,6 +63508,13 @@
     "name": "WISER for Windows",
     "publisher": "National Library of Medicine",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WiseCleaner.WiseX",
+    "name": "WiseX",
+    "publisher": "WiseCleaner.com",
+    "description": "WiseX is a toolkit that brings together multiple AI models. It’s designed to deliver intelligent, accurate, and context-aware responses for a wide range of tasks, including Q&A, content creation, and document analysis.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63322,6 +63903,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Omnissa.WorkspaceONEIntelligentHub",
+    "name": "Workspace ONE Intelligent Hub Installer",
+    "publisher": "Omnissa, LLC.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "rickbutton.workspacer",
     "name": "workspacer",
     "publisher": "Rick Button",
@@ -63431,6 +64019,13 @@
     "name": "WSA Tools",
     "publisher": "wherewhere",
     "description": "一个基于 Modern WPF 的 WSA 工具箱",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MojtabaTajik.WSBBuilder",
+    "name": "WSBBuilder",
+    "publisher": "MojtabaTajik",
+    "description": "WSBBuilder is a GUI tool to easily build Windows sandboxes. Windows Sandbox provides a lightweight desktop environment to safely run applications in isolation.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63955,7 +64550,7 @@
     "id": "yt-dlp.yt-dlp.nightly",
     "name": "yt-dlp-nightly",
     "publisher": "yt-dlp",
-    "description": "yt-dlp nightly builds",
+    "description": "The yt-dlp nightly channel builds.\nyt-dlp is a feature-rich command-line audio/video downloader with support for thousands of sites.\nThe project is a fork of youtube-dl based on the now inactive youtube-dlc.",
     "icon": "/icons/intunify-default.png"
   },
   {
