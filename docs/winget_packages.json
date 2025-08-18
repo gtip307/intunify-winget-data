@@ -252,6 +252,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "VirtualSurveyor.VirtualSurveyor",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "vatis-project.vAtis",
     "name": "",
     "publisher": null,
@@ -980,6 +987,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "P1NK0.GoType",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PlayStation.PSRemotePlay",
     "name": "",
     "publisher": null,
@@ -1044,6 +1058,13 @@
   },
   {
     "id": "PeterBClements.QuickPar",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PJO2.tftpd64",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2206,6 +2227,13 @@
   },
   {
     "id": "zarunbal.LogExpert",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Zortrax.ZSuite",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4249,6 +4277,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "serid.GotifyTray",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "sxyazi.yazi",
     "name": "",
     "publisher": null,
@@ -4886,6 +4921,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Scripter2104.Rave",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Shooter.SPlayer",
     "name": "",
     "publisher": null,
@@ -5139,6 +5181,13 @@
   },
   {
     "id": "SamsungSDS.BrityMessenger",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Skyjos.Redfish",
     "name": "",
     "publisher": null,
     "description": "",
@@ -5979,6 +6028,13 @@
   },
   {
     "id": "SBCL.SBCL",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "snapADDY.VisitReport",
     "name": "",
     "publisher": null,
     "description": "",
@@ -7301,6 +7357,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "oxc-project.oxlint",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ossia.score",
     "name": "",
     "publisher": null,
@@ -7498,6 +7561,13 @@
   },
   {
     "id": "FlorianFechner.Cells",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "fiahfy.Hosty",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8645,20 +8715,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "WetOtter44.StrawberryMusicPlayer.MSVC",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "WetOtter44.StrawberryMusicPlayer.MinGW",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Winamp.Winamp",
     "name": "",
     "publisher": null,
@@ -9010,13 +9066,6 @@
   },
   {
     "id": "Commitly.Commitly",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "CorsixTH.CorsixTH",
     "name": "",
     "publisher": null,
     "description": "",
@@ -10556,6 +10605,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CrazyMax.WindowsSpyBlocker",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Comodo.ComodoDragon",
     "name": "",
     "publisher": null,
@@ -11033,6 +11089,13 @@
   },
   {
     "id": "DonutWare.Fladder",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DonutWare.Fladder.Nightly",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13209,17 +13272,10 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "TopazLabs.TopazGigapixelAI",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "TopazLabs.TopazPhotoAI",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "Photo AI 是一款功能强大的桌面应用程序，可通过降噪（包括 RAW 文件和弱光环境下的噪点）、锐化图像以及修正失焦问题来提升照片质量。它还提供多种其他增强功能，帮助您充分发挥每张照片的潜力。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -13657,6 +13713,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Throneproj.Throne",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TheBrowserCompany.Arc",
     "name": "",
     "publisher": null,
@@ -13889,6 +13952,13 @@
   },
   {
     "id": "MatsuriDayo.NekoRay",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MeinbergGlobal.DeviceManager",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14770,35 +14840,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Microsoft.Sysinternals.ProcessExplorer",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Microsoft.Sysinternals.PsTools",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.Sysinternals.MoveFile",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.Sysinternals.RDCMan",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.Sysinternals.ProcessMonitor",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14812,21 +14854,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Microsoft.Sysinternals.RAMMap",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Microsoft.Sysinternals.Strings",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.Sysinternals.PendMoves",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15030,6 +15058,13 @@
   },
   {
     "id": "Microsoft.Gaming.TAK.CLI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.SurfaceHubRecoveryTool",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15435,6 +15470,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "mkckr0.AudioShare",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "mmvanheusden.SteamDepotDownloaderGUI",
     "name": "",
     "publisher": null,
@@ -15807,13 +15849,6 @@
   },
   {
     "id": "Melodics.Melodics",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Maxon.CinebenchR23",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17353,6 +17388,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "luizzak.GIFViewer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "lin-ycv.EverythingCmdPal",
     "name": "",
     "publisher": null,
@@ -18026,6 +18068,13 @@
   },
   {
     "id": "LiteXLTeam.LiteXL",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Lune.Lune",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21455,6 +21504,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EclipseFoundation.Eclipse.Inst",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EclipseFoundation.Eclipse.CPP",
     "name": "",
     "publisher": null,
@@ -21470,6 +21526,13 @@
   },
   {
     "id": "EclipseFoundation.Eclipse.JEE",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "EclipseFoundation.Eclipse.JEE.TencentCloudMirror",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21844,6 +21907,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Anthropic.ClaudeCode",
+    "name": "",
+    "publisher": null,
+    "description": "Claude Code 是 Anthropic 推出的一款自主智能编程工具，在你的终端中运行，并以前所未有的速度帮助你将想法转化为代码。\nClaude Code 能为你做什么\n- 根据描述构建功能：用简单的英文告诉 Claude 你想要实现什么功能。它会制定计划、编写代码，并确保其正常运行。\n- 调试并修复问题：描述一个 Bug 或粘贴错误信息，Claude Code 会分析你的代码库，定位问题并自动实施修复。\n- 快速浏览任意代码库：针对团队的代码库提出任何问题，都能获得深入准确的回答。Claude Code 能理解整个项目的结构，可从网络获取最新信息，并通过 MCP 从 Google Drive、Figma、Slack 等外部数据源获取内容。\n- 自动化繁琐任务：修复棘手的代码格式问题、解决合并冲突、撰写发布说明。这些都可以通过开发者机器上的单条命令完成，也可以在 CI 中自动执行。\n开发者为何喜爱 Claude Code\n- 在终端中运行：无需打开新的聊天窗口，也不用切换 IDE。Claude Code 就在你熟悉的工作环境，配合你钟爱的工具使用。\n- 主动执行操作：Claude Code 可直接编辑文件、运行命令、创建提交。需要更多功能？MCP 让 Claude 能读取 Google Drive 中的设计文档、更新 Jira 工单，或集成你自定义的开发工具。\n- 遵循 Unix 哲学：Claude Code 可组合、可脚本化。例如，执行 tail -f app.log | claude -p \"如果日志流中出现异常，通过 Slack 通知我\" 即可生效。你的 CI 系统也可以运行 claude -p \"如有新的文本字符串，将其翻译成法语并为 @lang-fr-team 创建 PR 审阅\"。\n- 企业级就绪：支持使用 Anthropic 的 API，或部署在 AWS 与 GCP 上。内置企业级的安全性、隐私保护和合规能力。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -23346,6 +23416,13 @@
   },
   {
     "id": "abgox.InputTip",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Abelssoft.SSDFresh",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25151,13 +25228,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "IcoFXSoftware.icofx",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "ITRI.QuickSECS",
     "name": "",
     "publisher": null,
@@ -25372,6 +25442,13 @@
     "name": "",
     "publisher": null,
     "description": "Moon Modeler 是一款面向 MongoDB 与 Mongoose ODM 的数据建模工具，同时兼容 Cosmos DB、AWS Amazon DocumentDB 等解决方案。该软件属于数据建模与模式设计工具类别，可用于创建和可视化数据库结构。\n核心功能：\n- 可视化 ER 图设计与模式构建\n- NoSQL 数据建模\n- 支持数据库特性配置（如 MongoDB 的封顶集合、验证级别等）\n- 直观易用的操作界面\n- 多样化图表设置\n- 正向工程与代码生成\n- 逆向工程（支持 MongoDB）\n- 基于云服务的 SSL/TLS 安全连接\n- 交互式 HTML 报告生成及 PDF 导出",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Iterate.CyberduckCLI",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -26544,13 +26621,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "GPSoftware.DirectoryOpus",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "GoCD.Agent",
     "name": "",
     "publisher": null,
@@ -27111,6 +27181,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Hashicorp.Nomad",
+    "name": "",
+    "publisher": null,
+    "description": "Nomad 是一款简洁灵活的工作负载编排工具，可大规模跨本地环境与云端部署管理容器（Docker、Podman）、非容器化应用（可执行文件、Java）及虚拟机（QEMU）。\n其核心特性包括：\n- 混合部署能力：作为编排器，Nomad 的灵活性允许企业在同一基础设施上同时运行容器化应用、传统应用和批处理任务。通过可插拔的任务驱动机制，无需容器化改造即可为传统应用提供核心编排优势。\n- 轻量可靠：Nomad 以单体二进制文件运行，集资源管理与调度于一体，无需依赖外部存储或协调服务。具备自动故障处理能力，通过分布式架构、领导者选举和状态复制实现高可用，可应对应用、节点及驱动层面的故障。\n- 硬件加速支持：内置对机器学习（ML）和人工智能（AI）等 GPU 工作负载的原生支持，通过设备插件自动识别并调用 GPU、FPGA 和 TPU 等硬件资源。\n- 多云多区域联邦：专为全球化基础设施设计，开箱即用的联邦功能支持跨多区域、多云平台的应用部署。\n- 生产级扩展性：采用乐观并发机制提升吞吐量并降低延迟，实际生产环境中已验证可支撑万级节点集群。\n- HashiCorp 生态集成：与 Terraform、Consul 和 Vault 无缝协作，实现资源供给、服务发现与密钥管理。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Hashicorp.Terraform",
     "name": "",
     "publisher": null,
@@ -27371,6 +27448,13 @@
   },
   {
     "id": "HearthSim.HearthstoneDeckTracker",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HBK.MicrophoneViewer",
     "name": "",
     "publisher": null,
     "description": "",
@@ -27965,13 +28049,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "jurplel.qView.Nightly",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "JeniusApps.Ambie",
     "name": "",
     "publisher": null,
@@ -28022,6 +28099,13 @@
   },
   {
     "id": "JLC.LCEDA.Pro",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JakubParez.NTP-Client",
     "name": "",
     "publisher": null,
     "description": "",
@@ -28473,6 +28557,13 @@
     "name": "1Password",
     "publisher": "AgileBits Inc.",
     "description": "Protect your sensitive information with our password manager. Stop data breaches, secure apps, and autofill passwords with 1Password.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HarbourMasters.2Ship2Harkinian",
+    "name": "2 Ship 2 Harkinian",
+    "publisher": "Harbour Masters",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30593,7 +30684,7 @@
     "id": "Araxis.Merge",
     "name": "Araxis Merge",
     "publisher": "Araxis Ltd",
-    "description": "Araxis Merge is a professional visual file comparison (diff), merging, and folder synchronization tool for Windows and macOS, supporting advanced three-way differencing, version control integration, and both text/binary files.\n\nKey Features:\n- Text & Binary Comparisons: Side-by-side diffs with syntax highlighting.\n- Three-Way Merge: Resolve conflicts between base, source, and target versions.\n- Folder Sync: Visualize and synchronize directory structures.\n- Version Control: Integrates with Git, SVN, Mercurial, Perforce.\n- Automation: Command-line support for scripting/CI pipelines.\n\nEvaluations are fully functional, but expire after 30 days.",
+    "description": "Araxis Merge for Windows and macOS is an advanced two and three-way file comparison (diff), merging, and folder synchronization application that supports text, binary, and image comparisons.\n\nKey features:\n- Text comparisons: Side-by-side diffs with syntax highlighting.\n- Three-way merging: Visualize and resolve conflicts between base, source, and target versions.\n- Folder synchronization: Compare and merge entire directory trees.\n- Version control: Integrates with Git, Mercurial, Subversion, and Perforce.\n- Office documents: Compare Microsoft Office, OpenDocument, PDF, and RTF files.\n- Automation: Command-line support and scripting API.\n\nTry Araxis Merge free. Evaluations are fully functional but expire after 30 days.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -32300,8 +32391,8 @@
   {
     "id": "Microsoft.Sysinternals.BGInfo",
     "name": "BGInfo",
-    "publisher": "Microsoft",
-    "description": "It automatically displays relevant information about a Windows computer on the desktop's background, such as the computer name, IP address, service pack version, and more. You can edit any field as well as the font and background colors, and can place it in your startup folder so that it runs every boot, or even configure it to display as the background for the logon screen.",
+    "publisher": "Sysinternals",
+    "description": "BGInfo  automatically displays relevant information about a Windows computer on the desktop's background, such as the computer name, IP address, service pack version, and more. You can edit any field as well as the font and background colors, and can place it in your startup folder so that it runs every boot, or even configure it to display as the background for the logon screen.\n\nBecause BGInfo simply writes a new desktop bitmap and exits, you don't have to worry about it consuming system resources or interfering with other applications.\n\nBy placing BGInfo in your Startup folder, you can ensure that the system information being displayed is up to date each time you boot. Once you've settled on the information to be displayed, use the command-line option /timer:0 to update the display without showing the dialog box.\n\nYou can also use the Windows Scheduler to run BGInfo on a regular basis to ensure long-running systems are kept up to date.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -32351,6 +32442,13 @@
     "name": "binjr",
     "publisher": "binjr",
     "description": "binjr is a standalone time series browser. it renders time series data produced by other applications as dynamically editable views and provides advanced features to navigate the data smoothly and efficiently.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BiomeJS.Biome",
+    "name": "Biome",
+    "publisher": "BiomeJS",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33285,6 +33383,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CakeWallet.CakeWallet",
+    "name": "Cake Wallet",
+    "publisher": "Cake Labs LLC",
+    "description": "Cake Wallet is an open-source, non-custodial, and private multi-currency crypto wallet for Android, iOS, macOS, and Linux. Cake Wallet includes support for several cryptocurrencies, including: Monero (XMR), Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Bitcoin Cash (BCH), Polygon (POL), Solana (SOL), Tron (TRX), Nano (XNO), Zano (ZANO), Decred (DCR), Wownero (WOW).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Chill-Astro.Calculator.unp",
+    "name": "Calculator",
+    "publisher": "Chill-Astro",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "calibre.calibre",
     "name": "calibre",
     "publisher": "Kovid Goyal",
@@ -33957,10 +34069,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CyberIntelSystems.CICB",
+    "name": "CICB",
+    "publisher": "CYBER INTEL SYSTEMS",
+    "description": "The Cyber Intel Classification Banner (CICB) is software that displays and marks sensitive or classified output across computer screens when required. This is the perfect information classification solution with many useful extended features for the Windows and Linux platforms.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CINCSoftware.Workstation",
     "name": "CINC Workstation",
     "publisher": "CINC Project <maintainers@cinc.sh>",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Maxon.CinebenchR23",
+    "name": "Cinebench R23",
+    "publisher": "Maxon",
+    "description": "Cinebench is a tool to compare CPU and graphics performance across various systems and platforms",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34374,6 +34500,13 @@
     "name": "CloudShow",
     "publisher": "Binary Fortress Software",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Jagt.Clumsy",
+    "name": "clumsy",
+    "publisher": "Chen Tao",
+    "description": "Leveraging the awesome WinDivert, clumsy stops living network packets and capture them, lag/drop/tamper/.. the packets on demand, then send them away. Whether you want to track down weird bugs related to broken network, or evaluate your application on poor connections, clumsy will come in handy.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34899,6 +35032,13 @@
     "name": "Corsair iCUE5 Software",
     "publisher": "Corsair",
     "description": "iCUE’s single intuitive interface links together supported CORSAIR products, allowing you to quickly and easily fine-tune your settings.\nSupported CORSAIR keyboards and mice are fully programmable with macros or key remaps, letting you specify a button or click to do anything from instant shortcuts to complex strings of commands.\niCUE’s robust level of customization helps you create, write, and play faster and more efficiently.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CorsixTH.CorsixTH",
+    "name": "CorsixTH",
+    "publisher": "CorsixTH Team",
+    "description": "A reimplementation of the 1997 Bullfrog business sim Theme Hospital. As well as faithfully recreating the original, CorsixTH adds support for modern operating systems (Windows, macOS, Linux and BSD), high resolutions and much more.\n\nOriginal Features\n- Single player campaign\n- All diseases, objects, rooms are available (see below section for outstanding anomalies)\n- All events (emergencies, earthquakes, epidemics, VIP visits)\n- Management windows (managing staff, patients, policies etc.)\n- Music/Jukebox and gameplay videos (see below section for outstanding anomalies)\n- Cheats (naughty!)\n\nNew Features\n- Custom levels and campaigns\n- Full HD support\n- Zooming\n- Make your own maps and levels\n- Unlimited saves and 12 autosave slots\n- Play your own music!\n- Option to remove destroyed rooms for a fee\n- Improved game logic\n- Full control over all hotkeys",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35723,8 +35863,8 @@
   {
     "id": "Microsoft.Sysinternals.DebugView",
     "name": "DebugView",
-    "publisher": "Microsoft Corporation",
-    "description": "DebugView is an application that lets you monitor debug output on your local system, or any computer on the network that you can reach via TCP/IP. It is capable of displaying both kernel-mode and Win32 debug output, so you don't need a debugger to catch the debug output your applications or device drivers generate, nor do you need to modify your applications or drivers to use non-standard debug output APIs.",
+    "publisher": "Sysinternals",
+    "description": "DebugView is an application that lets you monitor debug output on your local system, or any computer on the network that you can reach via TCP/IP. It is capable of displaying both kernel-mode and Win32 debug output, so you don't need a debugger to catch the debug output your applications or device drivers generate, nor do you need to modify your applications or drivers to use non-standard debug output APIs.\n\nUnder Windows 2000, XP, Server 2003 and Vista DebugView will capture:\n- Win32 OutputDebugString\n- Kernel-mode DbgPrint\n- All kernel-mode variants of DbgPrint implemented in Windows XP and Server 2003\n\nDebugView also extracts kernel-mode debug output generated before a crash from Window's 2000/XP crash dump files if DebugView was capturing at the time of the crash.\n\nHere is a list highlighting some of DebugView's other features:\n- Remote monitoring: Capture kernel-mode and/or Win32 debug output from any computer accessible via TCP/IP - even across the Internet. You can monitor multiple remote computers simultaneously. DebugView will even install its client software itself if you are running it on a Windows 2000 system and are capturing from another Windows 2000 system in the same Network Neighborhood.\n- Most-recent-filter lists:DebugView remembers your most recent filter selections, with an interface that makes it easy to reselect them.\n- Process ID option: Toggle the display of process IDs for Win32 debug output.\n- Clipboard copy: Select multiple lines in the output window and copy their contents to the clipboard.\n- Log-to-file: Write debug output to a file as its being captured.\n- Printing: Print all or part of captured debug output to a printer.\n- One-file payload:DebugView is implemented as one file.\n- Crash-Dump Support:DebugView can recover its buffers from a crash dump and save the output to a log file so that users can send you the output your Windows driver generated right up to the time of a crash.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35891,7 +36031,7 @@
   {
     "id": "Microsoft.Sysinternals.Desktops",
     "name": "Desktops",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "Desktops allows you to organize your applications on up to four virtual desktops. Read email on one, browse the web on the second, and do work in your productivity software on the third, without the clutter of the windows you're not using. After you configure hotkeys for switching desktops, you can create and switch desktops either by clicking on the tray icon to open a desktop preview and switching window, or by using the hotkeys.",
     "icon": "/icons/intunify-default.png"
   },
@@ -35919,20 +36059,6 @@
   {
     "id": "DevProxy.DevProxy",
     "name": "Dev Proxy",
-    "publisher": ".NET Foundation",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.DevProxy",
-    "name": "Dev Proxy",
-    "publisher": "Microsoft",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.DevProxy.Beta",
-    "name": "Dev Proxy Beta",
     "publisher": "Microsoft",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -36092,6 +36218,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Diffractor.Diffractor",
+    "name": "Diffractor",
+    "publisher": "Diffractor",
+    "description": "Diffractor is designed to manage a collection of photos and videos on your PC.\nIt can view and search any files, but the collection has extra features such as duplicate detection, fast search and presence. The collection is indexed to support these features.\n\nDiffractor calculates the presence of files in the collection. The presence indicates if a file exists or is duplicated in the collection. It also indicates if an item has sidecars.\nSidecars are extra files associated with a media item – for example XMP metadata or subtitles.\nThe presence tooltip lists the files that diffractor has detected. Duplicates in red and sidecars in green.\nPresence also works for files outside the collection. Use it to check if files on an old memory card are missing from the collection. Simply open the memory card and group files by presence.\n\nFile formats  supported by Diffractor:\n- Video Encoding Formats: MP4, 3GP, OGG, WMV, WEBM, FLV, AVI, QuickTime, HDV, MXF, MPEG-TS, MPEG-2 PS, MPEG-2 TS, WAV, LXF, GXF, VOB\n- Audio Formats: MP3, AAC, HE-AAC, AC3, EAC3, Vorbis, WMA, PCM\n- Standard Image File Formats: BMP, GIF, JPG/JPEG, PNG, PSD, TIFF, WEBP\n- Raw photo file formats: 3FR, ARW, BAY, BMQ, CINe, CRW, CR2, CR3, CS1, DC2, DCR, DNG, ERF, FFF, HDR, IA, K25, KC2, KDC, MDC, MEF, MOS, MRW, NEF, NRW, ORF, PEF, PXN, QTK, RAF, RAW, RDC, RW2, RWL, SR2, SRF, SRW, STI, X3F",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Wilfred.difftastic",
     "name": "Difftastic",
     "publisher": "Wilfred Hughes",
@@ -36145,6 +36278,13 @@
     "name": "Directory Crop",
     "publisher": "Japplis",
     "description": "Directory Crop - Quickly crop images in directory\nDirectory Crop lets you quickly select the best images from a directory by either deleting bad ones or cropping the best part of ok images.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GPSoftware.DirectoryOpus",
+    "name": "Directory Opus",
+    "publisher": "GPSoftware",
+    "description": "Directory Opus is a complete replacement for Explorer, with far more functionality than any other file manager available today.\n\nWith a flexible user interface and unbelievable configurability, you can tailor Opus to streamline your workflow.\n-  Dual panes, dual trees, multiple tabs.\n- Filter, sort, group your folders. Label and rate your files.\n- Queued file copies. Powerful batch renaming. Full archive support.\n- Find your files. Locate duplicates. Synchronize backups.\n- Assign tags and descriptions. Convert images. Edit metadata.\n- Fully multi-threaded, native 64 bit high performance code.\n\nOpus is written in native C++ multi-threaded code; compiled for the latest 64 bit CPUs, with high performance our number one design principle.\nPowerful searching, sorting, grouping, labelling and tagging features let you take control of your files like never before.\nWork with third-party tools as easily as with the built-in features. A full scripting interface, including scriptable dialogs, means your imagination is really the only limit.\n\nTry free for 30 days or Register  for an extended 60 day trial.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37219,13 +37359,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "EclipseFoundation.EclipseIDEforJavaDevelopers",
-    "name": "Eclipse IDE for Java Developers",
-    "publisher": "Eclipse Foundation",
-    "description": "The essential tools for any Java developer, including a Java IDE, a Git client, XML Editor, Maven and Gradle integration",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "EclipseFoundation.Eclipse.RCP",
     "name": "Eclipse IDE for RCP and RAP Developers",
     "publisher": "Eclipse.org Foundation, Inc.",
@@ -37397,6 +37530,13 @@
     "id": "SURF.eduVPNClient",
     "name": "eduVPN Client",
     "publisher": "SURF",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "EfficientElements.Presentations",
+    "name": "Efficient Elements for presentations",
+    "publisher": "Efficient Elements GmbH",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -37971,7 +38111,7 @@
     "id": "stnkl.EverythingToolbar",
     "name": "EverythingToolbar",
     "publisher": "Stephan Rumswinkel",
-    "description": "With EverythingToolbar you can instantly search files and folders by name directly in the Windows taskbar with Everything. It allows quick and easy file indexing and fast searches.",
+    "description": "With EverythingToolbar you can instantly search files and folders by name directly in the Windows taskbar with Everything.\nIt allows quick and easy file indexing and fast searches.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38705,8 +38845,8 @@
   {
     "id": "Microsoft.Sysinternals.FindLinks",
     "name": "FindLinks",
-    "publisher": "Microsoft Corporation",
-    "description": "FindLinks reports the file index and any hard links (alternate file paths on the same volume) that exist for the specified file. A file's data remains allocated so long as at it has at least one file name referencing it.",
+    "publisher": "Sysinternals",
+    "description": "FindLinks reports the file index and any hard links (alternate file paths on the same volume) that exist for the specified file. A file's data remains allocated so long as at it has at least one file name referencing it.\n\nUsage: findlinks <filename>",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40208,10 +40348,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TexasInstruments.FusionDigitalPowerDesigner",
+    "name": "Fusion Digital Power Designer",
+    "publisher": "Texas Instruments Incorporated",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Futuremark.FuturemarkSystemInfo",
     "name": "Futuremark SystemInfo",
-    "publisher": "UL Solutions",
-    "description": "",
+    "publisher": "Futuremark",
+    "description": "SystemInfo is a component used in many of our benchmarks to identify the hardware in your system. It does not collect any personally identifiable information. SystemInfo updates do not affect benchmark scores but you may need the latest version in order to obtain a valid score.\n\nThe most recent versions of our currently supported benchmarks will prompt you to install new SystemInfo updates. Alternatively, you can update SystemInfo yourself from this page.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41496,13 +41643,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "futo-org.Grayjay.Desktop",
-    "name": "GrayJay.Desktop",
-    "publisher": "Futo",
-    "description": "Watch content on your own terms, ensuring you retain full ownership and control over what you\nwatch. Your content, your way.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "GraylogInc.GraylogSidecar",
     "name": "Graylog Sidecar",
     "publisher": "Graylog Inc",
@@ -41876,8 +42016,8 @@
   {
     "id": "Microsoft.Sysinternals.Handle",
     "name": "Handle",
-    "publisher": "Microsoft Corporation",
-    "description": "Handle is a utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.",
+    "publisher": "Sysinternals",
+    "description": "Handle is a utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.\n\nHandle is targeted at searching for open file references, so if you do not specify any command-line parameters it will list the values of all the handles in the system that refer to open files and the names of the files. It also takes several parameters that modify this behavior.\n\nWhen in search mode, Handle prints the process names and id's are listed on the left side and the names of the objects that had a match are on the right.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42018,13 +42158,6 @@
     "name": "HashiCorp Consul",
     "publisher": "HashiCorp",
     "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.\nConsul provides several key features:\n- Multi-Datacenter - Consul is built to be datacenter aware, and can support any number of regions without complex configuration.\n- Service Mesh - Consul Service Mesh enables secure service-to-service communication with automatic TLS encryption and identity-based authorization. Applications can use sidecar proxies in a service mesh configuration to establish TLS connections for inbound and outbound connections with Transparent Proxy.\n- API Gateway - Consul API Gateway manages access to services within Consul Service Mesh, allow users to define traffic and authorization policies to services deployed within the mesh.\n- Service Discovery - Consul makes it simple for services to register themselves and to discover other services via a DNS or HTTP interface. External services such as SaaS providers can be registered as well.\n- Health Checking - Health Checking enables Consul to quickly alert operators about any issues in a cluster. The integration with service discovery prevents routing traffic to unhealthy hosts and enables service level circuit breakers.\n- Dynamic App Configuration - An HTTP API that allows users to store indexed objects within Consul, for storing configuration parameters and application metadata.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Hashicorp.Nomad",
-    "name": "Hashicorp Nomad",
-    "publisher": "HashiCorp",
-    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42249,13 +42382,6 @@
     "name": "Helix Visual Merge Tool (P4Merge)",
     "publisher": "Perforce Software, Inc.",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "huanghongxun.HelloMinecraftLauncher",
-    "name": "Hello Minecraft! Launcher",
-    "publisher": "huanghongxun",
-    "description": "HMCL is an open-source, cross-platform Minecraft launcher that supports Mod Management, Game Customizing, ModLoader Installing (Forge, NeoForge, Fabric, Quilt, LiteLoader, and OptiFine), Modpack Creating, UI Customization, and more.\nHMCL has amazing cross-platform capabilities. Not only does it run on different operating systems like Windows, Linux, and macOS, but it also supports various CPU architectures such as x86, ARM, MIPS, and LoongArch. You can easily enjoy Minecraft across different platforms through HMCL.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42557,6 +42683,13 @@
     "name": "Hosts File Editor",
     "publisher": "Scott Lerch",
     "description": "Easily edit and manage the hosts file",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "henrypp.hostsmgr",
+    "name": "hostsmgr",
+    "publisher": "henrypp",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43012,6 +43145,13 @@
     "name": "icnsify",
     "publisher": "Jack Mordaunt",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IcoFXSoftware.icofx",
+    "name": "IcoFX",
+    "publisher": "IcoFX Software S.R.L.",
+    "description": "Icofx is an award winning professional icon and cursor editor for Windows. It is an all-in-one solution for icon creation, extraction and editing. It is designed to work with Windows and Macintosh icons supporting transparency.\n\nCreate icons for Windows and Macintosh. Support for Windows icons with resolution up to 1024x1024 with PNG compression. Convert your Macintosh icons to Windows icons and vice versa. Support for static and animated cursors. Create a favicon for your website or blog.\n\nYou can easily convert your favorite images into icons or cursors, or icons into images. Supported image formats SVG, BMP, PNG, JPG, JPG2000, TIF and GIF. You can extract icons from other files, including Windows Vista, Windows 7 and Macintosh files.\n\nIcofx features a full blown image editor with many useful tools. You can use different brush sizes, shapes, hardness, even blending modes when painting. With more than 40 effects at your fingertips, there’s virtually no limit to the icons you can create.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45290,6 +45430,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Kopi-vm.Kopi",
+    "name": "Kopi",
+    "publisher": "Dentsusoken",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Kopia.KopiaCLI",
     "name": "KopiaCLI",
     "publisher": "Kopia Authors",
@@ -47222,6 +47369,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Malcat.MalcatLite",
+    "name": "Malcat Lite",
+    "publisher": "Malcat",
+    "description": "Malcat is a feature-rich hexadecimal editor / disassembler for Windows and Linux targeted to IT-security professionals.\nInspect more than 50 binary file formats, disassemble and decompile different CPU architectures, extract embedded files and scan for Yara signatures or anomalies in a fast and easy-to-use graphical interface.\nDon't like what you get? Malcat is also heavily customizable and scriptable using python.\n\nHighlights\n- Malcat's code analysis is not only powerful, it is also damn fast: you can analyze most files under a second! This makes it the perfect tool for quick inspections or malware triage.\n- Inspect code for architectures used in malware: x86/x64, MIPS, .NET, python 2 and 3, VB p-code, NSIS/InnoSetup vm, AutoIT and Office macros. Malcat also embedds the Sleigh decompiler for x86, x64 and MIPS.\n- Leveraging its 50+ file format parsers, malcat can extract sub-files from archives and identify embedded objects within any file. A very useful feature for incident response and malware analysis.\n- Malcat offers many view modes to focus on all aspects of the file. Inspect binary structures, naviguate through the CFG or have a higher-level look at the anomalies, you chose. You can also try our new DNA view!\n- Leveraging a database of 2000+ malware families and millions of clean + library files, our Kesakode hash lookup service can help you identify malware, write better Yara rules and speed up your RE game. It can also works offline!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "the-sz.Malden",
     "name": "Malden",
     "publisher": "the sz development",
@@ -47513,6 +47667,13 @@
     "name": "MasterVolumeSync",
     "publisher": "Nico Jeske IT",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RodZill4.MaterialMaker",
+    "name": "Material Maker",
+    "publisher": "RodZill4",
+    "description": "This is a tool based on Godot Engine that can be used to create textures procedurally and paint 3D models. Its user interface is based on Godot's GraphEdit node: textures and brushes are described as interconnected nodes.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47866,6 +48027,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ima.menu",
+    "name": "menu",
+    "publisher": "ima",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "navossoc.MenuTools",
     "name": "MenuTools",
     "publisher": "Rafael Cossovan de França",
@@ -47933,6 +48101,13 @@
     "name": "Mesen-S",
     "publisher": "SourMesen",
     "description": "Mesen-S is a high-accuracy SNES emulator for Windows and Linux. Game Boy and Game Boy Color games are also supported, along with Super Game Boy emulation. It contains most of the features found in Mesen, including an extensive set of debugging tools.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GRZ.MeshCAM",
+    "name": "MeshCAM",
+    "publisher": "GRZ Software LLC",
+    "description": "MeshCAM is the fastest way to generate G-code. You have a simple goal, to take a CAD file and get your mill to cut it. You don’t want to become an expert on CAM software, you want parts today.\nMeshCAM is made for people who just want to make parts now.\n\nHere’s the MeshCAM process:\n- Load a file from almost any CAD program\n- Build an efficient toolpath with minimal input\n- Save G-code that works on your CNC machine\n\nIf this sounds like you, don’t worry. You can open any image file (JPG, BMP, or PNG) in MeshCAM and the image will be converted to a 3D surface that can be machined directly.\nUsers have come up with incredible uses for this feature to make parts that would be almost impossible with a traditional CAD program.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48706,6 +48881,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Softpcapps.MinimizetoTrayTool",
+    "name": "Minimize to Tray Tool",
+    "publisher": "softpcapps Software",
+    "description": "MinimizeToTrayTool is a utility that allows the user to minimize any application to the windows tray. Unlike similar applications, it is not necessary to explicitly tell the application each time you want to minimize to the tray a specific application but it is only necessary to specify the application's filename and then the application will be minimized automatically to the windows tray each time the user minimizes it.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MinIO.Client",
     "name": "MinIO Client",
     "publisher": "MinIO",
@@ -49088,6 +49270,13 @@
     "name": "Mountain Duck",
     "publisher": "iterate GmbH",
     "description": "Mountain Duck lets you mount server and cloud storage as a disk in Finder on macOS and the File Explorer on Windows. Open remote files with any application and work like on a local volume.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Sysinternals.MoveFile",
+    "name": "MoveFile",
+    "publisher": "Sysinternals",
+    "description": "There are several applications, such as service packs and hotfixes, that must replace a file that's in use and is unable to. Windows therefore provides the MoveFileEx API to rename or delete a file and allows the caller to specify that they want the operation to take place the next time the system boots,before the files are referenced. Session Manager performs this task by reading the registered rename and delete commands from the HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\PendingFileRenameOperations value.\n\nMoveFile usage:\nThe included MoveFile utility allows you to schedule move and delete commands for the next reboot: \nusage: movefile [source] [dest]",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50351,6 +50540,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ring0.MP3val.WF",
+    "name": "MP3val (With Frontend)",
+    "publisher": "ring0",
+    "description": "It was primarily designed for verification of MPEG 1 Layer III (MP3) files, but supports also other MPEG versions and layers.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MPC-BE.MPC-BE",
     "name": "MPC-BE",
     "publisher": "MPC-BE Team",
@@ -50925,6 +51121,76 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PremiumSoft.NavicatDataModeler",
+    "name": "Navicat Data Modeler",
+    "publisher": "PremiumSoft CyberTech Ltd.",
+    "description": "Navicat Data Modeler is a powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models. It allows you to visually design database structures, perform reverse/forward engineering processes, import models from ODBC data sources, generate complex SQL/DDL, print models to files, and much more.\n\nSimplify the task of creating complex entity relationship models and generate the script SQL with a simple click. Navicat Data Modeler supports various database systems, including MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle, SQLite, and Snowflake.\n\nCreate, modify, and design your models using professional object designers, available for Tables, Views, Functions and Procedures. Without the need to write complex SQL to create and edit objects, you’ll know exactly what you are working on. Also, Navicat Data Modeler supports three standard notations: Crow’s Foot, IDEF1x and UML. Using our feature-rich, simple, and user-friendly drawing tools, you can develop a complete data model with just a few clicks.\n\nNavicat Data Modeler enables you to build high-quality conceptual, logical and physical data models for a wide variety of audiences. Using the Model Conversion feature, you can convert a conceptual business-level model into a logical relational database model and then into a physical database implementation. From sketching a big picture of your system design to viewing relationships and working with attributes and columns from linked entities, tables and views. You can easily deploy accurate changes to database structures and build organized and more effective database systems.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PremiumSoft.NavicatMariaDB",
+    "name": "Navicat for MariaDB",
+    "publisher": "PremiumSoft CyberTech Ltd.",
+    "description": "Navicat for MariaDB is a powerful database management system developed to facilitate the management, development, and optimization of MariaDB databases through an intuitive interface. It includes a data profiling tool in the data viewer, an advanced query editor, and a range of comprehensive tools for data migration, modeling, and business intelligence (BI), all aimed at enhancing efficiency and effectiveness in database development.\n\nView, update, and delete records seamlessly in Grid View through our built-in editors. Integrate a data profiling tool for comprehensive and visual analysis of your data. You can also interact with the visual charts to further explore the data.\n\nManage database objects through a clear and responsive interface that breaks down query writing into structured tabs. Allow you to write complex queries with greater confidence and accuracy at every step.\n\nAccelerate your coding process with Code Completion and Code Snippet, and gain valuable insights into query-database interaction by visualizing the execution plan. You can also visually construct queries using a set of interactive tools, without having to worry about syntax and proper usage of commands.\n\nGet instant answers by asking questions and enhancing your queries with database or schema context. The AI Assistant will deliver relevant and accurate information based on your structure, and you can even compare answers from different AI models. Compatible models include ChatGPT, Deepseek, Google Gemini, Ollama, xAI Grok, Anthropic Claude, and Alibaba Qwen.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PremiumSoft.NavicatMongoDB",
+    "name": "Navicat for MongoDB",
+    "publisher": "PremiumSoft CyberTech Ltd.",
+    "description": "Navicat for MongoDB is built to streamline database management and enhance user interaction with MongoDB's NoSQL capabilities. You can navigate through collections and documents, visually construct aggregation pipelines, and perform data operations via a responsive UI. The inclusion of data modeling and business intelligence (BI) tools provides key insights into database structures and relationships, aiding informed decision-making.\n\nView, update, and delete documents seamlessly in Grid View, Tree View and JSON View through our built-in editors. With MongoDB 4 Transaction support, Navicat gives you the tools you need to manage your data efficiently and ensure a smooth process.\n\nManage database objects through a clear and responsive interface. Preview results on each step and debug the sampled data before running your MapReduce jobs. Store and retrieve files from your databases using our well-designed GridFS form that allows parallel upload and download process.\n\nAccelerate your coding process with Code Completion and Code Snippet, and gain valuable insights into query-database interaction by visualizing the execution plan. You can also visually construct queries using a set of interactive tools, without having to worry about syntax and proper usage of commands.\n\nGet instant answers by asking questions and enhancing your queries with database or schema context. The AI Assistant will deliver relevant and accurate information based on your structure, and you can even compare answers from different AI models. Compatible models include ChatGPT, Deepseek, Google Gemini, Ollama, xAI Grok, Anthropic Claude, and Alibaba Qwen.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PremiumSoft.NavicatMySQL",
+    "name": "Navicat for MySQL",
+    "publisher": "PremiumSoft CyberTech Ltd.",
+    "description": "Navicat for MySQL is a complete package designed for the unified management and development of MySQL and MariaDB databases. It features visual designers for database modeling and data illustration, comprehensive data management tools for importing, exporting, and synchronization, and a drag-and-drop query builder that simplifies SQL creation - making it an invaluable tool for both beginners and experienced developers.\n\nView, update, and delete records seamlessly in Grid View through our built-in editors. Integrate a data profiling tool for comprehensive and visual analysis of your data. You can also interact with the visual charts to further explore the data.\n\nManage database objects through a clear and responsive interface that breaks down query writing into structured tabs. Allow you to write complex queries with greater confidence and accuracy at every step.\n\nAccelerate your coding process with Code Completion and Code Snippet, and gain valuable insights into query-database interaction by visualizing the execution plan. You can also visually construct queries using a set of interactive tools, without having to worry about syntax and proper usage of commands.\n\nGet instant answers by asking questions and enhancing your queries with database or schema context. The AI Assistant will deliver relevant and accurate information based on your structure, and you can even compare answers from different AI models. Compatible models include ChatGPT, Deepseek, Google Gemini, Ollama, xAI Grok, Anthropic Claude, and Alibaba Qwen.\n\nCustomize and pin your favorite AI actions for instant access, ensuring you're always just a click away from optimizing your workflow. Leverage built-in actions to explain SQL, helping you understand complex logic and data flow, tune and optimize SQL for maximum performance, and format and beautify SQL for clean, readable code. Ask AI also provides instant suggestions to fix all sorts of errors, guiding you towards best practices and improving code quality with every correction.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PremiumSoft.NavicatPostgreSQL",
+    "name": "Navicat for PostgreSQL",
+    "publisher": "PremiumSoft CyberTech Ltd.",
+    "description": "Navicat for PostgreSQL is an easy-to-use database management tool designed to simplify the complexities of handling PostgreSQL servers. It supports tasks ranging from managing large datasets and writing simple queries to developing complex data models and conducting data analysis. Navicat for PostgreSQL provides the tools and insights necessary for a smooth GUI experience.\n\nView, update, and delete records seamlessly in Grid View through our built-in editors. Integrate a data profiling tool for comprehensive and visual analysis of your data. You can also interact with the visual charts to further explore the data.\n\nManage database objects through a clear and responsive interface that breaks down query writing into structured tabs. Allow you to write complex queries with greater confidence and accuracy at every step.\n\nAccelerate your coding process with Code Completion and Code Snippet, and gain valuable insights into query-database interaction by visualizing the execution plan. You can also visually construct queries using a set of interactive tools. Locate coding errors with our debugging component, allowing you to set breakpoints, step through the program, view and modify variable values, and examine the call stack for seamless troubleshooting.\n\nGet instant answers by asking questions and enhancing your queries with database or schema context. The AI Assistant will deliver relevant and accurate information based on your structure, and you can even compare answers from different AI models. Compatible models include ChatGPT, Deepseek, Google Gemini, Ollama, xAI Grok, Anthropic Claude, and Alibaba Qwen.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PremiumSoft.NavicatRedis",
+    "name": "Navicat for Redis",
+    "publisher": "PremiumSoft CyberTech Ltd.",
+    "description": "Navicat for Redis is an easy-to-access visual interface for visualizing and optimizing Redis data. It offers a robust set of features that make routine management tasks simpler, easier, and more efficient than using text commands alone. It includes strong user management capabilities, allowing secure access and permission control among team members, along with built-in backup and restore functionalities to ensure data protection and quick recovery.\n\nView, edit, search and sort keys and data seamlessly in Grid View and Tree View through our built-in editors. Navicat gives you with the tools you need to manage your data efficiently and ensure a smooth process.\n\nManage users and their associated permissions in an intuitive interface. You can create, edit and delete users in minutes without having to type commands, and easily create new privilege groups (selectors) to apply multiple sets of rules to a user.\n\nAccelerate your coding process with Code Completion and Code Snippet. You can also visually construct queries using a set of interactive tools, without having to worry about syntax and proper usage of commands.\n\nGet instant answers by asking questions and enhancing your queries with database or schema context. The AI Assistant will deliver relevant and accurate information based on your structure, and you can even compare answers from different AI models. Compatible models include ChatGPT, Deepseek, Google Gemini, Ollama, xAI Grok, Anthropic Claude, and Alibaba Qwen.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PremiumSoft.NavicatSnowflake",
+    "name": "Navicat for Snowflake",
+    "publisher": "PremiumSoft CyberTech Ltd.",
+    "description": "Navicat for Snowflake is designed to simplify your interaction with Snowflake, enabling you to handle vast amounts of data with ease. It offers various functionalities, including data modeling, business intelligence (BI) capabilities, artificial intelligence (AI) integration, and various data migration tools. Navicat for Snowflake empowers you to maximize your experience with Snowflake.\n\nView, update, and delete records seamlessly in Grid View through our built-in editors. Integrate a data profiling tool for comprehensive and visual analysis of your data. You can also interact with the visual charts to further explore the data.\n\nManage database objects through a clear and responsive interface that breaks down query writing into structured tabs. Allow you to write complex queries with greater confidence and accuracy at every step.\n\nAccelerate your coding process with Code Completion and Code Snippet, and gain valuable insights into query-database interaction by visualizing the execution plan. You can also visually construct queries using a set of interactive tools, without having to worry about syntax and proper usage of commands.\n\nGet instant answers by asking questions and enhancing your queries with database or schema context. The AI Assistant will deliver relevant and accurate information based on your structure, and you can even compare answers from different AI models. Compatible models include ChatGPT, Deepseek, Google Gemini, Ollama, xAI Grok, Anthropic Claude, and Alibaba Qwen.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PremiumSoft.NavicatSQLite",
+    "name": "Navicat for SQLite",
+    "publisher": "PremiumSoft CyberTech Ltd.",
+    "description": "Navicat for SQLite is an exceptional and comprehensive GUI tool that provides a complete set of functions for easy navigation and customization. Its powerful query editor includes syntax highlighting and code completion, while its flexible import and export options significantly streamline the data manipulation process. You can also visually design and manage database structures, and engage our built-in BI tools to facilitate insightful data analysis and reporting.\n\nView, update, and delete records seamlessly in Grid View through our built-in editors. Integrate a data profiling tool for comprehensive and visual analysis of your data. You can also interact with the visual charts to further explore the data.\n\nManage database objects through a clear and responsive interface that breaks down query writing into structured tabs. Allow you to write complex queries with greater confidence and accuracy at every step.\n\nAccelerate your coding process with Code Completion and Code Snippet, and gain valuable insights into query-database interaction by visualizing the execution plan. You can also visually construct queries using a set of interactive tools, without having to worry about syntax and proper usage of commands.\n\nGet instant answers by asking questions and enhancing your queries with database or schema context. The AI Assistant will deliver relevant and accurate information based on your structure, and you can even compare answers from different AI models. Compatible models include ChatGPT, Deepseek, Google Gemini, Ollama, xAI Grok, Anthropic Claude, and Alibaba Qwen.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PremiumSoft.NavicatMonitor",
+    "name": "Navicat Monitor",
+    "publisher": "PremiumSoft CyberTech Ltd.",
+    "description": "Navicat Monitor is a safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible. Monitored servers include MySQL, MariaDB, PostgreSQL and SQL Server, and compatible with cloud databases like Amazon RDS, Amazon Aurora, Oracle Cloud, Google Cloud and Microsoft Azure.\n\nNavicat Monitor is a server-based software which can be accessed from anywhere via a web browser. With web access, you can easily and seamlessly keep track of your servers around the world, around the clock.\n\nNavicat Monitor includes a rich set of real-time and historical graphs that allow you to drill down into server statistic details. It gives you a detailed view of each server load and performance regarding its availability, disk usage, network I/O, table locks and more, which allows you to easily track the deviations and traffic among servers, as well as examine possible solutions and adjust your server settings.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PremiumSoft.NavicatPremiumLite",
+    "name": "Navicat Premium Lite",
+    "publisher": "PremiumSoft CyberTech Ltd.",
+    "description": "Navicat Premium Lite is a compact version of Navicat, packed with the core features needed for users who primarily need to perform basic database operations. It allows you to simultaneously connect to a variety of database platforms, including MySQL, PostgreSQL, SQL Server, Oracle, MariaDB, Snowflake, as well as NoSQL databases like Redis and MongoDB, all from a single application. Additionally, Navicat Premium Lite is compatible with GaussDB, OceanBase and PolarDB database platforms.\n\nView, update, and delete records seamlessly in Grid View, Tree View and JSON View through our built-in editors. Navicat gives you the tools you need to manage your data efficiently and ensure a smooth process.\n\nManage database objects through a clear and responsive interface that breaks down query writing into structured tabs. Allow you to write complex queries with greater confidence and accuracy at every step.\n\nImport and export data in a variety of text-based files such as TXT, CSV, XML, and JSON. Bring data from external sources into your database, as well as extract data from your database and save it in different formats.\n\nNavicat Premium Lite can be used for both commercial and non-commercial purposes, making it a practical choice for users, from small businesses to individual developers. Each organization is entitled to use up to 5 complimentary Navicat Premium Lite user accounts.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Navigraph.NavigraphHub",
     "name": "Navigraph Hub",
     "publisher": "Navigraph",
@@ -51412,6 +51678,13 @@
     "name": "nfpm",
     "publisher": "goreleaser",
     "description": "Simple, 0-dependencies, deb, rpm, and apk packager.\nnFPM (not FPM) is configurable via YAML and does not need any\npackaging software installed.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VitalijFedichev.NFSServer",
+    "name": "NFS Server",
+    "publisher": "Vitalij Fedichev",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53753,6 +54026,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Sysinternals.PendMoves",
+    "name": "PendMoves",
+    "publisher": "Sysinternals",
+    "description": "There are several applications, such as service packs and hotfixes, that must replace a file that's in use and is unable to. Windows therefore provides the MoveFileEx API to rename or delete a file and allows the caller to specify that they want the operation to take place the next time the system boots,before the files are referenced. Session Manager performs this task by reading the registered rename and delete commands from the HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\PendingFileRenameOperations value.\n\nPendMoves Usage:\nThis applet dumps the contents of the pending rename/delete value and also reports an error when the source file is notaccessible.\nUsage: pendmoves",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "kamranahmedse.pennywise",
     "name": "Pennywise",
     "publisher": "Kamran Ahmed",
@@ -54775,6 +55055,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Sysinternals.ProcessExplorer",
+    "name": "Process Explorer",
+    "publisher": "Sysinternals",
+    "description": "Ever wondered which program has a particular file or directory open? Now you can find out. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.\n\nThe Process Explorer display consists of two sub-windows. The top window always shows a list of the currently active processes, including the names of their owning accounts, whereas the information displayed in the bottom window depends on the mode that Process Explorer is in: if it is in handle mode you'll see the handles that the process selected in the top window has opened; if Process Explorer is in DLL mode you'll see the DLLs and memory-mapped files that the process has loaded. Process Explorer also has a powerful search capability that will quickly show you which processes have particular handles opened or DLLs loaded.\n\nThe unique capabilities of Process Explorer make it useful for tracking down DLL-version problems or handle leaks, and provide insight into the way Windows and applications work.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BitSum.ProcessLasso",
     "name": "Process Lasso",
     "publisher": "Bitsum",
@@ -54786,6 +55073,13 @@
     "name": "Process Lasso (Beta)",
     "publisher": "Bitsum",
     "description": "Process Lasso is Windows process automation and optimization software. From tuning algorithms like ProBalance to user-created rules and persistent settings such as CPU affinities and priority classes, Process Lasso enables you full control over running applications!\nOur famous ProBalance algorithm maintains system responsiveness during high CPU loads. This proprietary algorithm dynamically adjusts the priorities of running programs so that some are given higher priority access to the CPU(s) than others. With ProBalance, no longer will single, or multiple, processes be able to bring your system to a virtual stall. Process Lasso will let you keep interacting with your computer, even when it is under a heavy CPU load. Try our CPUEater Demo to experience ProBalance for yourself.\nProcess Lasso also allows users to automate and tweak how applications are run through a number of unique and helpful functions. These include persistent priority classes, persistent CPU affinities, disallowed processes, per-process power profiles, a process watchdog for advanced rules, process instance count limits, instance or app balancing and much more! These features give you the ability to control how programs utilize your computer’s resources based on automatically applied settings. With Process Lasso, you can decide exactly how you want your processes to run.\nMany additional functions such as power plan automation, a system responsiveness metric and process activity logging are also available.\nFor minimal resource use, all algorithms and process rules are enforced by a stand-alone background service called the Process Governor. The GUI is entirely optional.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Sysinternals.ProcessMonitor",
+    "name": "Process Monitor",
+    "publisher": "Sysinternals",
+    "description": "Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity. It combines the features of two legacy Sysinternals utilities, Filemon and Regmon, and adds an extensive list of enhancements including rich and non-destructive filtering, comprehensive event properties such as session IDs and user names, reliable process information, full thread stacks with integrated symbol support for each operation, simultaneous logging to a file, and much more. Its uniquely powerful features will make Process Monitor a core utility in your system troubleshooting and malware hunting toolkit.\n\nProcess Monitor includes powerful monitoring and filtering capabilities, including:\n- More data captured for operation input and output parameters\n- Non-destructive filters allow you to set filters without losing data\n- Capture of thread stacks for each operation make it possible in many cases to identify the root cause of an operation\n- Reliable capture of process details, including image path, command line, user and session ID\n- Configurable and moveable columns for any event property\n- Filters can be set for any data field, including fields not configured as columns\n- Advanced logging architecture scales to tens of millions of captured events and gigabytes of log data\n- Process tree tool shows relationship of all processes referenced in a trace\n- Native log format preserves all data for loading in a different Process Monitor instance\n- Process tooltip for easy viewing of process image information\n- Detail tooltip allows convenient access to formatted data that doesn't fit in the column\n- Cancellable search\n- Boot time logging of all operations",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55846,6 +56140,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "jurplel.qView.Nightly",
+    "name": "qView Nightly",
+    "publisher": "jurplel and qView contributors",
+    "description": "qView was designed from the very start to be as visually minimal and space efficient as possible. No cluttered interface, just your image and a titlebar.\n\nYou shouldn't have to wait just to view an image—qView opens practically instantly, and switching images is just as quick, all while having low memory and CPU usage.\n\nWith features such as animated GIF controls, file history, rotation/mirroring, and multithreaded preloading, minimalism doesn't have to be a compromise.\n\nLatest automatic build from the master branch. Might be broken.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "jamesbowden.qws",
     "name": "QWS Quick Windows Sequencer",
     "publisher": "James Bowden",
@@ -55993,6 +56294,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Sysinternals.RAMMap",
+    "name": "RamMap",
+    "publisher": "Sysinternals",
+    "description": "Have you ever wondered exactly how Windows is assigning physical memory, how much file data is cached in RAM, or how much RAM is used by the kernel and device drivers? RAMMap makes answering those questions easy. \nRAMMap is an advanced physical memory usage analysis utility for Windows Vista and higher.\n\nIt presents usage information in different ways on its several different tabs:\n- Use Counts: usage summary by type and paging list\n- Processes: process working set sizes\n- Priority Summary: prioritized standby list sizes\n- Physical Pages: per-page use for all physical memory\n- Physical Ranges: physical memory addresses\n- File Summary: file data in RAM by file\n- File Details: individual physical pages by file\n\nUse RAMMap to gain understanding of the way Windows manages memory, to analyze application memory usage, or to answer specific questions about how RAM is being allocated. RAMMap’s refresh feature enables you to update the display and it includes support for saving and loading memory snapshots.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RamSoft.DicomProxy",
     "name": "RamSoft DicomProxy",
     "publisher": "RamSoft Inc.",
@@ -56035,6 +56343,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CyberTimon.RapidRAW",
+    "name": "RapidRAW",
+    "publisher": "Timon Käch",
+    "description": "RapidRAW is a modern, high-performance alternative to Adobe Lightroom®. It delivers a simple, beautiful editing experience in a lightweight package (under 20MB) for Windows, macOS, and Linux.\n\nRapidRAW is for photographers who love to edit their photos in a clean, fast, and simple workflow. It prioritizes speed, a beautiful user interface, and powerful tools that let you achieve your creative color vision quickly.\n\nIt is not for users who seek absolute, perfect color accuracy. While the results are great for most purposes, the focus is on a fluid, creative process rather than perfect color precision.\n\nRapidRAW is still in active development and isn't yet as polished as mature tools like Darktable, RawTherapee, or Adobe Lightroom®. Right now, the focus is on building a fast, enjoyable core editing experience. You may encounter bugs - if you do, please report them so I can fix them :) Your feedback really helps!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Dummerle.Rare",
     "name": "Rare",
     "publisher": "UNKNOWN",
@@ -56046,6 +56361,13 @@
     "name": "Raspberry Pi Imager",
     "publisher": "Raspberry Pi Ltd",
     "description": "Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi.\n\nDownload and install Raspberry Pi Imager on a computer with an SD card reader. Insert the microSD card you’ll use with your Raspberry Pi into the reader and run Raspberry Pi Imager.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HonhimW.Ratisui",
+    "name": "Ratisui",
+    "publisher": "honhimW",
+    "description": "Redis TUI build with Ratatui, written in Rust.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56403,6 +56725,13 @@
     "name": "Remote Desktop Agent Boot Loader",
     "publisher": "Microsoft Corporation",
     "description": "Install the Windows Virtual Desktop Boot Loader\n### Notes\n* This package always installs the latest version of the Windows Virtual Desktop Bootloader, regardless of the version specified in the package. Microsoft do not officially offer older versions for download as the tools are self-updating. Because of this you may get checksum mismatch between the time Microsoft releases a new installer, and the package is automatically updated.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Sysinternals.RDCMan",
+    "name": "Remote Desktop Connection Manager",
+    "publisher": "Sysinternals",
+    "description": "RDCMan manages multiple remote desktop connections. It is useful for managing server labs where you need regular access to each machine such as automated checkin systems and data centers.\n\nServers are organized into named groups. You can connect or disconnect to all servers in a group with a single command. You can view all the servers in a group as a set of thumbnails, showing live action in each session. Servers can inherit their logon settings from a parent group or a credential store. Thus when you change your lab account password, you only need to change the password stored by RDCMan in one place. Passwords are stored securely by encrypting with either CryptProtectData using the (locally) logged on user's authority or an X509 certificate.\n\nUser with OS versions prior to Win7/Vista will need to get version 6 of the Terminal Services Client. You can obtain this from the Microsoft Download Center: XP; Win2003\n\nUpgrade note: RDG files with this version of RDCMan are not compatible with older program versions. Any legacy RDG file opened and saved with this version will be backed up as filename.old",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56784,6 +57113,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WolfgangBuescher.rsNTP",
+    "name": "Ridiculously Simple NTP Client",
+    "publisher": "Wolfgang \"Wolf\" Buescher DL4YHF",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Posit.rig",
     "name": "rig",
     "publisher": "Posit Software, PBC",
@@ -56935,6 +57271,13 @@
     "name": "Rockbox Utility",
     "publisher": "Rockbox Developers",
     "description": "Rockbox is a free replacement firmware for digital music players. Rockbox Utility is an automated installer tool for Rockbox.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PunkLabs.RocketDock",
+    "name": "RocketDock",
+    "publisher": "PunkLabs",
+    "description": "RocketDock is our classic app launcher loved by millions of people for almost 20 years. It lets you zoom through your shortcuts like a rocket with its buttery smooth interface. You can drag your favorite apps, files, and folders onto the dock to have quick access to them, then personalize with different skins, icons, and effects to match your desktop.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57344,6 +57687,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "sakura-editor.sakura",
+    "name": "SAKURA Editor",
+    "publisher": "SAKURA Editor",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "allentown521.Saladict",
     "name": "Saladict",
     "publisher": "allentown521",
@@ -57691,6 +58041,13 @@
     "name": "Screen Highlighter Pro",
     "publisher": "Japplis",
     "description": "Screen Highlighter Pro - Highlight parts of the screen\nScreen Highlighter allows to highlight a part of the screen by partially hiding the other parts. A shape (horizontal bar, vertical bar, rectangle, ellipse) is visible and the rest is partially hidden.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CosmicDNA.ScreenLight",
+    "name": "Screen Light",
+    "publisher": "CosmicDNA",
+    "description": "Screen Light is a lightweight and straightforward Windows application designed to give you quick and easy control over your screen's brightness.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60293,8 +60650,8 @@
   {
     "id": "Microsoft.Sysinternals.Suite",
     "name": "Sysinternals Suite",
-    "publisher": "Microsoft Corporation",
-    "description": "The Sysinternals Suite was created in 1996 by Mark Russinovich to host his advanced system utilities and technical information",
+    "publisher": "Sysinternals",
+    "description": "Sysinternals Suite is a bundle of the Sysinternals utilities including Process Explorer, Process Monitor, Sysmon, Autoruns, ProcDump, all of the PsTools, and many more.\n\nThe Sysinternals website was created in 1996 by Mark Russinovich to host his advanced system utilities and technical information. Whether you’re an IT pro or a developer, you’ll find Sysinternals utilities to help you manage, troubleshoot, and diagnose your Windows systems and applications.\n\nThe Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools. This file contains the individual troubleshooting tools and help files. It does not contain non-troubleshooting tools like the BSOD Screen Saver.\n\nThe Suite is a bundling of the following selected Sysinternals Utilities: AccessChk, AccessEnum, AdExplorer, AdInsight, AdRestore, Autologon, Autoruns, BgInfo, BlueScreen, CacheSet, ClockRes, Contig, Coreinfo, Ctrl2Cap, DebugView, Desktops, Disk2vhd, DiskExt, DiskMon, DiskView, Disk Usage (DU), EFSDump, FindLinks, Handle, Hex2dec, Junction, LDMDump, ListDLLs, LiveKd, LoadOrder, LogonSessions, MoveFile, NotMyFault, NTFSInfo, PendMoves, PipeList, PortMon, ProcDump, Process Explorer, Process Monitor, PsExec, PsFile, PsGetSid, PsInfo, PsKill, PsList, PsLoggedOn, PsLogList, PsPasswd, PsPing, PsService, PsShutdown, PsSuspend, PsTools, RAMMap, RDCMan, RegDelNull, RegHide, RegJump, Registry Usage (RU), SDelete, ShareEnum, ShellRunas, Sigcheck, Streams, Strings, Sync, Sysmon, TCPView, VMMap, VolumeID, WhoIs, WinObj, ZoomIt",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61551,6 +61908,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TopazLabs.TopazGigapixelAI",
+    "name": "Topaz Gigapixel AI",
+    "publisher": "Topaz Labs LLC",
+    "description": "Gigapixel is a powerful desktop application that uses advanced AI to upscale photos, graphics, and artwork up to 6x while preserving detail and clarity.\nWith intelligent auto settings that adapt to your image, it delivers high-fidelity results for creatives and professionals alike.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TopazLabs.TopazSharpenAI",
     "name": "Topaz Sharpen AI",
     "publisher": "Topaz Labs LLC",
@@ -61667,6 +62031,13 @@
     "name": "TrackMania United Forever",
     "publisher": "Nadeo",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "wolfpld.tracy",
+    "name": "Tracy Profiler",
+    "publisher": "wolfpld",
+    "description": "A real time, nanosecond resolution, remote telemetry, hybrid frame and sampling profiler for games and other applications.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62706,6 +63077,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "GibsonResearchCorporation.ValiDrive",
+    "name": "ValiDrive, freeware by Steve Gibson",
+    "publisher": "Gibson Research Corp.",
+    "description": "ValiDrive performs a quick, random-sequence spot-check across the drive's entire declared storage space. At every location it verifies the successful storage and retrieval of random (unspoofable) test data.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RiotGames.Valorant.EU",
     "name": "VALORANT (Europe server)",
     "publisher": "Riot Games, Inc",
@@ -62815,6 +63193,13 @@
     "name": "VE Power Setup",
     "publisher": "Victron Energy",
     "description": "Use this to update firmware for Victron products that are updateable via a VE.Can communication port. These are:\n- BlueSolar Chargers 150/70 and 150/85\n- Lynx Shunt VE.Can\n- All four Skylla-i battery chargers\n- All our different VE.Can and NMEA2000 interfaces\n- Ion Control",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NumericPath.VectorStyler",
+    "name": "VectorStyler",
+    "publisher": "NumericPath",
+    "description": "VectorStyler provides a complete set of drawing, design and illustration tools necessary for modern design. With its numerous new features, VectorStyler redefines and extends the tools available for illustrators and designers, improving the creation of complex illustrations and designs.\n\nCreate precision vector graphics using a advanced shape editing tools. Cut and merge shapes with the Trim and Join tool. Adjust path endings and node locations along the path using the Extend Path tool. Modify shapes locally with the Offset Path tools. Simplify shapes with the precision node removal feature.\n\nCreate and use dynamically linked symbols and styles. Changes to symbols and styles automatically propagate other the whole document. Use styles to create common attribute definitions for all aspects of objects, including color, outline, content or formatting. Use number variables to define common number attributes.\n\nUse variable and color fonts to create typographic effects. Set text along any path and use bending with variable width profile to stretch text on a path. Setup multicolumn text frames and flow text between multiple linked frames. Use multi-line paragraph composer for precise typography and balance text between columns.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63725,6 +64110,13 @@
     "name": "Wasmtime",
     "publisher": "Bytecode Alliance",
     "description": "Wasmtime is a Bytecode Alliance project that is a standalone wasm-only optimizing runtime for WebAssembly and WASI. It runs WebAssembly code outside of the Web, and can be used both as a command-line utility or as a library embedded in a larger application.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microlife.WatchBPAnalyzer",
+    "name": "WatchBP Analyzer",
+    "publisher": "Microlife",
+    "description": "WatchBP Analyzer is the dedicated blood pressure software of Microlife professional blood pressure monitoring product series. It can connect and transfer data from WatchBP Office 2G, WatchBP Office Vascular, WatchBP Office ABI, WatchBP Office AFIB, all WatchBP O3 variants, WatchBP Home (LOT after 2023-07-25), WatchBP Home A(LOT after 2023-07-25), and WatchBP Home A BT(LOT after 2023-07-25).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -65874,6 +66266,13 @@
     "name": "YouTube Music Desktop App",
     "publisher": "NovusTheory",
     "description": "A unofficial player for YouTube Music on desktop which includes a number of additional features to improve the desktop experience of YouTube Music.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Abelssoft.YouTubeSongDownloader",
+    "name": "YouTube Song Downloader",
+    "publisher": "Abelssoft",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
