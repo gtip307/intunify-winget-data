@@ -1022,6 +1022,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PyPy.PyPy.2.7",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PhapDieuDuong.ExifGlass",
     "name": "",
     "publisher": null,
@@ -1697,7 +1704,7 @@
     "id": "PatchMyPC.PatchMyPC",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "保护并更新您的电脑——您知道吗？为了保持安全，您的电脑需要定期更新。事实上，70% 的成功恶意软件攻击都是利用了过时的系统漏洞（也就是没有及时为电脑“打补丁”）。\n不必再花费时间手动逐一更新家中电脑上的每个程序，我们的免费软件可为您自动完成——一次性自动更新 500 多个应用程序！让您轻松避免安全风险，无需繁琐操作。简单、免费，还能有效抵御黑客入侵。\n别成为那 55% 不了解软件更新重要性的家庭用户之一。Home Updater 让您轻松完成电脑补丁更新。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -4025,6 +4032,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Station.Station",
+    "name": "",
+    "publisher": null,
+    "description": "Station 是首款面向忙碌人士的开源智能浏览器。一个集中管理您所有网页应用的平台。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Steady.Steady",
     "name": "",
     "publisher": null,
@@ -4396,13 +4410,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SimnetLtd.SimpleStickyNotes",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "SimonTatham.Puzzles",
     "name": "",
     "publisher": null,
@@ -4747,13 +4754,6 @@
   },
   {
     "id": "SpriteOvO.AirPodsDesktop",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Stellarium.Stellarium",
     "name": "",
     "publisher": null,
     "description": "",
@@ -6506,7 +6506,7 @@
     "id": "xiles.NexusFont",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "如果你是经常使用多种字体的设计师，nexusfont 是一款必备的应用程序。\n你可以通过其条理清晰的功能来管理、比较和选择字体。\n无需将所有字体安装到系统中，只需加载你正在使用的字体即可。\n简单又方便！",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -7658,13 +7658,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "FellowInsightInc.Fellow",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Firezone.Client.Headless",
     "name": "",
     "publisher": null,
@@ -8569,6 +8562,13 @@
   },
   {
     "id": "waterlan.dos2unix",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WinFlexBison.win_flex_bison",
     "name": "",
     "publisher": null,
     "description": "",
@@ -10899,6 +10899,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DevLG.CmdPalVideoDownloader",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DigitalCreations.MaxTo",
     "name": "",
     "publisher": null,
@@ -10970,6 +10977,13 @@
   },
   {
     "id": "deviceinsight.kafkactl-aws-plugin",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DJ7NT.WaveLogGate",
     "name": "",
     "publisher": null,
     "description": "",
@@ -11285,6 +11299,13 @@
   },
   {
     "id": "DelugeTeam.DelugeBeta",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Datadog.dda",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12131,6 +12152,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "deanxv.DoneHub",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "dev47apps.DroidCamOBSPlugin",
     "name": "",
     "publisher": null,
@@ -12712,6 +12740,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Texthelp.Equatio",
+    "name": "",
+    "publisher": null,
+    "description": "Equatio 是一款先进的数学公式编辑器，已被数以百万计的 K-12 教师和学生使用。它让数学变得数字化且易于访问。学生可以通过语音、手写或直接在设备上输入的方式输入题目和公式。教师则可使用 Equatio 更高效地创建易于访问的数学课程和测评内容，节省大量时间。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "timeBuzzer.timeBuzzer",
     "name": "",
     "publisher": null,
@@ -12943,7 +12978,21 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TexasInstruments.TIConnect",
+    "name": "",
+    "publisher": null,
+    "description": "TI Connect™ 是一款计算机软件，可实现计算机与图形计算器之间的连接。通过该软件，您可以向图形计算器传输数据、更新操作系统（OS）、下载计算器软件应用程序（Apps）等。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Tweaking4All.RenameMyTVSeries",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TheGridTrackerTeam.GridTracker2",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13129,6 +13178,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ThermoFisher.AmiraAvizo2D",
+    "name": "",
+    "publisher": null,
+    "description": "Amira-Avizo2D 软件在易于学习的环境中，为二维图像提供先进的特征分类和统计信息提取功能。\nAmira-Avizo2D 软件使材料科学家和质量控制工程师能够构建并运行图像分析“方案”，结合深度学习模型、预设工作流程以及强大的图像处理工具。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -13783,6 +13839,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "tstack.lnav",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TELUS.BusinessConnectPhone",
     "name": "",
     "publisher": null,
@@ -14203,6 +14266,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MoeruAI.AIRI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "madisvain.upcount",
     "name": "",
     "publisher": null,
@@ -14470,34 +14540,6 @@
   },
   {
     "id": "monday.monday",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "MiTeC.IconExplorer",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "MiTeC.WindowsFileAnalyzer",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "MiTeC.HexEdit",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "MiTeC.NetworkMeter",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17227,6 +17269,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MartialBE.OneHub",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Monosnap.Monosnap",
     "name": "",
     "publisher": null,
@@ -17661,13 +17710,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "LiteratureandLatte.Scrivener",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "last-hit-team.last-hit",
     "name": "",
     "publisher": null,
@@ -18081,10 +18123,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "lucasg.Dependencies",
+    "id": "LiteratureAndLatte.Scrivener",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "Scrivener 是各类写作者的首选应用程序，每天都有畅销小说家、编剧、非虚构作家、学生、学者、律师、记者、翻译人员等在使用。Scrivener 不会告诉你该如何写作——它只是为你提供开始写作并持续写下去所需的一切。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LiteratureAndLatte.Scapple",
+    "name": "",
+    "publisher": null,
+    "description": "Scapple 是一款易于使用的工具，可帮助您尽可能快速地记录想法，并在它们之间建立联系。它相当于使用一张大纸，随意写下您的思考和想法，无需遵循特定顺序，可以将相关的笔记归类聚集，并在它们之间画出线条或箭头，以体现逐渐显现的关联。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -20035,6 +20084,13 @@
   },
   {
     "id": "bitmediae-SolutionsGmbH.ITSClient",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "bloodrock.pkg-config-lite",
     "name": "",
     "publisher": null,
     "description": "",
@@ -23394,6 +23450,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Autodesk.DesktopConnector",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ApacheFriends.Xampp.8.1",
     "name": "",
     "publisher": null,
@@ -24458,6 +24521,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KunLabAI.KunAvatar",
+    "name": "",
+    "publisher": null,
+    "description": "KunAvatar is a lightweight locally deployed AI application that not only provides a complete AI conversation solution, but also has outstanding advantages in memory systems, auxiliary models, MCP tool calling, and enterprise-level user management.\n🎯 Core Advantages\n- 🧠 Intelligent Memory - Recursive memory system that allows AI to truly \"remember\" conversation content\n- 🎯 Model Collaboration - Multi-model collaborative work, main model focuses on conversation, auxiliary models optimize experience\n- 🔧 Tool Ecosystem - MCP tool integration supporting multiple protocols like SSE, Streamable HTTP\n- 👥 Enterprise Management - Complete RBAC permission system, supporting multi-tenancy and resource-level data management\n- 🚀 Local Deployment - Completely localized data, protecting privacy and security, supporting LAN access\n- 📦 Out-of-the-box - No complex configuration required, can be deployed and used locally out of the box(Currently only Windows is supported)\nWhether for personal use, team collaboration, or enterprise deployment, KunAvatar provides professional, secure, and intelligent AI interaction experience.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KizunaAIInc.kzn",
     "name": "",
     "publisher": null,
@@ -24522,6 +24592,13 @@
   },
   {
     "id": "KIDASASoftware,Inc.MilestonesProfessional2023",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "K-Software.DXLog.net",
     "name": "",
     "publisher": null,
     "description": "",
@@ -24942,13 +25019,6 @@
   },
   {
     "id": "knoopx.feeder",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "krzys-h.UndertaleModTool",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25400,6 +25470,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "INTEF.eXeLearning",
+    "name": "",
+    "publisher": null,
+    "description": "eXeLearning 是一个用于创建教育内容的开源工具。本指南并未涵盖所有可能的操作以及程序版本之间的差异。\n请在您喜爱的操作系统（Windows、Mac 或 Linux）上安装 eXeLearning，并使用您偏好的浏览器进行操作。\neXeLearning 旨在方便您在本地或互联网上使用您的内容，可将内容导出为 HTML、HTML5、SCORM1.2、SCORM2004、IMS、ePub3 或其他格式，既可以独立发布，也可以发布到 Moodle 或其他类似的学习管理系统（LMS）中。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -26460,13 +26537,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Google.Libwebp",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Google.FirebaseCLI",
     "name": "",
     "publisher": null,
@@ -26489,6 +26559,13 @@
   },
   {
     "id": "Google.Protobuf",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GoldSim.TechnologyGroup.GoldSim",
     "name": "",
     "publisher": null,
     "description": "",
@@ -27580,6 +27657,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HaiNguyen.Mechvibes",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HaraldBoegeholz.h2testw",
     "name": "",
     "publisher": null,
@@ -27602,6 +27686,13 @@
   },
   {
     "id": "Heliai.BlackThunder",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HaiYing.AionUi",
     "name": "",
     "publisher": null,
     "description": "",
@@ -27735,6 +27826,13 @@
   },
   {
     "id": "jdx.mise",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JustSong.OneAPI",
     "name": "",
     "publisher": null,
     "description": "",
@@ -29281,6 +29379,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AppDeployNews.SilentSwitchFinder",
+    "name": "ADN Silent Switch Finder",
+    "publisher": "SparkleFlow B.V.",
+    "description": "Looking for a hassle-free way to streamline your software installations? AppDeploy Silent Switch Finder is here to simplify the process for you! This powerful yet user-friendly application empowers you to locate and activate silent installer commands across a wide array of software applications, making installation a breeze.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Adobe.Acrobat.Reader.64-bit",
     "name": "Adobe Acrobat DC (64-bit)",
     "publisher": "Adobe",
@@ -30681,6 +30786,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "danielbrendel.AquaShell",
+    "name": "AquaShell",
+    "publisher": "danielbrendel",
+    "description": "It can be used for automation or creating complex applications. The shell can\nbe extended via plugins in order to provide custom script commands.\n\nAquaShell is an extendable scripting shell for Windows using\ndnyScriptInterpreter. The shell can be used either in interactive mode or just\nas a host for running DNYS script files. The functionality of the shell can be\nextended via native DLL plugins. It is best suited for automation tasks as well\nas complex script development.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Araxis.Merge",
     "name": "Araxis Merge",
     "publisher": "Araxis Ltd",
@@ -31518,6 +31630,13 @@
     "name": "AyuGram Desktop",
     "publisher": "Radolyn Labs",
     "description": "https://github.com/AyuGram/AyuGramDesktop/blob/dev/README.md",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AzaharPlus.AzaharPlus",
+    "name": "AzaharPlus",
+    "publisher": "AzaharPlus",
+    "description": "Each version is the same as the corresponding version of Azahar exept for these features: • Support of 3DS files. If a file works with earlier Citra forks, it works with AzaharPlus. • Ability to download system files from official servers. No need for an actual 3DS.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33481,6 +33600,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Esko.CapePack",
+    "name": "Cape Pack",
+    "publisher": "Esko Software BV",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CXWorld.CapFrameX",
     "name": "CapFrameX",
     "publisher": "CXWorld",
@@ -33652,6 +33778,13 @@
     "id": "Piriform.CCleaner.ProTrial",
     "name": "CCleaner Professional Trial",
     "publisher": "Piriform",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Haleclipse.CCometixLine",
+    "name": "CCometixLine",
+    "publisher": "Haleclipse",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -34276,6 +34409,13 @@
     "name": "CLC Main Workbench",
     "publisher": "QIAGEN Aarhus A/S",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Nakka.CLCL",
+    "name": "CLCL",
+    "publisher": "Nakka",
+    "description": "CLCL is clipboard caching utility.\n\n- All clipboard formats are supported.\n- Template can be registered.\n- Pop-up menu is displayed by \"Alt+C.\"\n- Menu can be customized.\n- Item is paste automatically.\n- Picture is displayed on a menu.\n- Tool tip is displayed on a menu.\n- The format to leave and the format to save can be set up.\n- The ignored window can be set up.\n- The paste key for every window can be set up.\n- Function is extensible with plug-in.\n- Unicode support",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35311,7 +35451,7 @@
     "id": "charmbracelet.crush",
     "name": "crush",
     "publisher": "charmbracelet",
-    "description": "Your new coding bestie, now available in your favourite terminal. Your tools, your code, and your workflows, wired into your LLM of choice.",
+    "description": "A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35494,6 +35634,13 @@
     "name": "CudaText",
     "publisher": "CudaText",
     "description": "Open source and cross-platform text editor. Written in Free Pascal, using Lazarus.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "gchudov.CUETools",
+    "name": "CUETools",
+    "publisher": "gchudov",
+    "description": "CUETools is a tool for lossless audio/CUE sheet format conversion. The goal is to make sure the album image is preserved accurately. A lossless disc image must be lossless not only in preserving contents of the audio tracks, but also in preserving gaps and CUE sheet contents. Many applications lose vital information upon conversion, and don't support all possible CUE sheet styles. For example, foobar2000 loses disc pre-gap information when converting an album image, and doesn't support gaps appended (noncompliant) CUE sheets.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35987,6 +36134,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "lucasg.Dependencies",
+    "name": "Dependencies",
+    "publisher": "lucasg",
+    "description": "Dependencies is a rewrite of the legacy software Dependency Walker which was shipped along Windows SDKs, but whose development stopped around 2006. Dependencies can help Windows developers troubleshooting their dll load dependencies issues.\n\nDependencies currently does not recursively resolve child imports when parsing a new PE since it can be really memory-hungry to do so ( it can over a GB even for \"simple\" PEs ). This behavior can be overridden (app-wide) via a property located in \"Options->Properties->Tree build behaviour\".Dependencies currently does not recursively resolve child imports when parsing a new PE since it can be really memory-hungry to do so ( it can over a GB even for \"simple\" PEs ). This behavior can be overridden (app-wide) via a property located in \"Options->Properties->Tree build behaviour\".\n\nTree build behaviours available :\n- ChildOnly (default): only process PE child imports and nothing beyond.\n- RecursiveOnlyOnDirectImports: do not process delayload dlls.\n- Recursive: Full recursive analysis. You better have time and RAM on your hands if you activate this setting",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "tecnocrata.depscop",
     "name": "Dependency Analyzer",
     "publisher": "tecnocrata",
@@ -36306,6 +36460,13 @@
     "name": "DirHash",
     "publisher": "IDRIX",
     "description": "DirHash is a console program that computes the hash of a given directory or file content. Lexicographical order is used for browsing the directory hierarchy.\nSupported hashing algorithms are MD5, SHA-1, SHA-256, SHA-384, SHA-512 and Streebog.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DiRoots.One",
+    "name": "DiRoots.One",
+    "publisher": "DiRoots, LDA",
+    "description": "DiRootsOne includes multiple Autodesk Revit Plugins to boost your productivity. DiRootsOne allows seamless interoperability between our plugins, opening doors to new workflows and ways to get your job done faster and better.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37125,6 +37286,13 @@
     "name": "DVDStyler",
     "publisher": "Thüring IT-Consulting",
     "description": "DVDStyler is a cross-platform free DVD authoring application for the creation of professional-looking DVDs.\nIt allows not only burning of video files on DVD that can be played practically on any standalone DVD player, but also creation of individually designed DVD menus.\nIt is Open Source Software and is completely free.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AutoDWG.DWGSeeCAD",
+    "name": "DWGSee CAD 2026",
+    "publisher": "AutoDWG",
+    "description": "DWGSee CAD offers expanded design and editing capabilities, making it a lightweight CAD solution.\n\nDWGSee CAD is a lightweight software for opening and modifying DWG/DXF/DWF files. It includes CAD features to draft and edit drawings with lower system resource consumption, making it efficient for 2D drawing work.\n\nDWGSee CAD enables easy collaboration and sharing of work by allowing users to markup and publish their drawings as PDF or JPG files. These files are compatible with all versions of DWG/DXF/DWF files, ensuring accurate viewing across platforms.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38514,6 +38682,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FellowInsights.Fellow",
+    "name": "Fellow",
+    "publisher": "Fellow Insights Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GorillaDevs.Ferium",
     "name": "Ferium",
     "publisher": "gorilla-devs",
@@ -39886,6 +40061,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ModelScope.FlowBench",
+    "name": "FlowBench",
+    "publisher": "modelscope X museAI",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Floweb.Floweb",
     "name": "Floweb",
     "publisher": "floweb",
@@ -40464,6 +40646,13 @@
     "name": "Gama",
     "publisher": "Gama-platform",
     "description": "GAMA is an easy-to-use open source modeling and simulation environment for creating spatially explicit agent-based simulations. It has been developed to be used in any application domain: urban mobility, climate change adaptation, epidemiology, disaster evacuation strategy design, urban planning, are some of the application domains in which GAMA users are involved and for which they create models.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "clanmonsterxd-cmd.Game-Menu",
+    "name": "Game-Menu",
+    "publisher": "clanmonsterxd-cmd",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41979,6 +42168,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CabinInteractive.HAMRSPro",
+    "name": "HAMRS Pro",
+    "publisher": "Cabin Interactive",
+    "description": "HAMRS Pro has been rewritten from the ground up!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TheGoddessInari.Hamsket",
     "name": "Hamsket",
     "publisher": "TheGoddessInari",
@@ -42914,6 +43110,13 @@
     "name": "HvManager",
     "publisher": "Aprel Tech, LLC",
     "description": "Organize multi-user access to Hyper-v servers with role-based authentication.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JuanjoFuchs.hwinfo-tui",
+    "name": "hwinfo-tui",
+    "publisher": "JuanjoFuchs",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46592,6 +46795,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Google.Libwebp",
+    "name": "libwebp",
+    "publisher": "Google LLC",
+    "description": "We provide in the libwebp codec distribution a reference implementation for the encoder and decoder applications, cwebp and dwebp respectively, to showcase the available functionalities of WebP.\n\ncwebp compresses an image using the WebP format. Input format can be either PNG, JPEG, TIFF, WebP or raw Y'CbCr samples. Note: Animated PNG and WebP files are not supported.\n\ndwebp decompresses WebP files into PNG, PAM, PPM or PGM images. Note: Animated WebP files are not supported.\n\ngif2webp converts a GIF image to a WebP image.\n\nimg2webp compresses a sequence of images using the animated WebP format. Input images can either be PNG, JPEG, TIFF or WebP. If a single file name (not starting with the character '-') is supplied as the argument, the command line arguments are actually tokenized from this file. This allows for easy scripting or using a large number of arguments.\n\nvwebp decompresses a WebP file and displays it in a window using OpenGL.\n\nwebpinfo can be used to print out the chunk level structure and bitstream header information of WebP files. It can also check if the files are of valid WebP format.\n\nwebpmux create animated WebP files from non-animated WebP images, extract frames from animated WebP images, and manage XMP/EXIF metadata and ICC profile.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TeamLidarr.Lidarr",
     "name": "Lidarr",
     "publisher": "Team Lidarr",
@@ -48944,6 +49154,41 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MiTeC.HexEdit",
+    "name": "MiTeC HexEdit",
+    "publisher": "MiTeC",
+    "description": "HexEdit is powerful hexadecimal editor with following features:\n- MDI interface\n- Data Inspector\n- Calculator\n- File Compare\n- Memory Dumper\n- Disk Dumper\n- Data interpreter and analyzer\n\nFree to use for private, educational and non-commercial purposes. For other usage you should buy commercial license.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MiTeC.IconExplorer",
+    "name": "MiTeC Icon Explorer",
+    "publisher": "MiTeC",
+    "description": "This tool allows to manage icon libraries, standalone icons and executable that contains icons as resources.\nMicroAngelo 16-bit format (icl) and 16-bit executables (NE) is no longer supported and Icon Explorer now creates 32-bit DLLs as icon libraries.\n32-bit icons and 256x256 sized icons are supported.\n\nIt has powerful searching tool that searches specified path with directory recursion and examines any file if it contains any icon and then extract it.\nIcons can be saved as icons, individual icon images or bitmaps.\n\nFree to use for private, educational and non-commercial purposes.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MiTeC.NetworkMeter",
+    "name": "MiTeC Network Meter",
+    "publisher": "MiTeC",
+    "description": "This application scans for network interfaces and adapters installed in system and their monitoring. Detailed info for every interface is provided.\nEvery interface monitor has simple statistics view and graphic display with time history.\n\nFree to use for both private and commercial users.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MiTeC.NetworkScanner",
+    "name": "MiTeC Network Scanner",
+    "publisher": "MiTeC",
+    "description": "It is a multi-threaded ICMP, Port, IP, NetBIOS/NetBT, ActiveDirectory and SNMP scanner with many advanced features. \nIt is intended for both system administrators and general users who are interested in computer security. \nThe program performs ping sweep, scans for opened TCP and UDP ports, resource shares and services. \nStandalone Simple Service Discovery, WS-Discovery and Multicast DNS Resolver are also included.\n\nFor devices with SNMP capability available interfaces are detected and basic properties displayed.\n\nIn addition you have to edit results, save/load results to/from CSV and print network device list and any data in any section can be exported to CSV.\n\nIt can also resolve host names and auto-detect your local IP range.\n\nFree to use for private, educational and non-commercial purposes. For other usage you should buy commercial license.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MiTeC.WindowsFileAnalyzer",
+    "name": "MiTeC Windows File Analayzer",
+    "publisher": "MiTeC",
+    "description": "This application decodes and analyzes some special files used by Windows OS. In these files is interesting information for forensic analysis.\nEvery analysis results can be printed in user-friendly form.\nIt's designed in Multiple Document Interface.\n\nHere are described individual analyzers:\n- This analyzer reads Thumbs.db file and displays its content with stored data include image preview.\n- This analyzer reads ACDSee *.fpt file and displays its content with stored data include image preview.\n- This analyzer reads Picasa *.db file and displays its content with stored data include image preview.\n- This analyzer reads fsviewer.db file and displays its content with stored data include image preview.\n- This analyzer reads *.db or *.dat file and displays its content with stored data include image preview.\n- It reads files stored usually in Prefetch folder and diggs out stored informaton.\n- This tool reads all shortcut files in specified folder and displays data stored in them.\n- This analyzer reads specified Index.Dat file and displays its content. Index.Dat files store usually data of Internet Explorer cookies, temporary files or history.\n- This analyzer decodes and displays Info2 files that hold WinXP recycle bin content information or $I files holding Vista and above recycle bin information.\n\nFree to use for private, educational and non-commercial purposes. For other usage you should buy commercial license.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Mitel.MitelConnect",
     "name": "Mitel Connect",
     "publisher": "Mitel Networks Corporation",
@@ -51226,13 +51471,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "NDI.NDITools",
-    "name": "NDI Tools",
-    "publisher": "NDI",
-    "description": "NDI Tools and plugins needed to connect, stream and share your content. Contains Access Manager, Remote, Router, Test Patterns, Studio Monitor, Webcam Input, Screen Capture, Bridge and plugins for Audio Direct, VLC, Premiere Pro, After Effect.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "720kb.ndm",
     "name": "ndm",
     "publisher": "720kb",
@@ -51503,13 +51741,6 @@
     "name": "NetTime",
     "publisher": "Mark Griffiths",
     "description": "NetTime is a Simple Network Time Protocol (SNTP) client for Windows 95/98/Me/NT/2000/XP/Vista/7/8/10 and Server 2003/2008/2012/2016.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "MiTeC.NetworkScanner",
-    "name": "Network Scanner",
-    "publisher": "MiTeC",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54425,6 +54656,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Pixellu.SmartAlbums",
+    "name": "Pixellu SmartAlbums",
+    "publisher": "Pixellu",
+    "description": "Pixellu SmartAlbums is a professional album design software that simplifies and speeds up the process of creating stunning photo albums for photographers.\n\nKey Features:\n- Automated Layouts – AI-powered tools arrange photos beautifully with minimal effort.\n- Customizable Templates – Choose from various pre-designed templates or create your own.\n- Drag-and-Drop Editing – Easily adjust layouts, spacing, and backgrounds.\n- Fast Workflow – Batch editing and synchronization save time.\n- Client Proofing – Share digital proofs for easy online review and approval.\n- High-Quality Export – Supports print-ready PDFs and JPEGs.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OramaInteractive.Pixelorama",
     "name": "Pixelorama",
     "publisher": "Orama Interactive",
@@ -55815,6 +56053,13 @@
     "name": "QNapi",
     "publisher": "QNapi",
     "description": "A software for downloading and automatic matching subtitles to movies.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Alibaba.Qoder",
+    "name": "Qoder",
+    "publisher": "Qoder",
+    "description": "Qoder is an agentic coding platform designed for real software development. It seamlessly integrates enhanced context engineering with intelligent agents to gain a comprehensive understanding of your codebase and systematically tackles software development tasks. Supports world's latest and most advanced AI models: Claude, GPT, Gemini, and more. Available for Windows and macOS.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57771,6 +58016,62 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Santesoft.SanteDicomEditor",
+    "name": "Sante DICOM Editor",
+    "publisher": "Santesoft LTD",
+    "description": "Sante DICOM Editor is a professional DICOM editor, 2D/3D viewer, anonymizer, converter, dicomizer, PACS client, mini PACS server, patient CD/DVD burner (with free DICOM viewer) and much more.\n\nSante DICOM Editor is not a \"yet another DICOM viewer\" constructed with freely available libraries such as dcmtk, itk and vtk, like hundreds of other DICOM viewers which differ from each other only in the appearance, menus, panels and dialog boxes. It is a unique program with unique capabilities, designed and developed in-house by us, from the ground up, with the most advanced programming tools and it is the result of research and development on DICOM imaging of the last two decades.\n\nSante DICOM Editor is the industry-leading post processing application for DICOM file editing, conversion and handling, it is used by almost all the large corporations and medical equipment manufacturers, and it is the DICOM editor of choice of the greatest universities and hospitals of the world. Among others, it lets the user edit and modify DICOM files, to add and remove attributes, and even edit and modify sequence attributes.\n\nThe free demo version of the program works without any restriction for 90 days.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Santesoft.SanteDicomViewerLite",
+    "name": "Sante DICOM Viewer Lite",
+    "publisher": "Santesoft LTD",
+    "description": "Sante DICOM Viewer Lite is a high quality, full-featured, completely free 2D/3D DICOM Viewer. \n\nThanks to its comprehensive feature set, intuitive interface, unparalleled stability, speed and easiness of use, it is one of the most popular DICOM viewers worldwide with hundreds of thousands of satisfied users (professionals or not), and the DICOM viewer of choice of many hospitals, universities and industries.\nIt provides all the necessary tools for reviewing images like distance and angle measurements, roi statistics, MPR and study/series comparison, and offers all the needed features in day to day practice.\nIt has all the features of Sante DICOM Viewer Pro except its advanced postprocessing functions like anonymizing (de-identification) and it is compatible with all modalities (CT, MR, NM, US, XA, MG, CR, PT etc.), all manufacturers and all DICOM 3.0 and NEMA 2 file types.\n\nFeatures and benefits\n- Easy to use 2D/3D DICOM viewer\n- PACS client that supports all the DICOM network services (C-FIND SCU/SCP, C-MOVE SCU/SCP, C-STORE SCU/SCP, C-GET SCU/SCP, C-ECHO SCU/SCP)\n- Built-in database (SQLite)\n- Migration tool for file transferring from other DICOM viewers\n- Support of all charsets (latin, chinese, japanese, korean, cyrillic, arabic, greek, turkish, etc.)\n- Compatible with all modalities (CT, MR, NM, US, XA, MG, CR etc.), all manufacturers and all DICOM 3.0 and NEMA 2 file types.\n- Supports also jpeg, jpeg2000, tiff, png, and bitmap image formats\n- Dual monitor support\n- Structured Report support\n- Creation of 3D model by the Isosurface technique",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Santesoft.SanteDicomViewerPro",
+    "name": "Sante DICOM Viewer Pro",
+    "publisher": "Santesoft LTD",
+    "description": "Sante DICOM Viewer Pro is a professional DICOM viewer, anonymizer, converter, PACS client, mini PACS server, patient CD/DVD burner (with free DICOM viewer) and much more.\n\nSante DICOM Viewer Pro is not a \"yet another DICOM viewer\" constructed with freely available libraries such as dcmtk, itk and vtk, like hundreds of other DICOM viewers which differ from each other only in the appearance, menus, panels and dialog boxes. It is a unique program with unique capabilities, designed and developed in-house by us, from the ground up, with the most advanced programming tools and it is the result of research and development on DICOM imaging of the last two decades. Sante DICOM Viewer Pro has been developed since 1999 and it is one of the most popular professional DICOM viewers worldwide.\n\nFeatures and benefits\n- Powerful 2D/3D DICOM workstation and viewer\n- Perpetual license that never expires.\n- Free updates and free technical support for product's lifetime\n- PACS client that supports all the DICOM network services (C-FIND SCU/SCP, C-MOVE SCU/SCP, C-STORE SCU/SCP, C-GET SCU/SCP, C-ECHO SCU/SCP)\n- It can be used as a mini PACS server as well (the number of stored patients/studies depends on disk size only)\n- TLS support for DICOM network connections\n- OHIF viewer support (a study can be reviewed with OHIF viewer as well)\n- Migration tool for file transferring from other DICOM viewers\n- Command line switches for integration with PACS servers (learn more...)\n- Easy to use with native Windows \"look and feel\"\n- Support of all charsets (latin, chinese, japanese, korean, cyrillic, arabic, greek, turkish, etc.)\n- Creation of 3D model by the Isosurface technique\n- Creation of 3D model by the Transfer Function (Volume rendering) technique\n- Creation of 3D model by the Maximum Intensity Projection (MIP) technique\n\nFree demo version that works for 90 days",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Santesoft.SanteDvdBurningServer",
+    "name": "Sante DVD Burning Server",
+    "publisher": "Santesoft LTD",
+    "description": "Sante DVD Burning Server can receive studies from medical scanners, PACS servers and DICOM viewers and automatically burn and print them in EPSON and PRIMERA CD/DVD producers. It acts like a usual PACS server, it writes all the received studies in its database, but additionally it sends them for CD/DVD burning and printing.\n\nOptionally, when it receives a report from EPSON/PRIMERA producer that the CD/DVD was created successfully the program deletes the burned and printed studies from the database, otherwise it keeps them in its database until the user solves the problem of the producer (e.g. refilling with consumables), or until the user creates the CD/DVD manually and deletes them. With this option disabled, the program can be used as a usual full-featured PACS server as well.\n\nFeatures and benefits\n- Sante DVD Burning Server is configurable like a usual PACS server and acts as such. It communicates with other DICOM nodes and receives DICOM studies via DICOM network services (C-MOVE/C-STORE, C-GET, C-STORE)\n- It burns CD/DVD disks automatically from DICOM studies and prints their label on the robotic disk publisher devices of EPSON and PRIMERA, automatically or manually\n- It supports plain CD/DVD writers as well (manually burning only)\n- It keeps the received studies in its database until a successful CD/DVD creation\n- The program adds to the CD/DVD disk a free DICOM viewer (Sante DICOM Viewer Lite for Windows and macOS), or any other viewer of the choice of the user\n- It can be used as a full-featured PACS Server as well!\n- The server can run as a Windows service\n- It can store unlimited number of patients/exams (it depends only on hard disk size)\n- It supports unlimited number of connections with DICOM nodes\n- It supports all charsets (latin, chinese, japanese, korean, cyrillic, arabic, greek, turkish, etc.)\n- It is compatible with all modalities (CT, MR, NM, US, XA, MG, CR etc.)\n- Perpetual license that never expires\n- Free updates and free technical support for product's lifetime\n- Windows 11/10/8.1/8/7/Vista (64-bit) and Windows Server 2022/2019/2016/2012/2008 compatible\n- Easy to use with native Windows \"look and feel\"\n\nFree demo version that works for 30 days",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Santesoft.SantePacsServerFree",
+    "name": "Sante Free PACS Server",
+    "publisher": "Santesoft LTD",
+    "description": "Sante Free PACS Server is a DICOM 3.0 compliant PACS server and an HTTP (web) server for DICOM files that offers high performance and reliability completely free of charge! It provides connectivity to all DICOM modalities (CT, MR, US, CR, NM, XA, MG, DX etc.). The built-in web server can be used as a free cloud server for DICOM files!\n\nSante Free PACS Server consists of 3 modules:\n- The Database module: The program uses the SQLite file-based server for database management and offers storage of unlimited number of patients/studies/series/images (it depends only on hard disk size).\n- The DICOM Server module: The built-in DICOM server supports all the DICOM network services (C-FIND SCU/SCP, C-MOVE SCU/SCP, C-STORE SCU/SCP, C-GET SCU/SCP, C-ECHO SCU/SCP), it is compatible with all the modalities (CT, MR, NM, US, XA, MG, CR, DX etc.), all manufacturers and all DICOM 3.0 and NEMA 2 file types. Moreover, it supports unlimited number of connections with unlimited number of DICOM nodes and DICOM clients.\n- The Web Server module: The Web Server module lets remote users of the system to connect with it, query and retrieve studies that have been stored in the database of the DICOM Server. The Web Server module, for these connections, uses the HTTP ot HTTPS protocol of the internet and the remote user must use a web browser like Edge, Chrome or Mozilla to query and retrieve studies. The web server supports SSL secure connections. This module lets the user connect, query, retrieve and review DICOM studies stored in the system from anywhere in the world and it can be used as a free cloud server!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Santesoft.SantePacsServer",
+    "name": "Sante PACS Server",
+    "publisher": "Santesoft LTD",
+    "description": "Sante PACS Server is a DICOM 3.0 compliant PACS server, a Modality Worklist server, an HTTP (web) server for DICOM files and a CD/DVD Burning and Printing server that offers high performance and reliability at an affordable price.\n\nFeatures and benefits\n- full-featured PACS Server that supports all the modalities and all the transfer syntaxes\n- full-featured, user configurable, Worklist Server\n- Built-in Web Server that allows remote access of the studies to physicians and patients\n- Unlimited number of patients/studies/series, the only limitation is the storage size\n- Unlimited number of connected medical scanners\n- Unlimited number of connected users, locally or remotely, physicians or patients\n- Patients can access their studies with tokens instead of user accounts\n- Available to remote users two built-in, world class, free DICOM viewers, Sante DICOM Web Viewer and OHIF viewer\n- The built-in OHIF DICOM Viewer works in client side without installation in any device (desktop, mobile, tablet) and in any OS (Windows, Linux, MacOS, iOS, Android, etc.).\n- Migration tool that allows easy transfer of data to the new system\n- Automatic CD/DVD disk burning and label printing in EPSON and PRIMERA robot producers\n- It works \"out of the box\", after installation\n- It works on Windows Server 2022/2019/2016/2012/2008 or Windows 11/10/8.1/8/7/Vista 64-bit\n- Perpetual license (one time purchase, without hidden costs/fees)\n\nFree demo version that works for 90 days",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Santesoft.SantePacsServerPG",
+    "name": "Sante PACS Server PG",
+    "publisher": "Santesoft LTD",
+    "description": "Sante PACS Server PG is a DICOM 3.0 compliant PACS server, a Modality Worklist server, an HTTP (web) server for DICOM files and a CD/DVD Burning and Printing server that offers high performance and reliability at an affordable price.\nIt provides connectivity to all DICOM modalities (CT, MR, US, CR, NM, XA, MG, DX etc.). Reviewing the DICOM images can be done using the Sante PACS Viewer (the Built-in full-featured DICOM viewer of the system). The built-in web server can be used as a free cloud server for DICOM files!\n\nIf you have selected a cloud solution for DICOM file archiving, Sante PACS Server PG can be a perfect companion of this solution, not only because it can be used as a local backup server for the whole archive, accessible from the web as well, but furthermore because it can keep locally the older part of the archive that there is no need to be on the cloud. This way Sante PACS Server PG can reduce drastically the monthly cost of the cloud solution.\n\nFeatures and benefits\n- full-featured PACS Server that supports all the modalities and all the transfer syntaxes\n- full-featured, user configurable, Worklist Server\n- Built-in Web Server that allows remote access of the studies to physicians and patients\n- Unlimited number of patients/studies/series, the only limitation is the storage size\n- Unlimited number of connected medical scanners\n- Unlimited number of connected users, locally or remotely, physicians or patients\n- Patients can access their studies with tokens instead of user accounts\n- Available to remote users two built-in, world class, free DICOM viewers, Sante DICOM Web Viewer and OHIF viewer\n- The built-in OHIF DICOM Viewer works in client side without installation in any device (desktop, mobile, tablet) and in any OS (Windows, Linux, MacOS, iOS, Android, etc.).\n- Migration tool that allows easy transfer of data to the new system\n- Automatic CD/DVD disk burning and label printing in EPSON and PRIMERA robot producers\n- It works \"out of the box\", after installation\n- It works on Windows Server 2022/2019/2016/2012/2008 or Windows 11/10/8.1/8/7/Vista 64-bit\n- Perpetual license (one time purchase, without hidden costs/fees)\n\nFree demo version that works for 90 days",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Santesoft.SanteWorklistServer",
+    "name": "Sante Worklist Server",
+    "publisher": "Santesoft LTD",
+    "description": "Sante Worklist Server (MWL Server) is an autonomous program that can receive via HL7 communication messages the patients demographics and scheduling information of exams that are stored in a HIS/RIS system (Hospital Information System / Radiology Information System) and transfer them to any modality/medical scanner via DICOM communication protocols (C-FIND).\nThe program offers an automated, error-free and reliable transfer of the information form HL7 nodes (HIS/RIS) to DICOM nodes (medical scanners) without any human reaction.\n\nFeatures and benefits:\n- The server can run as Windows service\n- Unlimited number of patients/exams (it depends only on hard disk size)\n- Unlimited number of connections with HL7 nodes\n- Unlimited number of connections with DICOM nodes\n- It can query other DICOM Worklist nodes\n- Mapping of HL7 message fields to program's database fields\n- Supports all charsets (latin, chinese, japanese, korean, cyrillic, arabic, greek, turkish, etc.)\n- Supports DICOM network services (C-FIND SCU/SCP, C-ECHO SCU/SCP)\n- Compatible with all modalities (CT, MR, NM, US, XA, MG, CR etc.)\n- Perpetual license that never expires\n- Free updates and free technical support for product's lifetime\n- Windows Server 2025/2022/2019/2016/2012/2008 and Windows 11/10/8.1/8/7/Vista (64-bit) compatible\n- Easy to use with native Windows \"look and feel\"\n\nFree demo version that works for 90 days",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GPBeta.SAOUtils.Exp",
     "name": "SAO Utils",
     "publisher": "Studio GPBeta",
@@ -57921,13 +58222,6 @@
     "id": "IPEP.Scantailor-Experimental",
     "name": "Scantailor-Experimental",
     "publisher": "IPEP",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "LiteratureandLatte.Scapple",
-    "name": "Scapple",
-    "publisher": "Literature and Latte Ltd.",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -58706,6 +59000,13 @@
     "name": "Simple Image Converter",
     "publisher": "Gaëtan Sencie",
     "description": "https://github.com/STENS66/Simple-Image-Converter",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Simnet.SimpleStickyNotes",
+    "name": "Simple Sticky Notes",
+    "publisher": "Simnet Ltd.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59934,13 +60235,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "GetStation.Station",
-    "name": "Station",
-    "publisher": "Joël Charles",
-    "description": "Station is the first open-source smart browser for busy people. A single place for all of your web applications.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Status.Status",
     "name": "Status-Desktop",
     "publisher": "Status",
@@ -60029,6 +60323,13 @@
     "name": "Stellar CLI",
     "publisher": "Stellar Development Foundation",
     "description": "CLI for Stellar developers",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Stellarium.Stellarium",
+    "name": "Stellarium",
+    "publisher": "Stellarium team",
+    "description": "Stellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a telescope.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60693,7 +60994,7 @@
     "id": "SuperFlexibleSoftware.SzArchiver",
     "name": "SzArchiver",
     "publisher": "Super Flexible Software",
-    "description": "",
+    "description": "SzArchiver – Open and Create Sz Files Directly\n\nThe new SzArchiver tool allows you to open Sz files and work with them similar to common zipping tools. Sz files will now have an icon in Windows Explorer and you can just double-click them to see their contents.\n\nThe SzArchiver is free software, it does not contain any license checks and does not need or use an Internet connection.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61537,13 +61838,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "TexasInstruments.TIConnect",
-    "name": "TI Connect™",
-    "publisher": "Texas Instruments Inc.",
-    "description": "TI Connect™ is computer software that allows for connectivity between a computer and graphing calculator.\nTransfer data, update your Operating System (OS), download Calculator Software Applications (Apps), and more to your graphing calculator.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "TexasInstruments.TI-Nspire.CXCASStudent",
     "name": "TI-Nspire CX CAS Student Software",
     "publisher": "Texas Instruments Inc.",
@@ -61568,7 +61862,7 @@
     "id": "TexasInstruments.TI-Nspire.ComputerLink",
     "name": "TI-Nspire™ Computer Link",
     "publisher": "Texas Instruments Inc.",
-    "description": "Share files between the TI-Nspire™ handheld and your computer with TI-Nspire™ Computer Link Software.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61884,6 +62178,13 @@
     "name": "tokumei-player-plus",
     "publisher": "arrow2nd",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TomTom.MyDriveConnect",
+    "name": "TomTom MyDrive Connect",
+    "publisher": "TomTom International B.V.",
+    "description": "TomTom MyDrive Connect lets you manage map, software and content updates for your TomTom device from your computer. Install, update and manage your device easily with a single application. Compatible with Windows and macOS.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62573,6 +62874,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Locomorange.UIAutomationMCP",
+    "name": "UIAutomation MCP Server",
+    "publisher": "Locomorange",
+    "description": "UIAutomationMCP is a high-performance MCP server that provides Windows UI Automation capabilities.\nFeatures include:\n- Native AOT compilation for ultra-fast startup (~400ms)\n- Hybrid architecture: AOT server with framework-dependent workers\n- Full Windows UI Automation API support\n- Element search, interaction, and monitoring capabilities\n- Process isolation for stability and security\n- JSON-UTF8 based IPC for optimal performance and internationalization\nNote: Requires .NET 9 Desktop Runtime for worker processes",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Google.UIforETW",
     "name": "UIforETW",
     "publisher": "Google Inc.",
@@ -62657,6 +62965,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "krzys-h.UndertaleModTool",
+    "name": "UndertaleModTool",
+    "publisher": "krzys-h",
+    "description": "The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)\n\nMain Features:\n- Can read every single byte from the data file for latest versions of Undertale, Deltarune, and most other GameMaker games, and then recreate a byte-for-byte exact copy from the decoded data.\n- Properly handles all of the pointers in the file so that if you add/remove stuff, make things longer/shorter, move them around, etc., the file format won't break.\n- An editor which lets you change (almost) every single value, including unknown ones.\n- Includes a simple room/level editor.\n- Allows for GML VM code editing. This means you can add any custom code to a game, either using the built-in GML compiler or GML assembly. (YYC is not supported for this.)\n- High-level GML decompiler and compiler. Supports a large range of GameMaker versions, and most important GML features (still missing a few).\n- Support for running scripts that automatically modify your data file (or perform other nefarious tasks). This can be used for mod distribution, aside from other methods such as file patches/project systems.\n- All core functionality extracted into a library for use in external tools.\n- Can generate a .yydebug file for the GM:S debugger so that you can edit variables live! (see here)\n- Automatic file associations for all GameMaker related data files. This is opt-in at the first boot of the tool, and can also be disabled by having a dna.txt file next to the executable.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Uniconta.Uniconta",
     "name": "Uniconta",
     "publisher": "Uniconta A/S",
@@ -62695,7 +63010,7 @@
     "id": "CrystalIDEASoftware.UninstallTool",
     "name": "Uninstall Tool",
     "publisher": "CrystalIDEA Software",
-    "description": "- Thorough removal of unwanted apps\n- Real-time installation monitor\n- Control apps that run at system startup\n- Portable, multilingual and beautifully designed",
+    "description": "Fast and Powerful Uninstaller for Complete Removal of Programs\n- Thorough removal of unwanted apps\n- Real-time installation monitor\n- Control apps that run at system startup\n- Portable, multilingual and beautifully designed",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63494,6 +63809,20 @@
     "name": "Vim",
     "publisher": "Bram Moolenaar et al.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "accellence.vimaccEnterprise",
+    "name": "vimacc Enterprise IPVMS",
+    "publisher": "Accellence Technologies GmbH",
+    "description": "vimacc is a high-performing, platform-independent, scalable software solution for professional video management.\nIt supports encrypted communication, flexible camera integration, video analytics, and GDPR-compliant privacy protection features.\nIdeal for critical infrastructure, public safety, and enterprise deployments.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "accellence.vimacc",
+    "name": "vimacc Enterprise IPVMS",
+    "publisher": "Accellence Technologies GmbH",
+    "description": "vimacc is a high-performing, platform-independent, scalable software solution for professional video management.\nIt supports encrypted communication, flexible camera integration, video analytics, and GDPR-compliant privacy protection features.\nIdeal for critical infrastructure, public safety, and enterprise deployments.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64775,6 +65104,13 @@
     "name": "Windows Update Viewer",
     "publisher": "Tim Kennedy",
     "description": "Windows Update Viewer (WUView) is an application that displays Windows Update history.\nIt is meant to be a lightweight application that is easy to use.\nThere aren't any confusing categories; every update is listed in one place.\nUpdates that you don't want to see can be permanently excluded or temporarily filtered.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "UniversalDsc.User",
+    "name": "Windows User",
+    "publisher": "UniversalDsc",
+    "description": "A Universal DSC Resource for managing Windows local user accounts. This resource provides management of Windows local users through Microsoft Desired State Configuration (DSC) v3 or running the executable standalone.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66080,6 +66416,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "XrevealTeam.Xreveal",
+    "name": "Xreveal",
+    "publisher": "The Xreveal Team",
+    "description": "Xreveal is a Windows based application similar to AnyDVD that removes restrictions of DVD, and Blu-ray media automatically in the background.\n\nXreveal works in the background to automatically and transparently enable read access of the contents of a movie DVD or Blu-ray as soon as it's inserted into the drive. The DVD/Blu-ray will become useable to your windows operating system and all programs on your computer, such as DVD/Blu-ray backup software like CloneDVD, CloneBD and others, then supporting any DVD or Blu-ray. Xreveal optionally removes region codes, thereby making the movie region free and comfortably viewable on any DVD/Blu-ray player and with any DVD/Blu-ray playback software.\n\nFeatures:\n- Works automatically in the background.\n- Removes restrictions and region code from DVDs and Blu-rays.\n- Works on-the-fly without the need to store data onto your hard disk.\n- Gets rid of user prohibitions, you can select the language and subtitle track without going through the disc's menu.\n- Can disable BD-Live to protect your privacy.\n- Allows playback of discs requiring a 3D monitor on 2D displays.\n- Running natively on Windows ARM64/x64/x86 devices.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MscrmTools.XrmToolBox",
     "name": "XrmToolBox",
     "publisher": "MscrmTools",
@@ -66444,13 +66787,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Zebra.ZebraDesigner.3",
-    "name": "ZebraDesigner",
-    "publisher": "Zebra Technologies Corporation",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Thinkscape.ZeeDrive",
     "name": "Zee Drive",
     "publisher": "Thinkscape Limited",
@@ -66650,13 +66986,6 @@
     "id": "Zoom.Zoom.VDI",
     "name": "Zoom VDI Workplace",
     "publisher": "Zoom Video Communications, Inc.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Zoom.ZoomWorkplace",
-    "name": "Zoom Workplace Installer",
-    "publisher": "Zoom Communications, Inc.",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -67197,13 +67526,6 @@
     "name": "完美解码",
     "publisher": "Dio",
     "description": "完美解码是一款为高清影视爱好者精心打造的影音解码包，能软硬件解码播放流行的视频和音频格式。集成多媒体播放器 PotPlayer、MPC-HC、MPC-BE，分离器解码器套件 LAV Filters，高画质渲染器 madVR，支持中英语言安装使用。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "ULAB.XZAid",
-    "name": "小旨管家",
-    "publisher": "XIAMEN UNICORN Co.. LTD.",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67771,13 +68093,6 @@
     "name": "纳米AI",
     "publisher": "360安全中心",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "ULAB.PaintAid",
-    "name": "绘画助手",
-    "publisher": "XIAMEN UNICORN Co.. LTD.",
-    "description": "绘画助手是以“优动漫 PAINT”为首的一款绘画创作辅助工具软件。针对画师们在绘画时可能遇到的各种问题和需求，提供了强大的素材库、支持各种创意工程、提供更多智能服务，助你更高效、更便捷、更智能地解决绘画难题。",
     "icon": "/icons/intunify-default.png"
   },
   {
