@@ -658,13 +658,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "CoreFTP.FTPServer",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Canva.Canva.CN",
     "name": "",
     "publisher": null,
@@ -1047,6 +1040,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Certum.SmartSignSimplySignDesktop",
+    "name": "",
+    "publisher": null,
+    "description": "Oprogramowanie proCertum SmartSign to aplikacja służąca do składania oraz weryfikacji bezpiecznego podpisu elektronicznego weryfikowanego przy użyciu ważnego certyfikatu kwalifikowanego. Aplikacja umożliwia zarządzanie dokumentami elektronicznymi, ich elektroniczne podpisywanie oraz weryfikację podpisów elektronicznych i certyfikatów klucza publicznego, wydawanych przez wszystkie centra certyfikacji w Polsce.\nW ramach tej aplikacji funkcjonuje również moduł SimplySign Desktop, który emuluje podłączenie do komputera użytkownika fizycznej karty kryptograficznej i czytnika kart. Dzięki temu rozwiązaniu, bez dodatkowych kosztów będziesz mógł skorzystać z SimplySign w aplikacjach wymagających użycia fizycznej karty kryptograficznej.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -1617,13 +1617,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "ComfortSoftwareGroup.FreeAlarmClock",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "cURL.cURL",
     "name": "",
     "publisher": null,
@@ -1719,6 +1712,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cendio.ThinLincClient",
+    "name": "",
+    "publisher": null,
+    "description": "ThinLinc 是一款通过结合专有代码与开源项目（如 TigerVNC、noVNC 和 OpenSSH）来提供远程 Linux 桌面访问的软件。该软件的核心目的是安全地为 Linux 机器提供图形化访问。ThinLinc 还与现有的 Linux 系统紧密协作，充分利用其已建立完善的生态系统。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -2027,6 +2027,13 @@
     "name": "",
     "publisher": null,
     "description": "FileLocator Pro 是一款强大的 Windows 搜索工具，可通过高级筛选、正则表达式和脚本功能，快速定位文件（包括 Office、PDF、压缩包及代码文件）中的文本、模式及数据。\n- 深度内容搜索：支持 100+ 种文件格式（文本/二进制）的内部扫描。\n- 高级功能：正则表达式、布尔逻辑、脚本支持（JavaScript/Python）、十六进制视图。\n- 极速检索：支持索引或直接“原始”磁盘即时搜索。\n- 专业工具：保存搜索模板、批量处理、命令行支持。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "McAfee.MCPR",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -2419,6 +2426,13 @@
     "name": "",
     "publisher": null,
     "description": "Windows 应用是 Azure 虚拟桌面、Windows 365、Microsoft Dev Box、远程桌面服务和远程电脑的网关，可以安全地连接到 Windows 设备和应用。\n你可以利用台式机、笔记本电脑、平板电脑、智能手机等多种不同外形的设备，在不同平台上使用 Windows 应用，也可以通过 Web 浏览器使用。在台式机和笔记本电脑上使用 Web 浏览器时，无需下载和安装任何软件即可进行连接。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.AzureDevOpsOfficeIntegration.2019",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -3634,6 +3648,13 @@
   },
   {
     "id": "Mergiraf.Mergiraf",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MCvanderKooij.PictoSelector",
     "name": "",
     "publisher": null,
     "description": "",
@@ -5999,13 +6020,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Hubitech.Reemo",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "HiroshibaKazuyuki.VOICEVOX",
     "name": "",
     "publisher": null,
@@ -6290,6 +6304,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HandBrake.HandBrake",
+    "name": "",
+    "publisher": null,
+    "description": "HandBrake 能将你已有的视频转换成新的视频，并能在你的手机、平板电脑、电视媒体播放器、游戏机、电脑或网络浏览器上播放--几乎任何支持现代视频格式的设备上都能播放。\nHandBrake 可处理大多数常见的视频文件和格式，包括由民用和专业摄像机、手机和平板电脑等移动设备、游戏和电脑屏幕录制以及 DVD 和蓝光光盘创建的视频文件和格式。HandBrake 可利用 FFmpeg、x264 和 x265 等工具，从这些来源创建新的 MP4 或 MKV 视频文件。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -7288,13 +7309,6 @@
   },
   {
     "id": "dandavison.delta",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "DATEV.SmartITConnect",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8477,6 +8491,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Remeha.PRO",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ramdor.Thetis",
     "name": "",
     "publisher": null,
@@ -9258,13 +9279,6 @@
     "name": "",
     "publisher": null,
     "description": "OpenBVE 是一款免许可证、开源、免费的火车驾驶模拟器。\n该程序包括制动系统、摩擦、空气阻力、倾覆等每辆车的详细模拟。在三维驾驶室中，加速、制动和转弯时模拟车身的晃动会增强驾驶体验。除此以外，OpenBVE 还配备了 3D 定位声音系统，可通过搭配环绕扬声器、列车外部和当前运行时刻表以体验最佳效果。最后，可以在主菜单轻松选择路线和列车以开始新的会话，可以将键盘或操纵杆设备配置为控制器，同时还有各种选项可选。\n与其它同类模拟器，尤其是与商业游戏相比，OpenBVE 的重点在于逼真性而不一定是用户友好性。你可能需要研究你所驾驶的路线和列车的操作手册，并且在大多数情况下仅靠记住几个按键是无法完成任务的。如果你能认同这一重点，OpenBVE 可能就是适合你的模拟器。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "LGElectronics.LGBridge",
-    "name": "",
-    "publisher": null,
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -10185,13 +10199,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "AtomicJar.Testcontainers",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "angryziber.AngryIPScanner",
     "name": "",
     "publisher": null,
@@ -10560,6 +10567,20 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AceBIT.PasswordDepot.18",
+    "name": "",
+    "publisher": null,
+    "description": "Password Depot 是一款功能强大、技术成熟且最重要的是安全可靠的密码与访问数据管理应用程序。与传统的免费软件和共享软件工具不同，Password Depot 提供了先进的安全机制以及设计周全、功能丰富的操作体验。它专为需要严格安全标准的专业环境而开发。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AceBIT.PasswordDepotEnterpriseServer.18",
+    "name": "",
+    "publisher": null,
+    "description": "Password Depot Enterprise Server 是 Password Depot 的一个扩展功能。通过 Enterprise Server，用户可以共享存储在服务器上的数据库。Windows 桌面客户端是主要程序，同时也用于连接 Enterprise Server。此外，您也可以通过我们的 macOS 版本或移动应用程序（Android 和 iOS）访问 Enterprise Server。另外，您还可以使用我们的网页界面，无论您使用何种设备或操作系统，都可以方便快捷地访问 Enterprise Server。服务器数据库可通过这些客户端之一打开和修改。\nPassword Depot Enterprise Server 可安装在本地网络内的计算机上，也可通过 Azure 部署在云端。服务器管理员主要使用 Server Manager（服务器管理器）这一独立工具来进行 Enterprise Server 的管理和配置。在 Server Manager 中，管理员可以创建新的数据库，向服务器添加用户和用户组，并为其分配数据库。用户可被授予访问整个数据库或仅部分数据库的权限。\n通常情况下，您可以允许多个用户访问同一个服务器数据库，并在同一个数据库中为不同用户定义不同的访问权限。在这种情况下，每个用户所看到的数据库内容将是不同的。\n拥有数据库访问权限的用户可以在客户端中打开这些数据库。连接 Enterprise Server 所需的信息包括：\n- 服务器地址\n- 端口\n- 访问凭证（用户名和密码）\n用户的访问凭证由管理员设定。登录 Enterprise Server 可通过本地用户（用户名和密码）、集成 Windows 身份验证（SSO），或 Azure AD/OIDC 身份验证方式完成。\n此外，管理员还可以在 Server Manager 中设置更多服务器参数，例如：在需要 SSL 连接时安装证书、启用双因素身份验证（2FA）、为特定事件设置通知，以及定义全局服务器策略等。\n所有传输的数据均使用临时密钥并通过 AES 256 位加密算法进行加密。客户端通过 TCP/IP 协议（IPv4/IPv6）与服务器通信，从而确保符合 GDPR（通用数据保护条例）的要求。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -11011,13 +11032,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Amazon.Games",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Amazon.AWSVPNClient",
     "name": "",
     "publisher": null,
@@ -11204,6 +11218,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Appgate.AppgateSDP",
+    "name": "",
+    "publisher": null,
+    "description": "Appgate SDP 为用户提供对企业内部和基于云的资源的安全访问。请注意：在使用此应用程序之前，您的公司会向您发送所需的客户端配置文件链接。\n部署后，Appgate SDP 将动态创建一个安全、加密的“单用户网段”，该网段为每个用户会话动态生成并量身定制。访问规则基于多种变量（例如用户设备、位置、一天中的时间以及操作系统版本）精确控制每个用户可访问的资源。Appgate SDP 还可与您现有的业务系统集成，从而制定真正动态的访问策略。\n对于其他未经授权的用户，网络资源完全不可见且无法访问，从而显著缩小了传统扁平化企业网络的攻击面。Appgate SDP 甚至能够隐藏自身，使系统对窥探者完全不可见。\nAppgate SDP 采用云架构设计，具备大规模可扩展性、分布式和高弹性。它实现了软件定义边界（Software-Defined Perimeter）架构，使组织能够在本地、混合及云环境中，为移动和桌面用户实施零信任（Zero-Trust）安全模型。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -12286,13 +12307,6 @@
   },
   {
     "id": "AprelTech.SilentInstallBuilder.Beta",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "AprelTech.SilentInstallBuilder",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14000,6 +14014,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JORDAHL.JORDAHLEXPERT",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "jasko.480pownloader",
     "name": "",
     "publisher": null,
@@ -14141,6 +14162,13 @@
   },
   {
     "id": "JohanChane.ClashTui",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "junapur.sens",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15421,6 +15449,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Wolicheng.WOMic",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WASSTV.EasyPal",
     "name": "",
     "publisher": null,
@@ -15708,6 +15743,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WallingfordHydroSolutions.WINFAP5",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Windscribe.Windscribe",
     "name": "",
     "publisher": null,
@@ -15835,6 +15877,13 @@
   },
   {
     "id": "Webrandt.Ax",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WowUp.Wowup.Beta",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16982,6 +17031,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OwlLabs.MeetingOwl",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OxfordUniversityPressELT.OxfordLearnersBookshelf",
     "name": "",
     "publisher": null,
@@ -17039,6 +17095,13 @@
   },
   {
     "id": "OpenJS.Electron.37",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.Electron.38",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17207,13 +17270,6 @@
   },
   {
     "id": "Gauge.Gauge",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "GOMLab.GOMPlayer",
     "name": "",
     "publisher": null,
     "description": "",
@@ -19705,13 +19761,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Safing.Portmaster",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "SpikeHD.Dorion",
     "name": "",
     "publisher": null,
@@ -20993,13 +21042,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BookreaderUK.GBBook",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "BitcoinCoreProject.BitcoinCore",
     "name": "",
     "publisher": null,
@@ -21050,13 +21092,6 @@
   },
   {
     "id": "BandicamCompany.BandicamMPEG-1Decoder",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "BandicamCompany.Bandicam2024",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21445,6 +21480,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Bazwise.FolderSizeExplorer",
+    "name": "",
+    "publisher": null,
+    "description": "Folder Size Explorer 是一款简单且免费的 Windows 资源管理器克隆工具，具有计算文件夹大小的附加功能。微软内置的 Windows 资源管理器无法直接计算文件夹大小，这意味着您必须逐个选择文件夹，然后点击“属性”来查看其大小。当您试图找出驱动器中哪些文件夹占用了大量磁盘空间时，这一过程可能非常耗时。Folder Size Explorer 在您浏览文件夹时逐步计算其大小，帮助您快速识别占用最多磁盘空间的目录。它还可以配置为在显示文件时自动计算所有文件的 MD5、SHA1、SHA256 和 SHA512 校验和。此外，它允许您将文件和文件夹列表导出并保存为 CSV 文件，以便在 Excel 或记事本等外部程序中查看。Folder Size Explorer 支持 32 位和 64 位版本的 Windows 10、7、8、Vista、XP、2008、2012 和 2016。\nFSE 主要功能包括：\n- 在资源管理器中以 KB、MB、GB 或 TB 显示并计算文件和文件夹大小列。\n- 在资源管理器中显示并计算所有文件的 MD5、SHA-1、SHA-256 和 SHA-512 校验值。\n- 将资源管理器中的文件和文件夹列表导出并保存为 CSV 文件，支持多种分隔符。\n- 在浏览和导航文件时自动调整资源管理器列宽。\n- 基于文本、大小、日期等内容对文件和文件夹进行简单高效的搜索。\n- 汇总面板显示按文件扩展名、日、月和年分类的文件统计信息。\n- 支持高速多线程文件夹大小计算，可随时跳过或取消任意文件夹的计算。\n- 支持 x86 和 x64 架构的 Windows 10、8、7 以及从 2008 到 2019 版本的全部 Windows Server 系统。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -22964,6 +23006,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Power-user.Power-user",
+    "name": "",
+    "publisher": null,
+    "description": "Power-user 是适用于 Microsoft PowerPoint、Excel 和 Word 的一款效率增强插件。它提供了数十种高级功能，帮助您节省时间并制作出精美的演示文稿：\n- 从资源库中获取成千上万的模板、图标、旗帜、地图、图表、图片、标志等资源\n- 在 Excel 和 PowerPoint 之间创建强大的链接，以实现报告自动化\n- 一键清除演示文稿中的常见错误\n- 自动生成议程页面\n- 轻松对齐和调整图形\n- 清理 Excel 数据和公式\n- 还有更多功能等您体验！",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -25515,6 +25564,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ECSoftware.Help+Manual.10",
+    "name": "",
+    "publisher": null,
+    "description": "Help+Manual 是一款支持单人多作者编辑的单源帮助创作与内容管理系统。其操作如同使用文字处理器般简单，既能应对小型项目，也能轻松处理数千页的大型工程，可生成 Windows 帮助文件、网页帮助以及印刷版/PDF 格式手册。立即下载试用版体验吧！编写帮助文档从未如此轻松。\n\n该软件提供现代化文字处理器的全套排版编辑功能，包括动态样式与复杂表格支持，能生成所有经典帮助文件及文档格式：\n* Microsoft HTML 帮助 (.chm)\n* Visual Studio 帮助系统\n* 可集成至网站的网页帮助\n* Adobe PDF 格式用户手册\n* 苹果 iPad 电子书\n\n核心特性：\n* 单一源文件生成多格式输出\n* 所有输出均可深度定制\n* 带超链接交互的 PDF 手册\n* 内置多用户协作编写功能\n* 工具集含：报告生成、翻译辅助、图像与截图工具\n\n单源多输出的真正价值\n单源系统绝非简单的内容格式转换。Help+Manual 支持条件化输出功能，可在同一项目中为不同输出格式和用途定制差异化内容版本，无需后期处理。\n\n系统自动处理复杂的帮助文件格式化与生成工作，让您专注内容创作。同时为高级用户提供全面支持：可插入自定义 HTML 代码、修改项目生成代码、操控主题与项目模板等。\n\nHelp+Manual 为您提供两全其美的解决方案。\n立即下载全功能评估版，享受 30 天免费试用！",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ECSoftware.eWriter",
     "name": "",
     "publisher": null,
@@ -26201,7 +26257,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "EasyTier.EasyTier",
+    "id": "EasyTier.EasyTierGUI",
     "name": "",
     "publisher": null,
     "description": "",
@@ -26782,13 +26838,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "VoiceAttack.VoiceAttack",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "VisualSVNSoftwareLtd.VisualSVNRepositoryConfigurator",
     "name": "",
     "publisher": null,
@@ -27262,6 +27311,13 @@
     "name": "",
     "publisher": null,
     "description": "IZArc 命令行插件是一套面向 Windows 的高级命令行工具集。可通过批处理（.bat）文件调用、嵌入脚本语言或在其他应用程序中执行。\n主要功能：\n- 创建 ZIP、CAB、LHA、BH（BlakHole）、JAR（JavaARchiver）、TAR、TGZ（GZ 压缩 TAR）及 TBZ（BZ 压缩 TAR）格式压缩包\n- 解压 ZIP、RAR、ARJ、CAB、LHA（LZH）、ARC、ACE、GZIP、BZIP2、TAR（TGZ/TBZ2）、UUE、ZOO、JAR（JavaARchiver）格式压缩包\n- 支持 128 位/256 位强 AES 加密（兼容 WinZip9 标准）\n- 为 ZIP 压缩包提供 BZip2 压缩支持（兼容 WinZip9 标准）\n- 支持超大 ZIP 文件（>4GB）\n- 测试压缩包完整性\n- 显示压缩包内容列表",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ING.Telelink",
+    "name": "",
+    "publisher": null,
+    "description": "Telelink@Isabel 让您能够轻松安全地执行和处理欧洲范围内的支付与收款业务，并可完全集成到您适用的会计或 ERP 软件中。Telelink@Isabel 提供每周 7 天、每天 24 小时不间断访问服务。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -27958,6 +28014,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "qwqcode.SubRenamer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Quassel.QuasselIRC",
     "name": "",
     "publisher": null,
@@ -28553,13 +28616,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "FileCloud.FileCloudDrive",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "FreeFem.FreeFem",
     "name": "",
     "publisher": null,
@@ -28694,6 +28750,13 @@
   },
   {
     "id": "FireAlpaca.FireAlpaca",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Firefox2000000.MoonscraperChartEditor",
     "name": "",
     "publisher": null,
     "description": "",
@@ -29302,13 +29365,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Glarysoft.absolute-uninstaller",
-    "name": "Absolute Uninstaller",
-    "publisher": "Glarysoft Ltd",
-    "description": "- Autofix invalid program entries.\n- List installed programs with appropriate icons.\n- Simple and user-friendly interface.\n- Batch uninstall programs.\n- Backup/restore uninstall information.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Abyss.AbyssOverlay",
     "name": "Abyss Overlay",
     "publisher": "Chit",
@@ -29543,7 +29599,7 @@
     "id": "LSoftTechnologies.ActiveLiveCD",
     "name": "Active@ LiveCD",
     "publisher": "LSoft Technologies Inc",
-    "description": "Active@ LiveCD combines a number of powerful tools that let you recover lost data, reset Windows passwords, make computer system backups and securely erase data.",
+    "description": "Active@ LiveCD combines a number of powerful tools that let you recover lost data, reset Windows passwords, make computer system backups and securely erase data.\n\nActive@ LiveCD features & utilities:\n- Ability to start non-bootable PC for the data access and recovery\n- Boots up any machine from a portable media: CD, DVD, Blu-ray disc or USB flash disk\n- All boot modes supported: legacy BIOS and the latest UEFI secure boot\n- Desktop configuration can be customized & saved to USB, then restored for next sessions\n- Virus detection and infected systems repair, anti-virus scanner included\n- R/W access to: NTFS, FAT/exFAT, Ext2/Ext3/Ext4, BtrFS, F2FS, ReiserFS, HFS+, JFS, UFS, XFS, ZFS\n- Ability to recover deleted, damaged or re-formatted volumes & undelete files being lost\n- Ability to back up volumes & local disks and to restore them back in case of system crash\n- Ability to erase all data on volumes securely, 24 international erasing standards supported\n- Ability to inspect data on a low-level, view & edit raw disk's sectors in hexadecimal editor\n- Ability to reset local user passwords and user account attributes for Windows OS family\n- Software Manager: Downloads & Installs extra RPM packages from web repositories\n- System Tools: Expert Partitioner manages any types of disks, volumes, RAIDs, networking\n- File managers: Dolphin & Krusader let you browse, search, copy/move files & folders\n- Desktop: Control Panel configures User Accounts, Networking, Workspace, Display,...\n- Okular Document Viewer previews PDF, EPS, DjVu, FB2, eBook, CHM and other documents\n- Advanced Text Editor previews/edits files stored in many text formats, colouring supported\n- Security: Encrypted with TrueCrypt volumes and files can be attached and managed\n- Console terminals: Konsole Terminal, Super User Mode Terminal, XTerm, Telnet\n- Support tools: Ark Archiver, Calculator, Screen Capture, Info Centre, Clipboard Manage",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -29578,7 +29634,7 @@
     "id": "LSoftTechnologies.ActiveUNERASER",
     "name": "Active@ UNERASER",
     "publisher": "LSoft Technologies Inc",
-    "description": "Active@ UNERASER recovers deleted files and folders on NTFS, FAT, exFAT, Linux Ext2/Ext3/Ext4/BtrFS, Apple HFS+, ApFS and Unix UFS file systems. It can even restore files from deleted and reformatted partitions.",
+    "description": "Active@ UNERASER recovers deleted files and folders on NTFS, FAT, exFAT, Linux Ext2/Ext3/Ext4/BtrFS, Apple HFS+, ApFS and Unix UFS file systems.\nIt can even restore files from deleted and reformatted partitions.\n\nFeatures Active@ UNERASER:\n- Recovers files from deleted/damaged/re-formatted partitions and volumes           \n- Supports recovery drives of types: SATA / eSATA / SCSI / SAS / SSD / NVMe / USB / Camera Cards and RAIDs            \n- Recovers FAT/exFAT, NTFS/ReFS, Apple HFS+/ApFS, Linux Ext2/3/4, BtrFS, Unix UFS/XFS/JFS file systems            \n- Recovers volumes and files created in Windows, MacOS, Linux, Unix           \n- Recovers Dynamic Disks (LDM), Windows Storage Spaces(WSS) and Logical Volume Managers (LVM)         \n- Scans and recovers partitions damaged by virus or with damaged MBR          \n- Displays complete physical and logical drive information            \n- Displays object's integrity status and assesses ability to recover files & folders          \n- Supports recovery of fragmented, compressed, sparse and encrypted files         \n- Allows to preview files visually as well as in integrated HEX viewer before recovery            \n- Includes advanced search by file name, mask, size range and other attributes            \n- Displays content of any sector on the disk with integrated Disk Editor          \n- Creates, works with and recovers data from raw disk images          \n- Contains two types of drive and device scan: Basic (Fast) and Thorough (Slow)           \n- Includes bootable Windows Recovery environment (WipPE-based) for recovery when machine does not boot            \n- Includes LiveCD - bootable Linux Recovery environment for date recovery when machine does not boot          \n- Virtually rebuilds damaged RAID0, RAID1, RAID5 and Span disk arrays. Damaged RAID data recovery",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30142,6 +30198,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DirkBoettcher.Ahnenblatt",
+    "name": "Ahnenblatt",
+    "publisher": "Dirk Böttcher",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NitroRCr.AIasWorkspace",
     "name": "AI as Workspace",
     "publisher": "aiaw",
@@ -30257,6 +30320,13 @@
     "id": "Aladin.eBook",
     "name": "Aladin eBook",
     "publisher": "Aladin Communication",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Albion.Online",
+    "name": "Albion Online",
+    "publisher": "Sandbox Interactive GmbH",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -30779,6 +30849,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Amazon.Games",
+    "name": "Amazon Games",
+    "publisher": "Amazon.com Services, Inc.",
+    "description": "Amazon Games app is a Windows PC game launcher that allows you to claim, download, and play new and classic Windows PC games every month from Prime Gaming.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Amazon.Kindle",
     "name": "Amazon Kindle",
     "publisher": "Amazon",
@@ -30825,13 +30902,6 @@
     "name": "Amethyst",
     "publisher": "Geoxor",
     "description": "Amethyst is a cross-platform audio player with a node-based audio routing system, the main goal of this project is to make a music player in TypeScript to see how far the language can be stretched to prove it's possible to prrovide pro-level features as most DAWs / DAEs, while also providing useful tools and customizability to the end-user.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "AmneziaVPN.Amnezia",
-    "name": "Amnezia",
-    "publisher": "AmneziaVPN",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30895,6 +30965,13 @@
     "name": "AndroidMessages",
     "publisher": "Kyle Rosenberg",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Andromeda.Andromeda",
+    "name": "Andromeda",
+    "publisher": "The Andromeda Team",
+    "description": "A modern, fast, and secure JavaScript & TypeScript runtime built from the ground up in Rust and powered by The Nova Engine. Zero-config TypeScript support, hardware-accelerated graphics, comprehensive Web APIs, and developer-first tooling for the next generation of JavaScript applications.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30969,8 +31046,8 @@
   },
   {
     "id": "AntiMicroX.antimicroxPortable",
-    "name": "AntiMicroX Portable",
-    "publisher": "AntiMicroX",
+    "name": "AntiMicroX",
+    "publisher": "Humanity",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -31336,13 +31413,6 @@
     "name": "Arelle",
     "publisher": "Arelle",
     "description": "Arelle is an end-to-end open source XBRL platform, which provides the XBRL community with an easy to use set of tools. It supports XBRL and its extension features in an extensible manner. It does this in a compact yet robust framework that can be used as a desktop application and can be integrated with other applications and languages utilizing its web service, command line interface, and Python API.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "AresEmulator.Ares",
-    "name": "Ares",
-    "publisher": "Ares Emulator",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -32442,13 +32512,6 @@
     "name": "Bandicut",
     "publisher": "Bandicam.com",
     "description": "Bandicut is a video editor that can cut specific parts of a video or join multiple videos together. Because it cuts videos without the need to re-encode, you can clip a part of a video quickly while maintaining the quality of the original video.\n\nFeatures\n- You can cut parts from the original copy without re-encoding.\n- [High-Speed Mode] does not decrease the quality.\n- You can precisely cut videos by frame.\n- You can quickly join more than 2 different video files.\n- You can change the playback speed.\n- Various compression codecs (H264, Xvid, MPEG-1, Motion JPEG, VP8, VP9, etc.) are supported\n- High-speed video cutting is supported.\n- Easy to use.\n\nSupported Video Formats\n- Input video formats (extension): *.avi, *.mp4, *.mov, *.m4v, *.mkv, *.webm, *.mpeg, *.mpg, *.dat, *.vob, *.flv, *.asf, *.wmv, *.ts, *.tp, *.trp, *.mpe, *.mpv2, *.mp2v, *.m2t, *.m2ts, *.k3g, *.divx, *.wm, *.wmx, *.wvx, *.rm, *.rmvb, *.ram, *.ivf, *.ogm, *.vp6, *.xvd\n- Output video formats (extension): MP4, AVI, MKV, WebM, MP3",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "BandicamCompany.Bandicut2024",
-    "name": "Bandicut 2024",
-    "publisher": "Bandicam Company",
-    "description": "Bandicut 2024 Setup File",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33580,7 +33643,7 @@
   },
   {
     "id": "Brosix.Brosix",
-    "name": "Brosix for Windows",
+    "name": "Brosix",
     "publisher": "Brosix",
     "description": "Brosix is an Instant Messaging Software for Businesses, providing encrypted, real-time communications, across multiple applications, to streamline how day-to-day business gets done.\nNo more messaging over insecure applications. No more down time, waiting for time-sensitive information. Secure, instantaneous chats, meetings, and team collaboration that are easily archived and retrievable. No more endless searching for past communiqués.\nSee https://www.brosix.com/features/ for more.",
     "icon": "/icons/intunify-default.png"
@@ -34762,6 +34825,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FujiApple.Claptrap",
+    "name": "Claptrap",
+    "publisher": "FujiApple",
+    "description": "Claptrap is a tool that allows you to parse complex command line arguments in shell scripts using a declarative specification.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "badboysm890.Clara",
     "name": "Clara",
     "publisher": "badboysm890",
@@ -35616,6 +35686,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CoreFTP.CoreFTPServer",
+    "name": "Core FTP Server",
+    "publisher": "Core FTP",
+    "description": "Core FTP Server is a lightweight, secure file transfer server for Windows developed by Core FTP. It enables users to set up their own FTP (File Transfer Protocol) and SFTP (SSH File Transfer Protocol) server, allowing for secure file transfers and remote access over networks or the internet.\n\nKey Features:\n- Dual Protocol Support: Supports both FTP and SFTP (SSH-based) protocols for flexibility and security.\n- User Management: Create and manage user accounts with customizable permissions (read, write, delete, etc.) and directory access restrictions.\n- Security: Features encryption (SSL/TLS for FTP, SSH for SFTP), IP filtering, and brute-force attack protection to safeguard data.\n- Logging & Monitoring: Detailed logging of server activity, connections, and file transfers for auditing and troubleshooting.\n- Easy Setup: Designed for simplicity with a user-friendly interface, making it accessible for both beginners and advanced users.\n- Low Resource Usage: Lightweight and efficient, suitable for running on systems with limited resources.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ALCPU.CoreTemp",
     "name": "Core Temp",
     "publisher": "ALCPU",
@@ -36046,7 +36123,7 @@
     "id": "CTerm.CTerm",
     "name": "CTerm",
     "publisher": "https://devcpp.gitee.io/cterm/",
-    "description": "CTerm (Clever Terminal) is not only a normal Telnet client software for Telnet sites, but also a special login software designed for Chinese BBS. It analyzes the information between the user and the server to obtain the current user status on the BBS (main menu/board list/user list/article list/editing status) to provide corresponding services.",
+    "description": "CTerm (Clever Terminal) is not only a normal Telnet client software for Telnet sites, but also a special login software designed for Chinese BBS.\nIt analyzes the information between the user and the server to obtain the current user status on the BBS (main menu/board list/user list/article list/editing status) to provide corresponding services.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36596,6 +36673,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Deltek.Maconomy",
+    "name": "Deltek Maconomy",
+    "publisher": "Deltek, Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DenoLand.Deno",
     "name": "deno",
     "publisher": "denoland",
@@ -36649,6 +36733,13 @@
     "name": "DesktopOK",
     "publisher": "SoftwareOK",
     "description": "DesktopOK is a small but effective solution for user that have to change the screen resolution often. It is also good for windows users who often have to work with a projector on the notebook eg laptop or tablet-pc on all MS Windows! so the name is Desktop O.K. and not only Icon Save, the program has also other helpful functions for daily works on all windows os!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DeskSoft.DesktopPlant",
+    "name": "DesktopPlant",
+    "publisher": "DeskSoft",
+    "description": "This revolutionary program brings life to your desktop. Plants grow directly on your desktop and need your care just like real plants!\nThere are several different plants to choose from (please follow the links to learn more about the plants): Azalea, Cactus, Maple Tree, Philodendron, Sunflower\n\nKey Features:\n- Amazingly realistic growth (realistic plant development depending on water, fertilizer, environmental parameters, etc.)\n- Random effects will guarantee that each plant is unique\n- DesktopPlants are 3D models of a real plants with enhanced visual effects\n- Optimized routines for beautiful photorealistic graphics\n- DesktopPlants grow directly on the desktop - above the selected wallpaper but below the icons\n- Adjustable size and position\n- Many plants can be displayed simultaneously\n- Silent installation and uninstallation for mass deployment\n- Now with Windows 11 and 64 bit support!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37201,7 +37292,7 @@
     "id": "DNAGenics.DNAKitStudio",
     "name": "DNA Kit Studio",
     "publisher": "DNA Genics",
-    "description": "",
+    "description": "Windows graphical application to convert and analyze DNA RAW Data from several Direct-To-Consumer DNA companies:\n- 23andme\n- Ancestry\n- FTDNA\n- MyHeritage\n- Geno\n- LivingDNA\n- And many more...\n\nFeatures:\n- RAW to RAW converter\n- RAW Merger (single and batch merger)\n- RAW Explorer\n- RAW Segment Comparer\n- RAW Chromosome Extract\n- RAW Segment Extract\n- RAW Manipulator\n- RAW Comparer\n- RAW Analyzer",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37527,6 +37618,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "sireliah.dragit",
+    "name": "Dragit",
+    "publisher": "Piotr Gołąb",
+    "description": "Dragit helps you share files between computers in the same network.\n\n- useful when you want to send file from one computer to another\n- requires no configuration\n- single purpose - does only one thing and nothing more\n- works on Linux and Windows machines\n- automatically checks the firewalld config on Linux distros and offers opening\n  the ports",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DZEDSystems.Dragonframe",
     "name": "Dragonframe 2025",
     "publisher": "DZED Systems LLC",
@@ -37716,13 +37814,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "DuoSecurity.Duo2FAAuthenticationforWindows.MSI",
-    "name": "Duo Authentication for Windows Logon",
-    "publisher": "Duo Security Inc.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "DuoSecurity.DuoDeviceHealth",
     "name": "Duo Device Health",
     "publisher": "Duo Security",
@@ -37894,7 +37985,7 @@
     "id": "DeskSoft.EarthView",
     "name": "EarthView",
     "publisher": "DeskSoft",
-    "description": "It produces high quality images for every screen resolution - even beyond 2560x1600! The program supports map and globe views, urban areas, city lights, atmospheric effects, clouds and much more.",
+    "description": "EarthView is a dynamic desktop wallpaper and screen saver, which displays beautiful views of the earth with daylight and night shadows.\nIt produces colorful, high quality, high resolution images for every screen resolution - even beyond 3840x2160!\nThe program supports map and globe views, urban areas, city lights, atmospheric effects, clouds, weather information, local time display and much more.\nEarthView supports different maps that show our planet earth in different ways, including seasonal changes of vegetation, snow cover and ocean ice. Many options allow total customization of all view parameters. EarthView has won countless awards for its absolutely breathtaking images.\n\nKey Features:\n- High detail views of the earth\n- Day and night view\n- Atmospheric effects\n- Urban areas and city lights\n- Clouds (internet download of current cloud data)\n- Multiple view system (multiple different views simultaneously)\n- Background and overlay images (e.g. for company logos or advertisements)\n- Weather data (temperature, humidity, wind, pressure, METAR data, etc.)\n- Map and globe projection\n- Seasonal maps showing changes of vegetation, snow cover and ocean ice\n- Several other beautiful maps to choose from\n- Location and local time of more than 140.000 cities worldwide\n- Wallpaper and screen saver support\n- Multiple monitor support (different, multiple views on each monitor)\n- Multiple profile support (different options for various screen configurations, etc.)\n- Many options for full customization",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38913,6 +39004,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "srwi.EverythingToolbar.Deskband",
+    "name": "EverythingToolbar",
+    "publisher": "Stephan Rumswinkel",
+    "description": "With EverythingToolbar you can instantly search files and folders by name directly in the Windows taskbar with Everything.\nIt allows quick and easy file indexing and fast searches.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Evexi.EvexiCLI",
     "name": "Evexi CLI",
     "publisher": "Evexi",
@@ -39312,6 +39410,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "H-BAU.FERBOXDesign",
+    "name": "FERBOX® Design",
+    "publisher": "H-Bau Technik GmbH",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Sayuri.FFFTP",
     "name": "ffftp",
     "publisher": "Kurata Sayuri",
@@ -39564,6 +39669,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FileCloud.FileCloudDrive",
+    "name": "FileCloud Drive",
+    "publisher": "CodeLathe Technologies Inc",
+    "description": "Mount your Cloud as Drive Letter on Windows",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KDE.Filelight",
     "name": "Filelight",
     "publisher": "KDE e.V.",
@@ -39581,7 +39693,7 @@
     "id": "LopeSoft.FileMenuTools",
     "name": "FileMenu Tools",
     "publisher": "LopeSoft",
-    "description": "",
+    "description": "FileMenu Tools is an application which lets you customize the context menu of Windows Explorer.\nThe application adds built-in utilities to perform operations on files and folders and adds custom commands which let you run external applications, copy/move to a specific folder or delete specific file types.\nWith FileMenu Tools, you also can customize the \"Send to...\" submenu, and either enable or disable context-menu commands added by other applications.\n\nBuilt-in Utilities\n- The synchronization type (unidirectional, bidirectional, etc.) and the file types to be synchronized may be specified.\n- Recursively delete specific file types from a folder. The file types may be specified with wildcards, for example: *.txt, *.t??, etc.\n- Find and replace a text string in all selected files. Regular expressions are supported.\n- Rename all selected elements according to specified rules.\n- Delete files which are locked by any application and cannot be deleted normally.\n- Delete the selected elements WITHOUT moving them to the Recycle Bin.\n- Change the icon assigned to the selected folder.\n- Run a program with parameters typed in a dialog box.\n- Open a command line window in the selected folder.\n- Display a submenu which lets you change the attributes of the selected elements. If a folder is selected, it is possible to change the attributes recursively.\n- Copy the selected elements to another folder. Filters may be specified in order to copy specific file types.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40705,6 +40817,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "w1hkj.flwkey",
+    "name": "Flwkey",
+    "publisher": "W1HKJ",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Fly-io.flyctl",
     "name": "flyctl",
     "publisher": "Fly.io",
@@ -40765,13 +40884,6 @@
     "name": "Folder Size",
     "publisher": "Brio",
     "description": "Folder Size for Windows 弹出窗口以跟踪打开的文件资源管理器窗口。新窗口不仅可以显示文件的大小，还可以显示文件夹的大小。它会跟踪您查看的文件夹，并在后台扫描它们，从而可以查看文件夹内所有文件的完整大小，对清理磁盘非常有用。一旦习惯了这些信息，没有它们的目录列表看起来就不完整了！",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Bazwise.FolderSizeExplorer",
-    "name": "Folder Size Explorer",
-    "publisher": "Bazwise",
-    "description": "Folder Size Explorer calculates folder sizes as you browse them and allows you to quickly indentify directories on\nyour hard drive or network that are consuming the most disk space. It can also calculate checksums (MD-5, SHA-1,\nSHA-256 and SHA-512) of all your files and can export Windows Explorer folder and file lists to csv files. Folder\nSize Explorer is a simple and fast disk space analyser that also provides almost all the functionality of the\nstandard Windows Explorer. It runs on both x86 and x64 versions of Windows 10, 8, 7, Vista, and all versions of\nWindows Server 2019, 2016, 2012, 2008.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40926,6 +41038,13 @@
     "name": "FramePro",
     "publisher": "PureDev Software",
     "description": "Getting Started\nIntegrate FramePro into your codebase in minutes - simply add FramePro.cpp/h into your code and start adding scopes. Add timing scopes using the supplied macros to any function or block of code. FramePro will then track the time, thread and core of each scope. This scope information will be sent to the FramePro application, where thread and core utilization can be viewed for each frame.\n\nWhy FramePro?\nFramePro has minimal overhead. When profiling, the first rule is to not change the behavior of what is being profiled. FramePro allows you to add thousands of timing scopes per frame with no noticeable impact on frame rate.\nProfile in real-time. In interactive mode you can see the data as it is being recorded, easily spot a frame rate spike, and immediately zoom in to that frame to find the cause.\nNo limit to the length of a capture. Unlike many profilers which can only capture a few seconds worth of data, FramePro can capture long play sessions.\nFramepro uses the highest resolution timer available on your system. It is configured for many platforms and easily configurable.\nFramePro is easy and intuitive to use. Everyone who sees FramePro in action immediately 'gets it'. FramePro can be used by programmers and non-programmers alike.\n\nHow it works\nCall the FRAMEPRO_FRAME_START() macro at the start of your frame. This tells FramePro when the frame starts and ends and this will be marked on the timeline in both the thread and code view. This simple feature is one which many profilers lack.\nUse the FRAMEPRO_SCOPE() macro to time a function call. This creates an object on the stack that records information. In its constructor it records the start time using the high resolution system timer. In its destructor it records the end time, the current thread id, the current CPU core, and the current function name. This information is then copied onto a thread local storage (TLS) buffer. These TLS buffers are sent once a frame on a separate thread.\nThe scope recording code is minimal and consists of only a few instructions. The thread local storage means that there is no locking or contention with other threads. The function name string is a string literal, and the only value that is sent to FramePro is the pointer. The actual string value is resolved later. All this means that there are only a few instruction per scope, and only a few bytes of data is copied to the send buffer. this allows you to add thousands of scopes per frame without affecting frame rate.\nThere are a number of different scope macros. If you want to name a scope use FRAMEPRO_NAMED_SCOPE(\"MyScope\"). You can also send dynamic (non-literal) strings using FRAMEPRO_DYNAMIC_SCOPE(). to scope idle processor time, such as in an event wait, use FRAMEPRO_IDLE_SCOPE(). This will show up in a different colour in FramePro. Use the conditional scopes to only show the scope if it is longer than a specified time. This time can be dynamically changed in FramePro while recording. The scope macros are fully documented in FramePro.h.\nFramePro can run in connected or offline mode. When running in connected mode your application will send data using sockets every frame. FramePro will then display the data as it is received. You can pause the data and inspect frames at any time while recording. If you don't want the overhead of FramePro on your system you can run in non-interactive mode and it will take up almost no CPU. This is useful when profiling on the same PC as you are running the application. For best results, it is recommended that you run your application/game on a different PC or Console and then connect in interactive mode.\nIf your codebase doesn't support sockets or you can't connect for some other reason you can run FramePro in offline mode and all network data will be written to a .framepro_dump file. This file can then be loaded into framepro.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ComfortSoftwareGroup.FreeAlarmClock",
+    "name": "Free Alarm Clock",
+    "publisher": "Comfort Software Group",
+    "description": "This freeware program allows you to set as many alarms as you want.\nYou can set one-time alarms or repeating alarms - activate only from Monday through Friday and give you a chance to sleep on the weekends.\n\nHave you ever wondered if it's possible to wake up your system from a suspended power conservation mode using a resident program and not waste all that energy? The answer is yes, it is possible! Free Alarm Clock will let you do it. This feature is PC-dependent and only possible for PCs that can go to sleep mode.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41979,6 +42098,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "GOMLab.GOMPlayer",
+    "name": "GOM Player",
+    "publisher": "GOM & Company",
+    "description": "GOM Player is a free video player that supports file playback in more than 100 different video and audio formats, including AVI, MP4, MKV, and more.\nExternal codec allows you to play videos that were difficult to play due to codec problems. Both Windows and MAC OS operating systems are available.\n\nThe VR mode allows you to watch 360-degree videos by rotating up, down, left and right, and choose specific point, enjoying it more immersive.\nYou can retrieve the video, or click the button on the bottom menu to search for and play a 360-degree VR video on the Internet.\n\nYou can choose the part of the video and repeat it. You can choose a detailed second and set the number of repetitive plays.\nAlso, setting multiple interval iterations to create multiple interval iterations and ordering them is possible.\n\nSupported Formats\n- Video Formats: .avi, .ogm, .mkv, .mp4, .k3g, .ifo, .ts, .asf, .wmv, .wma, .mov, .mpg, .m1v, .m2v, .vob, .m4v, .3gp/3gp2, .rmvb, .rm, .ogg, .flv, .asx(video), .dat\n- Audio Formats: .mp3, .m4a, .aac, .ogg, .flac, .wav, .wma, .rma, .alac\n- Subtitle Formats: smi, srt, rt, sub(& IDX), vtt (text sub), dvb, ass, psb, txt, sbv, vobsub (embedded sub)\n- Playlist Formats: .asx, .pls\n- Built-in Codecs: Vorbis, FLAC, ADPCM, XVID, MP41, MP42, MP43, H263, AP41, MPG4, MP4S, M4S2, MP4V, MJPG, RMP4, H264, DVSD, THEO, VP8, VC1, MPEG1,  MPEG2, VP6, FPS1, IV50, IV40, SVQ3, TSCC, TSCC2, Cinepak, SVQ1, G2M4, LAGARITH, TRUEMOTION2, DVCP, DVPP, QTRLE, RPZA, PRORES, MSZH, Nellymoser",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Guhan.GoodCommit",
     "name": "Good Commit",
     "publisher": "Guhan",
@@ -42707,13 +42833,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "HandBrake.HandBrake",
-    "name": "HandBrake",
-    "publisher": "The HandBrake Team",
-    "description": "HandBrake 能将你已有的视频转换成新的视频，并能在你的手机、平板电脑、电视媒体播放器、游戏机、电脑或网络浏览器上播放--几乎任何支持现代视频格式的设备上都能播放。\nHandBrake 可处理大多数常见的视频文件和格式，包括由民用和专业摄像机、手机和平板电脑等移动设备、游戏和电脑屏幕录制以及 DVD 和蓝光光盘创建的视频文件和格式。HandBrake 可利用 FFmpeg、x264 和 x265 等工具，从这些来源创建新的 MP4 或 MKV 视频文件。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "HandBrake.HandBrake.CLI",
     "name": "HandBrake CLI",
     "publisher": "The HandBrake Team",
@@ -42788,6 +42907,13 @@
     "name": "Hardcopy",
     "publisher": "www.hardcopy.de",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DeskSoft.HardCopyPro",
+    "name": "HardCopy Pro",
+    "publisher": "DeskSoft",
+    "description": "HardCopy Pro is a versatile, easy to use screen capture utility for Windows. It can capture rectangular screen areas and whole windows.\nThe captured images can be cropped very easily and the color depth can be changed to any desired value from monochrome to true color.\nImages can be printed, saved, copied to the clipboard, emailed, edited with any image editing program, etc.\nMany options allow the customization of all these actions to individual user needs.\n\nKey Features:\n- Captures rectangular areas, whole windows, the active window or the entire screen\n- Easy cropping and adjustment of the color depth of captured images\n- Simple editing and drawing functions\n- Mouse cursor can be captured\n- Images can be saved, copied, edited, printed, emailed and sent to any destination (e.g. MS Word)\n- Drag & Drop the \"Save As\" or \"Save\" button to any folder, program, email, etc. to send the image to that program or location\n- Supported file formats: BMP, GIF, JPG, PNG, TIF\n- Timer for automatic captures\n- Silent installation and uninstallation for mass deployment\n- Now with Windows 10 support!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44814,6 +44940,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Isabel.IsabelOfflineReporting",
+    "name": "Isabel Offline Reporting",
+    "publisher": "Isabel NV/SA",
+    "description": "With Isabel Offline Reporting (IOR) your company or organisation can count on a very advanced reporting solution for your Isabel 6 electronic banking.\nResearch has demonstrated that, from a customer's point of view, the local storage of account information is one of the major benefits of IBS5 (Isabel Business Suite 5.0, the predecessor of Isabel 6). Due to this local information storage, quick searches can be made and detailed reports can be generated. To facilitate the change to Isabel 6 and to guarantee the excellent performance and continuity of your reports, Isabel makes an offline reporting program available.\nIsabel Offline Reporting stands for a state-of-the-art reporting program with the same functionalities (and more) than reporting in IBS5.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "isl-kocher.isl-baustellenmanager",
     "name": "isl-baustellenmanager",
     "publisher": "isl-kocher GmbH",
@@ -44839,6 +44972,13 @@
     "name": "ISO Creator",
     "publisher": "Bunny-Wabbit",
     "description": "ISOCreator (could also be called Folder-to-ISO or Directory-to-ISO) is a C#.NET 2.0 application which creates ISO 9660 Joliet CD images from a given folder or volume. It can also create ISO with virtual files, given a tree representing a directory structure.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "H-BAU.ISODESIGN",
+    "name": "ISODESIGN",
+    "publisher": "Grawe + Bertram Ingenieure",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45227,6 +45367,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JORDAHL.JDSD",
+    "name": "JDSD",
+    "publisher": "JORDAHL",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "jEdit.jEdit",
     "name": "jEdit",
     "publisher": "Contributors",
@@ -45350,13 +45497,6 @@
     "name": "JFrog CLI",
     "publisher": "JFrog Ltd",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "WlhEx.JiduDocumentClear",
-    "name": "JiDuDocumentClear",
-    "publisher": "WlHex",
-    "description": "Jidu Document Clear is a scan cleaning and preprocessing software developed by the Weizhi team of Weilonghui Technology Co., Ltd., which is easy to use and can produce good results. With machine learning algorithms, it can quickly preprocess all kinds of problematic files to archive or convert them into editable files or searchable double-layer PDF/A, OFD, etc.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47278,6 +47418,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Abbott.LibreViewDeviceDrivers",
+    "name": "LibreView Device Drivers",
+    "publisher": "Abbott Laboratories",
+    "description": "LibreView Device Drivers needs to be installed on all computers that will be used to upload data via a USB cable. The LibreView Device Drivers locates the compatible device plugged into the computer and retrieves the data from the device to generate the reports.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
     "publisher": "LibreWolf",
@@ -47415,6 +47562,13 @@
     "name": "Linkage",
     "publisher": "David Rector",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LinkEase.LinkEase",
+    "name": "LinkEase",
+    "publisher": "深圳市易有云网络科技有限责任公司",
+    "description": "易有云是一款支持多设备之间数据管理的软件，支持手机相片备份到其他设备上，设备之间的文件互传，设备之间的数据备份和同步等。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47856,6 +48010,13 @@
     "name": "Lua JLS",
     "publisher": "SPYL",
     "description": "Lua 5.4 standalone interpreter and a set of modules including cjson, xml2lua, zlib, lpeg, luv, openssl, lfs, luasocket, llthreads, lua-child, luaunit, luacov, webview, serial, jls",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LuantiTeam.Luanti",
+    "name": "Luanti",
+    "publisher": "The Luanti Team",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48359,6 +48520,13 @@
     "id": "Thorlabs.MC2000B",
     "name": "MC2000B",
     "publisher": "THORLABS Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "skardyy.mcat",
+    "name": "mcat",
+    "publisher": "skardyy",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -49522,6 +49690,13 @@
     "name": "MinGit",
     "publisher": "The Git Development Community",
     "description": "MinGit is an intentionally minimal, non-interactive distribution of Git for Windows, with third-party applications as its intended audience.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CoreFTP.MiniSFTPServer",
+    "name": "Mini SFTP Server",
+    "publisher": "Core FTP",
+    "description": "If you need to securely transfer files between computers, you can also use the free mini sftp server!\n\nCore FTP mini SFTP server currently supports SFTP (via SSH2) mode only.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51958,6 +52133,13 @@
     "name": "NDI Runtime",
     "publisher": "NDI",
     "description": "Bring NDI support to specific applications that require NDI libraries but their installers do not bundle them.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NDI.NDITools",
+    "name": "NDI Tools",
+    "publisher": "NDI",
+    "description": "NDI Tools and plugins needed to connect, stream and share your content. Contains Access Manager, Remote, Router, Test Patterns, Studio Monitor, Webcam Input, Screen Capture, Bridge and plugins for Audio Direct, VLC, Premiere Pro, After Effect.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54460,6 +54642,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AceBIT.PasswordDepot.18.Corporate",
+    "name": "Password Depot 18 (Corporate Edition)",
+    "publisher": "AceBIT GmbH",
+    "description": "Password Depot is a powerful, technically mature, and, most importantly, secure application for managing your passwords and access data. Unlike conventional freeware and shareware utilities, Password Depot provides sophisticated security mechanisms and a well-conceived, wide range of functions. It was developed for operation in professional environments with strict security standards.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BinaryMark.PasswordGenerator",
     "name": "Password Generator 2020 Pro Trial",
     "publisher": "BinaryMark",
@@ -54659,7 +54848,21 @@
     "id": "Burnaware.PDFShaper.Free",
     "name": "PDF Shaper Free",
     "publisher": "Burnaware",
-    "description": "PDF Software for Home and BusinessSecure, offline document processingDesigned for simplicity and efficiency.",
+    "description": "PDF Shaper is a powerful yet lightweight Windows application for offline PDF processing.\n- Convert PDF documents to MS Word DOC, text, or image files and convert those formats back to PDF.\n- Remove XMP, usage rights, metadata, bookmarks, annotations, form fields, images, and other elements.\n- Encrypt PDFs with AES encryption algorithm and user password, set document permissions, sign files.\n- Rename PDF files, modify metadata, extract content - text (plain, OCR or CSV) or images.\n- Merge, split, or watermark with text and images.\n- Rotate, crop, insert, move, delete, or extract pages.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Burnaware.PDFShaper.Premium",
+    "name": "PDF Shaper Premium",
+    "publisher": "Burnaware",
+    "description": "PDF Shaper is a powerful yet lightweight Windows application for offline PDF processing.\n- Convert PDF documents to MS Word DOC, text, or image files and convert those formats back to PDF.\n- Remove XMP, usage rights, metadata, bookmarks, annotations, form fields, images, and other elements.\n- Encrypt PDFs with AES encryption algorithm and user password, set document permissions, sign files.\n- Rename PDF files, modify metadata, extract content - text (plain, OCR or CSV) or images.\n- Merge, split, or watermark with text and images.\n- Rotate, crop, insert, move, delete, or extract pages.\n\nFree 7-day trial",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Burnaware.PDFShaper.Ultimate",
+    "name": "PDF Shaper Ultimate",
+    "publisher": "Burnaware",
+    "description": "PDF Shaper is a powerful yet lightweight Windows application for offline PDF processing.\n- Convert PDF documents to MS Word DOC, text, or image files and convert those formats back to PDF.\n- Remove XMP, usage rights, metadata, bookmarks, annotations, form fields, images, and other elements.\n- Encrypt PDFs with AES encryption algorithm and user password, set document permissions, sign files.\n- Rename PDF files, modify metadata, extract content - text (plain, OCR or CSV) or images.\n- Merge, split, or watermark with text and images.\n- Rotate, crop, insert, move, delete, or extract pages.\n\nFree 7-day trial",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55069,13 +55272,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "MCvanderKooij.PictoSelector",
-    "name": "Picto-Selector",
-    "publisher": "M.C. van der Kooij",
-    "description": "Picto-Selector is a free tool for creating visual schedules. It is used by many teachers and parents. But there are also reports of people using it in daycare for elderly people.\n\nThe download contains over 34000 pictos (images) translated to English, Dutch, German, French, Danish and Spanish. (Some pictos are also translated to Arabic, Swedish, Italian, Portuguese, Brazilian and Indonesian)\n\nPicto-Selector makes creating visual schedules easier by:\n* Fast search options to find the needed pictures\n* Automatic sizes, depending on the number of rows and columns\n* Reuse of earlier created schedules\nWith Picto-Selector the time consuming cut, paste and editing in Word is over.\n\nAt the main screen picto sheets can be viewed and added. Each sheet can be printed. Pictos can easily be selected from a list and placed between existing pictos, this makes it extremely easy to alter existing picto sheets.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Ruben2776.PicView",
     "name": "PicView",
     "publisher": "PicView",
@@ -55164,6 +55360,13 @@
     "name": "Pix4Dsurvey",
     "publisher": "https://www.pix4d.com/",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "agateau.PixelWheels",
+    "name": "Pixel Wheels",
+    "publisher": "Aurélien Gâteau",
+    "description": "It features multiple tracks and vehicles as well as various bonuses and weapons to help you get to the finish line first!On PC, you can play Pixel Wheels alone or with a friend.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55468,6 +55671,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Safing.Portmaster",
+    "name": "Portmaster",
+    "publisher": "Safing ICS Technologies GmbH",
+    "description": "Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity.\n\nDiscover everything that is happening on your computer. Expose every connection your applications make and detect evil ones. Finally get the power to act accordingly.\n\nProtect your whole computer, not just your browser. Block all advertisements and trackers for every application. Easily add your own rules and block individual domains.\n\nMake your own rules. Completely cut off applications from the Internet. Or block all p2p connections except for certain apps. Or never connect to specific countries. Portmaster has you covered.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NetSarangComputer.PortX",
     "name": "PortX",
     "publisher": "NetSarang Computer, Inc.",
@@ -55730,7 +55940,7 @@
     "id": "PremiumSoft.NavicatPremium",
     "name": "PremiumSoft Navicat Premium",
     "publisher": "PremiumSoft CyberTech Ltd.",
-    "description": "Navicat Premium es una solución robusta y completa para el desarrollo de bases de datos que permite conexiones fluidas con múltiples bases de datos, incluyendo MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle, SQLite, Redis y Snowflake, todo desde una sola aplicación. Su interfaz de usuario nativa ofrece una experiencia optimizada, lo que facilita más que nunca el diseño, la gestión y el mantenimiento de bases de datos. Ya sea que esté ejecutando consultas complejas, realizando migraciones de datos, alineando modelos de datos con bases de datos o aprovechando potentes herramientas de inteligencia empresarial para realizar análisis detallados, Navicat Premium proporciona las herramientas esenciales para un rendimiento óptimo de la base de datos y una mayor productividad.\n\nCaracterísticas principales:\n- Compatibilidad con múltiples bases de datos: gestione bases de datos relacionales (SQL) y NoSQL (MongoDB, Redis) de forma local o en la nube (AWS, Azure, Google Cloud).\n- Herramientas basadas en IA: optimice SQL con modelos de IA (ChatGPT, Gemini) para la explicación de consultas, el ajuste y la corrección de errores.\n- Automatización y sincronización: programe copias de seguridad, sincronice datos/estructuras entre bases de datos y genere datos de prueba.\n- Colaboración: sincronice conexiones, consultas y modelos a través de Navicat Cloud para compartir en equipo.\n- Herramientas visuales: generador de consultas, modelado de diagramas ER, paneles de BI y perfiles de datos.",
+    "description": "Navicat Premium is a database development tool that allows you to simultaneously connect toMySQL、MariaDB、MongoDB、SQL Server、Oracle、PostgreSQL and SQLite database。Compatible with Amazon RDS、Amazon Aurora、Amazon Redshift、Microsoft Azure、Oracle Cloud, Google Cloud、MongoDB Atlas and other cloud databases. You can build, manage and maintain databases quickly and easily。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56794,7 +57004,7 @@
     "id": "Cogin.QueueExplorer",
     "name": "QueueExplorer",
     "publisher": "Cogin",
-    "description": "QueueExplorer supports multiple systems from the same installation, without need for additional licensing: MSMQ, Azure Service Bus, RabbitMQ, and ActiveMQ.\n\nWith QueueExplorer you can do much more than with built-in management console - copy, move or delete messages, save and load, stress test, view and edit full message bodies (with support for XML, JSON, .Net objects...), and much more. QueueExplorer is a fast, native Windows application. \n\nWith QueueExplorer you can dig into your queues and see which message went where, whether they were correctly formatted, with correct headers and settings, etc.\n\nMultiple viewers are at your disposal: JSON, XML, WCF, Hex, text with different encodings...",
+    "description": "QueueExplorer supports multiple systems from the same installation, without need for additional licensing: MSMQ, Azure Service Bus, RabbitMQ, and ActiveMQ.\n\nWith QueueExplorer you can do much more than with built-in management console - copy, move or delete messages, save and load, stress test, view and edit full message bodies (with support for XML, JSON, .Net objects...), and much more. QueueExplorer is a fast, native Windows application. \n\nWith QueueExplorer you can dig into your queues and see which message went where, whether they were correctly formatted, with correct headers and settings, etc.\n\nMultiple viewers are at your disposal: JSON, XML, WCF, Hex, text with different encodings.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57452,6 +57662,13 @@
     "id": "MiniantGit.REAL",
     "name": "Reduce Audio Latency",
     "publisher": "mini)(ant",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Reemo.Reemo",
+    "name": "Reemo",
+    "publisher": "Reemo SAS",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -58125,13 +58342,6 @@
     "name": "Rnp",
     "publisher": "r12f",
     "description": "A simple layer 4 ping tool for cloud.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Roblox.Roblox",
-    "name": "Roblox Player",
-    "publisher": "Roblox Corporation",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59605,10 +59815,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AprelTech.SilentInstallBuilder",
+    "name": "Silent Install Builder",
+    "publisher": "AprelTech",
+    "description": "The Silent Install Builder enables you to automate Software Deployment tasks in an Enterprise environment. \nCreate a setup package that contains one or more application installers that will be installed automatically in the background mode (silently).\nYou can build either .exe or .msi (Windows Installer) packages for an End-user or an Network-wide deployment with GPO, SCCM, Intune and other Third-Party tools.\n\nSilent Install Builder Features:\n- Automate application installation by recording an UI automation script.\n- Execute script files: PowerShell, cmd, vbs and other commands.\n- Create a package for unattend installation of multiple applications at once.\n- Auto detect command line options for most common installers.\n- Use JavaScript to define install conditions, make file and registry changes.\n- Uninstall applications by name and version conditions.\n\n30-day evaluation version.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Databricks.SparkODBCDriver",
     "name": "Simba Spark ODBC Driver",
     "publisher": "Simba Technologies Inc.",
     "description": "The Simba Apache Spark ODBC Connector is used for direct SQL and HiveQL access to Apache Hadoop / Spark distributions, enabling Business Intelligence (BI), analytics, and reporting on Hadoop-based data. The connector efficiently transforms an application’s SQL query into the equivalent form in HiveQL, which is a subset of SQL-92. If an application is Spark-aware, then the connector is configurable to pass the query through to the database for processing. The connector interrogates Spark to obtain schema information to present to a SQL-based application. Queries, including joins, are translated from SQL to HiveQL",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SIMetrix.SIMPLISElements.Free",
+    "name": "SIMetrix-SIMPLIS Elements 9.2",
+    "publisher": "SIMetrix Technologies Ltd",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59952,6 +60176,13 @@
     "name": "Smart Defrag",
     "publisher": "IObit",
     "description": "IObit Smart Defrag is a powerful defragmentation tool designed to optimize your Windows PC's performance. It reduces file fragmentation, speeds up data access, and enhances overall system efficiency. With features like Boot Time Defrag, SSD Trim, and Game Optimization, Smart Defrag ensures faster startup times, improved gaming performance, and extended disk lifespan. The user-friendly interface and automatic defragmentation make it an essential tool for maintaining a smooth and efficient PC.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SMARTTechnologies.SMARTMirror",
+    "name": "SMART Mirror App",
+    "publisher": "SMART Technologies ULC",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60708,6 +60939,13 @@
     "name": "SSDScopeApp",
     "publisher": "Transcend Information, Inc.",
     "description": "Developed for use with Transcend SSD products, Transcend SSD Scope is an advanced and user-friendly\nsoftware that makes it easier than ever to maintain a healthy and efficient SSD. SSD Scope brings\ntogether the latest technology in determining the condition and optimizing performance of an SSD.\nThe useful features include: View Drive Information, View S.M.A.R.T. Status, Diagnostic Scan, Secure\nErase, Firmware Update, TRIM Enable, Health Indicator and System Clone.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "axeprpr.SSHCopyID",
+    "name": "SSH Copy ID",
+    "publisher": "axeprpr",
+    "description": "SSH-Copy-ID for Windows is a command-line tool that copies SSH public keys to remote servers' authorized_keys files.\nIt provides the same functionality as the Linux ssh-copy-id command but is specifically designed for Windows systems.\n\nFeatures:\n- Copy SSH public keys to remote servers\n- Support for custom SSH key files and ports\n- Automatic creation of remote .ssh directory and authorized_keys file\n- Duplicate key detection and prevention\n- Cross-platform compatibility",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62041,6 +62279,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AtomicJar.Testcontainers",
+    "name": "Testcontainers Desktop",
+    "publisher": "AtomicJar, Inc.",
+    "description": "Testcontainers is an open source framework for providing throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container.\n\nThe app lets you proxy any service to a fixed port to easily inspect it with your favorite debugging tools. For example, inspect a datastore with your IDE plugin, or manage a Kubernetes cluster with k9s. You can even freeze a service to prevent its shutdown so you can debug it.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WsSolInfor.Testdisk",
     "name": "Testdisk Beta",
     "publisher": "WsSolInfor",
@@ -62748,13 +62993,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "3DSpace.TopoLT",
-    "name": "TopoLT",
-    "publisher": "3D Space s.r.l.",
-    "description": "TopoLT is a program offering tools for 2D and 3D aplications and functionalities useful for all those who design topographical or cadastral plans in digital format, who develop 3D terrain models and contours, fill and cut volumes calculation, raster image georeferencing and automatic printing.\n\nTopoLT is running on AutoCAD, BricsCAD, ZWCAD or GstartCAD, using the drawing functions of CAD platform and adding specific functions necessary to create topographical and cadastral plans in digital format.\n\nWith a tradition of over 25 years, TopoLT is the oldest topography application in Romania, created to help surveyors to carry out topographic and cadastral works. TopoLT is a complete solution for topography and cadastre projects.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
     "publisher": "Tor Project",
@@ -63424,6 +63662,13 @@
     "name": "UE Explorer",
     "publisher": "EliotVU",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LongSoft.UEFIFind",
+    "name": "UEFIFind NE",
+    "publisher": "LongSoft",
+    "description": "UEFIFind, which uses ffsParser to find image elements containing a specified pattern.\n\nUEFIFind  use UEFITool's engine:\nUEFITool is a cross-platform open source application written in C++/Qt, that parses UEFI-compatible firmware image into a tree structure, verifies image's integrity and provides a GUI to manipulate image's elements.\nProject development started in the middle of 2013 because of the lack of cross-platform open source utilities for tinkering with UEFI images.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64323,6 +64568,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PentaLogix.ViewMate",
+    "name": "ViewMate",
+    "publisher": "PentaLogix, Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ViCon.viflow.8",
     "name": "viflow 8 Suite (purchase license)",
     "publisher": "ViCon GmbH",
@@ -64624,6 +64876,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "VoiceAttack.VoiceAttack",
+    "name": "VoiceAttack",
+    "publisher": "VoiceAttack.com",
+    "description": "VoiceAttack is the premier voice control and macro creation system for your Windows games and applications. Take a look at just a few elements from VoiceAttack's substantial set of features:\n\nControl Your Games and simulators With Your Voice\nAdd your voice as an extra controller with voice commands that YOU create. Give specific instructions to your space freighter, your race pit crew, your 'mech or your druid and give life and immersion to your games like never before.\n\nAlso Control Your Apps\nLaunch and control applications with phrases you can actually remember. \"Launch Skype\" or \"Launch Spotify\" without even touching the keyboard or mouse. VoiceAttack even works great along side your favorite voice chat apps like TeamSpeak and Ventrilo.\n\nCreate Crazy-Powerful Macros\nFrom simple, single key presses from a keyboard to mouse clicks to full-blown virtual conversations using text-to-speech, many have found ways to make their PCs easier and way more fun to use in unprecedented ways.\n\nVirtual Reality: The Time Is Now\nMany are pairing VoiceAttack with devices such as the HTC Vive, Oculus Rift and Leap Motion. The extra depth and immersive experience of voice control take virtual reality to a new level [especially when you can't see your hands].\n\nPlay Sounds and/or Music\nReceive audible confirmation from your commands or fire up a random selection from your favorite tunes. You can pick random sounds from a defined list or even a directory full of .wav, .mp3, .aac, .ogg or .flac files.\n\nNot Just Voice Activation - Include Your Hardware\nInvoke your created commands with a click of one or more mouse buttons, the press of joystick buttons or a hotkey combo on your keyboard. Use VoiceAttack to augment or even replace some of that expensive macro-enabled hardware you have been wanting to give away.\n\nDynamic Text-to-Speech Responses\nGive your responses some personality by randomizing them or by using VoiceAttack tokens (inline functions) for some extra flair. Dynamic Response Sections allow you to create extensive and immersive expressions with minimal effort. How nerdy is that?\n\nComprehensive Macro Control\nLoops, control statements, variables, tokens and even a plugin interface. You can even write, compile and share your very own functions using C# or VB .net code within VoiceAttack. It's all there to help you design sophisticated commands to help make your life easier, or your opponents' lives more difficult.\n\nIt's All About the Community\nVoiceAttack has a diverse community of supporters that take VoiceAttack into the many facets of Windows computing. From games and applications, to robotics, to corporate data centers to home automation (and more), there's a good chance that you'll find the support you need to make your project as cool as you want it to be.\n\nTry the Demo\nGive VoiceAttack a try with the VoiceAttack Steam demo. It's all in there to help you get a taste of what will truly change the way you use your PC. Do.It.Now!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BinaryFortress.VoiceBot",
     "name": "VoiceBot",
     "publisher": "Binary Fortress Software",
@@ -64663,6 +64922,13 @@
     "name": "Void",
     "publisher": "Void",
     "description": "Void is an open source Cursor alternative. Write code with the best AI tools, use any model, and retain full control over your data.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "voidtools.voidImageViewer",
+    "name": "void Image Viewer",
+    "publisher": "voidtools",
+    "description": "Lightweight image viewer for Windows with animated GIF/WEBP support",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66458,6 +66724,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Wondershare.PDFelement.12",
+    "name": "Wondershare PDFelement",
+    "publisher": "Wondershare",
+    "description": "Wondershare PDFelement is a powerful PDF tool that helps make working with PDF files easier, allows you to produce great-looking PDF documents and forms quickly, affordably, and securely.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Wondershare.PDFelement.6",
     "name": "Wondershare PDFelement 6",
     "publisher": "Wondershare Software Co.,Ltd.",
@@ -67217,7 +67490,7 @@
     "id": "yt-dlp.yt-dlp",
     "name": "yt-dlp",
     "publisher": "yt-dlp",
-    "description": "yt-dlp 是基于目前不活跃的 youtube-dlc 的 youtube-dl 分支。本项目的重点是增加新的功能和补丁，同时与原项目保持同步。",
+    "description": "yt-dlp 是一款功能丰富的命令行音频/视频下载器，支持数千个网站。\n该项目是 youtube-dl 的一个分支，基于现已停止维护的 youtube-dlc。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67280,7 +67553,7 @@
     "id": "eat-pray-ai.yutu",
     "name": "yutu",
     "publisher": "eat-pray-ai",
-    "description": "yutu is a fully functional CLI for YouTube, which can be used to manupulate YouTube videos, playlists, channels, etc.",
+    "description": "yutu is a fully functional MCP server and CLI for YouTube to automate your YouTube workflows.",
     "icon": "/icons/intunify-default.png"
   },
   {
