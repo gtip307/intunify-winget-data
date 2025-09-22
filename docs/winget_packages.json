@@ -35,6 +35,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "7gxycn08.WinGetCreateGui",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ClockAssist.ClockAssist",
     "name": "",
     "publisher": null,
@@ -3374,6 +3381,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "mq1.TinyWiiBackupManager",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "muandane.goji",
     "name": "",
     "publisher": null,
@@ -3549,6 +3563,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MednafenTeam.Mednafen",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "muesli.duf",
     "name": "",
     "publisher": null,
@@ -3634,13 +3655,6 @@
   },
   {
     "id": "Maplespe.DWMBlurGlass",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "MCvanderKooij.PictoSelector",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4159,6 +4173,13 @@
   },
   {
     "id": "Makeblock.xToolCreativeSpace",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Makeblock.xToolStudio",
     "name": "",
     "publisher": null,
     "description": "",
@@ -7301,6 +7322,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DATEV.SmartITConnect",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DATEV.SicherheitspaketCompact",
     "name": "",
     "publisher": null,
@@ -8400,14 +8428,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "rejetto.hfs.prerelease",
+    "id": "rejetto.hfs",
     "name": "",
     "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "rejetto.hfs",
+    "id": "rejetto.hfs.prerelease",
     "name": "",
     "publisher": null,
     "description": "",
@@ -10969,6 +10997,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AmneziaVPN.AmneziaVPN",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AppDynamic.AirServer",
     "name": "",
     "publisher": null,
@@ -11088,6 +11123,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Amazon.Corretto.25.JDK",
+    "name": "",
+    "publisher": null,
+    "description": "Amazon Corretto 是 OpenJDK 的零成本、多平台、生产就绪的发行版。Corretto 提供长期支持，包括性能增强和安全修复。Corretto 在亚马逊内部数千个生产服务上运行，并已通过认证，与 Java SE 标准兼容。使用 Corretto，您可以在 Linux、Windows 和 macOS 等流行的操作系统上开发和运行 Java 应用程序。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Amazon.Corretto.24.JDK",
     "name": "",
     "publisher": null,
@@ -11180,6 +11222,13 @@
   },
   {
     "id": "Abdelrhman-AK.WinPaletter",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AETEurope.SafeSignICMiniDriver",
     "name": "",
     "publisher": null,
     "description": "",
@@ -11823,6 +11872,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AlveSvaren.Resizer2",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Audient.EVO",
     "name": "",
     "publisher": null,
@@ -11901,6 +11957,13 @@
   },
   {
     "id": "Amebis.ALicPos",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "aloneguid.bt",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12460,6 +12523,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Azul.Zulu.25.JRE",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Azul.Zulu.25.JDK",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Azul.Zulu.7.JDK",
     "name": "",
     "publisher": null,
@@ -12601,6 +12678,20 @@
   },
   {
     "id": "Azul.Zulu.14.JDK",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Azul.ZuluFX.25.JRE",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Azul.ZuluFX.25.JDK",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13531,13 +13622,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "neelabo.NeeView",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "NirSoft.WhatIsHang",
     "name": "",
     "publisher": null,
@@ -13833,6 +13917,13 @@
   },
   {
     "id": "JayPrall.ColorCop",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JackTrip.JackTrip",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14596,6 +14687,13 @@
   },
   {
     "id": "kymoto.InnoScriptStudio",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KevinOttalini.SimpleMTUTest",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15960,6 +16058,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WatchGuard.WatchGuardSystemManager",
+    "name": "",
+    "publisher": null,
+    "description": "WatchGuard 系统管理器 (WSM) 是一个开箱即用的平台，通过一个简单易用的控制台，让您能够集中管理网络中所有的 Firebox 安全设备。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WatchGuard.WatchGuardAuthenticationGateway",
     "name": "",
     "publisher": null,
@@ -16429,13 +16534,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "OpenSight.FlashFXP",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "OpenPolicyContainers.Policy",
     "name": "",
     "publisher": null,
@@ -16723,6 +16821,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Oracle.OCI-CLI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Oracle.MySQLShell",
     "name": "",
     "publisher": null,
@@ -16731,6 +16836,13 @@
   },
   {
     "id": "Oracle.JDK.19",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Oracle.JDK.25",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17290,13 +17402,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "gileli121.windowtop",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Gauge.Gauge",
     "name": "",
     "publisher": null,
@@ -17661,6 +17766,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "GIMP.Help.3",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Geeks3D.FurMark.1",
     "name": "",
     "publisher": null,
@@ -18011,6 +18123,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Granola.Granola",
+    "name": "",
+    "publisher": null,
+    "description": "Granola 可将您的原始会议记录变得精彩纷呈。无需尴尬的会议机器人——每次都能为您和您的团队带来美观整洁的会议记录。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GoTo.GoToMachine",
     "name": "",
     "publisher": null,
@@ -18263,14 +18382,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SchoolCraft.WorksheetCrafter.Trial",
+    "id": "SchoolCraft.WorksheetCrafter",
     "name": "",
     "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SchoolCraft.WorksheetCrafter",
+    "id": "SchoolCraft.WorksheetCrafter.Trial",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18509,6 +18628,13 @@
   },
   {
     "id": "stax76.run-hidden",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SunspireStudios.TuxRacer",
     "name": "",
     "publisher": null,
     "description": "",
@@ -19866,6 +19992,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SIA.SIAReader",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SublimeHQ.SublimeText.3.Portable",
     "name": "",
     "publisher": null,
@@ -20220,6 +20353,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SAP.SapMachine.25.JDK",
+    "name": "",
+    "publisher": null,
+    "description": "SapMachine 项目包含 OpenJDK 项目的下游版本，用于为希望使用 OpenJDK 运行其应用程序的 SAP 客户和合作伙伴构建和维护 SAP 支持的 OpenJDK 版本。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -20623,6 +20763,13 @@
   },
   {
     "id": "Sauerbraten.Cube2-Sauerbraten",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SolidClouds.Frontiers",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21729,6 +21876,13 @@
   },
   {
     "id": "BelgianGovernment.eIDViewer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BelgianGovernment.eIDmiddleware",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22897,6 +23051,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "presono.presono",
+    "name": "",
+    "publisher": null,
+    "description": "presono 是一个具有多种优势的 B2B 营销与销售平台，适用于不同使用场景。从企业及产品展示，到展会应用和产品目录，该平台有助于保持内容实时更新、确保品牌形象统一、与客户互动、吸引客户参与并分析其兴趣偏好。它能提升营销效率，增强销售效果，并创造卓越的买家体验，从而助力更快达成更多交易。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PaulWoolcock.SyncOutlookandGooglecalendars.alpha",
     "name": "",
     "publisher": null,
@@ -22996,13 +23157,6 @@
   },
   {
     "id": "ProlificPublishing.MarineAquarium",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "PhilightPtyLtd.Sharperlight",
     "name": "",
     "publisher": null,
     "description": "",
@@ -24591,6 +24745,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "theubusu.OrsaySimulator2013",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Tweaking4All.RenameMyTVSeries",
     "name": "",
     "publisher": null,
@@ -25075,6 +25236,13 @@
   },
   {
     "id": "the-sz.Deansbury",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "the-sz.Bisbee",
     "name": "",
     "publisher": null,
     "description": "",
@@ -26320,6 +26488,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EasyTier.EasyTier",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EMCOSoftware.PingMonitor",
     "name": "",
     "publisher": null,
@@ -26867,6 +27042,13 @@
   },
   {
     "id": "VOCALOMAKETS.YuzukiYukariRei",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "vgmstream.vgmstream",
     "name": "",
     "publisher": null,
     "description": "",
@@ -28756,13 +28938,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "fyr77.EnvyUpdate",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "FineprintSoftware.pdfFactory",
     "name": "",
     "publisher": null,
@@ -28918,6 +29093,13 @@
   },
   {
     "id": "Firejox.WinSocat",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FileOpenSystems.FileOpenClient",
     "name": "",
     "publisher": null,
     "description": "",
@@ -31808,6 +31990,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AWP.AtlantisWordProcessor",
+    "name": "Atlantis Word Processor",
+    "publisher": "The Atlantis Word Processor Team",
+    "description": "Welcome to the home site of Atlantis Word Processor.\n\nAtlantis is a standalone word processor for both professional writers and those who create documents only occasionally. Powerful and feature-rich, supercompact and lightning fast, user-friendly and fully customizable, it will let you work on your own terms.\n\nBeing an offline word processor, Atlantis doesn't require an Internet connection to function. Work securely on your important documents and share them with others only when you need to.\n\nAtlantis is a word processor with charisma. With a unique look and feel, it offers features you won't find anywhere else.\n\nYou can install Atlantis on your computer and evaluate it for up to 30 days for free.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AWP.AtlantisWordProcessorLite",
+    "name": "Atlantis Word Processor Lite",
+    "publisher": "The Atlantis Word Processor Team",
+    "description": "Atlantis Word Processor Lite is a free version of Atlantis Word Processor. \nIt has plenty of great features that will help you create various types of documents: reports, novels, articles, letters, and more.\n\nOr just use it as a handy WordPad replacement.\nAtlantis Word Processor Lite is very fast, compact, and has a very small memory footprint. But above all, it is completely free. You can install it on your computer and use it free of charge!\nThe user interface of Atlantis Word Processor Lite is available in multiple languages.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "wez.atomicparsley",
     "name": "AtomicParsley",
     "publisher": "Wez Furlong",
@@ -32025,6 +32221,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Autodesk.NavisworksFreedom.2026",
+    "name": "Autodesk Create Installer",
+    "publisher": "Autodesk",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Autodesk.DesktopApp",
     "name": "Autodesk Desktop App",
     "publisher": "Autodesk",
@@ -32228,10 +32431,38 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AXIS.AxisDeviceCompatibilityTool",
+    "name": "AXIS Camera Station Device Compatibility Tool",
+    "publisher": "Axis Communications AB",
+    "description": "AXIS Camera Station Device Compatibility Tool helps you to verify if a third-party network video product is compatible with AXIS Camera Station 5 and above.\n\nIt is easier to run a test with this tool instead of installing and running a trial version of AXIS Camera Station to check if it works with your devices. It also provides more information regarding the device.\n\nWhen a new version is available, the tool will be automatically updated when online. If the tool is offline, please always check and download the latest version from here.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AXIS.AXISDeviceManager",
+    "name": "AXIS Device Manager",
+    "publisher": "Axis Communications AB",
+    "description": "AXIS Device Manager is the go-to-tool for fast and easy installation and configuration of new devices. It offers security installers and system administrators a highly effective tool to manage all major installation, security and maintenance tasks either one by one or in batches. It is compatible with the majority of Axis network cameras, access control and audio devices.\n\nAXIS Device Manager is an on-premise tool that delivers an easy, cost-effective and secure way to perform device management. AXIS Device Manager suits sites with large quantities of device installations. It is suitable for managing up to a couple thousand Axis devices on one site.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AxisCommunicationsAB.FilePlayerLauncher",
     "name": "AXIS File Player Launcher",
     "publisher": "Axis Communications AB",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AXIS.AxisStreamingAssistant.x64",
+    "name": "AXIS Streaming Assistant (x64)",
+    "publisher": "Axis Communications AB",
+    "description": "AXIS Streaming Assistant is an application that bridges video streams from IP cameras into a Windows desktop application to enable broadcasting or conferencing use-cases.\nWhen AXIS Streaming Assistant is installed on a computer, it automatically discovers any Axis product on the network. The video and audio* streams from the cameras can then be used in third-party software applications such as Microsoft Teams, Zoom etc. For complete list of successfully tested applications, please read the tech note.\n\nBoth the 32-bit version and the 64-bit version can be installed side-by-side on a system for maximal compatibility with third-party applications.\nAXIS Streaming Assistant is compatible with all Axis network cameras and video encoders. Firmware version 4.47 or higher is needed.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AXIS.AxisStreamingAssistant.x86",
+    "name": "AXIS Streaming Assistant (x86)",
+    "publisher": "Axis Communications AB",
+    "description": "AXIS Streaming Assistant is an application that bridges video streams from IP cameras into a Windows desktop application to enable broadcasting or conferencing use-cases.\nWhen AXIS Streaming Assistant is installed on a computer, it automatically discovers any Axis product on the network. The video and audio* streams from the cameras can then be used in third-party software applications such as Microsoft Teams, Zoom etc. For complete list of successfully tested applications, please read the tech note.\n\nBoth the 32-bit version and the 64-bit version can be installed side-by-side on a system for maximal compatibility with third-party applications.\nAXIS Streaming Assistant is compatible with all Axis network cameras and video encoders. Firmware version 4.47 or higher is needed.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -32561,6 +32792,13 @@
     "name": "BaiduPCS-Go",
     "publisher": "qjfoidnh",
     "description": "A command-line Baidu Netdisk client written in Go, providing useful functionalities for operating Baidu Netdisk.\nThis version is based on iikira's original BaiduPCS-Go v3.6.2, with additional ability of saving shared files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BakaXL.BakaXL",
+    "name": "BakaXL",
+    "publisher": "BakaXL Development Team",
+    "description": "行行拿捏。\n\nBakaXL 天生就与众不同。打破传统启动器的层级概念，使用起来更加称心如意。 强大的自定义主题功能无需任何额外付费即可使用，还有视差效果和实况壁纸加持，实在是泰裤辣！\n\n不光支持 Forge、Fabric 等你所热爱的模组加载器，BakaXL 还是国内首个支持 Quilt 和 NeoForge 模组加载器的启动器。还有\nBakaXL Network 加持，可随时与好友一起同乐。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33008,13 +33246,6 @@
     "id": "Synology.BeeStation",
     "name": "BeeStation",
     "publisher": "Synology Inc.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "BelgianGovernment.eIDmiddleware",
-    "name": "Belgium e-ID middleware",
-    "publisher": "Belgian Government",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -33467,6 +33698,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SteffenPohle.BomberClone",
+    "name": "BomberClone",
+    "publisher": "Steffen Pohle",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TheBombermaaanteam.Bombermaaan",
     "name": "Bombermaaan",
     "publisher": "The Bombermaaan team",
@@ -33513,6 +33751,13 @@
     "name": "Bonsai",
     "publisher": "Bonsai Foundation",
     "description": "Bonsai is a visual language for reactive programming. It is free and open-source, lightweight and easy to use, built on top of the .NET ecosystem with hundreds of dedicated packages and modules for interfacing with hardware, and for real-time processing, logging, and visualization of data streams.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FNPrg.BookCAT",
+    "name": "BookCAT",
+    "publisher": "FNProgramvare",
+    "description": "BookCAT is a powerful book collector database program which will help you catalog a book collection of any size. BookCAT is used by book-lovers, schools, churches, clubs, and business libraries. Using BookCAT you can quickly catalog your books by downloading information from the Internet. BookCAT will help you track what you have in your library, where it is (including books out on loan) and the total value of your collection.\n\nA comprehensive set a data fields enables you to keep track of a wide range of information. Other features include customized entry fields, a loan module, flexible searching, a report designer, more than 80 pre-defined report formats, a sample data base to get you started, pop-up menus for quick feature access and navigation, and comprehensive context-sensitive on-line documentation available at the touch of a button.\n\n- Enjoy a fully organized book collection.\n- Find books easily.\n- Always know exactly where your books are located.\n- No more will you end up buying duplicates.\n- Keep track of who borrowed what – never lose a book again.\n- Keep accurate insurance records.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33611,6 +33856,13 @@
     "name": "BPBible",
     "publisher": "BPBible Development Team",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Tatsh.BPMDetect",
+    "name": "BPMDetect",
+    "publisher": "Tatsh",
+    "description": "Decode with ffmpeg, use SoundTouch's BPM library for detecting BPMs and write detected BPMs to metadata of the decoded files. Adjust the BPM as needed with a built-in player. Supports detection with any audio format that ffmpeg can read.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34146,6 +34398,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Nevercenter.CameraBagPhoto",
+    "name": "CameraBag Photo",
+    "publisher": "Nevercenter",
+    "description": "CameraBag lets you instantly apply one of hundreds of beautiful presets to your photos, and then dive deeper with ultra-intuitive professional adjustments.\n\n- What really sets CameraBag apart are powerful advanced tools that are also intuitive and easy to learn. High-bit-depth RAW support, unique curve tools, adjustment re-ordering/layering, and precise controls let you do things you simply can’t do in other editing software.\n- From one-click Auto Exposure, to standard Exposure, Contrast, and Brightness, and on to professional Advanced Contrast, Shadows/Midtones/Highlights, Tone Curve, and Gamma Curve adjustments (each with extra options if you want!), CameraBag gives you incredible flexibility and control.\n- CameraBag's tools are designed for simplicity, but give you advanced control when you want it. You can also apply Text Overlay and Watermark effortlessly and elegantly to whole batches of images, even when they are different sizes or proportions.\n\nSupported file formats:\n- Image loading: Standard image files - jpeg, png, tiff; RAW files - crw, cr2, nef, nrw, dng, arw, sr2, raf, mrw, pef, rw2, orf, rwl (some may require additional OSX software from Apple or camera manufacturer)\n- Image saving: jpeg, png, tiff\n\nYou can try CameraBag free for 7 days. At any point, you can purchase a license to unlock the time restriction and register the program on your system.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Nevercenter.CameraBagPro",
+    "name": "CameraBag Pro",
+    "publisher": "Nevercenter",
+    "description": "CameraBag lets you instantly apply one of hundreds of beautiful presets to your photos&videos, and then dive deeper with ultra-intuitive professional adjustments.\n\n- What really sets CameraBag apart are powerful advanced tools that are also intuitive and easy to learn. High-bit-depth RAW support, unique curve tools, adjustment re-ordering/layering, and precise controls let you do things you simply can’t do in other editing software.\n- From one-click Auto Exposure, to standard Exposure, Contrast, and Brightness, and on to professional Advanced Contrast, Shadows/Midtones/Highlights, Tone Curve, and Gamma Curve adjustments (each with extra options if you want!), CameraBag gives you incredible flexibility and control.\n- CameraBag tools are designed for simplicity, but give you advanced control when you want it. You can also apply Text Overlay and Watermark effortlessly and elegantly to whole batches of images, even when they are different sizes or proportions.\n\nSupported file formats:\n- Image loading: Standard image files - jpeg, png, tiff; RAW files - crw, cr2, nef, nrw, dng, arw, sr2, raf, mrw, pef, rw2, orf, rwl (some may require additional OSX software from Apple or camera manufacturer)\n- Image saving: jpeg, png, tiff\n- Video Loading: Any Quicktime-compatible mov, m4v, avi, mp4, or mpeg files\n- Video Saving: h.264-encoded mov, mp4, or m4v; ProRes 422 mov, ProRes 4444 mov\n\nYou can try CameraBag free for 7 days. At any point, you can purchase a license to unlock the time restriction and register the program on your system.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EEO.CamIn",
     "name": "CamIn",
     "publisher": "Beijing EEO Education Technology Co., Ltd.",
@@ -34227,6 +34493,13 @@
     "name": "Caption OCR Tool",
     "publisher": "sum1re",
     "description": "A tool for extracting hard subtitles from videos, using OpenCV for video/image processing, and Tesseract-OCR for recognition.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "cb4960.Capture2Text",
+    "name": "Capture2Text",
+    "publisher": "Christopher Brochtrup",
+    "description": "Capture2Text enables users to quickly OCR a portion of the screen using a keyboard shortcut. The resulting text will be saved to the clipboard by default. Supports 90+ languages including Chinese, English, French, German, Japanese, Korean, Russian, and Spanish. Portable and does not require installation.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34314,10 +34587,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FNPrg.CATraxx",
+    "name": "CATraxx",
+    "publisher": "FNProgramvare",
+    "description": "CATraxx is a powerful music collector database program for Windows which will help you catalog a music collection of any kind, from vinyl records to CDs to MP3s. Automatically download CD data from the Internet, or scan your hard drive for audio files. A comprehensive set a data fields enables you to keep track of a wide range of information. With CATraxx, you are in total control of your music collection.\n\n- Enjoy a fully organized music collection.\n- Play your music – easily find songs to play.\n- Automatically manage your audio files.\n- Always know exactly where your music is located.\n- No more will you end up buying duplicates.\n- Keep track of who borrowed what – never lose a CD again.\n- Keep accurate insurance records.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Catsxp.Catsxp",
     "name": "Catsxp",
     "publisher": "Catsxp Software Inc",
     "description": "Catsxp browser is a chrome kernel enhanced browser aiming at simplicity and security.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FNPrg.CATVids",
+    "name": "CATVids",
+    "publisher": "FNProgramvare",
+    "description": "CATVids is a powerful Blu-Ray/DVD collector software package designed to help you catalog and manage your video collection. CATVids works with all types of media, including Blu-ray discs, DVDs, VHS tapes and Laserdiscs. It will keep track of not only your pre-recorded material, but also home videos and anything else you have taped. Using CATVids you can quickly catalog your movies by downloading information from the internet.\n\nCATVids has a comprehensive set of data fields, enabling you to catalog a wide range of information. Other features include custom data fields, a loan module (to keep track of videos on loan), flexible searching, a report designer, more than 100 pre-defined report formats, pop-up menus for quick feature access and navigation, and comprehensive context-sensitive on-line documentation available at the touch of a button.\n\n- Enjoy a fully organized video collection.\n- Find movies easily.\n- Always know exactly where your videos are located.\n- No more will you end up buying duplicates.\n- Keep track of who borrowed what – never lose a disc again.\n- Keep accurate insurance records.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34829,6 +35116,27 @@
     "name": "Cinebench R23",
     "publisher": "Maxon",
     "description": "Cinebench is a tool to compare CPU and graphics performance across various systems and platforms",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Maxon.Cinema4D.2024",
+    "name": "Cinema 4D 2024",
+    "publisher": "Maxon",
+    "description": "Cinema 4D is a professional 3D animation, modeling, simulation and rendering software solution.\nFast, powerful, flexible, and stable, this powerful toolset makes 3D workflows more accessible and efficient for design, motion graphics, VFX, AR/MR/VR, game development, and all types of visualization.\n\nCinema 4D delivers 3D assets and hyper-realistic images that bring campaigns to life with accurate materials and fast scene setup and is the go-to tool for artists across a wide spectrum of industries.\n\n- MoGraph artists enjoy fast, unified simulations that are easy to create and art-direct. All the procedural power of C4D integrates seamlessly with rigid-body, soft-body, cloth, pyro, particles and now liquids.\n- Create game content with the help of C4D's rich modeling and texturing toolset, now including UDIM support. With the powerful Cineware technology, you can import C4D content including rigged character animations directly into Unreal Engine game projects.\n- This update is designed for ArchViz workflows—keeping materials, lights, and textures consistent and accurate to save time and eliminate manual fixes. Add realism with physical sky and volumetric clouds, and speed up your process with AI-powered search.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Maxon.Cinema4D.2025",
+    "name": "Cinema 4D 2025",
+    "publisher": "Maxon",
+    "description": "Cinema 4D is a professional 3D animation, modeling, simulation and rendering software solution.\nFast, powerful, flexible, and stable, this powerful toolset makes 3D workflows more accessible and efficient for design, motion graphics, VFX, AR/MR/VR, game development, and all types of visualization.\n\nCinema 4D delivers 3D assets and hyper-realistic images that bring campaigns to life with accurate materials and fast scene setup and is the go-to tool for artists across a wide spectrum of industries.\n\n- MoGraph artists enjoy fast, unified simulations that are easy to create and art-direct. All the procedural power of C4D integrates seamlessly with rigid-body, soft-body, cloth, pyro, particles and now liquids.\n- Create game content with the help of C4D's rich modeling and texturing toolset, now including UDIM support. With the powerful Cineware technology, you can import C4D content including rigged character animations directly into Unreal Engine game projects.\n- This update is designed for ArchViz workflows—keeping materials, lights, and textures consistent and accurate to save time and eliminate manual fixes. Add realism with physical sky and volumetric clouds, and speed up your process with AI-powered search.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Maxon.Cinema4D.2026",
+    "name": "Cinema 4D 2026",
+    "publisher": "Maxon",
+    "description": "Cinema 4D is a professional 3D animation, modeling, simulation and rendering software solution.\nFast, powerful, flexible, and stable, this powerful toolset makes 3D workflows more accessible and efficient for design, motion graphics, VFX, AR/MR/VR, game development, and all types of visualization.\n\nCinema 4D delivers 3D assets and hyper-realistic images that bring campaigns to life with accurate materials and fast scene setup and is the go-to tool for artists across a wide spectrum of industries.\n\n- MoGraph artists enjoy fast, unified simulations that are easy to create and art-direct. All the procedural power of C4D integrates seamlessly with rigid-body, soft-body, cloth, pyro, particles and now liquids.\n- Create game content with the help of C4D's rich modeling and texturing toolset, now including UDIM support. With the powerful Cineware technology, you can import C4D content including rigged character animations directly into Unreal Engine game projects.\n- This update is designed for ArchViz workflows—keeping materials, lights, and textures consistent and accurate to save time and eliminate manual fixes. Add realism with physical sky and volumetric clouds, and speed up your process with AI-powered search.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35497,6 +35805,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ComfortSoftwareGroup.ComfortOSK",
+    "name": "Comfort On-Screen Keyboard Pro",
+    "publisher": "Comfort Software Group",
+    "description": "Comfort On-Screen Keyboard Pro is an advanced, customizable virtual keyboard software for Windows.\nIt displays a graphical keyboard on the screen, allowing users to type by clicking buttons with a mouse, touchscreen, or other pointing devices. It is designed for enhanced accessibility, security, and convenience.\n\nKey Features:\n- Accessibility: Aids users with mobility impairments who cannot use a physical keyboard effectively.\n- Security: Helps prevent keystroke logging (keylogging) by allowing input via mouse clicks, enhancing security in sensitive environments like banking.\n- High Customization: Create and customize multiple keyboard layouts, sizes, colors, and fonts to suit specific needs or preferences.\n- Predictive Text & Auto-Completion: Speeds up typing by suggesting words and phrases.\n- Multi-Language Support: Supports a wide range of languages and keyboard layouts.\n- Macros & Automation: Allows creation of macros for frequently used phrases or complex commands.\n\nThe trial version is fully functional but will only work for 30 days.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "maforget.ComicRackCE.Nightly",
     "name": "ComicRack Community Edition",
     "publisher": "maforget",
@@ -35549,7 +35864,7 @@
     "id": "UweSieber.ComPortInfo",
     "name": "ComPortInfo",
     "publisher": "Uwe Sieber",
-    "description": "COM Port Info belongs natively to ComPortMan, but is handy standalone too.\n\nFeatures:\n\n- Two views with COM ports and connection types (BusTypes)\n- \"Safely remove hardware\"\n- Restart devices to revive it after \"safe removal\" (if started with\n  administrator previleges)\n- COM port numbers change and swap (if started with administrator previleges)\n- USB-Port reset (XP, Win8, 10, 11)\n- Display of the \"Port Parameters\" (GetCommState), that's how the last\n  application using this port left it behind and on failure it indicates that\n  the port is in use\n- Display of the \"Default Port Parameters\" (GetDefaultCommConfig), these are the\n  parameters from the device manager\n- Display of the \"Port Properties\" (GetCommProperties), these are the\n  capabilities of the COM port hardware, e.g. supported signals and data rates",
+    "description": "COM Port Info belongs natively to ComPortMan, but is handy standalone too.\n\nFeatures:\n- Two views with COM ports and connection types (BusTypes)\n- \"Safely remove hardware\"\n- Restart devices to revive it after \"safe removal\" (if started with administrator previleges)\n- COM port numbers change and swap (if started with administrator previleges)\n- USB-Port reset (XP, Win8, 10, 11)\n- Display of the \"Port Parameters\" (GetCommState), that's how the last application using this port left it behind and on failure it indicates that the port is in use\n- Display of the \"Default Port Parameters\" (GetDefaultCommConfig), these are the parameters from the device manager\n- Display of the \"Port Properties\" (GetCommProperties), these are the capabilities of the COM port hardware, e.g. supported signals and data rates",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36505,6 +36820,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Earthshine.DashcamViewer",
+    "name": "Dashcam Viewer",
+    "publisher": "Earthshine Software",
+    "description": "Dashcam Viewer is powerful, state-of-the-art software with unique and functional features that will unleash your dashcam’s full potential.\nLet us keep track of things so you can have peace of mind.\n\nDashcam Viewer is available on Mac and Windows and is compatible with over 140 different dashcam models. It is the player of choice by many dashcam manufacturers and vendors. Even if your dashcam is not listed below, it may still be compatible. Download the Free version and give it a try.\n\n- Easily export portions of clips into short videos or images for easy viewing. You can also combine multiple videos into one.\n- All videos are added to the movie list for easy access. Consecutive videos are combined into Trip Lists.\n- Dashcam Viewer identifies sudden changes in volume in your videos so that events like collisions and horns are easy to find.\n\nThe free version is fully functional but is limited to loading 2 videos at a time. Purchasing a license removes the limitations and the splash screen.\n- Support for 2 Videos\n- Support for 2 Geotags\n- Audio Event Detection for 1 Video",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Dashlane.Dashlane",
     "name": "Dashlane",
     "publisher": "Dashlane, Inc.",
@@ -36544,6 +36866,13 @@
     "name": "DataGrip（抢先体验计划）",
     "publisher": "JetBrains s.r.o.",
     "description": "JetBrains 为 macOS、Windows 和 Linux 的 SQL 开发的强大 IDE。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "StardustAI.DatasetViewer",
+    "name": "DatasetViewer",
+    "publisher": "Stardust AI",
+    "description": "A modern, high-performance dataset viewer built with Tauri, React, and TypeScript. Designed to handle massive datasets from multiple sources with efficient streaming for large files (100GB+) and lightning-fast search capabilities.\n\n🚀 Key Features\n- ⚡ Instant Large File Opening: Handle 100GB+ files with virtualized rendering\n- 🔍 Real-time Search: Millisecond search with highlighting across massive files\n- 📦 Direct Archive Preview: Browse ZIP/TAR files without extraction\n- 🌐 Multi-Protocol Support: WebDAV, SSH/SFTP, SMB/CIFS, S3, Local Files, HuggingFace Hub\n- 🗂️ Multi-Format Support: Parquet, Excel, CSV, JSON, code files with syntax highlighting\n- 🎨 Modern Interface: Dark/light themes, responsive design, multi-language support\n\n📚 Supported File Types\n- 📄 Text & Code: JSON, YAML, XML, JavaScript, Python, Java, C/C++, Rust, Go, PHP, etc.\n- 📝 Documents: Markdown (preview), Word (.docx/.rtf), PowerPoint (.pptx), PDF (searchable)\n- 📊 Data Files: Parquet (optimized), Excel, CSV, ODS with virtual scrolling\n- 📦 Archives: ZIP, TAR (streaming preview without extraction)\n- 📱 Media: Images, Videos, Audio files",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37089,7 +37418,7 @@
     "id": "Microsoft.DirectX",
     "name": "DirectX End-User Runtime Web Installer",
     "publisher": "Microsoft Corporation",
-    "description": "The Microsoft DirectX® End-User Runtime installs a number of runtime libraries from the legacy DirectX SDK for some games that use D3DX9, D3DX10, D3DX11, XAudio 2.7, XInput 1.3, XACT, and/or Managed DirectX 1.1. Note that this package does not modify the DirectX Runtime installed on your Windows OS in any way.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37226,6 +37555,41 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Flexense.DiskBoss",
+    "name": "DiskBoss",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskBoss is an automated, rule-based data analysis and file management solution allowing one to perform disk space analysis operations, file classification, duplicate files search and cleanup, high-speed file synchronization and secure data migration, bulk file delete and secure data wiping operations, disk change monitoring, automated, policy-based file management and more.\n\nAll disk space analysis and file management operations are integrated into a centralized and easy-to-use GUI application allowing one pre-configure analysis and file management operations as user-defined commands and execute any required command in a single mouse click using the DiskBoss GUI application or direct desktop shortcuts.\n- Disk Space Analysis\n- File Classification and Organizing\n- Duplicate Files Search and Cleanup\n- Bulk File Delete and Secure Data Wiping\n- Automated, Policy-Based File Management\n- High-Speed File Synchronization\n- Secure File Synchronization\n- Secure File Copy Operations\n- Fault-Tolerant Data Migration\n- Real-Time Disk Change Monitoring\n- File Integrity Monitoring\n\nDiskBoss allows one to generate various types of pie charts and save HTML, PDF, Excel CSV, text and XML reports for all types of disk space analysis operations. The user is provided with the ability to categorize and filter analysis and file classification results and perform file management operations on categories of files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskBossEnterprise",
+    "name": "DiskBoss Enterprise",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskBoss is an automated, rule-based data analysis and file management solution allowing one to perform disk space analysis operations, file classification, duplicate files search and cleanup, high-speed file synchronization and secure data migration, bulk file delete and secure data wiping operations, disk change monitoring, automated, policy-based file management and more.\n\nAll disk space analysis and file management operations are integrated into a centralized and easy-to-use GUI application allowing one pre-configure analysis and file management operations as user-defined commands and execute any required command in a single mouse click using the DiskBoss GUI application or direct desktop shortcuts.\n- Disk Space Analysis\n- File Classification and Organizing\n- Duplicate Files Search and Cleanup\n- Bulk File Delete and Secure Data Wiping\n- Automated, Policy-Based File Management\n- High-Speed File Synchronization\n- Secure File Synchronization\n- Secure File Copy Operations\n- Fault-Tolerant Data Migration\n- Real-Time Disk Change Monitoring\n- File Integrity Monitoring\n\nDiskBoss allows one to generate various types of pie charts and save HTML, PDF, Excel CSV, text and XML reports for all types of disk space analysis operations. The user is provided with the ability to categorize and filter analysis and file classification results and perform file management operations on categories of files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskBossPro",
+    "name": "DiskBoss Pro",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskBoss is an automated, rule-based data analysis and file management solution allowing one to perform disk space analysis operations, file classification, duplicate files search and cleanup, high-speed file synchronization and secure data migration, bulk file delete and secure data wiping operations, disk change monitoring, automated, policy-based file management and more.\n\nAll disk space analysis and file management operations are integrated into a centralized and easy-to-use GUI application allowing one pre-configure analysis and file management operations as user-defined commands and execute any required command in a single mouse click using the DiskBoss GUI application or direct desktop shortcuts.\n- Disk Space Analysis\n- File Classification and Organizing\n- Duplicate Files Search and Cleanup\n- Bulk File Delete and Secure Data Wiping\n- Automated, Policy-Based File Management\n- High-Speed File Synchronization\n- Secure File Synchronization\n- Secure File Copy Operations\n- Fault-Tolerant Data Migration\n- Real-Time Disk Change Monitoring\n- File Integrity Monitoring\n\nDiskBoss allows one to generate various types of pie charts and save HTML, PDF, Excel CSV, text and XML reports for all types of disk space analysis operations. The user is provided with the ability to categorize and filter analysis and file classification results and perform file management operations on categories of files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskBossServer",
+    "name": "DiskBoss Server",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskBoss Server is a server-based product version, which runs in the background as a service and is capable of executing all types of disk space analysis and file management operations in a fully automatic and unattended mode.\n\nDiskBoss Server may be managed and configured locally or through the network using a freeware network client GUI application, the DiskBoss command line utility or the DiskBoss Server API, which may be used to integrate DiskBoss' disk analysis and file management capabilities into other products and solutions.\n\nThe DiskBoss Client GUI application is very similar to the main DiskBoss GUI application providing standard dialogs for all types of files management operations supported by DiskBoss. The client GUI application allows one to connect to a DiskBoss server locally or through the network, add, edit or delete disk space analysis or file management commands, control running operations and manage the server configuration options. In addition, the client GUI application provides the ability to export disk space analysis commands defined and tested in the regular DiskBoss GUI application to the XML format and import these commands to DiskBoss Server for automatic execution in the background.\n\nDiskBoss Server provides a large number of disk analysis and file management operations including disk space utilization analysis, file classification, duplicate files detection and removal, file search, file organizing, file synchronization, file copy, file delete, disk change monitoring and file integrity monitoring.\n\nThe user is provided with the ability to pre-configure a number of disk space analysis and/or file management operations as user-defined commands and then execute these commands manually, schedule periodic execution of one of more commands or trigger disk space analysis or file management operations automatically based on user-specified conditions and/or detected file system activities.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskBossUltimate",
+    "name": "DiskBoss Ultimate",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskBoss is an automated, rule-based data analysis and file management solution allowing one to perform disk space analysis operations, file classification, duplicate files search and cleanup, high-speed file synchronization and secure data migration, bulk file delete and secure data wiping operations, disk change monitoring, automated, policy-based file management and more.\n\nAll disk space analysis and file management operations are integrated into a centralized and easy-to-use GUI application allowing one pre-configure analysis and file management operations as user-defined commands and execute any required command in a single mouse click using the DiskBoss GUI application or direct desktop shortcuts.\n- Disk Space Analysis\n- File Classification and Organizing\n- Duplicate Files Search and Cleanup\n- Bulk File Delete and Secure Data Wiping\n- Automated, Policy-Based File Management\n- High-Speed File Synchronization\n- Secure File Synchronization\n- Secure File Copy Operations\n- Fault-Tolerant Data Migration\n- Real-Time Disk Change Monitoring\n- File Integrity Monitoring\n\nDiskBoss allows one to generate various types of pie charts and save HTML, PDF, Excel CSV, text and XML reports for all types of disk space analysis operations. The user is provided with the ability to categorize and filter analysis and file classification results and perform file management operations on categories of files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PassmarkSoftware.DiskCheckup",
     "name": "DiskCheckup",
     "publisher": "PassMark Software",
@@ -37237,6 +37601,104 @@
     "name": "DiskGenius",
     "publisher": "Eassos Co., Ltd.",
     "description": "DiskGenius provides an all-in-one solution for data recovery, disk partition management and backup & restore for Windows PCs, Servers and workstations.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskPulse",
+    "name": "DiskPulse",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskPulse is a powerful real-time disk change monitoring solution allowing one to monitor changes in one or more disks and directories, send E-Mail notifications, save various types of reports, generate statistical pie charts, export detected changes to an SQL database, send error messages to the system event log and execute custom commands when a user-specified number of changes detected.\n\nDiskPulse intercepts file system change notifications issued by the operating system and detects newly created files, modified files, deleted files and renamed files. All file system changes are detected in real-time allowing one to send an E-Mail notification, execute a custom command and/or save a disk change monitoring report within a couple of seconds after one or more critical changes detected.\n\nThe user is provided with the ability to review, categorize and filter detected file system changes, generate various types of statistical pie charts showing the number of changes per file extension, the number of changes per change type, the number of changes per user, etc.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskPulseEnterprise",
+    "name": "DiskPulse Enterprise",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskPulse is a powerful real-time disk change monitoring solution allowing one to monitor changes in one or more disks and directories, send E-Mail notifications, save various types of reports, generate statistical pie charts, export detected changes to an SQL database, send error messages to the system event log and execute custom commands when a user-specified number of changes detected.\n\nDiskPulse intercepts file system change notifications issued by the operating system and detects newly created files, modified files, deleted files and renamed files. All file system changes are detected in real-time allowing one to send an E-Mail notification, execute a custom command and/or save a disk change monitoring report within a couple of seconds after one or more critical changes detected.\n\nThe user is provided with the ability to review, categorize and filter detected file system changes, generate various types of statistical pie charts showing the number of changes per file extension, the number of changes per change type, the number of changes per user, etc.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskPulsePro",
+    "name": "DiskPulse Pro",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskPulse is a powerful real-time disk change monitoring solution allowing one to monitor changes in one or more disks and directories, send E-Mail notifications, save various types of reports, generate statistical pie charts, export detected changes to an SQL database, send error messages to the system event log and execute custom commands when a user-specified number of changes detected.\n\nDiskPulse intercepts file system change notifications issued by the operating system and detects newly created files, modified files, deleted files and renamed files. All file system changes are detected in real-time allowing one to send an E-Mail notification, execute a custom command and/or save a disk change monitoring report within a couple of seconds after one or more critical changes detected.\n\nThe user is provided with the ability to review, categorize and filter detected file system changes, generate various types of statistical pie charts showing the number of changes per file extension, the number of changes per change type, the number of changes per user, etc.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskPulseServer",
+    "name": "DiskPulse Server",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskPulse Server is a server-based product version, which runs in the background as a service and allows one to perform multiple, parallel disk change monitoring operations, send E-Mail notifications, save various types of reports, export detected changes to a centralized SQL database, send error messages to the system event log and/or execute custom user commands when a user-specified number of changes detected.\n\nDiskPulse Server may be controlled using a full-scale client GUI application or a command line utility locally or through the network. The DiskPulse client GUI application is very similar to the desktop product version, but provides the ability to configure multiple, parallel disk change monitoring operations and adds advanced statistics and history trend analysis capabilities.\n\nDiskPulse Server is especially designed to run on production servers using a very small amount of system memory and CPU resources in order to minimize the potential impact on running applications. For mission-critical servers, DiskPulse provides the ability to completely offload disk change monitoring reports management and analysis to a centralized DiskPulse database server, which can receive reports from multiple production servers, analyze detected changes using user-specified rules and policies, send notifications and/or save reports when critical changes are detected.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskSavvy",
+    "name": "DiskSavvy",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskSavvy is a powerful disk space usage analyzer allowing one to analyze disks, network shares, NAS storage devices and enterprise storage systems.\nThe user is provided with the ability to analyze one or more disks, directories or network shares, detect directories and files using significant amounts of the disk space, generate various types of pie charts, save disk space usage reports and perform disk space usage history trend analysis operations.\n\nThe user is provided with the ability to analyze one or more disks, directories or network shares, detect directories and files using significant amounts of the disk space, generate various types of pie charts, save disk space usage reports and perform disk space usage history trend analysis operations.\n\nDiskSavvy allows one to save disk space analysis results to a number of standard formats including HTML, PDF, Excel, JSON, XML, CSV, text and the native DiskSavvy report format. In addition, IT and storage administrators are provided with the ability to export disk space analysis results from multiple servers and/or NAS storage devices to a centralized SQL database and then perform advanced disk space usage history trend analysis operations and display disk space usage per server and disk space usage per user.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskSavvyEnterprise",
+    "name": "DiskSavvy Enterprise",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskSavvy is a powerful disk space usage analyzer allowing one to analyze disks, network shares, NAS storage devices and enterprise storage systems.\nThe user is provided with the ability to analyze one or more disks, directories or network shares, detect directories and files using significant amounts of the disk space, generate various types of pie charts, save disk space usage reports and perform disk space usage history trend analysis operations.\n\nThe user is provided with the ability to analyze one or more disks, directories or network shares, detect directories and files using significant amounts of the disk space, generate various types of pie charts, save disk space usage reports and perform disk space usage history trend analysis operations.\n\nDiskSavvy allows one to save disk space analysis results to a number of standard formats including HTML, PDF, Excel, JSON, XML, CSV, text and the native DiskSavvy report format. In addition, IT and storage administrators are provided with the ability to export disk space analysis results from multiple servers and/or NAS storage devices to a centralized SQL database and then perform advanced disk space usage history trend analysis operations and display disk space usage per server and disk space usage per user.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskSavvyPro",
+    "name": "DiskSavvy Pro",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskSavvy is a powerful disk space usage analyzer allowing one to analyze disks, network shares, NAS storage devices and enterprise storage systems.\nThe user is provided with the ability to analyze one or more disks, directories or network shares, detect directories and files using significant amounts of the disk space, generate various types of pie charts, save disk space usage reports and perform disk space usage history trend analysis operations.\n\nThe user is provided with the ability to analyze one or more disks, directories or network shares, detect directories and files using significant amounts of the disk space, generate various types of pie charts, save disk space usage reports and perform disk space usage history trend analysis operations.\n\nDiskSavvy allows one to save disk space analysis results to a number of standard formats including HTML, PDF, Excel, JSON, XML, CSV, text and the native DiskSavvy report format. In addition, IT and storage administrators are provided with the ability to export disk space analysis results from multiple servers and/or NAS storage devices to a centralized SQL database and then perform advanced disk space usage history trend analysis operations and display disk space usage per server and disk space usage per user.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskSavvyServer",
+    "name": "DiskSavvy Server",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskSavvy Server is a server-based product version, which runs in the background as a service and is capable of performing multiple disk space analysis operations, save disk space analysis reports, generate various types of disk space usage pie charts, schedule periodic disk space analysis operations, submit reports to a centralized SQL database, perform disk space usage history trend analysis operations.\n\nDiskSavvy Server provides a full-scale client GUI application and a command line utility, which can be used to control one or more DiskSavvy Servers locally or through the network. The DiskSavvy client GUI application provides all features available in the deskto product version and additional capabilities allowing one to perform multiple, parallel disk space analysis operations, schedule periodic disk space analysis operations and perform disk space usage history trend analysis operations.\n\nIn addition, DiskSavvy Enterprise provides a complete web-based management interface allowing one to configure, control and manage the product using a regular web browser. The web-based management interface allows one to setup one or more disk space analysis operations, schedule periodic disk space analysis jobs, review disk space analysis results and save reports into a number of standard formats such as HTML, PDF, XML, Excel CSV and text.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskSavvyUltimate",
+    "name": "DiskSavvy Ultimate",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskSavvy is a powerful disk space usage analyzer allowing one to analyze disks, network shares, NAS storage devices and enterprise storage systems.\nThe user is provided with the ability to analyze one or more disks, directories or network shares, detect directories and files using significant amounts of the disk space, generate various types of pie charts, save disk space usage reports and perform disk space usage history trend analysis operations.\n\nThe user is provided with the ability to analyze one or more disks, directories or network shares, detect directories and files using significant amounts of the disk space, generate various types of pie charts, save disk space usage reports and perform disk space usage history trend analysis operations.\n\nDiskSavvy allows one to save disk space analysis results to a number of standard formats including HTML, PDF, Excel, JSON, XML, CSV, text and the native DiskSavvy report format. In addition, IT and storage administrators are provided with the ability to export disk space analysis results from multiple servers and/or NAS storage devices to a centralized SQL database and then perform advanced disk space usage history trend analysis operations and display disk space usage per server and disk space usage per user.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskSorter",
+    "name": "DiskSorter",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskSorter is a file classification solution allowing one to classify files in local disks, network shares, NAS devices and enterprise storage systems.\nUsers are provided with the ability to gain an in-depth visibility into which types of files are using most of the disk space, save reports and perform file management operations on categories of files.\n\nDiskSorter provides a number of built-in file classification plugins capable of recognizing more than 3,000 types of files and allowing one to classify files by the file type, extension, user name, creation, last modification and last access dates, etc.\nUsers are provided with the ability to generate various types of pie charts, categorize and filter file classification results and save file classification reports into a number of standard formats including HTML, PDF, Excel, text, CSV, JSON, XML and the DiskSorter native report format.\n\nIT and storage administrators are provided with the ability to submit file classification reports from multiple servers and NAS storage devices to a centralized SQL database and analyze disk space usage history trends for one or more file categories per server and/or per user across the entire enterprise.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskSorterEnterprise",
+    "name": "DiskSorter Enterprise",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskSorter is a file classification solution allowing one to classify files in local disks, network shares, NAS devices and enterprise storage systems.\nUsers are provided with the ability to gain an in-depth visibility into which types of files are using most of the disk space, save reports and perform file management operations on categories of files.\n\nDiskSorter provides a number of built-in file classification plugins capable of recognizing more than 3,000 types of files and allowing one to classify files by the file type, extension, user name, creation, last modification and last access dates, etc.\nUsers are provided with the ability to generate various types of pie charts, categorize and filter file classification results and save file classification reports into a number of standard formats including HTML, PDF, Excel, text, CSV, JSON, XML and the DiskSorter native report format.\n\nIT and storage administrators are provided with the ability to submit file classification reports from multiple servers and NAS storage devices to a centralized SQL database and analyze disk space usage history trends for one or more file categories per server and/or per user across the entire enterprise.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskSorterPro",
+    "name": "DiskSorter Pro",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskSorter is a file classification solution allowing one to classify files in local disks, network shares, NAS devices and enterprise storage systems.\nUsers are provided with the ability to gain an in-depth visibility into which types of files are using most of the disk space, save reports and perform file management operations on categories of files.\n\nDiskSorter provides a number of built-in file classification plugins capable of recognizing more than 3,000 types of files and allowing one to classify files by the file type, extension, user name, creation, last modification and last access dates, etc.\nUsers are provided with the ability to generate various types of pie charts, categorize and filter file classification results and save file classification reports into a number of standard formats including HTML, PDF, Excel, text, CSV, JSON, XML and the DiskSorter native report format.\n\nIT and storage administrators are provided with the ability to submit file classification reports from multiple servers and NAS storage devices to a centralized SQL database and analyze disk space usage history trends for one or more file categories per server and/or per user across the entire enterprise.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskSorterServer",
+    "name": "DiskSorter Server",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskSorter Server is a server-based product version, which runs in the background as a service and is capable of performing multiple, parallel file classification operations, save file classification reports, submit reports to a centralized SQL database, perform advanced history trend analysis operations, etc.\nDiskSorter Server includes a full-scale client GUI application providing all features available in the desktop product version and additional capabilities allowing one to classify files on multiple servers and NAS storage devices simultaneously, schedule periodic file classification operations and perform advanced history trend analysis operations locally or via the network.\n\nIn addition to the client GUI application, DiskSorter Enterprise provides a complete web-based management interface allowing one to configure, control and manage the product using a regular web browser locally or via the network. Finally, DiskSorter Server includes a command line utility, which may be used to control one or more DiskSorter Servers locally or via the network, perform file classification operations and save file classification reports from batch files and shell scripts.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DiskSorterUltimate",
+    "name": "DiskSorter Ultimate",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DiskSorter is a file classification solution allowing one to classify files in local disks, network shares, NAS devices and enterprise storage systems.\nUsers are provided with the ability to gain an in-depth visibility into which types of files are using most of the disk space, save reports and perform file management operations on categories of files.\n\nDiskSorter provides a number of built-in file classification plugins capable of recognizing more than 3,000 types of files and allowing one to classify files by the file type, extension, user name, creation, last modification and last access dates, etc.\nUsers are provided with the ability to generate various types of pie charts, categorize and filter file classification results and save file classification reports into a number of standard formats including HTML, PDF, Excel, text, CSV, JSON, XML and the DiskSorter native report format.\n\nIT and storage administrators are provided with the ability to submit file classification reports from multiple servers and NAS storage devices to a centralized SQL database and analyze disk space usage history trends for one or more file categories per server and/or per user across the entire enterprise.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38038,6 +38500,41 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Flexense.DupScout",
+    "name": "DupScout",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DupScout is a duplicate files search and removal solution allowing one to search duplicate files in disks, directories, network shares or NAS storage devices. The user is provided with the ability to review detected duplicate files, generate reports, replace duplicate files with shortcuts or hard links, move duplicate files to another directory, compress and move duplicates or delete all duplicate files.\n\nDupScout allows one to save HTML, PDF, Excel, text, CSV and XML reports. Advanced users are provided with the ability to export reports from multiple servers to a centralized SQL database and perform history trend analysis operations.\n\nDupScout allows one to scan the network, discover network servers and NAS storage devices, automatically detect all accessible network shares and search duplicate files in hundreds of network servers and NAS storage devices. In addition, the user is provided with the ability to export the list of detected servers and NAS storage devices (including lists of network shares for each server) into HTML, PDF, text and CSV reports.\n\nIn order to search duplicate files in one or more servers or NAS storage devices, press the 'Network' button located on the main toolbar and wait while DupScout will scan the network and show a list of detected network servers and NAS storage devices. On the network servers and NAS storage devices dialog, select the required servers and press the 'Duplicates' button.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DupScoutEnterprise",
+    "name": "DupScout Enterprise",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DupScout is a duplicate files search and removal solution allowing one to search duplicate files in disks, directories, network shares or NAS storage devices. The user is provided with the ability to review detected duplicate files, generate reports, replace duplicate files with shortcuts or hard links, move duplicate files to another directory, compress and move duplicates or delete all duplicate files.\n\nDupScout allows one to save HTML, PDF, Excel, text, CSV and XML reports. Advanced users are provided with the ability to export reports from multiple servers to a centralized SQL database and perform history trend analysis operations.\n\nDupScout allows one to scan the network, discover network servers and NAS storage devices, automatically detect all accessible network shares and search duplicate files in hundreds of network servers and NAS storage devices. In addition, the user is provided with the ability to export the list of detected servers and NAS storage devices (including lists of network shares for each server) into HTML, PDF, text and CSV reports.\n\nIn order to search duplicate files in one or more servers or NAS storage devices, press the 'Network' button located on the main toolbar and wait while DupScout will scan the network and show a list of detected network servers and NAS storage devices. On the network servers and NAS storage devices dialog, select the required servers and press the 'Duplicates' button.\n\nIn addition, to the desktop product versions, enterprises and IT professionals are provided with two server-based product versions, DupScout Server and DupScout Enterprise, which run in the background as a service and allow one to search duplicate files in servers and NAS storage devices over the network. Server-based product versions are especially optimized for multi-core and multi-CPU servers and can search duplicate files in tens of servers and/or NAS storage devices simultaneously.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DupScoutPro",
+    "name": "DupScout Pro",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DupScout is a duplicate files search and removal solution allowing one to search duplicate files in disks, directories, network shares or NAS storage devices. The user is provided with the ability to review detected duplicate files, generate reports, replace duplicate files with shortcuts or hard links, move duplicate files to another directory, compress and move duplicates or delete all duplicate files.\n\nDupScout allows one to save HTML, PDF, Excel, text, CSV and XML reports. Advanced users are provided with the ability to export reports from multiple servers to a centralized SQL database and perform history trend analysis operations.\n\nDupScout allows one to scan the network, discover network servers and NAS storage devices, automatically detect all accessible network shares and search duplicate files in hundreds of network servers and NAS storage devices. In addition, the user is provided with the ability to export the list of detected servers and NAS storage devices (including lists of network shares for each server) into HTML, PDF, text and CSV reports.\n\nIn order to search duplicate files in one or more servers or NAS storage devices, press the 'Network' button located on the main toolbar and wait while DupScout will scan the network and show a list of detected network servers and NAS storage devices. On the network servers and NAS storage devices dialog, select the required servers and press the 'Duplicates' button.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DupScoutServer",
+    "name": "DupScout Server",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DupScout Server is a server-based duplicate files search and removal solution, which runs in the background as a service and allows one to perform duplicate files search operations, review detected duplicate files, save various types of reports, remove duplicate files or schedule fully-automatic, periodic duplicate files search and removal operations. DupScout Server may be controlled using a full-scale client GUI application and the DupScout command line utility locally or via the network.\n\nDupScout Server allows one to configure an unlimited number of duplicate files search operations, with each one capable of detecting duplicate files in one or more disks, directories, network shares or NAS storage devices. The user is provided with the ability to review detected duplicate files, generate HTML, PDF, text, CSV, XML reports or export reports from multiple servers to a centralized SQL database and perform advanced history trend analysis.\n\nDupScout Server provides a large number of duplicate files removal options including the ability to replace duplicates with shortcuts or hard links, move duplicates to another directory, compress and move duplicates or delete all duplicate files. In addition, users are provided with the ability to schedule conditional duplicate files removal operations capable of removing duplicate files fully automatically according to user-specified rules and policies.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.DupScoutUltimate",
+    "name": "DupScout Ultimate",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "DupScout is a duplicate files search and removal solution allowing one to search duplicate files in disks, directories, network shares or NAS storage devices. The user is provided with the ability to review detected duplicate files, generate reports, replace duplicate files with shortcuts or hard links, move duplicate files to another directory, compress and move duplicates or delete all duplicate files.\n\nDupScout allows one to save HTML, PDF, Excel, text, CSV and XML reports. Advanced users are provided with the ability to export reports from multiple servers to a centralized SQL database and perform history trend analysis operations.\n\nDupScout allows one to scan the network, discover network servers and NAS storage devices, automatically detect all accessible network shares and search duplicate files in hundreds of network servers and NAS storage devices. In addition, the user is provided with the ability to export the list of detected servers and NAS storage devices (including lists of network shares for each server) into HTML, PDF, text and CSV reports.\n\nIn order to search duplicate files in one or more servers or NAS storage devices, press the 'Network' button located on the main toolbar and wait while DupScout will scan the network and show a list of detected network servers and NAS storage devices. On the network servers and NAS storage devices dialog, select the required servers and press the 'Duplicates' button.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "bootandy.dust",
     "name": "Dust",
     "publisher": "andy.boot",
@@ -38616,6 +39113,13 @@
     "name": "Elcomsoft Password Digger",
     "publisher": "Elcomsoft Co. Ltd.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Elcomsoft.ElcomsoftUpdater",
+    "name": "Elcomsoft Updater",
+    "publisher": "Elcomsoft Co. Ltd.",
+    "description": "Elcomsoft Updater is a supplemental application to other Elcomsoft products.\nElcomsoft Updater automatically checks for new versions of Elcomsoft software installed on the computer, keeping the software versions up-to-date to help users receive timely updates with new features, software optimizations and security fixes.\nElcomsoft Updater is an optional part of the overall software package when you install Elcomsoft products.\nWe strongly recommend keeping the Updater option selected during the installation to keep up with Elcomsoft new releases.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39979,7 +40483,7 @@
   {
     "id": "FireDaemon.FireDaemonFusion",
     "name": "FireDaemon Fusion",
-    "publisher": "FireDaemon Technologies Limited",
+    "publisher": "FireDaemon",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -40782,6 +41286,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenSight.FlashFXP",
+    "name": "FlashFXP",
+    "publisher": "OpenSight Software LLC",
+    "description": "FlashFXP is a FTP, FTPS, SFTP client for Windows. Secure, reliable, and efficient file transfers.\n\nUse FlashFXP to publish and maintain your website. Upload and download files, such as documents, photos, videos, music and more! Transfer or backup local and remote files, plus (FXP) server to server ftp transfers.\n\nFlashFXP offers unique and complimentary advanced features for client configuration. Share files with your friends and co-workers (FTP or SFTP server required).\n\nAvailable in over 20 languages: Bulgarian, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, English, Estonian, French, German, Hungarian, Italian, Norwegian, Polish, Portuguese-European, Romanian, Russian, Spanish, Swedish, Turkish. (complete list)\n\nAt OpenSight Software, we pride ourselves on delivering an outstanding user experience, from less technical individuals to industry class professionals, anyone can master FlashFXP.\n\nTake FlashFXP with you everywhere you go with our portable edition, Don't be stranded without a FTP, FTPS, SFTP client.\n\nTry it free for 30 days.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "fasm.fasm",
     "name": "Flat Assembler",
     "publisher": "fasm",
@@ -41531,6 +42042,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Garnet.DN8",
+    "name": "Garnet (.NET 8.0)",
+    "publisher": "Microsoft Corporation",
+    "description": "Garnet is a new remote cache-store from Microsoft Research, that\noffers several unique benefits:\n\n- Garnet adopts the popular RESP wire protocol as a starting point, which makes\n  it possible to use Garnet from unmodified Redis clients available in most\n  programming languages of today, such as StackExchange.Redis in C#.\n- Garnet offers much better throughput and scalability with many client\n  connections and small batches, relative to comparable open-source\n  cache-stores, leading to cost savings for large apps and services.\n- Garnet demonstrates extremely low client latencies (often less than 300\n  microseconds at the 99.9th percentile) using commodity cloud (Azure) VMs with\n  Accelerated Networking enabled, which is critical to real-world scenarios.\n- Based on the latest .NET technology, Garnet is cross-platform, extensible, and\n  modern. It is designed to be easy to develop for and evolve, without\n  sacrificing performance in the common case. We leveraged the rich library\n  ecosystem of .NET for API breadth, with open opportunities for optimization.\n  Thanks to our careful use of .NET, Garnet achieves state-of-the-art\n  performance on both Linux and Windows.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Garnet.DN9",
+    "name": "Garnet (.NET 9.0)",
+    "publisher": "Microsoft Corporation",
+    "description": "Garnet is a new remote cache-store from Microsoft Research, that\noffers several unique benefits:\n\n- Garnet adopts the popular RESP wire protocol as a starting point, which makes\n  it possible to use Garnet from unmodified Redis clients available in most\n  programming languages of today, such as StackExchange.Redis in C#.\n- Garnet offers much better throughput and scalability with many client\n  connections and small batches, relative to comparable open-source\n  cache-stores, leading to cost savings for large apps and services.\n- Garnet demonstrates extremely low client latencies (often less than 300\n  microseconds at the 99.9th percentile) using commodity cloud (Azure) VMs with\n  Accelerated Networking enabled, which is critical to real-world scenarios.\n- Based on the latest .NET technology, Garnet is cross-platform, extensible, and\n  modern. It is designed to be easy to develop for and evolve, without\n  sacrificing performance in the common case. We leveraged the rich library\n  ecosystem of .NET for API breadth, with open opportunities for optimization.\n  Thanks to our careful use of .NET, Garnet achieves state-of-the-art\n  performance on both Linux and Windows.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Redisant.GarnetAssistant",
     "name": "Garnet Assistant",
     "publisher": "Redisant",
@@ -41595,7 +42120,7 @@
   },
   {
     "id": "SVZsoft.GEDKeeper",
-    "name": "GEDKeeper2",
+    "name": "GEDKeeper",
     "publisher": "Sergey V. Zhdanovskih",
     "description": "GEDKeeper is an open-source and cross-platform genealogy management program.\nThe lightweight, fast and reliable program to offer user friendly but powerful user interface for hobbyist, family historian and serious genealogy researcher.\nIt fully supports the GEDCOM standard, has no restrictions on the number of persons and generations, allows to store, edit, and research genealogical data and offers numerous views like family tree, charts, tables (individuals, families, etc), reports, timeline and more.\nIt supports multimedia and allows privacy control; allows you to interactively browse family trees and charts; and make changes, such as adding new people and adding or deleting images or notes and stories.\nIt provides fast navigation, filtering, searching and adding multimedia materials.\nSupports output of geographic data on maps.\nCartography, statistics, dynamic graphical trees and reports can be viewed on screen, send to a printer, or saved as image-files.\nExtensible base of program provides easy implementation of new features (both plugins and powerful scripts) and localize to new user’s languages.",
     "icon": "/icons/intunify-default.png"
@@ -42039,6 +42564,13 @@
     "name": "Global Relay",
     "publisher": "GlobalRelay",
     "description": "Collaborate with your colleagues and peers across the finance world with Global Relay App, Global Relay’s enterprise messaging platform.\nDesigned for business and built for compliance, Global Relay App provides counter-party authentication, guaranteed delivery, read receipts and FINRA, GDPR & MiFID2 compliance as part of a unified cloud-based service.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.GlobalSecureAccessClient",
+    "name": "Global Secure Access Client",
+    "publisher": "Microsoft Corporation",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42808,6 +43340,13 @@
     "id": "Ghostgum.GSview",
     "name": "GSview",
     "publisher": "Ghostgum",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IvoSetyadi.gtime",
+    "name": "gtime",
+    "publisher": "Ivo Setyadi",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -43764,6 +44303,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ComfortSoftwareGroup.HotAlarmClock",
+    "name": "Hot Alarm Clock",
+    "publisher": "Comfort Software Group",
+    "description": "Hot Alarm Clock is super flexible and completely customizable software. You can set a single daily wakeup or configure multiple complex alarms triggering on certain days of weeks, calendar days, weeks, or months.\nThis alarm clock app can play your favorite music or online radio station, use fixed or increasing alarm volume, launch your favorite apps, and open Websites on wakeup. It'll even conserve your computer power by automatically waking it up from sleep mode and putting it back to sleep when needed.\n\nHot Alarm Clock has everything you need to follow the time, no matter how complex your schedule is. You can set a one-time or recurring alarm or use an arbitrary set of dates and times. Its rich settings will surely let you set an alarm that matches your needs.\nHot Alarm Clock lets you set any time interval for a countdown timer, including months or years. You can also create chains of timers, and the built-in metronome will notify you about the oncoming end of the countdown.\nStart multiple stopwatches in different windows or floating windows to keep track of numerous events simultaneously. You can customize the time display format and define the accuracy of counting the fractions of a second.\n\nThe trial version is fully functional but will only work for 30 days.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "dziemborowicz.hourglass",
     "name": "Hourglass",
     "publisher": "Chris Dziemborowicz",
@@ -43824,6 +44370,13 @@
     "name": "HP Image Assistant",
     "publisher": "HP Inc.",
     "description": "This package provides the HP Image Assistant tool which assists in building a stable Windows\nimage optimized for supported HP systems. This package is provided for supported Commercial\ncomputer systems using a supported operating system.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HP.HPImageDiags.4",
+    "name": "HP ImageDiags 4",
+    "publisher": "HP Inc.",
+    "description": "HP ImageDiags is a diagnostics tool used by HP support personnel provided by HP.\nIt is intended to identify common issues and collect system information required to assist in identifying a resolution for customer escalations.\n\nResults:\n• IDR HTML report is a user-friendly customer-facing report\n• IDR text log file is a text document containing detailed results\n• IDR zip file contains the other 2 files along with all files collected during analysis",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45815,6 +46368,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Beamr.JPEGminiPro",
+    "name": "JPEGmini Pro",
+    "publisher": "Beamr Imaging Ltd",
+    "description": "The JPEGmini Pro desktop app is the ultimate solution for optimizing, converting, compressing and resizing your images and videos.\n\n- Automatically reduce the file size of your images and videos by up to 80%.\n- Leveraging our one-of-a-kind and patented technology, we ensure every image and video is compressed to the minimal size without sacrificing the visual quality of the original file.\n- With JPEGmini, your optimized files remain in standard image and video formats, ensuring easy integration and use across all platforms and devices.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JPEXS.FFDec",
     "name": "JPEXS Free Flash Decompiler",
     "publisher": "JPEXS",
@@ -45980,6 +46540,13 @@
     "name": "k6",
     "publisher": "k6",
     "description": "k6 is a developer-centric, free and open-source load testing tool built for making performance testing a productive and enjoyable experience. Using k6, you\"ll be able to catch performance regression and problems earlier, allowing you to build resilient systems and robust applications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GrafanaLabs.k6",
+    "name": "k6",
+    "publisher": "Grafana Labs",
+    "description": "A modern load testing tool, using Go and JavaScript",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46760,6 +47327,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Signiant.Kyno",
+    "name": "Kyno",
+    "publisher": "Signiant Inc.",
+    "description": "Kyno is the centerpiece of professional video workflows for narrative, documentary, corporate and social media projects.\nIts easy to learn and simple to use interface works cross-platform on macOS & Windows and integrates with the tools you already use.\n\n- On-location: Backup, preview, annotate material, create shotlists and dailies\n- Post-Production: Play, organize and select material; transcode proxies and send to NLEs\n- Managing Shared Storage: Tag and find material in a team on NAS, SAN or external drives\n\nUse Kyno's powerful drilldown function to flatten and filter the content of a whole hard drive and define media aware filters such as framerate, resolution to find the files you're looking for.\nTag, rate, describe your media and use that information to find your content. Use Kyno's powerful media aware renaming engine to organize your files.\nOffload camera media to secondary storage securely using a simple process and industry-standard cryptographic checksum verification with Media Hash List support for later verification. Incremental backup copies only what's changed since the last backup.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "kyverno.kyverno",
     "name": "kyverno",
     "publisher": "kyverno",
@@ -47096,6 +47670,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "XKaguya.LenovoLegionToolkit",
+    "name": "Lenovo Legion Toolkit",
+    "publisher": "Bartosz Cichecki",
+    "description": "Lenovo Legion Toolkit (LLT) is a utility created for Lenovo Legion laptops, that allows changing a couple of features that are only available in Lenovo Vantage or Legion Zone.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Lenovo.QuickClean",
     "name": "Lenovo Quick Clean",
     "publisher": "Lenovo",
@@ -47378,6 +47959,20 @@
   {
     "id": "BellSoft.LibericaJDK.24.Full",
     "name": "Liberica JDK 24 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.25",
+    "name": "Liberica JDK 25",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.25.Full",
+    "name": "Liberica JDK 25 Full",
     "publisher": "BellSoft",
     "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
     "icon": "/icons/intunify-default.png"
@@ -48741,6 +49336,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Maxon.MaxonApp",
+    "name": "Maxon App Installer",
+    "publisher": "Maxon Computer GmbH",
+    "description": "The Maxon App manages the installation, licensing, upgrading, and updating of your Maxon products. It verifies the license status for your purchased products and displays any trials you may have available.\nThe Maxon App is fully compatible with MyMaxon Organizational Accounts, so users can tap into Teams Licenses and choose which license type to activate.\n\nThe Maxon App currently supports the installation and management of Cinema 4D, Redshift, Red Giant, Universe, and ZBrush. ZBrush for iPad and Moves by Maxon continue to be available from the iOS App Store.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Maxthon.Maxthon.4",
     "name": "Maxthon Cloud Browser",
     "publisher": "Maxthon International Limited",
@@ -49945,10 +50547,10 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "EdrawSoft.MindMaster",
+    "id": "EdrawSoft.EdrawMind.CN",
     "name": "MindMaster",
     "publisher": "EdrawSoft Co.,Ltd.",
-    "description": "亿图脑图 MindMaster 是一款跨平台、多功能的思维导图软件。是帮助您快速成为思维导图设计能手的有效解决方案！软件提供了丰富的智能布局、多样性的展示模式、结合精美的设计元素和预置的主题样式，努力帮用户打造一款真正的效率工具。自推出以来深受广大用户的欢迎，被广泛应用于解决问题，时间管理，业务战略和项目管理等领域中。",
+    "description": "MindMaster, a cross-platform and versatile mind mapping software, is an effective solution to help you quickly become a competent mind mapping designer! It provides abundant intelligent layouts, various presentation modes, exquisite design elements and preset theme styles, making it a veritable productivity tool for users. Since its launch, it has been well received by users and is widely used in problem solving, time management, business strategy and project management.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52511,6 +53113,13 @@
     "name": "NeatReader",
     "publisher": "GauzyTech .Inc",
     "description": "Neat Reader is an excellent ePub Reader designed for all your devices. You can read ePub files on smartphones or Desktop. ePub viewer available at your palms!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "neelabo.NeeView",
+    "name": "NeeView",
+    "publisher": "NeeLaboratory",
+    "description": "An image viewer that allows you to browse images in folders and compressed files like a book. Powerful customization is available.\n\n- Supported image format (bmp, jpg, gif, tiff, png, ico, WIC images)\n- Compressed file support (zip, rar, 7z, lzh, cbr, cbz, cb7, ...)\n- Recursive compressed file support\n- PDF support\n- Video play support\n- Touch operation supported\n- Mouse gesture supported\n- Key customization, gesture setting\n- Movement, rotation, scaling by dragging\n- Loupe mode\n- Facing mode\n- Full screen mode\n- Slide show\n- Susie plugin support\n- Image drop from web browser\n- Command extension by scripts",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55510,8 +56119,36 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PHP.PHP.NTS.8.1",
+    "name": "PHP 8.1 (Non Thread Safe)",
+    "publisher": "PHP Group",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PHP.PHP-NTS.8.1",
+    "name": "PHP 8.1 - Non-thread safe",
+    "publisher": "PHP Group",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PHP.PHP.8.2",
     "name": "PHP 8.2",
+    "publisher": "PHP Group",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PHP.PHP.NTS.8.2",
+    "name": "PHP 8.2 (Non Thread Safe)",
+    "publisher": "PHP Group",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PHP.PHP-NTS.8.2",
+    "name": "PHP 8.2 - Non-thread safe",
     "publisher": "PHP Group",
     "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
     "icon": "/icons/intunify-default.png"
@@ -55524,8 +56161,36 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PHP.PHP.NTS.8.3",
+    "name": "PHP 8.3 (Non Thread Safe)",
+    "publisher": "PHP Group",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PHP.PHP-NTS.8.3",
+    "name": "PHP 8.3 - Non-thread safe",
+    "publisher": "PHP Group",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PHP.PHP.8.4",
     "name": "PHP 8.4",
+    "publisher": "PHP Group",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PHP.PHP.NTS.8.4",
+    "name": "PHP 8.4 (Non Thread Safe)",
+    "publisher": "PHP Group",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PHP.PHP-NTS.8.4",
+    "name": "PHP 8.4 - Non-thread safe",
     "publisher": "PHP Group",
     "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
     "icon": "/icons/intunify-default.png"
@@ -55633,6 +56298,13 @@
     "name": "PicPick",
     "publisher": "NGWIN",
     "description": "一款全功能的屏幕截图工具，具有直观的图像编辑器、拾色器、调色板、像素标尺、量角器、瞄准线和白板等。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MCvanderKooij.PictoSelector",
+    "name": "Picto-Selector",
+    "publisher": "M.C. van der Kooij",
+    "description": "Picto-Selector is a free tool for creating visual schedules. It is used by many teachers and parents. But there are also reports of people using it in daycare for elderly people.\n\nThe download contains over 34000 pictos (images) translated to English, Dutch, German, French, Danish and Spanish. (Some pictos are also translated to Arabic, Swedish, Italian, Portuguese, Brazilian and Indonesian)\n\nPicto-Selector makes creating visual schedules easier by:\n* Fast search options to find the needed pictures\n* Automatic sizes, depending on the number of rows and columns\n* Reuse of earlier created schedules\nWith Picto-Selector the time consuming cut, paste and editing in Word is over.\n\nAt the main screen picto sheets can be viewed and added. Each sheet can be printed. Pictos can easily be selected from a list and placed between existing pictos, this makes it extremely easy to alter existing picto sheets.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56721,6 +57393,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PSTWalker.PSTWalker",
+    "name": "PST Walker",
+    "publisher": "PST Walker Software",
+    "description": "View all items in OST or PST file, whether they're emails, tasks, contacts, notes, calendar events, or attachments, you can easily open them all.\n- Open healthy, corrupted, and orphaned PST and OST files\n- Recover deleted emails and folders, and export them to various file formats\n- Analyze email headers and all message properties using HEX analysis\n\nWhether it's an archived, corrupted, or orphaned Outlook file, OST PST Viewer opens all types of Outlook data files – .pst, .ost, and .msg – without accessing Outlook.\n- Open Corrupt PST Files: No need to worry about repairing corrupt Outlook data files to view their content. The tool scans and repairs every PST file, ensuring you can access your content.\n- Open Password Protected Files: Access PST files without requiring a password, and in cases where the password is forgotten, you can still get access to the file.\n- Protect the privacy of an email message: Support for digitally signed and encrypted secure messages, as well as Active Directory/Exchange x.500 email addresses.\n- PST File Locations: You have the flexibility to open any .pst or .ost file, or select a data file from the list of the recently opened files in Outlook.\n- Recover Deleted Emails and Folders: Restore accidentally deleted emails and folders, and items that are no longer associated with any folder in Outlook (orphaned items). Learn more...\n- Recover Rules and Alerts: Recover disappeared Rules and Alerts in Outlook and export the rules to .rwz file.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "YO3DMU.PstRotator",
     "name": "PstRotator",
     "publisher": "YO3DMU",
@@ -57477,6 +58156,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KVS.QUICKSURFACE",
+    "name": "QUICKSURFACE 2025",
+    "publisher": "KVS Ltd",
+    "description": "QUICKSURFACE is the most effective 3D Reverse engineering software for Hybrid modeling on the market\n\n- Scan your product with any 3D Scanner that can export STL, OBJ or PLY meshes or PTX point clouds\n- Use QUICKSURFACE tools to reconstruct the free form or parametric CAD surfaces and to remodel them to your needs\n- Export in industry standard STEP or IGES file format to other CAD/CAM packages or use your results for 3D Printing or CNC machining",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Anchore.Quill",
     "name": "Quill",
     "publisher": "Anchore Inc",
@@ -57919,7 +58605,7 @@
   },
   {
     "id": "Motorola.ReadyForAssistant",
-    "name": "Ready For Assistant",
+    "name": "Ready For Assistant / Smart Connect",
     "publisher": "Motorola",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -58206,7 +58892,7 @@
   },
   {
     "id": "reMarkable.reMarkableCompanionApp",
-    "name": "reMarkable Companion App",
+    "name": "reMarkable",
     "publisher": "reMarkable",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -59307,14 +59993,14 @@
     "id": "Santesoft.SantePacsServer",
     "name": "Sante PACS Server",
     "publisher": "Santesoft LTD",
-    "description": "Sante PACS Server is a DICOM 3.0 compliant PACS server, a Modality Worklist server, an HTTP (web) server for DICOM files and a CD/DVD Burning and Printing server that offers high performance and reliability at an affordable price.\n\nFeatures and benefits\n- full-featured PACS Server that supports all the modalities and all the transfer syntaxes\n- full-featured, user configurable, Worklist Server\n- Built-in Web Server that allows remote access of the studies to physicians and patients\n- Unlimited number of patients/studies/series, the only limitation is the storage size\n- Unlimited number of connected medical scanners\n- Unlimited number of connected users, locally or remotely, physicians or patients\n- Patients can access their studies with tokens instead of user accounts\n- Available to remote users two built-in, world class, free DICOM viewers, Sante DICOM Web Viewer and OHIF viewer\n- The built-in OHIF DICOM Viewer works in client side without installation in any device (desktop, mobile, tablet) and in any OS (Windows, Linux, MacOS, iOS, Android, etc.).\n- Migration tool that allows easy transfer of data to the new system\n- Automatic CD/DVD disk burning and label printing in EPSON and PRIMERA robot producers\n- It works \"out of the box\", after installation\n- It works on Windows Server 2022/2019/2016/2012/2008 or Windows 11/10/8.1/8/7/Vista 64-bit\n- Perpetual license (one time purchase, without hidden costs/fees)\n\nFree demo version that works for 90 days",
+    "description": "Sante PACS Server is a DICOM 3.0 compliant PACS server, a Modality Worklist server, an HTTP (web) server for DICOM files and a CD/DVD Burning and Printing server that offers high performance and reliability at an affordable price.\n\nFeatures and benefits\n- full-featured PACS Server that supports all the modalities and all the transfer syntaxes\n- full-featured, user configurable, Worklist Server\n- Built-in Web Server that allows remote access of the studies to physicians and patients\n- Unlimited number of patients/studies/series, the only limitation is the storage size\n- Unlimited number of connected medical scanners\n- Unlimited number of connected users, locally or remotely, physicians or patients\n- Patients can access their studies with tokens instead of user accounts\n- Available to remote users two built-in, world class, free DICOM viewers, Sante DICOM Web Viewer and OHIF viewer\n- The built-in OHIF DICOM Viewer works in client side without installation in any device (desktop, mobile, tablet) and in any OS (Windows, Linux, MacOS, iOS, Android, etc.).\n- Migration tool that allows easy transfer of data to the new system\n- Automatic CD/DVD disk burning and label printing in EPSON and PRIMERA robot producers\n- It works on Windows Server 2022/2019/2016/2012/2008 or Windows 11/10/8.1/8/7/Vista 64-bit\n- Perpetual license (one time purchase, without hidden costs/fees)\n\nFree demo version that works for 90 days",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "Santesoft.SantePacsServerPG",
     "name": "Sante PACS Server PG",
     "publisher": "Santesoft LTD",
-    "description": "Sante PACS Server PG is a DICOM 3.0 compliant PACS server, a Modality Worklist server, an HTTP (web) server for DICOM files and a CD/DVD Burning and Printing server that offers high performance and reliability at an affordable price.\nIt provides connectivity to all DICOM modalities (CT, MR, US, CR, NM, XA, MG, DX etc.). Reviewing the DICOM images can be done using the Sante PACS Viewer (the Built-in full-featured DICOM viewer of the system). The built-in web server can be used as a free cloud server for DICOM files!\n\nIf you have selected a cloud solution for DICOM file archiving, Sante PACS Server PG can be a perfect companion of this solution, not only because it can be used as a local backup server for the whole archive, accessible from the web as well, but furthermore because it can keep locally the older part of the archive that there is no need to be on the cloud. This way Sante PACS Server PG can reduce drastically the monthly cost of the cloud solution.\n\nFeatures and benefits\n- full-featured PACS Server that supports all the modalities and all the transfer syntaxes\n- full-featured, user configurable, Worklist Server\n- Built-in Web Server that allows remote access of the studies to physicians and patients\n- Unlimited number of patients/studies/series, the only limitation is the storage size\n- Unlimited number of connected medical scanners\n- Unlimited number of connected users, locally or remotely, physicians or patients\n- Patients can access their studies with tokens instead of user accounts\n- Available to remote users two built-in, world class, free DICOM viewers, Sante DICOM Web Viewer and OHIF viewer\n- The built-in OHIF DICOM Viewer works in client side without installation in any device (desktop, mobile, tablet) and in any OS (Windows, Linux, MacOS, iOS, Android, etc.).\n- Migration tool that allows easy transfer of data to the new system\n- Automatic CD/DVD disk burning and label printing in EPSON and PRIMERA robot producers\n- It works \"out of the box\", after installation\n- It works on Windows Server 2022/2019/2016/2012/2008 or Windows 11/10/8.1/8/7/Vista 64-bit\n- Perpetual license (one time purchase, without hidden costs/fees)\n\nFree demo version that works for 90 days",
+    "description": "Sante PACS Server PG is a DICOM 3.0 compliant PACS server, a Modality Worklist server, an HTTP (web) server for DICOM files and a CD/DVD Burning and Printing server that offers high performance and reliability at an affordable price.\nIt provides connectivity to all DICOM modalities (CT, MR, US, CR, NM, XA, MG, DX etc.). Reviewing the DICOM images can be done using the Sante PACS Viewer (the Built-in full-featured DICOM viewer of the system). The built-in web server can be used as a free cloud server for DICOM files!\n\nIf you have selected a cloud solution for DICOM file archiving, Sante PACS Server PG can be a perfect companion of this solution, not only because it can be used as a local backup server for the whole archive, accessible from the web as well, but furthermore because it can keep locally the older part of the archive that there is no need to be on the cloud. This way Sante PACS Server PG can reduce drastically the monthly cost of the cloud solution.\n\nFeatures and benefits\n- full-featured PACS Server that supports all the modalities and all the transfer syntaxes\n- full-featured, user configurable, Worklist Server\n- Built-in Web Server that allows remote access of the studies to physicians and patients\n- Unlimited number of patients/studies/series, the only limitation is the storage size\n- Unlimited number of connected medical scanners\n- Unlimited number of connected users, locally or remotely, physicians or patients\n- Patients can access their studies with tokens instead of user accounts\n- Available to remote users two built-in, world class, free DICOM viewers, Sante DICOM Web Viewer and OHIF viewer\n- The built-in OHIF DICOM Viewer works in client side without installation in any device (desktop, mobile, tablet) and in any OS (Windows, Linux, MacOS, iOS, Android, etc.).\n- Migration tool that allows easy transfer of data to the new system\n- Automatic CD/DVD disk burning and label printing in EPSON and PRIMERA robot producers\n- It works on Windows Server 2022/2019/2016/2012/2008 or Windows 11/10/8.1/8/7/Vista 64-bit\n- Perpetual license (one time purchase, without hidden costs/fees)\n\nFree demo version that works for 90 days",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59411,6 +60097,13 @@
   {
     "id": "SAP.SapMachine.23.JRE",
     "name": "SapMachine 23 JRE",
+    "publisher": "SapMachine Team",
+    "description": "The SapMachine project contains a downstream version of the OpenJDK project. It is used to build and maintain a SAP supported version of OpenJDK for SAP customers and partners who wish to use OpenJDK to run their applications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SAP.SapMachine.25.JRE",
+    "name": "SapMachine 25 JRE",
     "publisher": "SapMachine Team",
     "description": "The SapMachine project contains a downstream version of the OpenJDK project. It is used to build and maintain a SAP supported version of OpenJDK for SAP customers and partners who wish to use OpenJDK to run their applications.",
     "icon": "/icons/intunify-default.png"
@@ -59819,6 +60512,13 @@
     "name": "Securepoint SSL VPN",
     "publisher": "Securepoint GmbH",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DSwiss.SecureSafe",
+    "name": "SecureSafe",
+    "publisher": "DSwiss AG",
+    "description": "Designed for the secure storage, controlled access and easy sharing of confidential information, SecureSafe meets the highest standards of data protection, compliance and user-friendliness. Protection according to banking standards for all users who want to manage digital assets responsibly.\n- End-to-end encryption for files, passwords and notes\n- Private hosting infrastructure with dual data center for maximum security\n- Access control with granular user rights\nWhether for sensitive documents or collaboration with customers - SecureSafe provides security you can rely on.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60340,20 +61040,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SimpleACME.SimpleACME.Pluggable",
-    "name": "simple-acme",
-    "publisher": "simple-acme",
-    "description": "A simple cross platform ACME client - for use with Let's Encrypt. Forked from win-acme.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "SimpleACME.SimpleACME.Trimmed",
-    "name": "simple-acme",
-    "publisher": "simple-acme",
-    "description": "A simple cross platform ACME client - for use with Let's Encrypt. Forked from win-acme.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "simple-acme.simple-acme",
     "name": "simple-acme",
     "publisher": "simple-acme",
@@ -60371,6 +61057,13 @@
     "id": "Simple.TextToSpeech",
     "name": "Simple-TextToSpeech",
     "publisher": "Thefakewhitefang",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ModelMakerTools.SimpleMindPro",
+    "name": "SimpleMind Pro 2.7.0",
+    "publisher": "ModelMaker Tools BV",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -60638,6 +61331,13 @@
     "name": "Smart View",
     "publisher": "Samsung",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DeskSoft.SmartCapture",
+    "name": "SmartCapture",
+    "publisher": "DeskSoft",
+    "description": "SmartCapture is the professional, easy to use screen capture tool for Windows! The clear and intuitive user interface and powerful features make it the ideal utility for everyone who wants to capture any contents of the Windows desktop.\nIt can capture rectangular screen areas, whole objects, windows or screens and it can acquire images from imaging devices (e.g. scanners, digital cameras, etc.)\nThe captured images can be cropped very easily and the color depth can be changed to any desired value from monochrome to true color. Images can be printed, saved, copied to the clipboard, sent to an email recipient, MS Word or any image editor.\nSmartCapture supports all major file formats, image manipulations (e.g. resize, flip, rotate, color replace, invert, optimized color palettes, dither, etc.), multiple monitors, full automation, capture wizards, capture profiles, multi-level undo and much more.\nMany options allow the customization of all actions to individual user needs. SmartCapture is not only one of the most powerful screen capture utilities available - it was also designed to be the most user-friendly tool of all!\n\nKey Features\n- Capture modes: rectangle, window, active window, screen, area, fixed size\n- Capture the mouse cursor\n- Multiple monitor support\n- Separate Hot-Keys for different capture modes\n- Twain data source support (scanners, digital cameras, etc.)\n- Image sources: capture, paste, load, acquire from Twain compatible data source\n- Image destinations: save, print, copy, email, edit, MS Word, send\n- Drag & Drop the \"Save As\" button to any folder, program, email, etc. to send the image to that program or location\n- Supported file formats: BMP, GIF, JPG, PNG, TIF\n- Photocopy\n- File conversion\n- User definable profiles for each task\n- Color conversion: 1, 4, 8, 24 Bit, color or grayscale\n- Color reduction: dither or nearest color, optimized or standard color palettes\n- Color replace, invert, auto invert\n- Brightness, contrast, gamma, saturation, hue\n- Image geometry: resize, flip, rotate, sharpen, soften\n- Print size support (dimensions and DPI)\n- Undo and redo (multi-level)\n- Automation, script support\n- Clipboard text accumulator, URL launcher\n- Print multiple images on one page (collect mode)\n- Header and footer on printed pages\n- Image editing and drawing functions",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62125,6 +62825,41 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Flexense.SyncBreeze",
+    "name": "SyncBreeze",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "SyncBreeze is a powerful, easy-to-use and fast file synchronization solution allowing one to synchronize files between disks, directories, network shares and NAS storage devices. Users are provided the ability to configure a number of file synchronization commands, setup background periodic and/or real-time file sync operations, save file synchronization logs and send E-Mail notifications when a file synchronization operation fails.\n\nSyncBreeze provides multiple one-way and two-way file synchronization modes, periodic file synchronization, compressed file synchronization, background file synchronization, real-time file synchronization, an option to synchronize specific types of files, an option to exclude directories from the file synchronization process and allows one to define multiple customizable file synchronization commands making it very simple to synchronize numerous disks, directories, network shares and NAS storage devices.\n\nUsers are provided with the ability to synchronize files with preview allowing one to select/unselect specific file synchronization actions. In addition, SyncBreeze provides a stream file synchronization mode, which synchronizes files on-the-fly without showing the sync preview dialog allowing one to sync huge file systems containing tens of millions of files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.SyncBreezeEnterprise",
+    "name": "SyncBreeze Enterprise",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "SyncBreeze is a powerful, easy-to-use and fast file synchronization solution allowing one to synchronize files between disks, directories, network shares and NAS storage devices. Users are provided the ability to configure a number of file synchronization commands, setup background periodic and/or real-time file sync operations, save file synchronization logs and send E-Mail notifications when a file synchronization operation fails.\n\nSyncBreeze provides multiple one-way and two-way file synchronization modes, periodic file synchronization, compressed file synchronization, background file synchronization, real-time file synchronization, an option to synchronize specific types of files, an option to exclude directories from the file synchronization process and allows one to define multiple customizable file synchronization commands making it very simple to synchronize numerous disks, directories, network shares and NAS storage devices.\n\nUsers are provided with the ability to synchronize files with preview allowing one to select/unselect specific file synchronization actions. In addition, SyncBreeze provides a stream file synchronization mode, which synchronizes files on-the-fly without showing the sync preview dialog allowing one to sync huge file systems containing tens of millions of files.\n\nFinally, enterprise customers are provided with the SyncBreeze Enterprise product version which adds a large number of enterprise-grade features and capabilities such as the web-based management interface allowing one to control the product via the network using a regular web browser, fault-tolerant clustering capabilities, file synchronization commands priorities, statistical reports, etc.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.SyncBreezePro",
+    "name": "SyncBreeze Pro",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "SyncBreeze is a powerful, easy-to-use and fast file synchronization solution allowing one to synchronize files between disks, directories, network shares and NAS storage devices. Users are provided the ability to configure a number of file synchronization commands, setup background periodic and/or real-time file sync operations, save file synchronization logs and send E-Mail notifications when a file synchronization operation fails.\n\nSyncBreeze provides multiple one-way and two-way file synchronization modes, periodic file synchronization, compressed file synchronization, background file synchronization, real-time file synchronization, an option to synchronize specific types of files, an option to exclude directories from the file synchronization process and allows one to define multiple customizable file synchronization commands making it very simple to synchronize numerous disks, directories, network shares and NAS storage devices.\n\nUsers are provided with the ability to synchronize files with preview allowing one to select/unselect specific file synchronization actions. In addition, SyncBreeze provides a stream file synchronization mode, which synchronizes files on-the-fly without showing the sync preview dialog allowing one to sync huge file systems containing tens of millions of files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.SyncBreezeServer",
+    "name": "SyncBreeze Server",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "SyncBreeze is a powerful, easy-to-use and fast file synchronization solution allowing one to synchronize files between disks, directories, network shares and NAS storage devices. Users are provided the ability to configure a number of file synchronization commands, setup background periodic and/or real-time file sync operations, save file synchronization logs and send E-Mail notifications when a file synchronization operation fails.\n\nIn addition, IT and storage administrators are provided with SyncBreeze Server, which run in the background as a service and may be controlled locally or via the network using a full-scale client GUI application, the SyncBreeze command line utility. SyncBreeze Server allows one to execute multiple, simultaneous file synchronization operations, monitor disks and directories and trigger file synchronization operations after a user-specified number of changes, execute pre-sync and post-sync actions, save file synchronization logs and send E-Mail notifications for failed file synchronization operations.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.SyncBreezeUltimate",
+    "name": "SyncBreeze Ultimate",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "SyncBreeze is a powerful, easy-to-use and fast file synchronization solution allowing one to synchronize files between disks, directories, network shares and NAS storage devices. Users are provided the ability to configure a number of file synchronization commands, setup background periodic and/or real-time file sync operations, save file synchronization logs and send E-Mail notifications when a file synchronization operation fails.\n\nSyncBreeze provides multiple one-way and two-way file synchronization modes, periodic file synchronization, compressed file synchronization, background file synchronization, real-time file synchronization, an option to synchronize specific types of files, an option to exclude directories from the file synchronization process and allows one to define multiple customizable file synchronization commands making it very simple to synchronize numerous disks, directories, network shares and NAS storage devices.\n\nUsers are provided with the ability to synchronize files with preview allowing one to select/unselect specific file synchronization actions. In addition, SyncBreeze provides a stream file synchronization mode, which synchronizes files on-the-fly without showing the sync preview dialog allowing one to sync huge file systems containing tens of millions of files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Syncplay.Syncplay",
     "name": "Syncplay",
     "publisher": "Syncplay",
@@ -62227,6 +62962,34 @@
     "name": "SynologyCameraTool",
     "publisher": "Synology",
     "description": "The Synology Camera Tool automatically locates cameras on the local network and lets you quickly configure network details like the IP address, subnet mask, and DHCP settings.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.SysGauge",
+    "name": "SysGauge",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "SysGauge is a system and performance monitoring utility allowing one to monitor the CPU usage, memory usage, network transfer rate, operating system performance, the status and resource usage of running processes, file system performance, USB performance, disk space usage, disk read activity, disk write activity, disk read transfer rate, disk write transfer rate, disk read IOPS and disk write IOPS for individual logical disks or all physical disks installed in the computer.\n\nThe SysGauge GUI application provides a single, customizable GUI module and a number of dedicated GUI modules especially designed for each specific monitoring task such as system status monitoring, CPU monitoring, memory monitoring, process monitoring, system status analysis, disk monitoring, NAS server monitoring and network monitoring. The monitor selector, which is located on the left-side of the SysGauge GUI application, allows one to add, edit and delete specific monitoring GUI modules.\n\nThe SysGauge system monitoring utility provides a large number of different types of performance monitoring, system resource monitoring and operating system status monitoring counters and allows one to select which counters to monitor. In addition, users are provided with the ability to specify how to display the performance monitoring results for how long to keep the results history.\n\nOne of the most useful capabilities of the SysGauge performance monitoring utility is the ability to save performance monitoring reports into a number of standard formats including HTML, PDF, Excel, text, CSV and XML. In order to save a performance monitoring report, press the 'Save' button located on the main toolbar, select an appropriate report format, enter a report file name and press the 'Save' button.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.SysGaugePro",
+    "name": "SysGauge Pro",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "SysGauge is a system and performance monitoring utility allowing one to monitor the CPU usage, memory usage, network transfer rate, operating system performance, the status and resource usage of running processes, file system performance, USB performance, disk space usage, disk read activity, disk write activity, disk read transfer rate, disk write transfer rate, disk read IOPS and disk write IOPS for individual logical disks or all physical disks installed in the computer.\n\nThe SysGauge GUI application provides a single, customizable GUI module and a number of dedicated GUI modules especially designed for each specific monitoring task such as system status monitoring, CPU monitoring, memory monitoring, process monitoring, system status analysis, disk monitoring, NAS server monitoring and network monitoring. The monitor selector, which is located on the left-side of the SysGauge GUI application, allows one to add, edit and delete specific monitoring GUI modules.\n\nThe SysGauge system monitoring utility provides a large number of different types of performance monitoring, system resource monitoring and operating system status monitoring counters and allows one to select which counters to monitor. In addition, users are provided with the ability to specify how to display the performance monitoring results for how long to keep the results history.\n\nOne of the most useful capabilities of the SysGauge performance monitoring utility is the ability to save performance monitoring reports into a number of standard formats including HTML, PDF, Excel, text, CSV and XML. In order to save a performance monitoring report, press the 'Save' button located on the main toolbar, select an appropriate report format, enter a report file name and press the 'Save' button.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.SysGaugeServer",
+    "name": "SysGauge Server",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "SysGauge is a system and performance monitoring utility allowing one to monitor the CPU usage, memory usage, network transfer rate, operating system performance, the status and resource usage of running processes, file system performance, USB performance, disk space usage, disk read activity, disk write activity, disk read transfer rate, disk write transfer rate, disk read IOPS and disk write IOPS for individual logical disks or all physical disks installed in the computer.\n\nSysGauge Server provides the ability to display multiple, detached monitoring windows on different physical monitors allowing one to effectively utilize multi-monitor configurations and show as much information as possible in complicated multi-server environments.\n\nSysGauge Server can be controlled locally or remotely via the network using the SysGauge client GUI application. In addition, the user is provided with the ability to automate the configuration and management of multiple SysGauge Servers using the SysGauge command line utility.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.SysGaugeUltimate",
+    "name": "SysGauge Ultimate",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "SysGauge is a system and performance monitoring utility allowing one to monitor the CPU usage, memory usage, network transfer rate, operating system performance, the status and resource usage of running processes, file system performance, USB performance, disk space usage, disk read activity, disk write activity, disk read transfer rate, disk write transfer rate, disk read IOPS and disk write IOPS for individual logical disks or all physical disks installed in the computer.\n\nThe SysGauge GUI application provides a single, customizable GUI module and a number of dedicated GUI modules especially designed for each specific monitoring task such as system status monitoring, CPU monitoring, memory monitoring, process monitoring, system status analysis, disk monitoring, NAS server monitoring and network monitoring. The monitor selector, which is located on the left-side of the SysGauge GUI application, allows one to add, edit and delete specific monitoring GUI modules.\n\nThe SysGauge system monitoring utility provides a large number of different types of performance monitoring, system resource monitoring and operating system status monitoring counters and allows one to select which counters to monitor. In addition, users are provided with the ability to specify how to display the performance monitoring results for how long to keep the results history.\n\nOne of the most useful capabilities of the SysGauge performance monitoring utility is the ability to save performance monitoring reports into a number of standard formats including HTML, PDF, Excel, text, CSV and XML. In order to save a performance monitoring report, press the 'Save' button located on the main toolbar, select an appropriate report format, enter a report file name and press the 'Save' button.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64925,6 +65688,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KoichiMomma.VESTA",
+    "name": "VESTA",
+    "publisher": "Koichi Momma",
+    "description": "VESTA is a 3D visualization program for structural models, volumetric data such as electron/nuclear densities, and crystal morphologies.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "VeyonSolutions.Veyon",
     "name": "Veyon",
     "publisher": "Veyon Solutions",
@@ -65072,6 +65842,27 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftwareCompanions.ViewCompanionPremium",
+    "name": "ViewCompanion Premium",
+    "publisher": "Software Companions",
+    "description": "ViewCompanion Premium is the most powerful member of the ViewCompanion family. ViewCompanion Premium can view, print and convert Adobe PDF, PDF/A, Autodesk DWF, PLT, CGM, TIFF, CALS, EDMICS and several other file formats.\nWith ViewCompanion Premium you can convert your files to many different output formats, please check the complete list of supported output formats below.\n\nYour PLT, CGM, Gerber and DWF files can be converted into Autodesk DXF format, which can be read by all popular CAD applications, for example Autodesk AutoCAD™.\nWith the built-in PDF to CAD tools, you can convert your PDF files into editable DXF, Gerber, CGM or SVG files.\n\nYou can merge multiple files of different formats to a single multi-page PDF, DWF or TIFF file.\nViewCompanion can split a multipage PDF, TIFF or DWF file into multiple files. You may split a PDF file either based on a maximum number of pages per file or based on the maximum file size for each output file.\n\nWith ViewCompanion you can measure dimension lengths and areas. All measurements can be done using snap to drawing geometry to give the highest accuracy. Calibration of the measurement tools is available to make sure you get correct results even if your drawings are not scaled 1:1. The measurement results may be exported to either a Excel Workbook (XLSX) or to a CSV file which can be opened by any spreadsheet application.\n\nThe downloaded product will run in evaluation mode for a period of 30 days.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftwareCompanions.ViewCompanionPro",
+    "name": "ViewCompanion Pro",
+    "publisher": "Software Companions",
+    "description": "ViewCompanion Pro is a feature-rich and easy to use application for viewing, printing, annotating and converting many different file formats, including Adobe PDF, Autodesk DWF, PLT, CGM, TIFF, Calcomp, CALS, JPEG and PNG.\n\nConvert your files into a large list of output formats that includes PDF, PDF/A, DWF, DXF, CALS, TIFF, PNG and JPEG2000. Please see the complete list of supported output formats below.\nYou may use ViewCompanion to convert PLT, CGM and DWF files into Autodesk DXF format, which you can open in any major CAD application.\nViewCompanion can merge multiple files of different formats into a single multi-page PDF, TIFF or DWF file. ViewCompanion includes batch conversion of all supported formats.\n\nViewCompanion will let you view your files fast and accurate. You have full control of zoom and pan by using mouse and keyboard. You will also find advanced viewing functions such as magnifier, overview window, compare, rotate and mirror. You may toggle between monochrome, color and grayscale view modes.\n\nWith ViewCompanion Pro's markup feature you can annotate the viewed document, a process also commonly known as commenting. The range of supported annotation elements includes stamps, text, symbols, dimension lines, area measurements, rectangles, circles, lines, polygons, arrows and pictures. You may use one of the predefined stamps or create your own.\n\nThe downloaded product will run in evaluation mode for a period of 30 days.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftwareCompanions.ViewCompanionStandard",
+    "name": "ViewCompanion Standard",
+    "publisher": "Software Companions",
+    "description": "ViewCompanion Standard is an application for viewing, printing and converting plotter files generated by your CAD program or plotter driver.\nViewCompanion can open PLT plotter files using HPGL, HP-GL/2, KIPGL, HP-RTL and Calcomp formats. In addition to plotter files it can view, print and convert Adobe PDF, CGM, Autodesk DWF and Gerber files.\n\nAdobe PDF, Autodesk Drawing Web Format (DWF) and Scalable Vector Graphics (SVG) are all very useful and popular formats for distributing drawings on the Internet.\nViewCompanion can convert your PLT, Gerber, CGM and DWF files to Autodesk DXF format which you can read in any major CAD application.\n\nKey Features\n- View, print, annotate and convert PLT, HPGL and HPGL/2 files.\n- View, print, annotate and convert Autodesk DWF, CGM, Calcomp and Gerber files.\n- View, print, annotate and convert Adobe PDF files.\n- Convert your files to PDF, TIFF, CALS, DWF, DXF, PNG and other formats.\n- Add markup using text, stamps, images, symbols, shapes, dimension lines, measurement areas and more.\n- Use the measurement and markup functionality to perform digital takeoffs.\n- Include footer and header containing date, scale, time and filename when printing.\n- Add watermark using either text or a raster image to the printed document.\n- Color or Black & White Printing.\n- Scaled print or fit to paper.\n- Poster mode for printing big format drawings on multiple paper sheets.\n- Print in n-up mode, also known as multiple pages per sheet printing.\n- Full screen print preview.\n- Print to all Windows supported plotter and printer devices.\n- Batch print and batch convert all supported format.\n- Compare two files and visualize the differences.\n\nThe downloaded product will run in evaluation mode for a period of 30 days.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PentaLogix.ViewMate",
     "name": "ViewMate",
     "publisher": "PentaLogix, Inc.",
@@ -65107,15 +65898,15 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "accellence.vimaccEnterprise",
+    "id": "accellence.vimacc",
     "name": "vimacc Enterprise IPVMS",
     "publisher": "Accellence Technologies GmbH",
     "description": "vimacc is a high-performing, platform-independent, scalable software solution for professional video management.\nIt supports encrypted communication, flexible camera integration, video analytics, and GDPR-compliant privacy protection features.\nIdeal for critical infrastructure, public safety, and enterprise deployments.",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "accellence.vimacc",
-    "name": "vimacc Enterprise IPVMS",
+    "id": "accellence.vimaccEnterprise",
+    "name": "vimacc Enterprise IPVMS (no SDSRC)",
     "publisher": "Accellence Technologies GmbH",
     "description": "vimacc is a high-performing, platform-independent, scalable software solution for professional video management.\nIt supports encrypted communication, flexible camera integration, video analytics, and GDPR-compliant privacy protection features.\nIdeal for critical infrastructure, public safety, and enterprise deployments.",
     "icon": "/icons/intunify-default.png"
@@ -65371,13 +66162,6 @@
     "publisher": "VideoLAN",
     "description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
     "icon": "/icons/vlc.png"
-  },
-  {
-    "id": "StudioCoast.vMix",
-    "name": "vMix",
-    "publisher": "StudioCoast",
-    "description": "vMix is live streaming and production software that allows you to create professional quality productions on your own computer. vMix gives you the power to add multiple cameras, videos, NDI sources, remote guests using vMix Call, images, audio, web streams, Powerpoint, titles, virtual sets, chroma key, and much more to your production. You are then able to display, record and live stream your production all at the same time!",
-    "icon": "/icons/intunify-default.png"
   },
   {
     "id": "VoiceAttack.VoiceAttack",
@@ -65653,6 +66437,41 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Flexense.VXSearch",
+    "name": "VX Search",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "VX Search is an automated, rule-based file search solution allowing one to search files by the file type, category, extension, file name, file size, location, creation, modification and last access dates, regular expressions, user name, file attributes, binary and text patterns, JPEG EXIF tags, etc.\n\nThe user is provided with the ability to categorize and filter file search results, perform file management operations, generate various types of pie and bars charts, save reports to a number of standard formats such as HTML, PDF, Excel, text, CSV, XML and export search results to an SQL database.\n\nIT administrators are provided with advanced file search capabilities including the ability to search files in multiple servers and/or NAS storage devices simultaneously, periodic file search operations, automatic report generation, conditional file search actions allowing one to send E-Mail notifications and/or execute custom commands when a file search operation finds a user-specified number of files.\n\nIn addition to the VX Search GUI application, the user is provided with a command line utility, which can be used to execute pre-configured file search operations and integrated into user-custom shell scripts and batch files. The VX Search command line utility may be used to execute file search operations locally or control file search operations in one or more VX Search Servers via the network.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.VXSearchEnterprise",
+    "name": "VX Search Enterprise",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "VX Search is an automated, rule-based file search solution allowing one to search files by the file type, category, extension, file name, file size, location, creation, modification and last access dates, regular expressions, user name, file attributes, binary and text patterns, JPEG EXIF tags, etc.\n\nThe user is provided with the ability to categorize and filter file search results, perform file management operations, generate various types of pie and bars charts, save reports to a number of standard formats such as HTML, PDF, Excel, text, CSV, XML and export search results to an SQL database.\n\nIT administrators are provided with advanced file search capabilities including the ability to search files in multiple servers and/or NAS storage devices simultaneously, periodic file search operations, automatic report generation, conditional file search actions allowing one to send E-Mail notifications and/or execute custom commands when a file search operation finds a user-specified number of files.\n\nIn addition to the VX Search GUI application, the user is provided with a command line utility, which can be used to execute pre-configured file search operations and integrated into user-custom shell scripts and batch files. The VX Search command line utility may be used to execute file search operations locally or control file search operations in one or more VX Search Servers via the network.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.VXSearchPro",
+    "name": "VX Search Pro",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "VX Search is an automated, rule-based file search solution allowing one to search files by the file type, category, extension, file name, file size, location, creation, modification and last access dates, regular expressions, user name, file attributes, binary and text patterns, JPEG EXIF tags, etc.\n\nThe user is provided with the ability to categorize and filter file search results, perform file management operations, generate various types of pie and bars charts, save reports to a number of standard formats such as HTML, PDF, Excel, text, CSV, XML and export search results to an SQL database.\n\nIT administrators are provided with advanced file search capabilities including the ability to search files in multiple servers and/or NAS storage devices simultaneously, periodic file search operations, automatic report generation, conditional file search actions allowing one to send E-Mail notifications and/or execute custom commands when a file search operation finds a user-specified number of files.\n\nIn addition to the VX Search GUI application, the user is provided with a command line utility, which can be used to execute pre-configured file search operations and integrated into user-custom shell scripts and batch files. The VX Search command line utility may be used to execute file search operations locally or control file search operations in one or more VX Search Servers via the network.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.VXSearchServer",
+    "name": "VX Search Server",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "VX Search Server is a rule-based file search server, which runs in the background as a service and provides the ability to search files in one or more directories, disks, network shares or NAS storage devices by the file name, directory, regular expressions, file size, file type, file attributes, user name, creation, last modification or last access dates, text and binary patterns, JPEG EXIF tags, etc.\n\nVX Search Server allows one to setup an unlimited number of files search operations, with each one capable of searching files using an extensive set of file matching rules combined with logical operators. Power users are provided with the ability to combine multiple types of rules into hierarchical file search queries capable of precisely searching required types or groups of files. For example, VX Search Server allows one to search for all types of documents with the file size more than X MB that were modified during the last Y months.\n\nVX Search Server may be controlled using a full-scale client GUI application and a command line utility locally or via the network. The user is provided with the ability to review file search results, generate HTML, PDF, text, CSV, XML reports or export file search results from multiple servers to a centralized SQL database for future review and analysis. In addition, VX Search Server provides the ability to schedule periodic file search operations according to user-defined time intervals, automatically generate reports and/or send E-Mail notifications when a file search operation finds a user-specified number of file search results.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flexense.VXSearchUltimate",
+    "name": "VX Search Ultimate",
+    "publisher": "Flexense Computing Systems Ltd.",
+    "description": "VX Search is an automated, rule-based file search solution allowing one to search files by the file type, category, extension, file name, file size, location, creation, modification and last access dates, regular expressions, user name, file attributes, binary and text patterns, JPEG EXIF tags, etc.\n\nThe user is provided with the ability to categorize and filter file search results, perform file management operations, generate various types of pie and bars charts, save reports to a number of standard formats such as HTML, PDF, Excel, text, CSV, XML and export search results to an SQL database.\n\nIT administrators are provided with advanced file search capabilities including the ability to search files in multiple servers and/or NAS storage devices simultaneously, periodic file search operations, automatic report generation, conditional file search actions allowing one to send E-Mail notifications and/or execute custom commands when a file search operation finds a user-specified number of files.\n\nIn addition to the VX Search GUI application, the user is provided with a command line utility, which can be used to execute pre-configured file search operations and integrated into user-custom shell scripts and batch files. The VX Search command line utility may be used to execute file search operations locally or control file search operations in one or more VX Search Servers via the network.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Wiesemann-Theis.Com-Legacy",
     "name": "W&T COM-Umlenkung Legacy",
     "publisher": "Wiesemann & Theis GmbH",
@@ -65790,13 +66609,6 @@
     "name": "WatchGuard Mobile VPN with SSL client",
     "publisher": "WatchGuard",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "WatchGuard.WatchGuardSystemManager",
-    "name": "WatchGuard System Manager",
-    "publisher": "WatchGuard Technologies, Inc.",
-    "description": "WatchGuard System Manager (WSM) is an out-of-the-box platform that enables you to centrally manage all the Firebox appliances in your network using one easy-to-use console.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66318,10 +67130,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DeskSoft.WindowManager",
+    "name": "WindowManager",
+    "publisher": "DeskSoft",
+    "description": "WindowManager helps you to improve your work flow by remembering and restoring the position and size of your programs and windows.\nMany programs don't remember their position and size between sessions and even Windows Explorer does not restore windows to their last position under Windows 7 or higher.\nThis is where WindowManager steps in and makes sure your windows are placed exactly where you want them every time you open them. WindowManager even allows you to lock the position and size of any window, so that it will always open at the same spot no matter where you move it.\nThe window handling is fully customizable and you can set up special rules for your favorite or most frequently used windows.\nYou can also make WindowManager send keystrokes or mouse-clicks to a program when its window is opened, run additional programs and other advanced actions. With WindowManager, you can also minimize most windows to the system tray.\nFurthermore, WindowManager supports and enhances the virtual desktop functions of Windows 10 and 11 (switching desktops with Hot-Keys, individual desktop icons, etc.)\n\nKey Features:\n- Remembers and restores the position and size of your programs and windows\n- Supports explorer windows, programs, dialogs, etc.\n- Configurable rules for moving or sizing only, activating, closing windows, etc.\n- Advanced actions for typing text into windows, pressing keys, clicking mouse buttons, etc.\n- Can be configured to work like \"Save Workspace\" for Excel users\n- Multi-monitor support\n- Multiple profiles\n- Powerful trigger system for profile switching\n- Hot-key support\n- Minimize windows to the system tray area\n- Virtual desktop support & enhancements (hot-keys, individual desktop icons, etc.) for Windows 10 and 11\n- Fully customizable\n- Silent installation and uninstallation for mass deployment\n- Especially designed for Windows 10 and 11",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "caoyue.WindowResizer",
     "name": "WindowResizer",
     "publisher": "caoyue",
     "description": "WindowResizer is a simple tool that gives you a way to use hotkeys to quickly save and restore different window positions and sizes.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "99natmar99.Windows11Fixer",
+    "name": "Windows 11 Fixer",
+    "publisher": "99natmar99",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66521,6 +67347,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "gileli121.windowtop",
+    "name": "WindowTop",
+    "publisher": "BiGilSoft",
+    "description": "WindowTop is a powerful Windows window manager and productivity tool that lets you keep any window always on top, create floating Picture-in-Picture (PiP) windows, adjust window opacity and transparency, and easily manage multiple windows with Anchors.\n\nWhether you want to overlay transparent windows while working, watch videos while gaming, or reduce eye strain with Dark Mode, WindowTop gives you full control over your Windows desktop multitasking. Start using it for free and unlock advanced features with the Pro version!\n\nKeep any window always on top of others and highlight it with a customizable colored border. Easily adjust frame color, thickness, and behavior from the Always on Top settings — perfect for multitasking, monitoring apps, or staying focused while working.\n\nNeed faster access to your windows? Anchors let you instantly bring windows to focus with a single click — faster than ALT+TAB and perfect for touchscreens. Instead of keeping windows always on top, use Anchors to quickly reopen minimized or background windows.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "t1m0thyj.WinDynamicDesktop",
     "name": "WinDynamicDesktop",
     "publisher": "Timothy Johnson",
@@ -66693,6 +67526,13 @@
     "name": "WinNUT",
     "publisher": "Gawindx",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Tatsh.winpbcopy",
+    "name": "winpbcopy",
+    "publisher": "Tatsh",
+    "description": "This package provides pbcopy/pbpaste to read and write the default CF_TEXT clipboard. pbpaste prints the clipboard content to standard output.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -68149,6 +68989,20 @@
     "name": "Zap",
     "publisher": "Jack Mallers",
     "description": "Zap is a free Lightning Network wallet focused on user experience and ease of use, with the overall goal of helping the cryptocurrency community scale Bitcoin.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Maxon.ZBrush.2025",
+    "name": "ZBrush 2025",
+    "publisher": "Maxon",
+    "description": "ZBrush is a digital sculpting, modeling, and painting software used to create highly detailed 3D models. It offers fluid, intuitive features that allow you to model 3D shapes just like sculpting with real clay.\nLoved by 3D artists and industries worldwide, the intuitive brush system adapts to your style, letting you create with precision and control.\n\nZBrush continues to evolve on both desktop and iPad, making sculpting more precise, customizable, and production-ready. Recent updates bring refinements across modeling, texturing, and workflow, ensuring artists have the flexibility they need whether they are creating collectibles, prototypes, or production assets.\n\n- Sculpt detailed characters, properties, and environments from concept design, to in-game assets and marketing materials.\n- Craft intricate, precision-driven designs for unique pieces like jewellery, vehicle components, and advertising materials.\n- Design detailed models with support structures for smooth printing, bringing your creations to life.\n- Craft realistic models and detailed visual effects for films, concept art, and scientific visualisation.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Maxon.ZBrush.2026",
+    "name": "ZBrush 2026",
+    "publisher": "Maxon",
+    "description": "ZBrush is a digital sculpting, modeling, and painting software used to create highly detailed 3D models. It offers fluid, intuitive features that allow you to model 3D shapes just like sculpting with real clay.\nLoved by 3D artists and industries worldwide, the intuitive brush system adapts to your style, letting you create with precision and control.\n\nZBrush continues to evolve on both desktop and iPad, making sculpting more precise, customizable, and production-ready. Recent updates bring refinements across modeling, texturing, and workflow, ensuring artists have the flexibility they need whether they are creating collectibles, prototypes, or production assets.\n\n- Sculpt detailed characters, properties, and environments from concept design, to in-game assets and marketing materials.\n- Craft intricate, precision-driven designs for unique pieces like jewellery, vehicle components, and advertising materials.\n- Design detailed models with support structures for smooth printing, bringing your creations to life.\n- Craft realistic models and detailed visual effects for films, concept art, and scientific visualisation.",
     "icon": "/icons/intunify-default.png"
   },
   {
