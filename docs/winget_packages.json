@@ -455,6 +455,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TingPing.plist-viewer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "thomasschafer.scooter",
     "name": "",
     "publisher": null,
@@ -470,6 +477,13 @@
   },
   {
     "id": "Temporal.TemporalCLI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TourBox.TourBoxConsole",
     "name": "",
     "publisher": null,
     "description": "",
@@ -1555,6 +1569,13 @@
   },
   {
     "id": "the-code-fixer-23.javascript-package-delegator",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "toyobayashi.mishiro",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2937,13 +2958,6 @@
     "name": "",
     "publisher": null,
     "description": "Hysteria 是一个强大、快速、抗审查的代理工具。\n🛠️ 功能齐全\nSOCKS5、HTTP 代理、TCP/UDP 转发、Linux TProxy、TUN，更多模式不断添加中。\n⚡ 快如闪电\n基于魔改的 QUIC 协议，Hysteria 即使在最不稳定和容易丢包的网络环境中也能提供无与伦比的性能。\n✊ 抗封锁能力\n协议旨在伪装成标准的 HTTP/3 流量，无论中间人还是主动探测，都很难分辨和封锁。\n💻 跨平台\n我们为所有主要的平台和架构提供构建。随处部署，随处使用。还有许多兼容的第三方应用。\n🔗 易于集成\n内置对自定义验证、流量统计和访问控制的支持，Hysteria 很容易集成到已有的后端中。\n🤗 开放友好\n我们有详尽的文档、规范和代码，供开发者参考、贡献和构建自己的应用。以及一个友好的社区。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Axialis.IconWorkshop",
-    "name": "",
-    "publisher": null,
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -8638,6 +8652,27 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Containers.PodmanTUI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CoralCreek.SQLiteExpert.Professional",
+    "name": "",
+    "publisher": null,
+    "description": "SQLite Expert 是一款功能强大的工具，旨在简化 SQLite3 数据库的开发。它是一款功能丰富的 SQLite 管理与开发工具，能够满足从编写简单 SQL 查询到开发复杂数据库的所有用户需求。\n图形化界面支持 SQLite 的所有功能，包含可视化查询构建器、具备语法高亮和代码补全功能的 SQL 编辑器、可视化表和视图设计器，以及强大的导入和导出功能。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CoralCreek.SQLiteExpert.Personal",
+    "name": "",
+    "publisher": null,
+    "description": "SQLite Expert 是一款功能强大的工具，旨在简化 SQLite3 数据库的开发。它是一款功能丰富的 SQLite 管理与开发工具，能够满足从编写简单 SQL 查询到开发复杂数据库的所有用户需求。\n图形化界面支持 SQLite 的所有功能，包含可视化查询构建器、具备语法高亮和代码补全功能的 SQL 编辑器、可视化表和视图设计器，以及强大的导入和导出功能。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Comsci.100PcVatFreeBridge",
     "name": "",
     "publisher": null,
@@ -10654,6 +10689,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Google.ChromeOSReadinessToolBundle",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Google.Brotli",
     "name": "",
     "publisher": null,
@@ -11942,6 +11984,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.OpenJDK.25",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.OpenJDK.16",
     "name": "",
     "publisher": null,
@@ -12471,13 +12520,6 @@
     "name": "",
     "publisher": null,
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.AzureDataStudio",
-    "name": "",
-    "publisher": null,
-    "description": "Azure Data Studio 是一款数据管理与开发工具，可连接主流云数据库和本地数据库。该工具支持 Windows、macOS 和 Linux 系统，并能直接连接 Azure SQL 和 SQL Server。您还可以通过扩展库获取更多数据库支持选项，包括 MySQL、PostgreSQL 和 MongoDB。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -13566,14 +13608,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Millie.millie",
+    "id": "Millie.millie.Legacy",
     "name": "",
     "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Millie.millie.Legacy",
+    "id": "Millie.millie",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18207,6 +18249,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ReincubateLtd.BlackBerryBackupExtractor",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ReincubateLtd.iPhoneBackupExtractorSetup",
     "name": "",
     "publisher": null,
@@ -18215,6 +18264,13 @@
   },
   {
     "id": "RobinGame.Robin",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ReceitaFederaldoBrasil.SpedFiscalICMSIPI",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21420,6 +21476,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Hexler.TouchOSC",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HiroshiFuu.onecopy",
     "name": "",
     "publisher": null,
@@ -22386,6 +22449,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Deep-Symmetry.beat-link-trigger.Preview",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Deep-Symmetry.beat-link-trigger",
     "name": "",
     "publisher": null,
@@ -23059,6 +23129,13 @@
   },
   {
     "id": "Dataflare.Dataflare",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Docker.Cagent",
     "name": "",
     "publisher": null,
     "description": "",
@@ -28014,6 +28091,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Probably.BackScene",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PaddiM8.kalker",
     "name": "",
     "publisher": null,
@@ -29870,9 +29954,9 @@
   },
   {
     "id": "AdGuard.AdGuard.Beta",
-    "name": "AdGuard",
-    "publisher": "Adguard Software Limited",
-    "description": "",
+    "name": "AdGuard Beta",
+    "publisher": "Adguard Software Ltd",
+    "description": "AdGuard is a unique desktop program that has all the necessary features for the best web experience.\nThe software combines the world's most advanced ad blocker for Windows, a whole privacy protection module, and a parental control tool — all working in any browser or app.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -32239,6 +32323,41 @@
     "name": "AxGlyph",
     "publisher": "AmyXun",
     "description": "AxGlyph is the art of vector graph maker. It is designed with love, passion and expertise. It has all kinds of functionalities which make you make vector graph at lightspeed. Key features include flow chart, circuit diagram, chemical expressions, coordinate graph, 3D objects and even animations.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Axialis.CursorWorkshop",
+    "name": "Axialis CursorWorkshop",
+    "publisher": "Axialis Software Corp.",
+    "description": "Axialis CursorWorkshop is a professional cursor authoring tool which runs under Windows and lets you easily create hi-quality static & animated cursors for Windows applications & websites.\n\nAxialis CursorWorkshop allows creating all kind of Static Cursors for Windows (extension CUR). All sizes and color depths are supported up to RGB with alpha channel (for Windows XP to Windows 10).\n\nUse the advanced editor to make Animated Cursors (extension ANI). Many features permits creating smooth animated pointers. You can edit each frame in a powerful editor, specify the display delays and see a live preview of your animated cursor while you create it.\n\nThe whole CursorWorkshop interface was designed to increase your productivity:\n- Fully Integrated Workspace - All the tools are easily accessible on screen. The application fully supports mouse drag & drop allowing intuitive operations.\n- Built-in Librarian - A powerful Librarian was included in the interface to let you manage your cursor collections with ease. Always visible on screen, it fully supports drag & drop operations and more.\n- Powerful File Explorer - A built-in file explorer permits browsing your disks and find files including images and all files containing cursors.\n- Batch Operations - Sometimes you have a large number of cursors to process. CursorWorkshop includes several batch processing features to create cursors from images, convert image formats, normalize image sizes and more.\n\nYou can evaluate a program during a trial period of 30 days after the installation without any cost or obligation.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Axialis.IconGenerator",
+    "name": "Axialis IconGenerator",
+    "publisher": "Axialis Software Corp.",
+    "description": "Axialis IconGenerator is a free icon production tool for professional developers, UI designers and illustrators. It lets you create vector & bitmap icons in seconds from a database of ready-to-use icon sets.\n\nQuick Facts\n- Free Application with in-app purchases\n- Windows version compatible with Windows Vista, 7, 8, 10, 11\n- Mac OSX version compatible with OS X 10.10 64 bits or superior\n- Vector formats: SVG, XAML, PDF, EPS, PS\n- Bitmap formats PNG, BMP, JPG, ICO, ICNS and Image Strips.\n- Font Icons formats OTF, EOT, SVG, WOFF, WOFF2 and CSS automatic generation.\n- Automatically generates Dark Mode icons\n- Uses a database of professionally-made vector icons\n- Icons can be customized with overlays and colorized\n- 3 icon licenses: Free, Free with limitations, full commercial.\n- Automatic free updates of icons and application.\n\nThe database, which is automatically updated via Internet, contains a large variety of icons in vector format.\nUsing IconGenerator, search and select the icons you need, customize them and create files for your projects in vector or bitmap formats. Various icon sets are provided with different styles and specifications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Axialis.IconVectors",
+    "name": "Axialis IconVectors",
+    "publisher": "Axialis Software Corp.",
+    "description": "Axialis IconVectors is a lightweight and fast SVG icon editor built specifically for developers, offering precise control and quick editing of vector icons. It easily integrates into existing development workflows with real-time code previews (SVG, ReactTS, VueTS, XAML, C++), compatibility with Visual Studio, VS Code, and Adobe Illustrator. Its developer-centric features eliminate unnecessary complexity, making vector icon creation efficient and straightforward.\n\nQuick Facts\n- Lightweight Application: Very fast and responsive, it perfectly integrates into your development process to increase your productivity.\n- Easy SVG Vector Icon Editing: Create and edit SVG icons swiftly.\n- Developer-Oriented Design: Essential vector tools tailored specifically to developers.\n- Live Code Viewer: Real-time source code previews in SVG, XAML, ReactTS, VueTS, and C++.\n- Advanced Icon Tools: Add overlays, shadows, cutouts, and generate UI state color variants.\n- Make Dark-Theme Icons: Colorize icons for dark theme in a click.\n- Layer Management: Organize artwork through grouping, renaming, and visibility controls.\n- Path Editing: Accurately manipulate anchor points, Bezier curves, and path conversions.\n- Geometric Shapes: Create rectangles, ellipses, and polylines, convertible into editable paths.\n- Boolean Operations: Perform vector logic operations such as union, subtract, intersect.\n- Dark and Light UI Themes: Seamlessly integrates with your preferred OS theme.\n- User-Friendly Interface: Features adjustable zoom, grids, snap-to-grid, canvas center.\n- Multiple Instances Support: Open multiple windows simultaneously to streamline workflow.\n- Shell Extension: Display SVG icons in thumbnails and previews (Windows version).\n\nDuring a 30-day trial period, you'll have unrestricted access to fully explore the software's features.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Axialis.IconWorkshop",
+    "name": "Axialis IconWorkshop",
+    "publisher": "Axialis Software Corp.",
+    "description": "Axialis IconWorkshop is a professional icon authoring tool which runs under Windows and lets you easily create hi-quality icons for all available platforms & devices.\n\nAs a developer you'll be able to easily create professional icons for your applications on all major operating systems, including:\n* Windows Icons - ICO file format for all version up to 768x768 for Windows 10\n* MacOS Icons - ICNS, RSC, BIN file formats for all version up to 1024x1024 for OSX 10.11 El Capitan\n* Unix/Linux - PNG file format with alpha channel for all versions\n* Android OS - PNG file format with alpha channel for all UI elements (different sizes)\n* iPhone OS - PNG file format with alpha channel for all UI elements (different sizes)\n* Windows Phone - PNG, BMP file formats with alpha channel for all UI elements (different sizes)\n\nThe whole IconWorkshop interface was designed to increase your productivity:\n* Fully Integrated Workspace - All the tools are easily accessible on screen. The application fully supports mouse drag & drop allowing intuitive operations.\n* Built-in Librarian - A powerful Librarian was included in the interface to let you manage your icon collections with ease. Always visible on screen, it fully supports drag & drop operations and more.\n* Powerful File Explorer - A built-in file explorer permits browsing your disks and find files including images and all files containing icons.\n* Batch Operations - Sometimes you have a large number of icons to process. IconWorkshop includes several batch processing features to create icons from images, convert image formats, normalize image sizes and more.\n\nDuring a 30-day trial period, you'll have unrestricted access to fully explore the software's features.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Axialis.ScreensaverProducer",
+    "name": "Axialis Screensaver Producer",
+    "publisher": "Axialis Software Corp.",
+    "description": "Axialis Screensaver Producer is a professional screensaver authoring tool for Windows which lets you easily create hi-quality screensavers for all versions of Windows\n\nFor business purpose, or simply for your personal use, you'll be able to create all kinds of screensavers, including:\n- Sprites - Creating state-of-art screensavers with sprites (animated objects moving on screen) has never been easier. For example, you'll be able to create in minutes a cool screensaver with your company logo bouncing on screen.\n- Photo Slideshows - You can use many different transitions including the famous \"fade-in & fade-out\" effects. Several options are available to meet your needs: background sounds, ability to attach a speech to each image, display with automatic screen resolution adjustment, and more.\n- Videos - If you have created a video, you'll be able to create a screensaver from it in minutes. For example, it's a great idea for a company to make a screensaver from a TV ad clip. Many file formats are supported: AVI, MPEG, ASF, MOV, MP4, FLV, 3GP.\n\nThe whole Screensaver Producer interface was designed to increase your productivity:\n- Fully Integrated Workspace - All the tools are easily accessible on screen. The application fully supports mouse drag & drop allowing intuitive operations.\n- WYSIWYG Editor - To increase your productivity, we have created an advanced WYSIWYG screensaver editor with full Drag & Drop support. WYSIWYG means \"What You See Is What You Get\". So no surprise at compilation time, your final screensaver is strictly identical.\n- Built-in Librarian - A powerful Librarian was included in the interface to let you manage your icon collections with ease. Always visible on screen, it fully supports drag & drop operations and more.\n- Powerful File Explorer - A built-in file explorer permits browsing your disks and find files including images and all files containing icons.\n\nYou can evaluate a program during a trial period of 30 days after the installation without any cost or obligation.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37219,6 +37338,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.DHCPLogView",
+    "name": "DHCPLogView",
+    "publisher": "NirSoft",
+    "description": "DHCPLogView is a tool for Windows that monitors the DHCP requests sent by every device connect to your network and displays the information on the main window.\nFor every device that connects your network the following information is displayed: DHCP Request Time, MAC Address, MAC Address Company, Requested IP Address, Host Name, Vendor Class ID, User Class, PRL Bytes (Parameter Request List), and the operating system of the device (For common versions of Windows and Android)",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "gnome.Dia",
     "name": "Dia",
     "publisher": "gnome",
@@ -37520,6 +37646,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.DiskCountersView",
+    "name": "DiskCountersView",
+    "publisher": "NirSoft",
+    "description": "DiskCountersView displays the system counters of each disk drive in your system, including the total number of read/write operations and the total number of read/write bytes.\nIt also displays general drive information, like disk name, partition number, partition location, and so on.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Eassos.DiskGenius",
     "name": "DiskGenius",
     "publisher": "Eassos Co., Ltd.",
@@ -37758,6 +37891,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AmrakSoftware.DMGExtractor",
+    "name": "DMG Extractor",
+    "publisher": "Amrak Software",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ReincubateLtd.DMGExtractor",
+    "name": "DMG Extractor",
+    "publisher": "Reincubate Software Ltd",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Drumstick.dmidiplayer",
     "name": "dmidiplayer",
     "publisher": "Drumstick",
@@ -37804,13 +37951,6 @@
     "name": "dnscrypt-proxy",
     "publisher": "DNSCrypt",
     "description": "A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2, DNS-over-HTTPS, Anonymized DNSCrypt and ODoH (Oblivious DoH).",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NirSoft.DNSLookupView",
-    "name": "DNSLookupView",
-    "publisher": "NirSoft",
-    "description": "DNS tracing tool that allows you to view the details of every DNS query sent through the DNS\nClient service of Windows.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39074,13 +39214,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "INTEF.eXeLearning",
-    "name": "eLearning XHTML & HTML5 editor",
-    "publisher": "INTEF-eXe Project",
-    "description": "eXeLearning is an open source tool for the creation of educational content. This guide does not cover every possible operation and variations between program versions.\nInstall eXeLearning on your favourite operating system (Windows, MAC or Linux) and use your preferred browser to work with it.\neXeLearning aims to makes it easy to use your content locally or on the Internet, it can be exported to HTML, HTML5, SCORM1.2, SCORM2004, IMS, ePub3 or other formats and published as a stand alone piece, or in a learning management system (LMS) such as Moodle or another similar platform.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "electerm.electerm",
     "name": "electerm",
     "publisher": "ZHAO Xudong",
@@ -40026,6 +40159,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BtbN.FFmpeg.GPL.8.0",
+    "name": "FFmpeg (GPL static variant, 8.0 release branch)",
+    "publisher": "BtbN",
+    "description": "FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge.\nA static FFmpeg build from BtbN based on the 8.0 release branch with all dependencies, even those that require full GPL instead of just LGPL.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BtbN.FFmpeg.GPL",
     "name": "FFmpeg (GPL static variant, master branch)",
     "publisher": "BtbN",
@@ -40093,6 +40233,20 @@
     "name": "FFmpeg (LGPL static variant, 7.1 release branch)",
     "publisher": "BtbN",
     "description": "FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created. It supports the most obscure ancient formats up to the cutting edge.\nA static FFmpeg build from BtbN based on the 7.1 release branch with all dependencies except libraries that are GPL-only",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BtbN.FFmpeg.LGPL.Shared.8.0",
+    "name": "FFmpeg (LGPL 动态编译版, 8.0 发布分支)",
+    "publisher": null,
+    "description": "FFmpeg 是领先的多媒体框架，能够解码、编码、转码、混流、分解、推流、应用滤镜并播放人类和机器创建的几乎所有内容。它支持从最晦涩古老的格式到最前沿的格式。\n由 BtbN 构建的基于 8.0 发布分支的动态编译的 FFmpeg，拥有除仅 GPL 协议的库以外的所有依赖。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BtbN.FFmpeg.LGPL.8.0",
+    "name": "FFmpeg (LGPL 静态编译版, 8.0 发布分支)",
+    "publisher": null,
+    "description": "FFmpeg 是领先的多媒体框架，能够解码、编码、转码、混流、分解、推流、应用滤镜并播放人类和机器创建的几乎所有内容。它支持从最晦涩古老的格式到最前沿的格式。\n由 BtbN 构建的基于 8.0 发布分支的静态编译的 FFmpeg，拥有除仅 GPL 协议的库以外的所有依赖。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41933,7 +42087,7 @@
     "id": "Garmin.Express",
     "name": "Garmin Express",
     "publisher": "Garmin Ltd or its subsidiaries",
-    "description": "",
+    "description": "Use Garmin Express to update maps and software, sync with Garmin Connect and register your device. This desktop software notifies you when updates are available and helps you install them.\n\nKeep Your Device up to Date:\n* Get the latest detailed street maps to ensure fast, accurate navigation.\n* Use Garmin Express to upload your activities and wellness data to your Garmin Connect account.\n* Garmin Express makes software updates easy to install.\n* Manage free and paid content, including Connect IQ™ Store apps and accessory maps.\n* Download the latest charts to a memory card for easy transfer to your marine device.\n* Get the latest free CourseView maps and updates for your Garmin golf device.\n* Activate your maps or services with a voucher or product key.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44401,6 +44555,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HunterPie.HunterPie",
+    "name": "HunterPie",
+    "publisher": "HunterPie",
+    "description": "HunterPie v2 is a version of HunterPie completely rewritten from scratch, however, it follows the same principles of its predecessor: being a modern, powerful and easy to use overlay with support for plugins, modules and custom widgets for Monster Hunter: World and Monster Hunter: Rise.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Orange-OpenSource.Hurl",
     "name": "Hurl",
     "publisher": "Orange-OpenSource",
@@ -45675,6 +45836,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MaximilianHerczegh.iTunesBackupExplorer",
+    "name": "iTunes Backup Explorer",
+    "publisher": "Maximilian Herczegh",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "IVPN.IVPN",
     "name": "IVPN Client",
     "publisher": "IVPN Limited",
@@ -46518,7 +46686,7 @@
     "id": "Taozuhong.KangarooRedis",
     "name": "Kangaroo Redis",
     "publisher": "Taozuhong",
-    "description": "Kangaroo is a AI-powered SQL client and admin tool for popular databases(MariaDB / MySQL / Oracle / PostgreSQL / SQLite / SQLServer / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.",
+    "description": "Kangaroo is a AI-powered SQL client and admin tool for popular databases(MariaDB / MongoDB / MySQL / Oracle / PostgreSQL / SQLite / SQLServer / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47397,6 +47565,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.LANIPScanner",
+    "name": "LANIPScanner",
+    "publisher": "NirSoft",
+    "description": "LANIPScanner is a simple tool for Windows that scans your network and displays the list of all computers and devices that are currently connected to your network.\nLANIPScanner uses multiple network protocols to scan your network, including ICMP (ping), ARP, NBNS, SSDP, mDNS, DNS.\nFor every computer or device that is connected to your network, the following information is displayed (Only if it's available): IP Address, MAC Address, MAC Address Company, Device Name, Workgroup, Device String, Protocols List, Ping Time, Ping TTL, Device Type, IPv6 Address, IPv6 Link Local Address.\nWhen a device responses to SSDP or mDNS protocol, you can also view the raw data received from the device in the lower pane, by selecting the device in the upper pane.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LANCOM.LANmonitor",
     "name": "LANmonitor/WLANmonitor",
     "publisher": "LANCOM Systems GmbH",
@@ -48132,8 +48307,22 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BellSoft.LibericaJRE.25",
+    "name": "Liberica JRE 24",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BellSoft.LibericaJRE.24",
     "name": "Liberica JRE 24",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJRE.25.Full",
+    "name": "Liberica JRE 24 Full",
     "publisher": "BellSoft",
     "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
     "icon": "/icons/intunify-default.png"
@@ -48535,6 +48724,13 @@
     "name": "Lively Wallpaper",
     "publisher": "rocksdanister",
     "description": "Free and open-source software that allows users to set animated desktop wallpapers and screensavers.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LlamaFarm.CLI",
+    "name": "LlamaFarm CLI",
+    "publisher": "LlamaFarm",
+    "description": "LlamaFarm is a comprehensive, modular AI framework that gives you complete control over your AI stack. Build powerful AI applications locally with production-ready components including RAG systems, vector databases, model management, prompt engineering, and fine-tuning - all designed to work seamlessly together or independently.\n\nFeatures:\n- Local-First Development - Build and test entirely on your machine\n- Production-Ready Components - Battle-tested modules that scale from laptop to cluster\n- Strategy-Based Configuration - Smart defaults with infinite customization\n- Deploy Anywhere - Same code runs locally, on-premises, or in any cloud\n- Multi-Provider Support - Use cloud LLM providers or run your own models locally\n- Complete RAG Pipeline - Document processing, embedding, and retrieval",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50747,6 +50943,13 @@
     "name": "MobaXterm",
     "publisher": "Mobatek",
     "description": "MobaXterm 是您的远程计算终极工具箱，通过单个 Windows 应用程序提供了大量的功能，为程序员、网站管理员、IT 管理员以及几乎所有需要以更简单的方式处理远程工作的用户量身定制。\nMobaXterm 为 Windows 提供了所有重要的远程网络工具（SSH、RDP、X11、SFTP、FTP、Telnet、Rlogin……），仅需一个便携 exe 文件，开箱即用。一些插件可以为 MobaXterm 添加功能，例如 Unix 命令（bash、ls、cat、sed、grep、awk、rsync……）。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.MobileFileSearch",
+    "name": "MobileFileSearch",
+    "publisher": "NirSoft",
+    "description": "MobileFileSearch is a tool for Windows that allows you to search files inside a mobile device (Smartphone or Tablet) plugged to the USB port on your computer, with Media Transfer Protocol (MTP).\nAfter finding the files on your Smartphone / Tablet, you can optionally delete them, copy them to a folder on your computer, or export the files list to csv/tab-delimited/html/xml/JSON file.\nMobileFileSearch also allows you to activate the search from command-line and then export the result to a file, or copy the found files to the desired folder on your computer.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53130,6 +53333,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.NetworkCountersWatch",
+    "name": "NetworkCountersWatch",
+    "publisher": "NirSoft",
+    "description": "NetworkCountersWatch is a tool for Windows that displays system counters for every network interface on your system.\nThe system counters include the number of incoming/outgoing bytes, number of incoming/outgoing packets, number of broadcast packets, and more.\nYou can also initialize all counters to zero at any time in order to watch the network counters for specific event.\nNetworkCountersWatch also calculates and displays the current download speed and upload speed on your network interface.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NirSoft.NetworkInterfacesView",
     "name": "NetworkInterfacesView",
     "publisher": "NirSoft",
@@ -53421,6 +53631,13 @@
     "name": "Nintendo Switch Online",
     "publisher": "Samuel Elliott",
     "description": "JavaScript library and command line and Electron app for accessing the Nintendo Switch Online and Nintendo Switch Parental Controls app APIs. Show your Nintendo Switch presence in Discord, get friend notifications on desktop, and download and access SplatNet 2, NookLink, SplatNet 3 and Parental Controls data.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.DNSLookupView",
+    "name": "NirSoft DNSLookupView",
+    "publisher": "NirSoft",
+    "description": "DNSLookupView is a DNS tracing tool for Windows 10 and Windows 11 that allows you to view the details of every DNS query sent through the DNS Client service of Windows.\nFor every DNS query, the following information is displayed: Host Name, Query Type (A, AAAA, and so on), Query Status (Error or succeeded), Query Result, Query Timestamp, ID and name of the process that requested the DNS lookup.\nClient service of Windows.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55339,6 +55556,13 @@
     "name": "Parallels Client",
     "publisher": "Parallels International GmbH",
     "description": "Parallels® RAS (remote application server) is a flexible virtual application and desktop delivery solution that empowers organizations of all sizes to work securely from anywhere, on any device.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "outek.Parallels",
+    "name": "Parallels Client portable",
+    "publisher": "Parallels International GmbH",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57729,6 +57953,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Riri.QRCodeforCmdPal",
+    "name": "QR Code for CmdPal",
+    "publisher": "Riri",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JiriPolasek.QRCodesforCommandPalette",
+    "name": "QR Codes for Command Palette",
+    "publisher": "Jiri Polasek",
+    "description": "Instantly create and manage QR codes right from your PowerToys Command Palette—no need to open another app or website. Requires Microsoft PowerToys. This handy extension empowers you to generate QR codes for URLs, text, and more with just a few keystrokes. Whether you're sharing information with colleagues or quickly transferring data to your mobile device, it's the fastest way to get it done.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OttoZumkeller.QR-CodeReader",
     "name": "QR-Code Reader",
     "publisher": "Otto Zumkeller",
@@ -58495,7 +58733,7 @@
     "id": "KurtZimmermann.RegCool",
     "name": "RegCool",
     "publisher": "Kurt Zimmermann",
-    "description": "RegCool is a very flexible editor for the Windows registry. The program offers an attractive interface, convenient context menus and a handy tool bar, with the extensive editing functions are available at your fingertips. RegCool provides the complete functionality of the Windows own Regedit, but adds a lot of additions. Editing .reg and .hive-Files in Offline Mode (Offline Registry)",
+    "description": "RegCool is a very flexible editor for the Windows registry. The program offers an attractive interface, convenient context menus and a handy tool bar, with the extensive editing functions are available at your fingertips.\nRegCool provides the complete functionality of the Windows own Regedit, but adds a lot of additions. Editing .reg and .hive-Files in Offline Mode (Offline Registry)\n\nMaintenance\n- Backup & Restore - Complete registry backup and restore...\n- Defragmentation - Scan and optimize your registry by removing gaps and wasted space, improving system performance. If you want to defragment your registry after the scan results, you must restart your computer...\n\nAdd-Ons\n- Compare Registry - Compare registry entries between computers at super-fast speed...\n- RegShot feature - RegShot lets you quickly take a snapshot of your registry and compare it with a second one after making system changes or installing a new software product...",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58517,6 +58755,13 @@
     "name": "Registry Life",
     "publisher": "ChemTable Software",
     "description": "The system registry is one of the most important components of the operating system. The stability of the system's operation depends upon it being in working order, and the speed of the applications you work with depends upon the volume of data contained in it.\nRegistry Life helps correct errors in the registry and optimizes it. It's a compact, simple to use, and FREE solution for servicing your system registry.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.RegistryChangesView",
+    "name": "RegistryChangesView",
+    "publisher": "NirSoft",
+    "description": "RegistryChangesView is a tool for Windows that allows you to take a snapshot of Windows Registry and later compare it with another Registry snapshots, with the current Registry or with Registry files stored in a shadow copy created by Windows.\nWhen comparing 2 Registry snapshots, you can see the exact changes made in the Registry between the 2 snapshots, and optionally export the Registry changes into a standard .reg file of RegEdit.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59497,6 +59742,13 @@
     "name": "Rustup: the Rust toolchain installer",
     "publisher": "The Rust Programming Language",
     "description": "Rustup 可从官方发布渠道安装 Rust 编程语言，让你能在稳定版、测试版和每夜版编译器之间轻松切换，并保持更新。通过常见平台标准库的二进制编译，它能让交叉编译变得更简单。它还能在 Rust 支持的所有平台上运行，包括 Windows。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "cowboy8625.rusty-rain",
+    "name": "Rusty Rain",
+    "publisher": "Cowboy8625",
+    "description": "A cross platform matrix rain made with Rust.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60907,6 +61159,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.SimpleCodeGenerator",
+    "name": "SimpleCodeGenerator",
+    "publisher": "NirSoft",
+    "description": "SimpleCodeGenerator is a simple tool for Windows that allows you to quickly generate QR Code for scanning with App on your Smartphone.\nYou can display the QR Code on the screen, copy it to the clipboard and then paste it to another program (as image), or save it image file - .png , .gif , .jpg , .tiff, or .bmp\nSimpleCodeGenerator also allows you to generate QR Code from command line and save it as image file ( .png , .gif , .jpg , .tiff, or .bmp) without displaying any user interface.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ModelMakerTools.SimpleMindPro",
     "name": "SimpleMind Pro 2.7.0",
     "publisher": "ModelMaker Tools BV",
@@ -61912,20 +62171,6 @@
     "name": "SQLite",
     "publisher": "SQLite",
     "description": "SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.\nSQLite is an embedded SQL database engine.\nUnlike most other SQL databases, SQLite does not have a separate server process.\nSQLite reads and writes directly to ordinary disk files.\nA complete SQL database with multiple tables, indices, triggers, and views, is contained in a single disk file.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "CoralCreek.SQLiteExpertPers",
-    "name": "SQLite Expert Personal",
-    "publisher": "Coral Creek Software",
-    "description": "SQLite Expert is a powerful tool designed to simplify the development of SQLite3 databases.\n\nIt is a feature rich administration and development tool for SQLite designed to answer the needs of all users from writing simple SQL queries to developing complex databases.\n\nThe graphical interface supports all SQLite features. It includes a visual query builder, an SQL editor with syntax highlighting and code completion, visual table and view designers and powerful import and export capabilities.\n\nFree for personal and commercial use!",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "CoralCreek.SQLiteExpertPro",
-    "name": "SQLite Expert Professional",
-    "publisher": "Coral Creek Software",
-    "description": "SQLite Expert is a powerful tool designed to simplify the development of SQLite3 databases.\n\nIt is a feature rich administration and development tool for SQLite designed to answer the needs of all users from writing simple SQL queries to developing complex databases.\n\nThe graphical interface supports all SQLite features. It includes a visual query builder, an SQL editor with syntax highlighting and code completion, visual table and view designers and powerful import and export capabilities.\n\nProfessional Features:\n- Repair damaged databases.\n- Database DDL compare tool.\n- Includes ICU extension.\n- Advanced SQL editor with code completion and syntax highlighting.\n- Copy/Paste records between tables via clipboard.\n- Copy/Paste tables between databases via clipboard.\n- Visual SQL Query Builder.\n- Copy tables between databases using drag and drop.\n- Supports SQLite auto extensions.\n- Export data to Excel, XML, JSON, HTML, CSV, TSV, ADO data sources, SQL script, SQLite database.\n- Import data from ADO data source, SQL script, SQLite, CSV, TSV.\n- Send the contents of any grid to printer or export it to a PDF file.\n- Generate SELECT, INSERT, UPDATE and DELETE statements based on the visible fields on the current table.\n- Lua and Pascal scripting support.\n\nSQLite Expert Professional is available for you to try as fully functional product, with no obligation, for a period of 30 days. After the expiration of the evaluation period you must either purchase this software or remove it from your computer.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64232,6 +64477,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Hexler.TouchOSC-Bridge",
+    "name": "TouchOSC Bridge",
+    "publisher": "Hexler Limited",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SaaSGroup.Tower",
     "name": "Tower",
     "publisher": "SaaS.Group",
@@ -64459,7 +64711,7 @@
     "id": "DigitalScholar.Tropy",
     "name": "Tropy",
     "publisher": "The Tropy Developers and Contributors",
-    "description": "Tropy is free open-source software that allows you to organize and describe photographs of research material.",
+    "description": "Tropy is free open-source software that allows you to organize and describe photographs of research material.\n\nTropy thinks the way you do: like a researcher. Say goodbye to IMG_5261.JPG and IMG_5262.JPG, and say hello to your sources.\n\nTropy helps you contextualize artifacts and their photos by capturing your own subject expertise. A friendly editing interface allows customized templates that fit your research like a glove.\n\nTropy understands that every researcher is different and that every project has its own demands. Break free from the logic of the physical archive and use tags and lists to organize your research items according to your needs.\n\nTropy’s beautiful annotation tools allow you to transcribe documents, select image details, and manipulate photographs to get the clearest view of your sources.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -65695,10 +65947,10 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "TGRMN.ViceVersa.Pro",
-    "name": "ViceVersa Pro 6",
+    "id": "TGRMNSoftware.ViceVersaPro",
+    "name": "ViceVersa Pro",
     "publisher": "TGRMN Software",
-    "description": "",
+    "description": "ViceVersa PRO is Professional Software for Windows designed for File Synchronization, File Replication, File Backup and File Comparison.\n\n- Synchronize files between two or more locations, hard-disks, to/from folders over the Network, VPN, NAS, SMB, cloud, external USB disks.\n- Replicate files between two or more locations, hard-disks, to/from folders over the Network, VPN, NAS, SMB, cloud, external USB disks.\n- Backup files to storage or between computers, hard-disks, to/from folders over the Network, VPN, NAS, SMB, cloud, external USB disks.\n- Compare the content of two or more folders side-by-side (files and subfolders). See what files are the same, newer or older.\n- ViceVersa lets you synchronize files, replicate folders, perform backups and do file and folder comparisons like never before.\n- ViceVersa works between computers, laptops, desktops, workstations, servers, over the network, LAN, SMB, VPN, USB, and with all types of storage media, external hard-disks, flash drives, NAS, etc.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66399,6 +66651,328 @@
     "name": "vott",
     "publisher": "Microsoft",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.VovScreenRecorder",
+    "name": "Vov Screen Recorder",
+    "publisher": "VOVSOFT",
+    "description": "Vov Screen Recorder is a handy tool to capture computer screen, i.e., record the ongoing activities on the screen. Using Vov Screen Recorder, you can record your desktop to create a how-to video to demonstrate working of a program, compile a products demo video for some client, record gameplay to post on social networks or record any other activity on the screen to share with friends or stakeholders, or to upload on video streaming services like YouTube. Vov Screen Recorder can capture a specific area or the full screen.\n\nA lightweight super-simple screen recorder application to capture your desktop with one click. All popular video formats are supported such as AVI, QuickTime Video (MOV), MP4, MPEG, FLV, WMV, Matroska Video (MKV), and animated GIF. You can also include system audio or your voice using your microphone. Vov Screen Recorder includes and uses libraries from the FFmpeg project and it does not require any additional video codecs. It supports multiple monitors, software encoding and hardware acceleration for AMD, INTEL and NVIDIA GPUs (H264 and HEVC).\n\nKey Features:\n* Supports software and hardware encodings\n* Supports multiple monitors\n* Supports capturing microphone audio\n* Multilingual interface\n* Supports full screen or region/window recording\n* Supports mouse pointer highlighting\n* Supports capturing system sounds\n* Installer and portable editions",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.VovStickyNotes",
+    "name": "Vov Sticky Notes",
+    "publisher": "VOVSOFT",
+    "description": "For many people, the desktop is simply the place where shortcuts and icons are located, without any real functionality. Nonetheless, you can benefit from all the empty space on your desktop by adding post-its, and Vov Sticky Notes is one of the apps that can help you do that.\n\nOnce you install it on your PC, the application automatically goes to the system tray, and you can double-click or right-click its icon when you want to create a new note. It basically opens a resizable window where you can paste text or start typing some of your important tasks. In addition to text, you can paste images and screenshots from clipboard. You can also drag and drop image files.\n\nKey Features:\n* High-DPI support\n* Offline storage\n* Themes\n* Portability\n* Multiple monitor support\n* Reminders\n* Backup import and export\n* Text and image support",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.AIRequester",
+    "name": "Vovsoft AI Requester",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft AI Requester is a program that can connect to OpenAI API and OpenAI-compatible APIs with ease.\n\nThe software provides a reliable and easy-to-use interface that seamlessly integrates with the latest AI technologies, including GPT-5, GPT-4o (omni), GPT-4-Turbo, o1, o3, and DALL-E.\n\nIt supports OpenAI-compatible endpoints for text generation (/v1/chat/completions), allowing you to experiment with models like DeepSeek, Gemma, LLaMA, and Mistral both offline and online. Whether you’re exploring AI models locally without an internet connection or connecting to online services, this program offers a flexible environment to suit your needs.\n\n- Use new models, Vision, DALL-E without the need for a ChatGPT Plus or ChatGPT Pro subscription.\n- Access OpenAI services via API even when ChatGPT servers are slow or unreachable.\n- Your OpenAI API key is stored locally on your device and transmitted only to OpenAI servers for authorized requests.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.AutoMouseClicker",
+    "name": "Vovsoft Auto Mouse Clicker",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Auto Mouse Clicker is a simple and straightforward desktop clicker software that automates mouse clicks. With this program, you can automate your workflow, increase productivity, and save time by eliminating the need to perform tedious tasks manually.\n\nThis program can simulate left, right and middle mouse button clicks on any window, and frees users from repetitive click work. The software maps the screen based on the coordinates to ensure that it clicks precisely where the user wants it.\n\nWhether you're a gamer, or a professional who needs to perform repetitive tasks on a regular basis, Vovsoft Auto Mouse Clicker can help you achieve your goals quickly and easily. This software can be used to automate a wide range of tasks, such as clicking on buttons, and navigating web pages.\n\nThere is nothing as boring as clicking thousands of times while playing your favorite games to complete certain tasks. Attacking enemies, building structures, and more tasks need a lot of clicks can waste your time and make you get bored, they can even cause wrist pain and harm your mouse. Some games can force you to click on the same point hundreds of times. What you need and what you have been looking for is a software that enables you to create automatic clicks as many times as you want.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.BatchAudioConverter",
+    "name": "Vovsoft Batch Audio Converter",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Batch Audio Converter is your go-to solution for converting audio files quickly and efficiently. This powerful Windows software allows you to handle bulk audio conversions with ease. Simply drag and drop your files, select your desired output format, and let the software do the rest.\n\nWhether you’re managing a music library, preparing audio files for a project, or ensuring compatibility across platforms, this program delivers high-quality results with minimal effort.\n\n- Bulk Conversion: Convert multiple files at once to save time.\n- Drag-and-Drop Simplicity: Add files directly from Windows Explorer.\n- Wide Format Support: Handles all popular audio file types, ensuring compatibility with your devices and applications.\n- Preserve Metadata: Retain audio file details, such as ID3 tags, during conversion when supported by the file format.\n- Customizable Output Settings: Adjust bitrate, sampling rate, and audio channels (mono, stereo, 5.1, 7.1) for tailored results.\n- Flexible Destination Management: Set your preferred output directory for better organization.\n\nInput and output: MP3 (MPEG Audio Layer 3), WMA (Windows Media Audio), WAV (Waveform Audio), M4A (MPEG-4 Audio), AIFF (Audio Interchange File Format), AAC (Advanced Audio Coding), OGG (Ogg Vorbis), OPUS (Opus Codec), AC3 (Dolby Digital), EAC3 (Enhanced AC-3), MP2 (MPEG Audio Layer 2), WV (WavPack), WEBM (WebM Audio), FLAC (Free Lossless Audio Codec)",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.BatchImageConverter",
+    "name": "Vovsoft Batch Image Converter",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Batch Image Converter is a simple tool for converting between graphic formats in batches. With its help, you can easily obtain images in the desired format out of a folder containing pictures of diverse types.\n\nEasily convert images, photos and pictures with this lightweight mass image converter software. Simple and powerful, it converts image formats, one by one or in batch mode. Images can be converted in bulk.\n\nYou can convert one or more images with ease with the help of this handy and reliable application, which can process entire folders. You can use this highly intuitive and user-friendly application to quickly change the formats of multiple graphic files. You simply need to add image files either via drag & drop, or by manually browsing to the location of each file.\n\nSelect your output image format, convert the original images by simply doing a batch convertion in one go. The software supports PNG, WEBP, JPEG, JFIF, TIFF, BMP, GIF, ICO, WMP, AVIF, SVG, JP2, JXL, TGA, PSD, PDF, HEIC filetypes, preserves transparency of transparent images with alpha channel, has the \"Convert to Grayscale\" option.\n\nDepending on the number of input images, it can take more or less time to convert the files. The application is fast and, when the conversion process is completed, a notification message is displayed.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.BatchURLDownloader",
+    "name": "Vovsoft Batch URL Downloader",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Batch URL Downloader is one of the simplest applications of its kind, so it can prove to be a good alternative to overly-complex download managers.\nIt enables you to save multiple files as part of the same job. Essentially, all you have to do is paste a list of URLs in the text field and then click the \"Download All\" button. The files will be saved in quick succession, and the job progress is displayed in the status bar.\n\nLooking for a mass URL downloader? If you need to download a large number of links and wish to avoid saving them individually, this application can definitely help. This batch link downloader can speed up the process of downloading thousands of files in bulk from your list of URLs.\n\nThe application includes \"URL Grabber\" and \"Scheduler\", supports single-threaded (one by one in order) and multi-threaded downloading. SSL/TLS, GZIP enabled web servers, HTTP and SOCKS proxy servers are also supported.\n\nIf you are downloading very large files, you can stop the process at any time and resume it later. Instead of starting the download from the beginning, this program will complete the remaining parts and merge the files automatically.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.BatchVideoUpscaler",
+    "name": "Vovsoft Batch Video Upscaler",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Batch Video Upscaler is a powerful Windows software that enhances and enlarges videos using AI technology. Designed for simplicity and performance, it runs entirely offline without requiring any external dependencies. Thanks to Vulkan-based acceleration, it works seamlessly with Intel, AMD, and Nvidia graphics cards. It supports popular file formats, including MP4 and AVI, and allows you to process multiple videos in bulk, saving you time and effort.\n\nKey Features\n- AI-Powered Upscaling: Enlarges videos up to 2x their original size with improved sharpness and detail.\n- GPU-Accelerated Performance: Leverages Vulkan driver for seamless compatibility with Intel, AMD, and Nvidia GPUs. No additional dependencies like CUDA or Python are required.\n- All-in-One Package: Includes all necessary binaries and pre-trained models, making installation and portable usage hassle-free.\n- Fully Offline Operation: Runs entirely on your local device, ensuring your files remain private and secure. No data is sent to the internet.\n- Batch Processing: Convert multiple videos in a single run with minimal effort.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.BulkBarcodeGenerator",
+    "name": "Vovsoft Bulk Barcode Generator",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Bulk Barcode Generator is a powerful desktop application that allows you to create thousands of barcodes from plain-text data in batch mode.\n\nThe software supports 85 different barcode types, including popular formats such as Code 39, Code 128, EAN-13, and UPC-A. You can export barcodes in various image formats, including PNG, JPG, GIF, and BMP, making it highly flexible for different use cases.\n\nThe best part of this program is that all processing is done completely offline. You have full control over your private data, and no barcode information is ever sent to the internet.\n\nWhether you're in retail, manufacturing, logistics, or asset management, this easy-to-use tool offers a fast, reliable, and private solution for generating barcodes in bulk.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.BulkDomainAppraisal",
+    "name": "Vovsoft Bulk Domain Appraisal",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Bulk Domain Appraisal software performs multiple appraisals on large domain lists. Import your bulk domain list and appraise all your domains with a single click.\n\nYou can calculate domain name values with this tool and get an accurate report of how much your domain names are worth. You can import your domain name list using clipboard, txt files, or drag-and-drop. Results can be exported as TXT or CSV files.\n\nWhether you're planning to buy or sell a domain name, or just want to know how much your domain is worth, you'll be looking to perform a process called domain valuation. This can also be referred to as domain name appraisal. It is a method for estimating the price of a specific domain name and determining if it's a good domain. If you are a domain investor or just starting to build a domain portfolio, chances are you need to use a batch domain name valuation tool.\n\nWhen it comes to expired domain hunting, using bulk domain name appraisal software is crucial. It saves time and effort by allowing the user to evaluate multiple domain names, rather than manually appraising each one individually. This domain value checker can be especially useful when dealing with large lists of expired domains, where manually appraising each one can be a time-consuming and daunting task.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.BulkQRCodeGenerator",
+    "name": "Vovsoft Bulk QR Code Generator",
+    "publisher": "VOVSOFT",
+    "description": "Generating thousands of QR codes with different data individually can be time-consuming.\nWith the help of a QR code creator software such as Vovsoft Bulk QR Code Generator, you can generate QR codes that contain different plain-texts at once by making a batch QR code.\nIf you are mass-producing products every day, or have hundreds of employees in which you want to provide a digital business card using QR codes, you will no longer have to repeat the same process of generating QR codes.\nThis QR code maker utility will save your precious time.\n\nWhile there are various online generators for QR code, some users might prefer using a classic desktop app that does not require an Internet connection. The best part of this program is that the conversion is done completely offline. You are the only controller of your private data. No QR code information is sent to internet in any case. The major advantage of this software is that it can create more than one QR code in one go very easily and fast.\n\nThis software supports PNG, JPEG, GIF, BMP output image formats, allows you to change QR code color, encoding, margin, and specify image size (width and height).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.CollectURL",
+    "name": "Vovsoft Collect URL",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Collect URL is a web scraping software that scans internet like a search engine bot.\nStarting from the user entered URL, it lists all the links found on the webpage.\nThen it recursively continue scanning the URLs in the list.\nUser can limit the software to collect single domain or subdomain only.\nFile extension ignore (exception) list is editable.\nConnection and response timeout values are editable.\nUsers can also change user-agent value for HTTP and HTTPS connections.\n\nThis utility is a link collector software that can collect links from any website.\nEnter any \"Start URL\" and click the \"Start\" button, then the software will recursively scan and collect links. \n\nThis software is memory efficient and can handle up to 100 million URLs without slowing the user interface.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.CompareTwoTexts",
+    "name": "Vovsoft Compare Two Texts",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Compare Two Texts is a Windows software designed for comparing textual content.\n\nThe software allows users to compare two files side by side, making it easy to identify and visualize the differences between them. It's particularly useful for tasks such as code comparison, document revisions, and content analysis.\n\nOne of its key features is its ability to accurately detect and highlight differences between the compared texts. Additionally, the software can identify and display lines that are unique to each text file, helping users identify additions, deletions, or modifications between versions of a document or codebase.\n\nThis program offers customizable options to tailor the comparison process to specific needs. Users can choose to ignore whitespaces, ignore letter cases (uppercase/lowercase), even change comparison algorithm, ensuring accurate and meaningful comparisons. It supports loading plain text files (txt) and Microsoft Word documents (doc and docx).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.ContactManager",
+    "name": "Vovsoft Contact Manager",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Contact Manager is a user-friendly software designed for desktop and laptop computers.\n\nThis application streamlines the management of contact information by facilitating the seamless import and export of VCF files. This functionality proves invaluable to individuals who frequently switch between devices, ensuring a smooth and hassle-free transition of contact data. Adding new contacts is a breeze, allowing users to input comprehensive details, including names, phone numbers, email addresses, and more. Effortlessly navigating and editing existing contacts maintains the accuracy and currency of contact information.\n\nMany of us rely on our phone's memory to house our contacts, phone numbers, and email addresses. However, for Windows users, this program offers a compelling alternative. This lightweight software utility simplifies the creation of a digital address book, neatly organizing contacts in alphabetical order. There are two editions available, installer and portable, which requires no installation.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.ContainerLoadingCalculator",
+    "name": "Vovsoft Container Loading Calculator",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Container Loading Calculator is an easy to use packing optimization software that is intended to compute and place goods into containers and make their position to be fit, loaded and optimized. It can simulate loading your cargo in seconds, not hours.\n\nUser would have to enter the dimension parameters of cargo, each cargo can be packed into some pallet or packed directly into a container. Then the program will calculate and tabulate how the loads (goods, cargo, pallet) are positioned within the containers.\n\nYou can automatically calculate and optimize containers or trucks before loading. You will know exactly what will fit and how to load it in advance. If you are looking for a capable and easy to use container stuffing calculator, this software will give you what you want.\n\nYou can import and export files using Excel CSV files. No need to enter lists of hundreds of loads and containers manually.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.ConvertVideoToAudio",
+    "name": "Vovsoft Convert Video to Audio",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Convert Video to Audio is a simple and efficient software designed to extract sound from video files. This software is a perfect solution for those who want to convert their video files into audio formats, enabling them to enjoy audio content without requiring video playback.\n\nThis tool can create a sound collection from videos like recorded camera footage. Wrapped in an intuitive interface, this program features basic options for helping you obtain the audio stream of video files in order to produce sound tracks with the MP3, WMA, FLAC, WAV, AIFF, AAC, M4A, OGG, OPUS, AC3, EAC3 formats. You can click the \"Audio Settings\" button to change bitrate, sampling rate, audio channels and more.\n\nThe software supports a wide range of video formats, including MP4, MKV, AVI, MPEG, MOV, WMV, FLV, F4V, and WEBM, along with popular video codecs such as AV1, H.264, H.265 (HEVC), and VP9—ensuring that users can convert virtually any video file they have. It can convert these video files into various audio formats. Users can choose FLAC or WAV for increased quality, or MP3 for a more compact recording, among other supported formats such as WMA, OGG, OPUS, and AAC.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.CopyFilesIntoMultipleFolders",
+    "name": "Vovsoft Copy Files Into Multiple Folders",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Copy Files Into Multiple Folders is a handy piece of software that, as its name implies, enables you to copy and paste files to multiple directories in one quick operation. It is a very simple-to-use batch file copy tool. This application is great for those who only wish to transfer a set of files to many locations simultaneously in an effortless manner. First-time users should not run into any issues, as the program's functions are self-explanatory.\n\nFiles, folders or URLs can be added to the list using the menu or drag & drop actions, and you can specify whether or not existing or read-only items should be replaced. The program automatically downloads any entered URL before it starts. A processing log is displayed in a separate window after the operation has been launched. It lets you know which files have been copied or skipped. The application can also recognize paths using operating system's Environment Variables.\n\nAdditionally, the installer adds shortcut to SendTo folder, so that users can right-click files & folders from the context menu and copy to multiple folders all at once.\n\nKey Features\n- Supports files, directories and URLs as source\n- Subfolders and recursive subfolders can be added\n- Supports Environment Variables\n- Supports network mapped drives\n- Supports copying files that are already in use or opened\n- Compatible with cloud storage applications",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.CPUBenchmark",
+    "name": "Vovsoft CPU Benchmark",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft CPU Benchmark is a lightweight tool designed to evaluate your processor’s performance by running synthetic benchmarks and reporting operations per second (M ops/sec).\n\nWhether you're curious about your CPU's raw speed, testing the effects of overclocking, or stress‑testing stability, this program helps you:\n- Detect CPU name, architecture, base speed (MHz), and live speed (MHz).\n- Choose between single‑core or multi‑core test modes with just one click.\n- Select specific tests: integer arithmetic, floating‑point arithmetic, trigonometric, branch prediction & control, and bitwise logic.\n- Adjust test length to push CPU usage to 100% for extended stress testing.\n- View results in million operations per second, making comparisons easy.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.CryptocurrencyTracker",
+    "name": "Vovsoft Cryptocurrency Tracker",
+    "publisher": "VOVSOFT",
+    "description": "This software is a desktop app to visualize cryptocurrency market data. You can view cryptocoin prices and charts, including Bitcoin, Ethereum, XRP, LTC, BNB and thousands of more crypto currencies. Supports exporting raw data as CSV file and chart image as JPEG file. You can make the application stay-on-top and use it as a desktop widget.\n\nThe program is a straightforward solution that helps you get a bird's eye view over the evolution of several cryptocurrency so you can make better investments. The main window is very user-friendly and intuitive, and you only need to choose the type of cryptocurrency you are interested in to get an overview of its current trend, be it ascending or descending. You can set the graph to be automatically refreshed, without any extra action on your part. You can manually enter the number of days and the type of price you prefer, or you can switch to a 3D chart if you are not satisfied with the current look. Market capitalization can also be seen below the price chart. Prices can be displayed in USD, EUR, GBP, CAD and BTC.\n\nVovsoft Cryptocurrency Tracker is a nice way to monitor the evolution of numerous types of cryptocurrencies within the same window, without needing to open many browser tabs.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.CSVSplitter",
+    "name": "Vovsoft CSV Splitter",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft CSV Splitter is a simple and easy to use tool for your CSV spreadsheet files. It can help you effortlessly split a large CSV file into multiple smaller files, to the location you specify. You can split CSV files, whether they are small or huge (exceeding 1 gigabyte) in size, into smaller CSV files.\n\nThere are many online websites that can split CSV files. However they have upload limitations. The best part of this CSV chunker program is that the conversion is done completely offline. You are the only controller of your private data. No CSV file is sent to internet in any case.\n\nA tiny little app that can help you save time and energy when you try to share big CSV and Excel (XLS, XLSX) files online or you need to upload to a server. You can start splitting your source document within seconds. This software can also display how many files will be created by counting input lines, depending on the defined number of rows per file.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.CSVtoVCFConverter",
+    "name": "Vovsoft CSV to VCF Converter",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft CSV to VCF Converter is an easy to use VCF generator software that can convert CSV files (created by Microsoft Excel or other compatible office software) to VCF vCard files.\n\nCSV files are plain text files that can be edited using any text editor. VCF files store information regarding your contacts, enclosing vCards (Virtual Business Cards). Such files are used to export and import contacts from and to mobile phones (Android or iPhone), Microsoft Outlook, iCloud, Gmail, etc.\n\nDesigned with simplicity in mind, Vovsoft CSV to VCF Converter can only perform one task: that of extracting the contacts from the input CSV container, then transfer it to a newly created VCF file. In other words, you just have to select the input Excel file and choose to export it to VCF format, all with just a few clicks. You can use this VCF maker tool to convert CSV into vCard file, which can be used and shared in mobile devices.\n\nSupported fields include First Name, Middle Name, Last Name, Phone (Cell), Phone (Home), Phone (Work), Email, Email (Work), Address (Home), Address (Work), Organization, Title, URL, Birthday, Notes.\n\nIn addition to CSV files, this program can also load and convert Microsoft Excel (XLS and XLSX) files. If you are looking for a program to convert CSV/XLS/XLSX to VCF format, you can rely on this software.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.DesktopDiary",
+    "name": "Vovsoft Desktop Diary",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Desktop Diary is a handy journal application that enables you to lock your personal account with a password, preventing others from accessing your private data. You can use it to write your memories, as well as save important appointments. It's a daily journal software for Windows that allows you to save your daily notes efficiently on your desktop or laptop computer.\n\nThis diary writing app for PC makes it simple to write and manage your memories or appointments.\n\nThe main window includes a calendar that can be used to navigate between dates / entries, and the built-in search function can make this task even easier. The program has a wide variety of themes and lets you choose between any of the fonts installed on your system, as well as change text style and background.\n\nThe text can be formatted as you wish, by adjusting the alignment, inserting a bulleted list, numbered list or modifying the font's size, type and color. You can also insert images, switch between bold, italic, underline and strikeout using either your mouse cursor, or using the well-known associated hotkey combinations.\n\nMultiple user accounts can be created, and it is not possible to access the stored information without first providing the right password. Additionally, the application allows you to create encrypted backups, so you can always restore your data if necessary.\nIf you plan to move to a different computer, you can export the data within seconds, and importing the records can be done just as easily. Vovsoft Desktop Diary is an offline digital diary software for Windows, you are the only controller of your private data. No diary information is sent to internet in any case.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.DirectoryMonitor",
+    "name": "Vovsoft Directory Monitor",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Directory Monitor is a simple and reliable tool for surveillance of folders and network shares. It can monitor and detect events occurring within your directories.\n\nThis folder monitor software can keep an eye on a folder of your choosing and track all the modifications that may occur, then export the log for further analysis.\n\nThe software will watch for file and folder changes, deletions, modifications, new files in real-time. Any changes made by users or processes can be detected. You can export the logs into TXT or CSV files, so you can save and analyze them at a later time.\n\nThis watch directory software is an intuitive utility that makes it easy for you to quickly track the activity that might occur in a folder or a network share. The entire workflow is pretty straightforward: you launch the app, choose the folder you are interested in, then allow the app to start monitoring it.\n\nThis application enables users to specify \"Include Patterns\" and \"Exclude Patterns\" through file masks. For instance, you can include .txt files by using *.txt or exclude .mp3 and .wav files by employing .mp3;.wav.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.DiskMonitorGadget",
+    "name": "Vovsoft Disk Monitor Gadget",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Disk Monitor Gadget is a lightweight Windows utility that helps you monitor your disk space usage in real-time. Features include user defined colors and transparency. Compact tool with tiny footprint.\n\nIt provides a quick and easy way to see the free space available on all your drives, including:\n- HDDs (Hard Disk Drives)\n- SSDs (Solid State Drives)\n- Flash disks (USB drives)\n- Network drives\n\nAt a glance, you can see:\n- Drive letters: Easily identify each drive.\n- Drive names: Recognize specific drives for better organization.\n- Free space ratio: Get a clear understanding of how much space is used on each drive, displayed as a percentage.\n\nDisplayed as a hint:\n- Used size (GB)\n- Free size (GB)\n- Total size (GB)",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.DocumentManager",
+    "name": "Vovsoft Document Manager",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Document Manager can provide easy access to your documents on your desktop or laptop PC. You can manage Word, Excel, Powerpoint and PDF files in one screen. You can also customize the filetypes you wish to manage.\n\nNo matter if you are an expert or a beginner, you can still make the most of this application, since it requires no technical skills.\n\nBasically, you only need to select the directory where you store your documents, then leave all the work to Vovsoft Document Manager as it groups them according to their file types.\n\nYou can easily explore your Word, Excel, PowerPoint and PDF files. Additionally, you can create a custom category where you can define the formats you are most interested in.\n\nNot only can you get a list of all the files that match a certain sorting criterion, you can also right-click a file and gain access to some extra actions.\n\nYou can open the document in its default associated software, rename it, remove it from the list or you can erase it from your Windows PC without needing to access its folder. You can copy the files or the filenames to the clipboard so you can paste them later on. File lists can be exported to TXT or CSV so you can examine them more thoroughly at a later time.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.DomainChecker",
+    "name": "Vovsoft Domain Checker",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Domain Checker helps you brainstorm names and find a perfect available domain name.\n\nThis software supports the most common TLDs (Top-Level Domain - such as .com / .net / .uk), and users are free to add new ones. Anyone interested in releasing new websites will benefit from this utility, as it allows to check domain name availability.\n\nYou can check availability of multiple domain names at once. Obtain domain name status and expiry date with this effective and intuitive application that allows you to process entries in bulk. You can register valid domain names from any registrar you want, before anyone else registers them.\n\nKey Features\n* Fast WHOIS lookup multiple addresses\n* Built-in support for 400+ TLDs\n* User definable WHOIS (TCP port 43) server list\n* User definable delay between each check\n* Internationalized domain names (IDN)\n* Emoji domain names\n* Export results to PDF, CSV, TXT file\n* Extract domain names from text\n* Optional proxy server (SOCKS) connection\n* Domains by Char & Domains by Formula\n* Domains from word-list file\n* Domains for all TLDs\n* Domain Wizard\n* Cross-Mix Words\n* Ability to run for hours without interruption\n* Ability to handle up to 100 million domain names",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.DownloadMailboxEmails",
+    "name": "Vovsoft Download Mailbox Emails",
+    "publisher": "VOVSOFT",
+    "description": "Ensuring your mailbox safety can sometimes require saving emails in an offline means of storage. However, managing to easily download the required email messages from your account, can be a lengthy and somewhat challenging undertaking.\n\nFor such uses, Vovsoft Download Mailbox Emails will provide users with an efficient and simple way of connecting to their email accounts, selecting the preferred content, and downloading it. This software is an easy to use mailbox download tool. You can download all your emails with attachments from your mailbox.\n\nDownload all email messages inside your mailbox. You can get emails from your email account. Enter your login credentials and click \"Connect\" button. Then select the mailbox you need to download and click \"Start Download\" button. The application will export all emails as EML files into the directory you selected. You can store and look through all your emails by having them offline in your computer. Your e-mails will remain on the email server, the application does not perform any deletion.\n\nAfter downloading your mailbox contents, you will have lots of EML files. These files contain the email contents in MIME format; including the email header, body, and attachments. EML files can be used and opened by the following email clients:\n- Mozilla Thunderbird\n- Microsoft Outlook\n- Windows Mail",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.HexViewer",
+    "name": "Vovsoft Hex Viewer",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Hex Viewer is a simple application that allows you to view hex code of binary files. Open any binary file on your laptop or desktop computer to view its hex code and explore it with ease with the help of this easy to use program for Windows.\n\nWhen running this software, you are greeted by a simple and clean interface, with just a few controls. The minimalistic look tells you from the start that this application is simple and only fulfills a single purpose: to deliver a quick and easy hex reader.\n\nYou can load any binary file to view its contents in this software, regardless of its size. It can easily open files larger than 1 gigabyte. Navigating through the hex code can be done using the keyboard arrows and the \"Page Up\" and \"Page Down\" buttons. The viewer allows you to change the default reading order and provides additional options in the context menu to show and insert unicode control characters.\n\nThe application displays useful information, such as the file size and whether an executable file or DLL file is 64-bit, 32-bit, or 16-bit.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.HideFiles",
+    "name": "Vovsoft Hide Files",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Hide Files is an easy to use program to protect your sensitive information from being seen or accessed. It can easily hide any files, folders or even USB drives and keep them safe with a password.\n\nThis software makes your files inaccessible and only allows you to unlock with the correct password. When you launch the application for the first time, you must provide a master password, which will need to be entered every time you launch it in the future.\n\nA folder-locker utility that can secure your confidential files and folders. You can encrypt and decrypt your sensitive documents, photo albums, videos and any kind of data. You can password protect any secret or embarrassing files. Hide your files and folders from prying eyes. Set your password and lock your files. No one can access your files without your password.\n\nHide Files supports NTFS, exFAT, ReFS, FAT32 and FAT16 file system types, local hard drives, external hard drives, SSD drives, HDD drives, SD/MMC memory cards and USB flash disks. The ability to hide and encrypt batch files and open them in a few seconds is the expertise of this software. Hide Files can lock and unlock your gigabytes of data within seconds. You can use this utility as a hidden folder software since it can password protect any directory on your PC. This software supports drag and drop from Windows Explorer and lost password recovery. Hide Files can stop locking process if any file or disk error occurs and helps you keep your important data. However it is always a good idea to back up your important files and folders first.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.HTTPRequester",
+    "name": "Vovsoft HTTP Requester",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft HTTP Requester is a simple but powerful tool designed to streamline the process of sending batch HTTP requests and receiving responses. Whether you're a developer, tester, or simply someone looking to interact with web services, this intuitive application empowers you to effortlessly create, and analyze HTTP/HTTPS requests with precision and ease.\n- User-Friendly Interface: The software offers an intuitive and user-friendly interface, making it accessible to both beginners and experienced users. Its straightforward design allows you to quickly grasp its functionality and get started in no time.\n- Customizable Requests: Craft HTTP requests to suit your specific needs, with support for GET, POST, HEAD methods, and multiple parameters. Fine-tune your requests for a tailored experience.\n- Import and Export: Save time by importing existing requests or exporting them for future use. The software supports CSV format, ensuring compatibility with your workflow. It can handle up to 100 million rows.\n- Proxy Support: With support for multiple proxies, users can route their HTTP requests through proxy servers. This flexibility accommodates diverse IP addresses and server locations, addressing specific requirements such as geographic accessibility or distributing workloads effectively. HTTP and SOCKS proxy servers are supported.\n- Cookie Support: This functionality enables the software to send cookies as needed during communication with web servers. By transmitting cookies, the software ensures persistent sessions and enables authentication across multiple requests.\n- Multi-Threading: Parallel processing capability maximizes efficiency, reduces processing time, and boosts overall performance.\n- Custom Headers: Personalize your HTTP requests by adding custom headers. This feature allows you to specify headers such as Authorization, Content-Type, Referer, and more, enabling precise control over your interactions with web servers.\n- Referer Support: Easily set the HTTP Referer header for each request. This is useful for simulating requests from specific pages, improving compatibility with websites that rely on referrer-based access control.\n- RegEx: Extract text from websites using any regular expression you enter.\n- XPath: Extract tags from HTML and XML documents.\n- User-Agent Customization: Adapt to different web environments by changing the user-agent for your requests. This feature allows you to mimic various browsers or devices, enabling a more versatile and realistic interaction with web services.\n- HTTPS Support: Hypertext transfer protocol secure (HTTPS) is the secure version of HTTP. The software offers SSL/TLS support with OpenSSL. TLS 1.3 is supported using OpenSSL v3.\n\nThe application supports different actions:\n- Save results to directory (multiple files)\n- Append results to file (single file)\n- Show results",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.OCRReader",
+    "name": "Vovsoft OCR Reader",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft OCR Reader is an image to text converter program that allows you to extract text from PDF, PNG, JPEG, TIFF, WEBP, and BMP files using Optical Character Recognition. This software is basically a text reader from image. It supports batch processing for PDF files with multiple pages.\n\nWhile there are many OCR tools available online, some prefer a dedicated desktop tool instead. The best part of the program is that the conversion is done completely offline. You are the only controller of your private data. No image file is sent to the internet in any case.\n\nThis small and lightweight OCR tool can easily digitize image files and scanned documents on your laptop or desktop computer. It can scan documents using TWAIN and WIA scanner protocols. This application utilizes Tesseract OCR engine, which supports more than 100 languages. In order to increase accuracy, it uses a neural network (LSTM) based OCR engine which provides line recognition, but also can recognize character patterns.\n\nYou can detect text in one selected language or use the \"Multilingual\" option to detect multiple languages at once.\n\nTrained Models Include: Arabic, Bengali, Bulgarian, Chinese (Simplified), Chinese (Traditional), Czech, Danish, Dutch, English, Faroese, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Italian, Japanese, Korean, Lao, Latvian, Norwegian, Persian, Polish, Portuguese, Punjabi, Romanian, Russian, Slovak, Slovenian, Spanish, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Vietnamese",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.PasswordGenerator",
+    "name": "Vovsoft Password Generator",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Password Generator is one of the programs you can rely on, a very simple utility that enables you to create passwords for your accounts with just a couple of clicks. It is an easy to use tool that can generate memorable passphrases. Once you have installed the program, you can start creating passwords right away, as several character sets (integers, lowercase letters, uppercase letters) have already been entered for your convenience. If all you need to do is come up with a complex, unique password for one of your accounts, this application should be enough to get the job done. You can customize the key length, as well as remove any of the default character sets or add your own. This tool also showcases password quality through entropy, where, for instance, 128 bits can be considered secure.\n\nThe \"Copy\" button allows you to manually copy the generated password to the clipboard, while the \"Automatically Copy Generated Password\" setting saves you time by instantly copying each new password to the clipboard as soon as it’s created, eliminating the need for manual copying.\n\nIf you need to generate multiple passwords at once, you can try this software. Using the menu next to the \"Generate\" button, you can create thousands of secure password and save them as a text file on your computer.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.PDFReader",
+    "name": "Vovsoft PDF Reader",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft PDF Reader is a lightweight super-simple PDF viewer application. No complicated configuration is needed to view your PDF files from your desktop or laptop computer. The interface is minimalistic, it provides all the essentials.\n\nExperience the convenience of an efficient PDF reader designed to prioritize user experience without taxing your system's resources. This lite PDF viewer application comes with basic navigation features, enabling seamless page browsing. It provides search functionality, allowing you to find and highlight keywords in a PDF file.\nWith a few clicks, you can view documents in full screen mode, two page mode, rotate, zoom or scale.\nAdditionally, you can fill out PDF forms and save them as new PDF files.\nVovsoft PDF Reader also supports many command line options.\n\nKey Features:\n* Highlights selected text\n* Supports annotations\n* Remembers last read pages\n* Remembers recent PDF files\n* Google selected text\n* Full screen\n* Supports attachments\n* Supports forms\n* Supports password protected PDF files\n* Supports exporting to image (PNG, JPG, TIF, GIF, BMP)\n* Speak selected text (text to speech)\n* 2-page mode",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.ProxyServer",
+    "name": "Vovsoft Proxy Server",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Proxy Server is an easily manageable proxy server for Windows. This straightforward tool supports both HTTP and SOCKS protocols, allowing you to enhance privacy, access geo-blocked content, and test applications effortlessly. With its user-friendly interface, creating your proxy server has never been simpler.\n\nKey Features:\n- HTTP and SOCKS Support: Supports both HTTP and SOCKS (SOCKS4 and SOCKS5) proxy protocols, allowing flexibility for various applications and use cases. Also supports SSL/TLS, enabling secure connections for HTTPS URLs.\n- Easy Control: Simple interface with start and stop buttons for effortless control over the proxy server operations.\n- Port Configuration: Users can easily configure and change port numbers to suit their specific networking needs.\n- Windows Compatibility: Designed to operate seamlessly on Windows platforms, ensuring compatibility with a wide range of systems.\n\nUse Cases:\n- Application Testing: Test applications that require proxy server support without hassle.\n- Content Access: Access geo-restricted content with ease.\n- Privacy and Security: Maintain anonymity by routing traffic through proxy servers.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.SEOChecker",
+    "name": "Vovsoft SEO Checker",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft SEO Checker is an easy to use website crawler that can efficiently crawl both small and large websites. With this SEO checker tool, you can identify broken links, analyze on-page SEO data, distinguish between internal and external links, and classify links as dofollow or nofollow. Additionally, the tool provides analysis of internal linking, titles, description meta tags, and other tags in real-time.\n\nOn-page SEO (also known as \"on-site SEO\") is the practice of optimizing web page content for search engines and users. Common on-page SEO practices include optimizing title tags, content, internal links and URLs. This software provides full lists of sitemaps, links, internal backlinks, anchors, H1, H2, H3, H4 headings and helps you on your on-page SEO check efforts.\n\nBy using this SEO checker software, you can freely test your website or competitor websites in your niche, and rapidly get a technical SEO analysis report (including SEO errors) and valuable data. It can help you rank higher on Google, Bing, Yahoo, Baidu, Yandex, DuckDuckGo.\n\nKey Features:\n* On-page SEO audit (checkup)\n* Internal URL list\n* Link and backlink lists\n* Page title list\n* META description list\n* HTTP & HTTPS response codes\n* Page speed\n* Domain or subdomain based crawl\n* H1, H2, H3, H4 heading lists\n* Anchor list (prevent keyword cannibalization)\n* Generate sitemap\n* Export to CSV, XML, TXT\n* Word count\n* Embedded SQLite database (in-memory or file)",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.TextEditPlus",
+    "name": "Vovsoft Text Edit Plus",
+    "publisher": "VOVSOFT",
+    "description": "Text Edit Plus is a powerful yet straightforward plain text editor with helpful features. It is a lightweight tool that enables users to easily create new text documents or modify existing ones. The application is designed as an alternative to Notepad, offering a wider set of features such as multiple tabs, spell checker, macros, and syntax highlighter.\n\nText Edit Plus comes with a clean and simple interface that newcomers will find very easy to grasp. The application can load text files, such as TXTs, CSVs and HTMLs. It provides an arsenal of features for text manipulation. A lot of quick-edit functions can prove invaluable when small fine-tunes are needed.\n\nKey Features\n* Dark mode, Full screen view\n* Spell checker\n* Syntax highlighter\n* PDF export\n* Generate text stats\n* Change background color and font properties\n* Encode and decode text\n* Command system for extracting desired text\n* Delete empty lines, duplicate lines\n* Generate e-mail and URL lists\n* Generate word lists\n* Import picture as text (ASCII art), numbers, text into beginning or end of lines\n* Lowercase and uppercase conversion\n* Regular expressions (Regex)\n* Randomize, Reverse lines\n* Select columns using Alt\n* Combine, Filter, Sort, Split, Crop, Trim lines\n* Unicode detector\n* UTF-8 and UTF-16 support, Fix broken UTF-8 encoding",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.TextToMP3Converter",
+    "name": "Vovsoft Text to MP3 Converter",
+    "publisher": "VOVSOFT",
+    "description": "Easily convert any text to speech. Perfect for e-learning, presentations, YouTube videos and increasing the accessibility. You can convert from text to speech and save it as audio file in a few clicks. The text can be exported as MP3 and WAV file.\nThis program uses the preinstalled Microsoft SAPI Text-to-Speech (TTS) engine for generating voice. It can convert text of up to 500,000 characters into an audio file, that’s approximately 8 hours long.\n\nIf you need to convert some text to audio or you're just looking for a way to preview some content without having to actually spend time reading it, Vovsoft Text to MP3 Converter can do both, offering you choices for the used speech engine, as well as the output audio format. The two main options offer users the choice of increased quality (WAV) or a more compact recording (MP3). \"Speech Speed\" option allows from 10x slow to 10x fast playing and recording. If you seek a basic application that can help you perform text to audio conversions, without having to resort to complex steps and configuration processes, try out this simple yet quite capable software.\n\nIn addition to TXT files, this software also supports loading PDF files and Microsoft Word documents. This MP3 maker software can be used for Word to MP3 conversion by loading DOC and DOCX files on your desktop or laptop computer. You can even use \"Batch Conversion\" to convert multiple files at once.\n\nIf you create videos, you can use this software to generate voiceovers for them. As a content creator, you can add voice narration to your video, without the need to speak on the recording yourself or hire a speaker to do it for you. This can be particularly useful when uploading videos to YouTube.\n\nSupported APIs:\n- Besides the robotic voices offered by Microsoft Windows, this program also allows you to use natural voices (Alloy, Echo, Fable, Onyx, Nova, Shimmer) provided through the OpenAI API.\n- Additionally, the program supports the Replicate API, which offers sample voices and voice cloning.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.TimeSync",
+    "name": "Vovsoft Time Sync",
+    "publisher": "VOVSOFT",
+    "description": "Sync your PC clock with a time server by using this app and make sure you are always in the know as to the passing of every single second. We all know how precious every single moment of our time is, and we are all trying to make the most of it. Vovsoft Time Sync is a software utility that capitalizes on precisely this idea since it offers to inform you about the time in your timezone as well as make sure your Windows clock is flawed by no desynchronization.\n\nYou can use this auto time updater software and set time in Windows when your computer's CMOS battery is dead or missing.\n\nTime Sync is a minimalist app designed to check whether your Windows clock shows the correct time. The program can sync it with any supported NTP server (port 123), and all that is asked of you is that you click one single button.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.TreeNotes",
+    "name": "Vovsoft Tree Notes",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Tree Notes is a hierarchical note-taking application designed to enhance your organizational efficiency and streamline your information management process. This powerful software provides users with a user-friendly platform to create, organize, and access their notes effortlessly.\n\n- Hierarchical Structure: Organize your thoughts, ideas, and information seamlessly using a hierarchical structure. Create a tree-like arrangement of notes, allowing you to categorize and subdivide your content for a clear and intuitive overview.\n- Search: Find information with Tree Notes' robust search functionality. Quickly locate specific notes within the hierarchical structure, saving valuable time.\n- Rich Text Editing: Enjoy a versatile note-taking experience with rich text editing capabilities. Format your notes with bold, italics, underline, bullet points, and more. Customize fonts and styles to create visually appealing and easily readable content.\n- Add Images: Enrich your notes visually by inserting images (JPG, PNG, BMP) directly into your documents. Whether you're attaching reference screenshots, diagrams, or photos, this feature helps bring more clarity and context to your notes\n- Single File Storage: Simplify data management by storing all your notes in a single file. This not only ensures easy backup and portability but also promotes a tidy and efficient workspace.\n- Import & Export: You have the flexibility to import your notes in either DOCX (Microsoft Word), RTF (rich text) or TXT (plain text) formats. Additionally, you can export your notes in DOCX, RTF and TXT formats as well.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.VoiceChanger",
+    "name": "Vovsoft Voice Changer",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Voice Changer is a free audio enhancer and voice modifier tool that lets you add special sound effects to your recordings. There is a simple user interface where you can select the file and make any alterations you wish. It also has the ability to play the tracks and export in various formats.\n\nWhen you have selected the track, you will see a large selection of effects appear. While the name of the software implies you can only use voice recordings, it is worth noting that any audio files are compatible, even music. Before you can start using Vovsoft Voice Changer, you will need to select a track you want to enhance or alter. You can opt for a voice recording, or you can use a song. With the recording at hand, you can open the panel for special effects. When you have selected the one you want to use, you can play it back to test how it sounds in case you want to try something else.\n\nYou don't need to accept the built-in effects in Vovsoft Voice Changer if it doesn't completely meet your needs. When you open up the \"Custom\" setting, you can play with elements to change the output. If you do it right, you may be able to find a unique sound for your voice or track that no one else has created yet.\n\nFinally, you will need to save your file so you don't lose it. The export options are .WAV and .MP3. Vovsoft Voice Changer is ideal if you want to add some cool sound effects and filters to your voice and tracks, especially for streaming on Twitch or YouTube. While you can only use it after a recording is complete and not live, you have several editing options at your disposal.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.WebPlatformIdentifier",
+    "name": "Vovsoft Web Platform Identifier",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Web Platform Identifier is a powerful program, designed for desktop and laptop computers, that automatically recognizes websites based on their platform such as WordPress, Shopify, vBulletin and hundreds more.\n\nDiscover the power of seamless web platform identification with this tool, a simple software designed to effortlessly scan and unveil the underlying platform of any entered URL. Whether you're a web developer, designer, or simply curious about the technologies driving your favorite websites, this tool is your go-to solution for accurate and rapid platform recognition.\n\nSay goodbye to the guesswork! This easy to use utility employs advanced algorithms to swiftly analyze the structure of websites, pinpointing the exact web platform they are built upon. No more manual investigation – let the software do the heavy lifting for you. Our software boasts an extensive database of web platforms, including but not limited to WordPress, Joomla, Drupal, and more. As new platforms emerge, our library stays up-to-date, ensuring you receive the most accurate results every time. Designed with user experience in mind, the program's intuitive interface ensures smooth navigation for users of all levels. Simply enter the URL list you wish to analyze, and watch as the software instantaneously provides the platform verdict.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.WebcamCapture",
+    "name": "Vovsoft Webcam Capture",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Webcam Capture is a very simple webcam snapshot software that enables you to monitor your cam from a streamlined, minimalist user interface.\nIt offers various visual effects and can help you modify video properties.\nYou can click \"Start\" button and here you go.\nYou can easily change your webcam device properties using the software.\nIt also supports full screen view, rotate, flip vertical and flip horizontal.\n\nKey Features:\n* Capture picture\n* Capture video (webcam recorder)\n* Show video only\n* Full screen\n* Rotate (0°, 90°, 180°, 270°)\n* Mirror Horizontal\n* Stay on top\n* Apply various effects\n* Automatic photo taking at certain seconds\n* Select quality (resolution)\n* Freeze\n* Mirror Vertical",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.WebsiteFileCollector",
+    "name": "Vovsoft Website File Collector",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Website File Collector is a powerful Windows application designed to simplify file downloads from websites. Whether you need documents, images, scripts, or media files, the software enables you to gather the resources you need quickly and efficiently.\n\nWith an easy-to-use interface, you can enter a website URL or multiple URLs, specify the file types you’re interested in (such as PDF, DOC, JPG, CSS, JS files, or any custom file extensions), and let the software do the rest. This program scans the entire site, locating every file that matches your criteria. Once the scan is complete, the application displays a detailed list of downloadable URLs, providing you with a clear view of available files before download. You can choose to export the file list or download them all.\n\nKey features:\n- Targeted File Search: Specify exact file types or extensions you want to find.\n- Comprehensive URL Listing: View a complete list of matching file URLs on the site before downloading, allowing you to inspect and select files as needed.\n- Batch Downloading: Download all files in one go or export the list and selectively choose which files to save to your device.\n- User-Friendly Interface: Simple and intuitive controls make file collection straightforward for beginners and advanced users alike.\n- Time-Saving Efficiency: Quickly gather resources from websites, saving you from manual downloads and browsing.\n\nWebsite File Collector is perfect for students, researchers, web developers, and anyone needing an efficient way to retrieve large quantities of files from the web. Say goodbye to repetitive downloads and hello to an organized, all-in-one file collection solution.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.WebsiteScreenshotGenerator",
+    "name": "Vovsoft Website Screenshot Generator",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Website Screenshot Generator is a powerful automation tool that allows you to capture screenshots of multiple web pages with just a few clicks. Whether you need to take screenshots for website testing, marketing, or design purposes, this software provides an easy and efficient solution. With its intuitive interface, you can simply enter the URLs, adjust the capture settings, and save the website snapshots in the desired format.\n\nThis batch URL to image converter program is an essential tool for anyone who needs to generate website screenshots quickly and easily. With this software, you can take high-quality screenshots of any website, and save them in the format of your choice, including PDF, PNG, and JPEG.\n\nWhether you are a web developer, marketer, or designer, this software is a must-have tool that can help you streamline your workflow, and save time. With its user-friendly interface and ability to save screenshots as PDF, PNG, and JPEG, this software is an excellent choice for anyone who needs to capture website screenshots regularly.\n\nThis application includes and uses Chromium 109, which handles HTML rendering, the Document Object Model (DOM), and JavaScript, enabling dynamic and responsive web applications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.WebsiteWatcher",
+    "name": "Vovsoft Website Watcher",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Website Watcher is a user-friendly and powerful website-monitoring tool suitable for both beginners and advanced users. The software allows users to monitor various types of web pages, including RSS/Atom feeds. It provides notifications for changes in competitors' websites, price adjustments, product availability, updates to favorite websites, modifications to the user's homepage, and more. The tool runs as a client on the user's computer, ensuring full control over data.\n\nMonitor websites periodically in a simplistic manner for any changes. You can effortlessly monitor websites at scheduled intervals, ensuring you stay updated on any modifications. Our tool simplifies the process, making it easy to track new content and changes on your favorite sites without hassle.\n\nThe purpose behind this tool is to routinely monitor specific webpages, such as university exam result announcements, ensuring prompt notifications upon updates. Its functionality extends to tracking shipment details via postal services or similar tasks. Operating on a simple principle, the program accesses a webpage, saves its HTML code into embedded database, and subsequently compares it to detect any alterations during subsequent visits. Any disparities trigger actions.\n\nKey Features:\n- Detect content change: Alerts you when any content changes are detected, ensuring you never miss important updates.\n- Detect connection error: Displays when a website is down or experiencing problems, keeping you informed in real time.\n\nAdvanced Filtering Options:\n- Strip HTML: Removes all HTML tags and retains only the plain text content of the webpage.\n- Line Range: Lets you specify exact line numbers (e.g., lines 15-30) in the webpage.\n- Keyword: Monitors only parts of the page that contain specific word or phrase you define.\n- XPath: Uses XPath queries to target specific HTML/XML elements (e.g., <div id=\"price\">).\n- RegEx (Regular Expressions): Applies pattern-matching rules to identify changes in text (e.g., dates, prices, IDs)",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.WindowResizer",
+    "name": "Vovsoft Window Resizer",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft Window Resizer is a utility software that allows you to resize any window to an exact, predefined size. This is extremely useful when designing web pages, as it allows you to see how the page will look when viewed at a smaller size. The utility is also handy when compiling screenshots for documentation. Using Window Resizer allows you to easily maintain the same window size across screen grabs. Additionally, it works well with multi-monitor setups, allowing you to open different applications in specific positions on each monitor at Windows startup.\n\nIf you are looking for a program resizer software, this utility is able to resize programs by identifying the window title of any currently running application. This software is not limited to just resizing browsers, unlike browser extensions. It has the capability to resize all programs, including Word, Excel, PowerPoint and browsers such as Chrome, Firefox, Internet Explorer, Edge.\n\nMoreover, if you come across an application that doesn't permit resizing or imposes restrictions on resizing, Window Resizer can effectively modify the dimensions of such applications. You can resize the main (owner) window of any program, as well as child windows and invisible windows. The program even allows you to lock dimensions and positions of any window, ensuring they remain fixed.\n\nThis program can get and set exact window size values by taking non-client areas into account. It can utilize Desktop Window Manager (DWM)\n\nBy right-clicking any window in the list, you can access the features below through the popup menu.\n- Change Window Title: Instantly modify the title text of the selected window.\n- Screen Center: Move the selected window to the exact center of the screen.\n- Blackened Background: Dim the background to highlight the selected window.\n- Check Responsiveness: Test if the selected window is responsive or frozen.\n- End Task: Forcefully close the selected window or application.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -68749,8 +69323,8 @@
   {
     "id": "Apryse.XodoPDFReader",
     "name": "Xodo PDF Reader",
-    "publisher": "Apryse",
-    "description": "",
+    "publisher": "Apryse Software Corp.",
+    "description": "Transform how you work with PDF files using Xodo PDF Reader. Our free, cross-platform reader lets you effortlessly open, navigate, highlight, and manage your documents.\n\nWhether you're a student reviewing lecture notes, a professional analyzing reports, or an architect measuring blueprints, Xodo makes handling PDFs easier and more efficient than ever.\n\nBreak free from the limitations of other PDF readers and experience the flexibility of Xodo, seamlessly adapting to your needs across Windows, Mac, and Linux.\n\nStreamline your PDF tasks with intuitive features:\n* Seamlessly open and view your PDF files on Windows, macOS, and Linux devices.\n* Add text and comments, insert notes and highlights, and draw directly on your PDF.\n* Quickly complete and save your interactive PDF forms to easily share them with others.\n* Apply digital signatures, and eSign important documents through Xodo Sign integration.\n* Quickly find specific words, measure distances and print your documents with ease.\n* Save and access your PDFs in Xodo Drive, Google Drive, Dropbox and OneDrive.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -68814,6 +69388,13 @@
     "name": "Xray-core",
     "publisher": "XTLS",
     "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "XRECODE.XRECODE3",
+    "name": "XRECODE 3",
+    "publisher": "xrecode",
+    "description": "XRECODE3 is an audio converter that supports most common audio formats, such as MP3, WAV, FLAC, DSD, etc. It also supports extracting audio from most video files, as well as Audio-CD grabbing. Command line parameters are supported as well. Please visit Forum and Wiki for more information on how to use the program.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -70661,7 +71242,7 @@
     "id": "Taozuhong.KangarooMultiple",
     "name": "袋鼠数据库工具 Multiple",
     "publisher": "陶祖洪",
-    "description": "袋鼠 是一款 AI 驱动的热门数据库系统客户端(MariaDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQLServer / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，致力于打造一款好用、好玩、开发友好的SQL工具。",
+    "description": "袋鼠 是一款 AI 驱动的热门数据库系统客户端(MariaDB / MongoDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQLServer / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，致力于打造一款好用、好玩、开发友好的SQL工具。",
     "icon": "/icons/intunify-default.png"
   },
   {
