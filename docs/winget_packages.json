@@ -469,6 +469,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "tekumara.gh-doctor",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TingPing.plist-viewer",
     "name": "",
     "publisher": null,
@@ -1197,6 +1204,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "trzsz.lrzsz",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "trzsz.trzsz",
     "name": "",
     "publisher": null,
@@ -1506,6 +1520,13 @@
   },
   {
     "id": "TotallyUsefulSoftware.QuickSFV",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Timus.TimusConnect",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2163,6 +2184,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NDI.NDITools",
+    "name": "",
+    "publisher": null,
+    "description": "NDI 工具包含连接、串流和共享内容所需的所有工具和插件。包含 Access Manager、Remote、Router、Test Patterns、Studio Monitor、Webcam Input、Screen Capture、Bridge 以及用于 Audio Direct、VLC、Premiere Pro、After Effects 的插件。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "nathancorvussolis.corvusskk",
     "name": "",
     "publisher": null,
@@ -2748,6 +2776,13 @@
     "name": "",
     "publisher": null,
     "description": "S3 Browser 是一款适用于 Amazon S3 和 Amazon CloudFront 的免费 Windows 客户端。Amazon S3 提供简易的 Web 服务接口，可用于随时随地在互联网上存储和检索任意量级的数据。Amazon CloudFront 是内容分发网络（CDN），能通过全球边缘站点网络高效分发您的文件。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Ankama.AnkamaLauncher",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -3675,6 +3710,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Altova.StyleVision.2026.Professional",
+    "name": "",
+    "publisher": null,
+    "description": "通过单个拖放式报告设计，您可以同时以 HTML、PDF、Word、文本和电子表格形式发布数据。通过自动生成的 XSLT 样式表或 StyleVision Server 实现多渠道发布自动化！",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Altova.StyleVision.2026.Basic",
     "name": "",
     "publisher": null,
@@ -3808,6 +3850,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Altova.DatabaseSpy.2026.Professional",
+    "name": "",
+    "publisher": null,
+    "description": "Altova DatabaseSpy 是独一无二的多数据库查询和设计工具，甚至可以直接从查询结果生成精美的图表。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Altova.DatabaseSpy.2025.Professional",
     "name": "",
     "publisher": null,
@@ -3829,6 +3878,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Altova.Authentic.2026.Enterprise",
+    "name": "",
+    "publisher": null,
+    "description": "Altova Authentic 是一款面向非技术用户的强大的 XML 内容创作工具和文档编辑器。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Altova.Authentic.Integration.2024",
     "name": "",
     "publisher": null,
@@ -3840,6 +3896,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Altova.SchemaAgent.2026",
+    "name": "",
+    "publisher": null,
+    "description": "Altova SchemaAgent 是一款用于管理基于 XML 的文件之间关系的可视化工具--跨项目、局域网甚至企业。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -4641,6 +4704,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Akka.AkkaCli",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Aries-Sciences-LLC.AI-Chess",
     "name": "",
     "publisher": null,
@@ -4673,6 +4743,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Auto-Plugin.milkup",
+    "name": "",
+    "publisher": null,
+    "description": "A modern desktop Markdown editor\n✨ Features\n- 🎯 WYSIWYG Editing - Real-time preview editing experience powered by Milkdown\n- 📝 Dual-mode Editing - Switch between WYSIWYG and source code editing modes\n- 🎨 Multiple Themes - Various minimalist themes with theme editor, import and export support\n- 📁 Local File Management - Open, edit, and save local Markdown files\n- 🔖 Multi-file Opening - Support for opening multiple files via tab bar\n- ⌨️ Shortcut Support - Rich keyboard shortcuts to improve editing efficiency\n- 📋 Outline Navigation - Automatically generate document outline for quick navigation\n- 🖼️ Image Upload - Custom image hosting configuration supported\n- ✅ Spell Check - Built-in spell checking functionality\n- 🌐 Cross-platform Support - Available on Windows, macOS, and Linux\n- 🔧 Highly Customizable - Supports custom CSS and plugin extensions",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -6874,6 +6951,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "kmiya-culti.RLogin",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KamilSzymborski.WindowCenteringHelper",
     "name": "",
     "publisher": null,
@@ -7693,20 +7777,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "IObit.iFunScreenRecorder",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "IObit.iFunScreenshot",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Instruqt.CLI",
     "name": "",
     "publisher": null,
@@ -7981,6 +8051,13 @@
   },
   {
     "id": "InstEd.InstEd",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "InfluxData.Kapacitor",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8796,6 +8873,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cisco.ChezScheme",
+    "name": "",
+    "publisher": null,
+    "description": "Chez Scheme 既是一种编程语言，也是该语言的实现方案，包含配套工具与文档。\n作为《Revised⁶ Report on the Algorithmic Language Scheme》（R6RS）所描述语言的超集，Chez Scheme 完整支持 Scheme 的所有标准特性，包括对过程化的首要支持、正确的尾调用处理、continuation、用户自定义记录、库、异常以及卫生宏展开。\n它还提供与 C 等语言交互的广泛支持、多核多线程运行能力、非阻塞 I/O 等丰富功能。\nChez Scheme 的实现由编译器、运行时系统和编程环境构成。虽然提供解释器，但默认所有代码均会被编译。无论是从源文件加载还是通过交互式环境输入，源代码都会即时编译。源文件也可预编译为二进制存储格式，并在依赖项变更时自动重新编译。无论即时编译还是预编译，编译器都会生成优化机器码，甚至支持跨库优化。通过全程序编译模式，还能实现跨库完全优化，并将程序及其依赖库合并为单一二进制文件。\n运行时系统负责与操作系统交互，主要支持二进制/文本（Unicode）I/O、自动存储管理（动态内存分配与分代垃圾回收）、库管理和异常处理。默认情况下，运行时系统内置编译器，允许程序在运行时生成并编译代码，且动态编译代码的存储空间会像其他动态分配内存一样由垃圾回收器自动回收。\n编程环境包含：源码级调试器、编译时启用性能分析后可生成热点代码 HTML 可视化报告的工具、内存使用检查工具、支持多行表达式编辑的交互式 Shell 环境（expression editor，简称“expeditor”）。\nChez Scheme 的 R6RS 核心特性记载于《The Scheme Programming Language》中，该书同时包含 Scheme 入门指南和示例程序集。扩展语言特性、运行时系统及编程环境功能详见《Chez Scheme User's Guide》。后者提供共享索引和语法形式摘要，并适时关联前书内容，因此通常是最佳学习起点。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -10382,6 +10466,13 @@
   },
   {
     "id": "GDRETools.gdsdecomp",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Gilgamech.MoarShopBot",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13846,14 +13937,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Millie.millie.Legacy",
+    "id": "Millie.millie",
     "name": "",
     "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Millie.millie",
+    "id": "Millie.millie.Legacy",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17752,6 +17843,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ZeroNet.ZeroNet",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Zultys.ZAC",
     "name": "",
     "publisher": null,
@@ -18530,6 +18628,13 @@
   },
   {
     "id": "Riri.WebSearchShortcut",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "rhashsum.RustHashSum",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22750,6 +22855,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DeXPeriX.EbookTalker",
+    "name": "",
+    "publisher": "DeXPeriX",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Dman95.SASM",
     "name": "",
     "publisher": null,
@@ -24458,6 +24570,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Froststrap.Froststrap",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "FarManager.FarManager",
     "name": "",
     "publisher": null,
@@ -24508,6 +24627,13 @@
   },
   {
     "id": "OpenRGB.OpenRGBEffectsPlugin",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenRGB.OpenRGBHardwareSyncPlugin",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25316,6 +25442,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenSight.FlashFXP",
+    "name": "",
+    "publisher": null,
+    "description": "FlashFXP 是适用于 Windows 的 FTP、FTPS、SFTP 客户端。安全、可靠且高效的文件传输工具。\n使用 FlashFXP 发布和维护您的网站。上传和下载文件，如文档、照片、视频、音乐等！传输或备份本地与远程文件，同时支持（FXP）服务器到服务器的 FTP 传输。\nFlashFXP 为客户端配置提供了独特且互补的高级功能。与朋友和同事共享文件（需要 FTP 或 SFTP 服务器）。\n支持超过 20 种语言：保加利亚语、简体中文、繁体中文、捷克语、丹麦语、荷兰语、英语、爱沙尼亚语、法语、德语、匈牙利语、意大利语、挪威语、波兰语、欧洲葡萄牙语、罗马尼亚语、俄语、西班牙语、瑞典语、土耳其语。\n在 OpenSight Software，我们以提供卓越的用户体验为荣，无论您是初学者还是专业级用户，任何人都能轻松掌握 FlashFXP。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -26657,6 +26790,13 @@
   },
   {
     "id": "BlackCatSystems.Atomic",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "bsharper.ATVDesktopRemote",
     "name": "",
     "publisher": null,
     "description": "",
@@ -31150,6 +31290,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Altova.DiffDog.2026.Enterprise",
+    "name": "Altova DiffDog 2026 Enterprise Edition",
+    "publisher": "Altova",
+    "description": "Altova DiffDog is the unique XML-aware diff / merge tool that lets you compare and merge text or source code files, xml or json files, and word documents. compare and synchronize directories, database schemas and content, and much more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Altova.DiffDog.2026.Professional",
+    "name": "Altova DiffDog 2026 Professional Edition",
+    "publisher": "Altova",
+    "description": "Altova DiffDog is the unique XML-aware diff / merge tool that lets you compare and merge text or source code files, xml or json files, and word documents. compare and synchronize directories, database schemas and content, and much more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Altova.DiffDogServer.2025",
     "name": "Altova DiffDog Server",
     "publisher": "Altova",
@@ -31255,6 +31409,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Altova.MissionKit.2026.Enterprise",
+    "name": "Altova MissionKit 2026 Enterprise Edition",
+    "publisher": "Altova",
+    "description": "MissionKit is a software development suite of enterprise-class XML, JSON, SQL, and UML tools for information architects and application developers. MissionKit includes Altova XMLSpy, MapForce, StyleVision, and other market-leading products for building today’s real-world software solutions.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Altova.MissionKit.2026.Professional",
+    "name": "Altova MissionKit 2026 Professional Edition",
+    "publisher": "Altova",
+    "description": "MissionKit is a software development suite of enterprise-class XML, JSON, SQL, and UML tools for information architects and application developers. MissionKit includes Altova XMLSpy, MapForce, StyleVision, and other market-leading products for building today’s real-world software solutions.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Altova.MobileTogetherDesigner",
     "name": "Altova MobileTogether Designer 10.0",
     "publisher": "Altova",
@@ -31299,6 +31467,13 @@
   {
     "id": "Altova.SchemaAgentServer.2025",
     "name": "Altova SchemaAgent 2025 Server",
+    "publisher": "Altova",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Altova.SchemaAgentServer.2026",
+    "name": "Altova SchemaAgent 2026 Server",
     "publisher": "Altova",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -31432,6 +31607,13 @@
   {
     "id": "Altova.XMLSpy.2026.Enterprise",
     "name": "Altova XMLSpy 2026 Enterprise Edition",
+    "publisher": "Altova",
+    "description": "Altova XMLSpy is the world's best selling JSON and XML editor for modeling, editing, transforming, and debugging related technologies. XMLSpy JSON and XML Editor gives developers the tools they need to build the most sophisticated applications with its graphical schema designer, code generation, file converters, debuggers, and profilers for working with XSD, XSLT, XQuery, XBRL, SOAP, and more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Altova.XMLSpy.2026.Professional",
+    "name": "Altova XMLSpy 2026 Professional Edition",
     "publisher": "Altova",
     "description": "Altova XMLSpy is the world's best selling JSON and XML editor for modeling, editing, transforming, and debugging related technologies. XMLSpy JSON and XML Editor gives developers the tools they need to build the most sophisticated applications with its graphical schema designer, code generation, file converters, debuggers, and profilers for working with XSD, XSLT, XQuery, XBRL, SOAP, and more.",
     "icon": "/icons/intunify-default.png"
@@ -32561,6 +32743,13 @@
     "name": "Audio Waveform Image Generator",
     "publisher": "BBC",
     "description": "audiowaveform is a C++ command-line application that generates waveform data from either MP3, WAV, FLAC, Ogg Vorbis, or Opus format audio files. Waveform data can be used to produce a visual rendering of the audio, similar in appearance to audio editing applications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Audio_Arcade.Audio_Arcade",
+    "name": "Audio_Arcade",
+    "publisher": "Audio_Arcade",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34069,6 +34258,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BlastWave.BlastShield",
+    "name": "BlastShield",
+    "publisher": "BlastWave Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BleachBit.BleachBit",
     "name": "BleachBit",
     "publisher": "BleachBit",
@@ -34909,6 +35105,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "XiaoweiCloud.CalendarTask",
+    "name": "CalendarTask",
+    "publisher": "Xiaowei Cloud, Inc.",
+    "description": "CalendarTask Your Personal Time Management Expert\n- Transparent display: You can pin directly to the desktop wallpaper, press the shortcut key to return to the desktop to edit and view your schedule and calendar information\n- Real-time data sync: You can synchronize your schedule in real time between PC computers, Mac computers, and mobile phones. If you are a small team, you can also achieve team collaboration.\n- Notification Reminder: Customizable for repetitive, complex tasks and reminders.\n- Notes: Stay organized, choose your colors\n- Countdown Anniversary Card: Display elegant cards directly on the desktop to never forget every important day.\n- No Ads: Ad-free experience across all channels",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "calibre.calibre",
     "name": "calibre",
     "publisher": "Kovid Goyal",
@@ -35406,10 +35609,38 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CharruaSoft.TestSCU",
+    "name": "Charrua TestSCU",
+    "publisher": "CharruaSoft",
+    "description": "TestSCU is a tool for testing and troubleshooting DICOM communications.\n\nThe software acts as a DICOM SCU (Service Class User) and is able to perform the following services:\n- Echo-Verification.\n- Store.\n- Query-Find\n- Query-Worklist.\n- Print.\n\n* SendSCU: is for sending multiple images from a folder to a remote DICOM server using the DICOM Store SCU service.\n* PrintSCU: is command line tool for sending JPEG or Bitmap images to a DICOM Laser film Printer.\n* WatchDog: DICOM Watchdog is a monitoring application that sends DICOM echo-verification messages to remote servers, in case one of them does not answer it will send an e-mail alarm to a list of pre-defined Contacts.\n* Lite Viewer: for including in DICOM CD/DVD. It will list all studies within the media and open them with a complete DICOM viewer, with zoom, pan, window/level, measure tools.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CharruaSoft.CharruaWorkStation",
     "name": "Charrua WorkStation",
     "publisher": "CharruaSoft",
     "description": "Charrua WorkStation is an intuitive and efficient DICOM viewer, designed to operate on Windows systems. This platform allows managing, viewing, and processing DICOM images from various modalities such as Computed Tomography, Magnetic Resonance Imaging, and Digital Radiography, among others.\n\nAmong its highlighted features are:\n- A complete DICOM Server (Store SCP, Query/Retrieve SCP).\n- Advanced backup and restoration options.\n- DICOM and Windows printing, both on film and paper.\n- Creation of DICOM CDs/DVDs with integrated viewer.\n- Drafting and storage of reports as DICOM Structured Reports.\n- Support for up to three monitors, optimizing the visualization and management of studies.\n\nTrial 15 Days",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CharruaSoft.CharruaPACS.Advanced",
+    "name": "CharruaPACS Advanced Edition",
+    "publisher": "CharruaSoft",
+    "description": "CharruaPACS is a PACS server that excels for its easy installation and maintenance.\n\nIt offers a wide range of DICOM services, including:\n- SOP Classes with DICOM C-STORE SCP, supporting both uncompressed transfer syntax and JPEG lossless, JPEG lossy, and JPEG 2000.\n- C-FIND and C-MOVE SCP with Study Root model.\n- C-ECHO Verification as SCP.\nAdditionally, it allows image distribution through a web browser using an HTML5 viewer or an executable viewer for Windows.\n\nThe Advanced version uses PostgreSQL database, and adds a full Worklist server, optimizing the distribution of study schedules to imaging modalities.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CharruaSoft.CharruaPACS.Basic",
+    "name": "CharruaPACS Basic Edition",
+    "publisher": "CharruaSoft",
+    "description": "CharruaPACS is a PACS server that excels for its easy installation and maintenance.\n\nIt offers a wide range of DICOM services, including:\n- SOP Classes with DICOM C-STORE SCP, supporting both uncompressed transfer syntax and JPEG lossless, JPEG lossy, and JPEG 2000.\n- C-FIND and C-MOVE SCP with Study Root model.\n- C-ECHO Verification as SCP.\n\nAdditionally, it allows image distribution through a web browser using an HTML5 viewer or an executable viewer for Windows.\n\nCharruaPACS Basic was created for clinics with a small study volume.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CharruaSoft.CharruaWorklistServer",
+    "name": "CharruaSoft Worklist Server",
+    "publisher": "CharruaSoft",
+    "description": "Worklist Server enhances radiological workflow efficiency with advanced computer tools.\n\nBy seamlessly integrating work schedules with image acquisition equipment, it minimizes manual input errors and accelerates study completion.\n\nCompatible with HL7 orders and HTTP Post or Get requests, this server seamlessly connects to multiple modalities, streamlining access to the daily work list.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35508,13 +35739,6 @@
     "name": "CherryTree",
     "publisher": "Giuseppe Penone",
     "description": "A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in either a single file (xml or sqlite) or multiple files and directories.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Cisco.ChezScheme",
-    "name": "Chez Scheme",
-    "publisher": "Cisco Systems, Inc.",
-    "description": "Chez Scheme is an implementation of a superset of the Scheme programming language as described by The Revised6 Report on the Algorithmic Language Scheme (R6RS). It includes a native-code compiler as well as an interpreter and can interface with code written in C through its foreign function interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35868,6 +36092,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "anyme123.ClaudeWorkbench",
+    "name": "Claude Workbench",
+    "publisher": "workbench",
+    "description": "专业的 Claude Code 桌面管理工具 - 现代化 GUI 工具包\n\n✨ 核心特性\n🎯 会话管理\n- 可视化项目管理：直观的 Claude 项目和会话管理界面\n- 会话历史记录：完整的对话历史，支持恢复和撤回\n- 实时流式输出：流畅的 Claude 响应显示\n- 提示词撤回：撤回到任意消息，恢复代码状态\n📦 Claude 扩展管理器 (v4.0.1 新增)\n- Plugins 查看器：查看已安装的插件及其组件\n- Subagents 管理：浏览和编辑子代理\n- Agent Skills 查看：查看和管理 AI 技能\n- 一键打开文件：点击卡片直接编辑 .md 文件\n💰 智能成本追踪\n- 准确计费：支持多模型定价（Opus 4.1、Sonnet 4.5、Sonnet 3.5）\n- 详细统计：Token 分类、会话时长、API 执行时间\n- 悬停查看：鼠标悬停即可查看完整成本分析\n- 实时更新：会话成本实时计算和显示\n🔧 开发者工具\n- 代理商管理：一键切换 API 提供商，静默切换无打扰\n- MCP 集成：完整的 Model Context Protocol 服务器管理\n- Hooks 系统：自定义钩子和事件处理\n- Slash Commands: 自定义命令管理器\n🎨 现代化 UI\n- 主题切换：顶栏快速切换明暗主题（默认浅色）\n- 紧凑设计：优化的空间利用，清晰的视觉层次\n- 响应式布局：适配不同屏幕尺寸\n- 流畅动画：Framer Motion 驱动的交互效果",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ronghuaxueleng.ClaudeCodeConfigManager",
+    "name": "claude-code-config-manager",
+    "publisher": "claude-config-manager",
+    "description": "一款基于 Tauri 框架构建的现代化 Claude Code 配置管理桌面应用程序，为开发者提供便捷的 Claude API 配置管理解决方案。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GuillaumeRyder.Clavier+",
     "name": "Clavier+",
     "publisher": "Guillaume Ryder",
@@ -36068,13 +36306,6 @@
     "name": "Cloud",
     "publisher": "Huawei Technologies Co., Ltd.",
     "description": "Manage your photos, contacts, notes, and other important data online, and sync them to your other Huawei devices. You can also remotely locate a device, make it play a sound, lock it, or erase data to protect your privacy.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "IAMCloud.CloudDriveMapper",
-    "name": "Cloud Drive Mapper",
-    "publisher": "IAM Technology Group Ltd",
-    "description": "Cloud Drive Mapper (CDM) maps network drives to OneDrive for Business, SharePoint Online and Microsoft Teams storage, integrating your cloud storage into Windows desktops and VDIs. CDM’s storage looks and behaves just like local storage from the perspective of the machine,  the user, other applications, and the administrator.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36414,6 +36645,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Bitfocus.Companion",
+    "name": "Companion",
+    "publisher": "Bitfocus",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.CompanyPortal",
     "name": "Company Portal",
     "publisher": "Microsoft Corporation",
@@ -36649,6 +36887,13 @@
     "name": "CoPrA",
     "publisher": "ColorLogic",
     "description": "CoPrA is the control center for any ICC color profiling task. CoPrA creates high quality printer, DeviceLink and SaveInk profiles with a user friendly interface for any color space and printing process. Offering some of the most intelligent and advanced profiling tools in the industry today, CoPrA can be even used for industrial printing processes such as textiles, ceramics, flexo and others.\n\nSave time and money with its wide range of features to optimize print production. A must-have tool for any color management professional to capture the characteristics of their presses and printers or to implement high quality extended gamut printing.\n\nKey Features:\n- Automated Color Fixes: Corrects out-of-gamut colors, preserves spot colors, and adjusts CMYK/Separations.\n- Preflight & Compliance: Validates PDF/X-4 files against ISO 12647-2/7 and G7 requirements.\n- Brand Color Tools: Enforces color libraries (Pantone, HKS, brand-specific) with ΔE tolerance controls.\n- Cloud/API Integration: Runs via browser or integrates into workflows (e.g., MIS, web-to-print).\n- Reporting: Generates certified PDF audit trails for proof approval.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "9001.copyparty",
+    "name": "copyparty",
+    "publisher": "ocv.me",
+    "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37524,6 +37769,13 @@
     "name": "DB Browser for SQLite",
     "publisher": "DB Browser for SQLite Team",
     "description": "DB Browser for SQLite (DB4S) is a high quality, visual, open source tool designed for people who want to create, search, and edit SQLite or SQLCipher database files. DB4S gives a familiar spreadsheet-like interface on the database in addition to providing a full SQL query facility. It works with Windows, macOS, and most versions of Linux and Unix.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Columnar.dbc",
+    "name": "dbc",
+    "publisher": "Columnar",
+    "description": "dbc is a command-line tool for installing and managing ADBC drivers.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38808,6 +39060,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Docker.Buildx",
+    "name": "Docker Buildx",
+    "publisher": "Docker Inc.",
+    "description": "Buildx is a Docker CLI plugin for extended build capabilities with BuildKit.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Docker.DockerCLI",
     "name": "Docker CLI",
     "publisher": "Docker Inc.",
@@ -39942,6 +40201,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Educator.Engine",
+    "name": "Educator Engine",
+    "publisher": "IBUNKA KORYU KIKAKU CO., LTD",
+    "description": "This application is a management software for Japanese language schools in Japan. It supports student management, exam and attendance tracking, and the creation and management of various official reporting documents.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EduMIPS64.EduMIPS64",
     "name": "EduMIPS64",
     "publisher": "EduMIPS64 Development Team",
@@ -40222,6 +40488,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JangaFX.EmberGen",
+    "name": "EmberGen",
+    "publisher": "JangaFX",
+    "description": "EmberGen is a real-time volumetric fluid simulation tool that can instantly simulate, render, and export flipbooks, image sequences, and VDB volumes.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EmbravaPtyLtd.EmbravaConnect",
     "name": "Embrava Connect",
     "publisher": "Embrava Pty Ltd",
@@ -40303,6 +40576,13 @@
     "name": "Enlisted Launcher",
     "publisher": "Gaijin Network",
     "description": "The weaponry, soldier's uniform, appearance and capabilities of the vehicles in\nthe game are in line with historical facts.\n\nEach squad consists of several soldiers who can be trained, equipped with new\nweapons and items and then taken into a battle. You control one soldier directly\nwhile other soldiers will be controlled by AI which obeys your orders. You can\nswitch between soldiers and stay at the most interesting point in a battle event\nafter part of your squad has been defeated.\n\nDozens of units with different specialisations participate in Enlisted battles\nsimultaneously. This ensures maximum density and spectacularity of a battle\nwhile maintaining a high contribution with each participant for the victory of\nthe team. Infantry, armoured vehicles and aircraft battle together and you can\ntry several roles in just one game session.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "EnsoAnalytics.Enso",
+    "name": "Enso",
+    "publisher": "Enso Analytics",
+    "description": "Enso Analytics is a modern, workflow-based data preparation platform designed for teams. Keep your familiar, visual, no-code canvas and unlock powerful features: cross-platform support for Windows, Mac, and Linux, built-in scheduling, granular version history, and encrypted secrets. With seamless in-memory and in-database processing, your complex data prep runs efficiently where your data lives.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42203,13 +42483,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "OpenSight.FlashFXP",
-    "name": "FlashFXP",
-    "publisher": "OpenSight Software LLC",
-    "description": "FlashFXP is a FTP, FTPS, SFTP client for Windows. Secure, reliable, and efficient file transfers.\n\nUse FlashFXP to publish and maintain your website. Upload and download files, such as documents, photos, videos, music and more! Transfer or backup local and remote files, plus (FXP) server to server ftp transfers.\n\nFlashFXP offers unique and complimentary advanced features for client configuration. Share files with your friends and co-workers (FTP or SFTP server required).\n\nAvailable in over 20 languages: Bulgarian, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, English, Estonian, French, German, Hungarian, Italian, Norwegian, Polish, Portuguese-European, Romanian, Russian, Spanish, Swedish, Turkish. (complete list)\n\nAt OpenSight Software, we pride ourselves on delivering an outstanding user experience, from less technical individuals to industry class professionals, anyone can master FlashFXP.\n\nTake FlashFXP with you everywhere you go with our portable edition, Don't be stranded without a FTP, FTPS, SFTP client.\n\nTry it free for 30 days.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Constructor.Flat",
     "name": "Flat",
     "publisher": "Constructor, Inc.",
@@ -42396,6 +42669,13 @@
     "name": "Flowgorithm",
     "publisher": "Devin Cook",
     "description": "Typically, when a student first learns to program, they often use one of the text-based programming languages.\nDepending on the programming language, this can either be easy or frustratingly difficult experience. Many languages\nrequire students to write lines of confusing code just to display the text \"Hello, world!\". This is normal for most\nobject-oriented languages, but beginner students are far from learning these concepts.\n\nBy using flowcharts, you can concentrate on programming concepts rather than all the nuances of a typical programming\nlanguage. Programs can be executed directly in Flowgorithm.\n\nOnce you understand programming logic, it is easy for you to learn one of the major languages. Flowgorithm can\ninteractively convert your flowchart to over 18 languages. These include: C#, C++, Java, JavaScript, Lua, Perl, Python,\nRuby, Swift, Visual Basic .NET, and VBA (used in Office).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Flowify.Flowify",
+    "name": "Flowify",
+    "publisher": "Naplon_",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42812,6 +43092,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Foursquare.FSQ-Spatial-Desktop",
+    "name": "FSQ Spatial Desktop",
+    "publisher": "foursquare.com",
+    "description": "Transform your desktop into a comprehensive geospatial computing platform. Achieve instant query performance on multi-gigabyte datasets and real-time visualization rendering — all powered natively on your machine without requiring server infrastructure.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "fstl.fstl",
     "name": "fstl",
     "publisher": "fstl contributors",
@@ -42991,6 +43278,13 @@
     "name": "GameSir T4k App",
     "publisher": "Guangzhou Chicken Run Network Technology Co., Ltd",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JangaFX.GameTextureViewer",
+    "name": "GameTextureViewer",
+    "publisher": "JangaFX LLC",
+    "description": "Game Texture Viewer (GTV) is a fast, reliable, and simple tool for artists to preview textures and sprite sheetanimations on the fly.\n\nWith GTV, you can visualize large collections of textures and sprite sheets instantly without having to write any shaders or opening editing software. Easily preview channels, contrast, gamma, brightness, alpha blending, and more!\n\nOn a large scale production, artists often end up with a database of thousands of textures and atlases with no quick way of sifting through and comparing them without inserting them into an engine shader or finding the source program file. GTV solves this issue by providing a one click automatic division based on the name file.Moreover GTV can support large flipbooks, capable of playing them seamlessly.\n\n* GTV automatically splits sprite sheets with names containing ex: 8x2, 3x5, 8x8 in the file name.\n* Need to compare 2 images? No problem! Just right click on any image and select \"Open in new GTV\".\n* Open the file info window to get a full list of metadata contained in the image.\n* Click the toggle animation button at the top to toggle between the original sprite sheet and the animation.\n* Supports TIF, TGA, JPG, PNG, BMP, PSD and EXR Formats",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45115,6 +45409,62 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Hetman.DataRecoveryPack",
+    "name": "Hetman Data Recovery Pack",
+    "publisher": "Hetman Software",
+    "description": "A package of programs for recovering information from any device from Hetman Software! Utilities support USB flash drives, memory cards, as well as hard and SSD drives.\n\nThe package includes:\n* Partition Recovery™\n* Internet Spy™\n* Office Recovery™\n* Photo Recovery™\n\nData Recovery Pack™ contains everything you need to recover any kind of file types and formats from all types of storage media. The pack consists of 5 tools you can run on the same or different computers.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hetman.FileRepair",
+    "name": "Hetman File Repair",
+    "publisher": "Hetman Software",
+    "description": "File Repair™ can fix files that are corrupted or incomplete, repairing files that come out damaged after a data recovery session.\n\nThe tool can repair file headers and rebuild internal structures of many types of files. By fixing these errors, File Repair™ enables you to access those files, view and edit the images.\n\n- Repairs corrupted *.JPEG, *.JPG, *.JPE, and *.JFIF files in lossless mode. The repair is performed at block level without re-encoding the file, thus the original JPEG quality is preserved. Both main and thumbnail images are rebuilt. EXIF information is preserved.\n- Repairs damaged and corrupted files in the TIFF format including *.TIFF *.TIF, *.FAX, *.G3, and *.G4. File Repair™ supports Windows and Mac TIFF images, and can successfully repair uncompressed files and TIFF images compressed with LZW, JPEG, PackBit, CCITT 1D 2, Group 3 Fax 3 and Group 4 Fax algorithms.\n- Repairs raster images in *.PNG, *.BMP, *.DIB, and *.RLE formats. LZ77-compressed PNG files are supported. The tool can extract BMP images from resource files. File Repair™ repairs PNG images preserving the original visual quality and without re-compressing the files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hetman.InternetSpy",
+    "name": "Hetman Internet Spy",
+    "publisher": "Hetman Software",
+    "description": "This program analyzes the contents of both existing and deleted browser system files and collects detailed information on a user’s online activity. The utility allows you to analyze browsing history, social media messages, search history, emails, videos watched on YouTube, etc.\n\nThe user-friendly interface is good not only for parents who would like to monitor their children’s online activity, but also for detectives working on digital evidence. The application will give you certain information even if the browsing history was deleted, the data was removed, or the disk was formatted.\n\n- You can view the browsing history of any person who works with the target computer. The application supports all popular browsers such as Chrome, Yandex, Mozilla Firefox, Opera, Microsoft Edge, Internet Explorer, and more.\n- This utility provides access to messaging history on any social media site like Facebook, Twitter, Instagram, YouTube, etc. All user accounts logged into, the time spent communicating, and many other things will be clearly visible.\n- Analyzes a user’s online activity on social media\n- Analyzes search queries and use of machine translation\n- Shows created bookmarks and downloads",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hetman.OfficeRecovery",
+    "name": "Hetman Office Recovery",
+    "publisher": "Hetman Software",
+    "description": "Office Recovery™ is designed to help when your office documents go missing. Implementing a range of highly sophisticated low-level disk analysis algorithms, Office Recovery™ can retrieve the missing documents even if the disk is corrupted, inaccessible, or does not appear as a drive letter. A special extra-safe recovery more is available for heavily worn and physically unstable devices.\n\nOffice Recovery™ supports all types of storage media including all magnetic and flash-based devices. Traditional and solid-state disks, memory cards, USB pen drives, external devices and many types of NAS and RAID arrays are supported.\n\nOffice Recovery™ supports all versions of FAT / exFAT, NTFS / ReFS, APFS / HFS+, Ext2 / 3 / 4 / ReiserFS and XFS / UFS. On NTFS volumes, compressed and encrypted files as well as NTFS Alternate Data Streams are supported. Office Recovery™ can recover documents from RAID arrays, assuming that the RAID is assembled and fully functional.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hetman.PartitionRecovery",
+    "name": "Hetman Partition Recovery",
+    "publisher": "Hetman Software",
+    "description": "Partition Recovery™ reliably restores data from damaged FAT/exFAT, NTFS/ReFS, APFS/HFS+, Ext4/3/2/ReiserFS, ZFS, Btrfs, HikvisionFS, and XFS/UFS drives, preserving the original file and folder structure. Beyond existing partitions, it detects all previously created volumes, allowing users to search and recover files from deleted or lost partitions. The tool can also save the entire logical drive while maintaining the original directory structure.\n\n- The software can undelete all types of files accidentally removed from hard drives, USB drives, memory cards, and other storage media, regardless of the file system. Advanced low-level, content-aware algorithms are available to handle even the most complex recovery cases.\n- Recovers data from formatted partitions, deleted volumes, and repartitioned hard drives, regardless of the file system. Partition Recovery™ can detect deleted partitions and locate missing file systems with ease.\n- The program can successfully undelete files removed using Shift + Del, erased by third-party applications, or deleted from the Recycle Bin.\n- Recovers data destroyed or locked due to virus attacks, power outages, or hardware failures. Viruses, Trojans, and other types of malware can intentionally destroy information or make it inaccessible by corrupting or erasing critical system structures.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hetman.PhotoRecovery",
+    "name": "Hetman Photo Recovery",
+    "publisher": "Hetman Software",
+    "description": "Photo Recovery™ recovers digital pictures from all types of storage media. Undelete photos from hard disks, recover from USB drives, or restore from formatted, corrupted or inaccessible memory cards – it can do all this, and more. The tool can even recover pictures directly from the smartphones, tablets and many digital camera models. Simply connect your device to the computer via a USB cord and run our software.\n\nUsing our software is easy as 1-2-3. You’ll run a step-by-step wizard guiding you through the entire recovery process from choosing the device that has your files to selecting pictures to recover and finally saving them onto another disk.\n\nIt can recover pictures in all popular image formats. This includes raster and vector images in JPEG, PSD, TIFF, PNG, BMP, GIF and many other formats. The list of supported formats is constantly growing. In addition, software fully supports the recovery of RAF files (“digital negatives”) produced by Canon, Nikon, Pentax, SONY, Olympus, Panasonic and other cameras. The tool recognizes CR2, CRW, RAW, TIFF, TIF, NEF, PEF, X3F and many other RAW formats.\n\nPhoto Recovery™ can recover images stored in the internal memory of many digital cameras. On order to recover the pictures, connect your camera to the PC via a USB cord and make sure a new drive letter appears. You can then use product to recover photos from that new drive.\nWe tested multiple camera models manufactured by Canon, Casio, Ergo, Fujifilm, HP, Kodak, Logitech, Leica, Nikon, Olympus, Panasonic, Pentax, Praktica, Premier, Samsung, Sony, Toshiba, UFO and other makers.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hetman.RAIDRecovery",
+    "name": "Hetman RAID Recovery",
+    "publisher": "Hetman Software",
+    "description": "This program recovers data from non-operational RAID systems or from disks within such systems. It reads all the information about the controller, the motherboard or the software used to create a disk array. Our product can rebuild the crashed RAID and it lets you copy all critical information from there.\n\nThe integrated constructor wizard helps you recover a failing RAID in a step-by-step mode. You can use one of the presets or chose the required data in the damaged array, and RAID Recovery™ will collect the disks together to provide you with access to the data.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hetman.Uneraser",
+    "name": "Hetman Uneraser",
+    "publisher": "Hetman Software",
+    "description": "Uneraser™ quickly recovers deleted files and folders from just about any kind of storage media. Hard drives, memory cards, external storage, USB drives – you name it! The tool will reliably recover accidentally deleted files even if you used the “permanent delete” function with Shift + Delete, and restore data cleared from the Recycle Bin.\nUneraser™ can successfully recover files of all formats with no exceptions. However, for certain data it can go one extra step, offering an even better chance of recovering essential information such as Office documents, PDF files, pictures and videos including RAW files and Photoshop designs, email messages, archives and backups, and many other types of data you would rather not lose. For these formats, software can do a context-aware analysis of the entire disk surface, looking for deleted files by their unique signatures. Such files can be recovered even if there is no record about them left in the file system. - Binary settings; - Webmoney Keys; - Text documents (Word and Writer included): DOC, DOCX, RTF, PDF, etc. - Spreadsheets: XLS, XLSX, etc. - Presentations: PPT, PPTX, etc. - Source codes: PAS, C, H, PHP, HTML, etc. - Vector and bitmap images: JPEG, PSD, etc. - Compressed archives: ZIP, RAR, etc. - Virtual disk images ISO, VHD, NRG, MDF, etc. - Video and audio files: AVI, DAT, MKV, MPG, VOB, MP3, etc. - Image files: JPEG, PNG, TIFF, PSD, etc.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BreakPointSoftware.HexWorkshop",
     "name": "Hex Workshop v6.7",
     "publisher": "BreakPoint Software",
@@ -45906,6 +46256,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "IObit.iFunScreenRecorder",
+    "name": "iFun Screen Recorder",
+    "publisher": "IObit",
+    "description": "iFun Screen Recorder records any parts of screens with the webcam, speaker, and microphone on. It supports high-quality video by selecting 4096X2160 (HD) video size, 60 FPS, and the custom bitrate. Gamers can use the tool to capture 2D/3D games in high quality. It optimizes recording by using a hardware-accelerated H.264 encoder. Users can save the video in common file formats of MP4, AVI, FLV, GIF, etc., and save the audio in formats of MP3, AAC, AC3, etc. It supports cutting and trimming the video and posts the video to YouTube, Facebook, Vimeo, Instagram, Google Drive, and Dropbox with one click.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IObit.iFunScreenshot",
+    "name": "iFun Screenshot",
+    "publisher": "IObit",
+    "description": "iFun Screenshot provides you multiple screenshot modes. It allows you to quickly capture any selected area, window, or full screen and easily pin them to your desktop, copy them to a clipboard, or save them to other locations according to your needs. Thus, taking screenshots for films, games, webinars, lectures, websites, folders, files, etc., will be easier than ever.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Nstr.Igitt",
     "name": "Igitt",
     "publisher": "nstr.dev",
@@ -46161,6 +46525,27 @@
     "id": "infisical.infisical",
     "name": "infisical",
     "publisher": "infisical",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "InfluxData.InfluxDB.Core",
+    "name": "InfluxDB 3 Core",
+    "publisher": "InfluxData Inc.",
+    "description": "InfluxDB 3 Core is a database built to collect, process, transform, and store event and time series data, and is ideal for use cases that require real-time ingest and fast query response times to build user interfaces, monitoring, and automation solutions.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "InfluxData.InfluxDB.Enterprise",
+    "name": "InfluxDB 3 Enterprise",
+    "publisher": "InfluxData Inc.",
+    "description": "InfluxDB 3 Enterprise is built on a cloud-native, diskless architecture that removes the limits of traditional storage. It’s easy to deploy, scales effortlessly, and cuts out the complexity of managing clusters. Its stateless design keeps operations simple and adapts to any environment.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "InfluxData.InfluxDB.CLI",
+    "name": "InfluxDB CLI",
+    "publisher": "InfluxData Inc.",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -49822,7 +50207,7 @@
     "id": "Microsoft.LAPS",
     "name": "Local Administrator Password Solution",
     "publisher": "Microsoft Corporation",
-    "description": "",
+    "description": "The \"Local Administrator Password Solution\" (LAPS) provides management of local account passwords of domain joined computers. Passwords are stored in Active Directory (AD) and protected by ACL, so only eligible users can read it or request its reset.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51513,6 +51898,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.VCLibs.14",
+    "name": "Microsoft Visual C++ 2015 UWP Runtime Package",
+    "publisher": "Microsoft Platform Extensions",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.VCRedist.2015+.x64",
     "name": "Microsoft Visual C++ 2015-2022 Redistributable (x64)",
     "publisher": "Microsoft Corporation",
@@ -51807,6 +52199,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Minitab.MinitabStatisticalSoftware.22",
+    "name": "Minitab Statistical Software 22",
+    "publisher": "Minitab, LLC",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MiniTool.PartitionWizard.Free",
     "name": "MiniTool Partition Wizard Free",
     "publisher": "MiniTool Software Limited",
@@ -52069,7 +52468,7 @@
     "id": "WitteSoftware.ModbusPoll",
     "name": "Modbus Poll",
     "publisher": "Witte Software",
-    "description": "Modbus Poll is a Modbus master simulator designed primarily to help developers of Modbus slave devices or others that want to test and simulate the Modbus protocol. With the multiple document interface you can monitor several Modbus slaves and/or data areas at the same time. For each window you simply specify the Modbus slave ID, function, address, size and poll rate. You can read and write registers and coils from any window. If you want to change a single register, simply double click the value. Or you can change multiple registers/coils. Multiple data formats such as float, double and long with word order swapping are available.",
+    "description": "Modbus Poll is a Modbus master simulator designed primarily to help developers of Modbus slave devices or others that want to test and simulate the Modbus protocol. With the multiple document interface you can monitor several Modbus slaves and/or data areas at the same time. For each window you simply specify the Modbus slave ID, function, address, size and poll rate. You can read and write registers and coils from any window. If you want to change a single register, simply double click the value. Or you can change multiple registers/coils. Multiple data formats such as float, double and long with word order swapping are available.\nSupported protocol variants: * Modbus RTU * Modbus ASCII * Modbus TCP/IP * Modbus RTU Over TCP/IP * Modbus ASCII Over TCP/IP * Modbus UDP/IP * Modbus RTU Over UDP/IP * Modbus ASCII Over UDP/IP",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53718,6 +54117,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Pingman.MultiPing",
+    "name": "MultiPing",
+    "publisher": "Pingman Tools, LLC",
+    "description": "MultiPing provides a graphical view of network performance, monitors hundreds of targets, and sends automatic alerts. This affordable tool is great for professionals and newbies alike, and can be monitoring your network in less than a minute.\n- Graph Network Performance: Visually represent networking metrics. Compute packet loss % as well as avg, min, and max latency. - Time Graphs: See performance over time, identify patterns, and improve understanding of network issues. - Follow Dynamic DNS: Continue watching (or alert) when target IP addresses change. - Alert System: Send emails, play sounds, launch executables, change icons, or log to files when network issues occur. - Network Discovery: Scan a range of IPs and automatically add responders to the target list. - IPv6 Support: Mix IPv4 and IPv6 as you migrate to the protocol of the future. - PingPlotter Integration: Share data with PingPlotter for advanced troubleshooting. - Explorable Timeline: Browse performance history by dragging, focusing and zooming in on periods of interest. - Configurable Interface: Undock, resize, hide, and reorder graphs to keep an eye on what's important to you.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SeDuTec.Multisine",
     "name": "Multisine",
     "publisher": "SeDuTec",
@@ -54166,13 +54572,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "NDI.NDITools",
-    "name": "NDI Tools",
-    "publisher": "NDI",
-    "description": "NDI Tools and plugins needed to connect, stream and share your content. Contains Access Manager, Remote, Router, Test Patterns, Studio Monitor, Webcam Input, Screen Capture, Bridge and plugins for Audio Direct, VLC, Premiere Pro, After Effect.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "720kb.ndm",
     "name": "ndm",
     "publisher": "720kb",
@@ -54279,7 +54678,7 @@
   },
   {
     "id": "Nero.NeroCore",
-    "name": "NeroCore",
+    "name": "Nero Start",
     "publisher": "Nero AG",
     "description": "With Nero Platinum Suite, you can manage your everyday digital life, at home and on the road - guaranteed! Now equipped with brand-new functions.",
     "icon": "/icons/intunify-default.png"
@@ -54294,7 +54693,7 @@
   {
     "id": "Netbird.Netbird",
     "name": "Netbird",
-    "publisher": "Wiretrustee UG (haftungsbeschreankt)",
+    "publisher": "NetBird GmbH",
     "description": "NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home.\nConnect. NetBird creates a WireGuard-based overlay network that automatically connects your machines over an encrypted tunnel, leaving behind the hassle of opening ports, complex firewall rules, VPN gateways, and so forth.\nSecure. NetBird enables secure remote access by applying granular access policies while allowing you to manage them intuitively from a single place. Works universally on any infrastructure.",
     "icon": "/icons/intunify-default.png"
   },
@@ -54443,6 +54842,13 @@
     "name": "NetTime",
     "publisher": "Mark Griffiths",
     "description": "NetTime is a Simple Network Time Protocol (SNTP) client for Windows 95/98/Me/NT/2000/XP/Vista/7/8/10 and Server 2003/2008/2012/2016.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NetTraceX.TUI",
+    "name": "NetTraceX TUI",
+    "publisher": "NetTraceX",
+    "description": "NetTraceX TUI is a comprehensive network diagnostic toolkit built with Go,\nfeaturing a beautiful terminal user interface for network analysis,\ntroubleshooting, and monitoring.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56539,6 +56945,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "kashamalasha.Owlet",
+    "name": "Owlet",
+    "publisher": "kashamalasha",
+    "description": "Owlet is a cross-platform Electron widget application that displays sensor glucose values (SGV) from a Nightscout API in real time. Intended for Type 1 Diabetes management, with trend arrows, customizable alert levels, and an always-on-top display.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ownCloud.ownCloudDesktop",
     "name": "ownCloud",
     "publisher": "ownCloud GmbH",
@@ -57010,7 +57423,7 @@
   {
     "id": "TrackerSoftware.PDF-XChangeEditor",
     "name": "PDF-XChange Editor",
-    "publisher": "Tracker Software",
+    "publisher": "PDF-XChange Co Ltd.",
     "description": "PDF-XChange Editor is a fast, lightweight, and feature-rich PDF viewer, editor, and annotation tool for Windows. Developed by Tracker Software, it is known for its high performance and extensive functionality, positioning itself as a powerful alternative to Adobe Acrobat.\n\nKey Features:\n- Editing Tools: Directly edit text and images in PDF documents.\n- Annotation & Markup: A vast array of tools for highlighting, adding comments, stamps, shapes, and handwritten notes.\n- OCR (Optical Character Recognition): Convert scanned documents into searchable and editable text.\n- Form Creation & Filling: Create, edit, and fill interactive PDF forms.\n- Security Features: Add passwords, redact sensitive information, and manage digital signatures.\n- Customization: Highly customizable interface and toolbar layouts.\n- Low System Impact: Noted for its small footprint and fast operation, even with large files.",
     "icon": "/icons/intunify-default.png"
   },
@@ -57145,6 +57558,13 @@
     "name": "PeerBanHelper",
     "publisher": "PBH-BTN Community",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SaturninTheAlien.PekkaKana2",
+    "name": "Pekka Kana 2",
+    "publisher": "SaturninTheAlien",
+    "description": "Pekka Kana 2 (Pekka the Rooster 2) is a 2D platformer game where you control a rooster, made in the spirit of classic platformers such as Super Mario, SuperTux, Jazz Jackrabbit, Super Frog and so on.\nThis game was tested on Windows, GNU/Linux, Mac OS (Apple Silicon).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57365,6 +57785,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Phrase.PhraseCLI",
+    "name": "Phrase Strings CLI",
+    "publisher": "Phrase GmbH",
+    "description": "The Phrase Strings Client is available for all major platforms and lets you access all API endpoints as well as easily sync your locale files between your source code and Phrase.\nPhrase Strings is a translation management platform for software projects. You can collaborate on language file translation with your team or order translations through our platform. The API allows you to import locale files, download locale files, tag keys or interact in other ways with the localization data stored in Phrase Strings for your account.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BartelsMedia.PhraseExpress",
     "name": "PhraseExpress",
     "publisher": "Bartels Media GmbH",
@@ -57495,6 +57922,13 @@
     "name": "Pingo",
     "publisher": "Cedric Louvrier",
     "description": "pingo is an experimental lossless and lossy image optimizer (PNG, JPEG, WebP, APNG) designed to be used for web context",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Pingman.PingPlotter",
+    "name": "PingPlotter",
+    "publisher": "Pingman Tools, LLC",
+    "description": "PingPlotter is a network diagnostic tool for engineers, sysadmins, and other people with above-average tech skills.\n\nIdentify bandwidth bottlenecks, wireless interference, or faulty hardware impacting your internet.\n- Trace as many as 250 targets from any Windows or macOS computer.\n- Identify problematic routes quickly with dynamic overviews.\n- Measure latency, packet loss, jitter, and MOS scores and share with stakeholders.\n- Show results to anyone by posting online or exporting historical data.\n- Scan your local network and list every connected device.\n- Get alerted the moment problems happen. Integrate with REST API.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60375,6 +60809,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "restic.server",
+    "name": "Restic REST Server",
+    "publisher": "restic",
+    "description": "It provides secure and efficient way to backup data remotely, using restic backup client via the rest: URL.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "emuell.restic-browser",
     "name": "restic-browser",
     "publisher": "emuell",
@@ -60448,7 +60889,7 @@
     "id": "RevoUninstaller.RevoUninstaller",
     "name": "Revo Uninstaller",
     "publisher": "VS Revo Group, Ltd.",
-    "description": "Revo Uninstaller Free helps you to uninstall software and remove unwanted programs easily.\nRemove all uninstall leftovers and traces.",
+    "description": "Revo Uninstaller Free helps you to uninstall software and remove unwanted programs easily. Remove all uninstall leftovers and traces.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61922,6 +62363,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SecureExchanges.SEOASF",
+    "name": "SEOASF",
+    "publisher": "Secure Exchanges",
+    "description": "SEOASF est l'application Secure Exchanges pour la signature num�rique. Elle permet de d�finir les zones de signatures et d'envoyer les documents de fa�on s�curis�e.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Datalust.Seq",
     "name": "Seq",
     "publisher": "Datalust Pty Ltd",
@@ -62164,6 +62612,13 @@
     "name": "Sheet Viewer",
     "publisher": "Japplis",
     "description": "Sheet Viewer - View an Excel sheet always on top and transparent\nView an Excel sheet on top of other windows and translucent. Get notified when the data changes.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "nashaofu.Shell360",
+    "name": "Shell360",
+    "publisher": "nashaofu",
+    "description": "Shell360 is a cross-platform SSH & SFTP client supporting Windows, macOS, Linux, Android, and iOS. Whether it's remote development, server management, or secure file transfer, Shell360 provides you with a consistent, smooth, and secure user experience.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63588,14 +64043,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Stardock.Start11.v1",
+    "id": "Stardock.Start11",
     "name": "Stardock Start11",
     "publisher": "Stardock Software, Inc.",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Stardock.Start11",
+    "id": "Stardock.Start11.v1",
     "name": "Stardock Start11",
     "publisher": "Stardock Software, Inc.",
     "description": "",
@@ -63690,6 +64145,13 @@
     "name": "Steam Art Manager",
     "publisher": "tormak",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "zevnda.SteamGameIdler",
+    "name": "Steam Game Idler",
+    "publisher": "zevnda",
+    "description": "Steam Game Idler (SGI) is a Steam automation tool for farming trading cards, managing achievements, and boosting playtime across all games in your Steam library.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63791,6 +64253,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "StellarDataRecovery.StellarDataRecovery",
+    "name": "Stellar Data Recovery",
+    "publisher": "Stellar Information Technology Pvt Ltd.",
+    "description": "Recovers lost or deleted Windows data with ease in any data loss situation whether it's unintentional or deleted intentionally.\n\nFile Types and Formats:\n- Photo: JPEG, TIFF, TIF, PNG, BMP, GIF, NEF, CR2, CR3, CRW, ORF, SR2, K25, KDC, DCR & more.\n- Video: WMV, AVI, MPEG, MPG, ASF, MOV, MP4, 3GP, 3G2, MTS, DIVX, FLV, M4V, VOB, MKV & more.\n- Audio: WMA, WAV, MP3, MIDI, MID, AAC, AIF, AIFF, AMR, AU, CAF, DSS, M4A & more.\n- Document: DOC, DOCX, DOT, DOTX, XLS, XLSX, PPT, PPTX, PPTM & POT\n- Archive Formats: Zip and RAR\n- Email: Microsoft Outlook (PST), Exchange Server (EDB) & more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "StellarDataRecovery.StellarExtractorforWindowsBackup",
     "name": "Stellar Extractor for Windows Backup",
     "publisher": "Stellar Information Technology Pvt Ltd.",
@@ -63826,6 +64295,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "StellarDataRecovery.StellarRepairforActiveDirectory",
+    "name": "Stellar Repair for Active Directory",
+    "publisher": "Stellar Information Technology Pvt Ltd.",
+    "description": "Stellar Repair for Active Directory is a professional software that repairs corrupt Active Directory database files with all security features and permissions. The software restores all AD objects to a new AD database having the same domain name on another machine.\n- Repairs users, groups, computers, and their properties\n- Recovers objects like InetOrgPerson, MsMq, Printer, Contacts\n- Supports Windows Server 2019, 2016, 2012, 2008 and 2003",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "StellarDataRecovery.StellarRepairForExcel",
     "name": "Stellar Repair for Excel",
     "publisher": "Stellar Information Technology Pvt Ltd.",
@@ -63851,6 +64327,13 @@
     "name": "Stellar Repair for MySQL",
     "publisher": "Stellar Information Technology Pvt Ltd",
     "description": "MySQL Repair Tool to efficiently repair and restore corrupt MySQL databases including partition tables. This tool ensures the recovery of all inaccessible database objects-tables, primary keys, views, triggers, etc. Restores data without changing the original database. Now Supports MySQL 9.0.1 to 9.3.0 and MySQL 8.0.40 to 8.0.42 including MariaDB up to 11.6.0.\n- Repairs Corrupt InnoDB and MyISAM tables of MySQL database.\n- Restore MySQL & MariaDB databases created on Windows or Linux.\n- Saves repaired files in MySQL, MariaDB, SQL Script, CSV, HTML, and XLS formats.\n\nThe powerful MySQL database repair software repairs corrupt MySQL or MariaDB databases and restores all the MySQL database elements including tables, keys, triggers, and other objects in their original format. The MySQL database repair tool also helps in restoring data from inaccessible tablespaces or tables. It also restores and saves foreign key attributes for MySQL 8.x databases in a text file.\n\nMySQL Repair Database tool is designed to efficiently repair corrupt databases created using MySQL database engines, InnoDB (.frm, .ibdata, .idb) and MyISAM (.frm, .myd, .myi). The software employs a robust algorithm to restore both InnoDB and MyISAM tables to their original functional state. Additionally, the tool ensures the recovery of table properties, relationship constraints, and keys for both MyISAM and InnoDB tables.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "StellarDataRecovery.StellarRepairforOutlook",
+    "name": "Stellar Repair for Outlook",
+    "publisher": "Stellar Information Technology Pvt Ltd.",
+    "description": "Recover all mailbox items including emails, attachments, contacts, calendars, notes from Corrupt Outlook PST file with 100% integrity and precision, Outlook PST File Recovery tool recommended by IT administrators and MVPs worldwide.\n\n- Recovers emails, attachments, contacts, calendars, tasks, notes, etc.\n- Shows an enhanced preview of the mailbox for precise PST recovery.\n- Splits, compacts & exports recovered PST to Microsoft 365",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64052,7 +64535,7 @@
   {
     "id": "Stretchly.Stretchly",
     "name": "Stretchly",
-    "publisher": "Stretchly",
+    "publisher": "Jan Hovancik",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -64992,6 +65475,13 @@
     "name": "TegraRcmGUI",
     "publisher": "eliboa",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "InfluxData.Telegraf",
+    "name": "Telegraf",
+    "publisher": "InfluxData Inc.",
+    "description": "Telegraf, a server-based agent, collects and sends metrics and events from databases, systems, and IoT sensors. Written in Go, Telegraf compiles into a single binary with no external dependencies–requiring very minimal memory.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67256,6 +67746,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Devflow.Uzi",
+    "name": "Uzi",
+    "publisher": "Devflow, Inc.",
+    "description": "CLI for running large numbers of coding agents in parallel with git worktrees\nFeatures\n- 🤖 Run multiple AI coding agents in parallel\n- 🌳 Automatic Git worktree management for isolated development\n- 🖥️ Tmux session management for each agent\n- 🚀 Automatic development server setup with port management\n- 📊 Real-time monitoring of agent status and code changes\n- 🔄 Automatic handling of agent prompts and confirmations\n- 🎯 Easy checkpoint and merge of agent changes",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Banbuds.VsWhitty",
     "name": "V.S. Whitty Full Week",
     "publisher": "Banbuds",
@@ -67463,6 +67960,13 @@
     "name": "VeraCrypt",
     "publisher": "IDRIX",
     "description": "VeraCrypt is a software for establishing and maintaining an on-the-fly-encrypted volume (data storage device). On-the-fly encryption means that data is automatically\nencrypted right before it is saved and decrypted right after it is loaded, without any user intervention. No data stored on an encrypted volume can be read (decrypted)\nwithout using the correct password/keyfile(s) or correct encryption keys. Entire file system is encrypted (e.g., file names, folder names, contents of every file,\nfree space, meta data, etc). Files can be copied to and from a mounted VeraCrypt volume just like they are copied to/from any normal disk (for example, by simple\ndrag-and-drop operations). Files are automatically being decrypted on the fly (in memory/RAM) while they are being read or copied from an encrypted VeraCrypt volume.\nSimilarly, files that are being written or copied to the VeraCrypt volume are automatically being encrypted on the fly (right before they are written to the disk) in RAM.\nNote that this does not mean that the whole file that is to be encrypted/decrypted must be stored in RAM before it can be encrypted/decrypted. There are no extra memory\n(RAM) requirements for VeraCrypt.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Verizon.VerizonCloud",
+    "name": "Verizon Cloud",
+    "publisher": "Verizon Wireless",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -68254,6 +68758,13 @@
     "name": "Vov System Uptime",
     "publisher": "VOVSOFT",
     "description": "Vov System Uptime runs in the system tray and allows you to see the Windows uptime with a single mouse click. It lets you know how long your server, laptop or desktop computer has been running.\n\nGetting the system uptime, which tells you how long your computer has been on, is surprisingly difficult on Windows. Thankfully, you can rely on Vov System Uptime to make this task easier. This utility is a very small application, so you should be able to set everything up in seconds. Once installed, the application can be found in the system tray. It displays only a small form in the system tray area when you click the icon. The window can be resized and moved freely on your desktop. If you right-click the tray icon, you will see a menu that enables you to bring up the uptime form or copy the information to the clipboard.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VovSoft.3DBoxMaker",
+    "name": "Vovsoft 3D Box Maker",
+    "publisher": "VOVSOFT",
+    "description": "Vovsoft 3D Box Maker is a lightweight and easy-to-use tool for creating 3D covers and boxshots for software, eBooks, games, and other digital products. A well-designed product cover can make a small but meaningful difference in how your product is perceived, and this program aims to make that process simple and approachable.\n\nWith this program, you don’t need advanced design skills to create 3D visuals. The software works as a practical 3D boxshot creator and product mockup generator, letting you import your Main Image and Side Image (PNG, JPG, GIF, or BMP), adjust the camera distance, rotation, and angle, and see a real-time preview of your 3D box.\n\nWhen your design is ready, you can export it as a transparent PNG file, which is ideal for use on websites, online stores, promotional banners, and social media. Whether you are a software developer, author, marketer, or hobbyist, this tool provides a simple way to create 3D boxshots and digital product covers without needing complex graphic design software.\n\nThis program focuses on ease and practicality. It is a humble yet reliable software box design tool and 3D mockup generator for anyone who wants to visualize products in a clear and appealing way. Its goal is not to replace professional design tools, but to give users a fast, straightforward way to generate simple, 3D product visuals with minimal effort.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69563,6 +70074,13 @@
     "name": "WebFortran Command Line Interface",
     "publisher": "Approximatrix, LLC",
     "description": "The WebFortran Command Line Interface allows users to access our online compiler from their system's command line without installing any large, complicated toolchains. There is no need to install any additional libraries or environments. The compiler will seamlessly handle transferring Fortran source code to our servers and deliver resulting objects to your local machine. Designed to work like any other native Fortran compiler, the WebFortran Command Line Interface makes compiling Fortran fast, simple, and painless.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "EugeneZrazhevsky.WeblocOpener",
+    "name": "WeblocOpener",
+    "publisher": "benchdoos",
+    "description": "WeblocOpener is a simple way to open, create and edit Apple .webloc files on Windows. It can convert between .webloc, .url and .desktop shortcuts, and .webarchive to .html.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71970,7 +72488,7 @@
     "id": "ZedIndustries.Zed",
     "name": "Zed",
     "publisher": "Zed Industries",
-    "description": "Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.\n\n- Written from scratch in Rust to efficiently leverage multiple CPU cores and your GPU.\n- Integrate upcoming LLMs into your workflow to generate, transform, and analyze code.\n- Chat with teammates, write notes together, and share your screen and project. All included.\n- Zed now speaks WSL. You can open a Linux distro as a first-class “remote” target, edit projects that live inside it.\n- All of Zed’s AI features, including edit predictions and ACP-powered agents, are fully supported on Windows.\n- All Zed extensions now work seamlessly on Windows; no special steps, no caveats.\n- To run on almost all Windows versions, including VMs, we created a new rendering backend based on DirectX 11.",
+    "description": "Zed is a next-generation code editor designed for high-performance collaboration with humans and AI.\n- Written from scratch in Rust to efficiently leverage multiple CPU cores and your GPU.\n- Integrate upcoming LLMs into your workflow to generate, transform, and analyze code.\n- Chat with teammates, write notes together, and share your screen and project. All included.\n- Zed now speaks WSL. You can open a Linux distro as a first-class “remote” target, edit projects that live inside it.\n- All of Zed’s AI features, including edit predictions and ACP-powered agents, are fully supported on Windows.\n- All Zed extensions now work seamlessly on Windows; no special steps, no caveats.\n- To run on almost all Windows versions, including VMs, we created a new rendering backend based on DirectX 11.",
     "icon": "/icons/intunify-default.png"
   },
   {
