@@ -371,7 +371,21 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "tea4go.QShell",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ThanhLe.RefiApp",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "tingit.rc",
     "name": "",
     "publisher": null,
     "description": "",
@@ -575,6 +589,13 @@
   },
   {
     "id": "tickstep.cloudpan189-go",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TheCryptTeam.Crypt",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4781,6 +4802,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Argente.Utilities",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Abbott.LibreViewDeviceDrivers",
     "name": "",
     "publisher": null,
@@ -6531,13 +6559,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "KDE.Merkuro",
-    "name": "",
-    "publisher": null,
-    "description": "Merkuro 是一款日历和联系人应用程序，帮助您管理任务、事件和联系人。Merkuro 既支持本地日历，也支持多种在线日历：Nextcloud、Google® Calendar、Outlook®、Caldav 等。\nMerkuro 的设计理念是可以在桌面、手机和其它设备上使用。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "KDE.Kile",
     "name": "",
     "publisher": null,
@@ -8057,6 +8078,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "InfluxData.influxctl",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "InfluxData.Kapacitor",
     "name": "",
     "publisher": null,
@@ -8254,6 +8282,13 @@
   },
   {
     "id": "ChristianGalla.AutoStartConfirm",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Corel.MindManager.24",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9464,6 +9499,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ChangemakerStudios.Papercut-SMTP",
+    "name": "",
+    "publisher": null,
+    "description": "Papercut SMTP 是一款二合一的快速电子邮件查看器和内置 SMTP 服务器（仅用于接收邮件）。Papercut SMTP 并不限制你如何准备电子邮件，但它允许你查看整个电子邮件：body、html、页眉、附件，乃至调皮的原始编码位。Papercut 可配置为在启动时运行，并保持安静（最小化在托盘中），只在有新邮件到达时才发出通知。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CatnipGames.ShroudoftheAvatar",
     "name": "",
     "publisher": null,
@@ -9923,6 +9965,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "8x8.Work",
+    "name": "",
+    "publisher": null,
+    "description": "使用 8x8 Work for Desktop（前身为 Virtual Office desktop app），与所有同事和业务联系人保持联系，比以往任何时候都更高效地协作。灵活拨打和管理电话，与联系人聊天，在公司内部或与外部与会者安排和召开高效会议，等等。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -11817,6 +11866,13 @@
   },
   {
     "id": "LSEG.RefinitivWorkspace",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "litedb-org.LiteDBStudio",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13766,6 +13822,27 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviPhotoEditor",
+    "name": "",
+    "publisher": null,
+    "description": "轻松创建精彩照片\n- 直观的工具，快速简便地编辑照片\n- 人工智能：修图、更换背景、移除物体等\n- 氛围效果、色彩校正预设和字幕",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviVideoConverter",
+    "name": "",
+    "publisher": null,
+    "description": "快速转换媒体文件\n- 高速转换视频、音频和图像文件\n- 支持 180 多种格式：MP4、MOV、AVI、DVD、VOB、MKV、MP3 等\n- 基础视频编辑：裁剪、剪裁、旋转、调整颜色和声音\n- 批量处理、无损压缩和 AI 视频画质增强",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviScreenRecorder",
+    "name": "",
+    "publisher": null,
+    "description": "使用我们的免费屏幕录制工具提升效率。录制屏幕并捕捉音频，轻松制作引人入胜的教学视频、必看的网络研讨会以及出色的商务演示。\n- 录制全屏或自定义区域\n- 捕捉网络摄像头画面，并实时在录制内容上进行标注\n- 高亮显示鼠标指针和键盘操作\n- 录制系统音频和您的声音",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -16121,6 +16198,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JetBrains.Rider",
+    "name": "",
+    "publisher": null,
+    "description": "在 Windows、Mac 和 Linux 上开发 .NET、ASP.NET、.NET Core、Xamarin 或 Unity 应用程序",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JetBrains.GoLand",
     "name": "",
     "publisher": null,
@@ -17774,6 +17858,13 @@
   },
   {
     "id": "7zip.7zip.Alpha.msi",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "7zip.7zr",
     "name": "",
     "publisher": null,
     "description": "",
@@ -20860,13 +20951,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SiarheiKuchuk.BUtil",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Squitch.Tess",
     "name": "",
     "publisher": null,
@@ -20983,6 +21067,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "StanleyBlack&Decker.DewaltDesignAssist",
+    "name": "",
+    "publisher": null,
+    "description": "DEWALT DESIGN ASSIST™ (DDA) 是一款免费的先进结构设计软件，可简化、自动化并优化您的混凝土锚固设计流程。软件提供多种设计标准选择、全面的锚栓库、丰富的报告选项以及多种设计工具，助您轻松完成设计工作。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -21253,6 +21344,13 @@
   },
   {
     "id": "sigoden.opscan",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "sigoden.WindowSwitcher",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21679,6 +21777,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "sorairolake.qrtool",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "stakira.OpenUTAU",
     "name": "",
     "publisher": null,
@@ -21750,6 +21855,13 @@
   },
   {
     "id": "SpriteOvO.AirPodsDesktop",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SecurityEyeSoftware.SecurityEye",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21966,6 +22078,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Huawei.AudioAssistantTool",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Huawei.DevEco",
     "name": "",
     "publisher": null,
@@ -22044,6 +22163,13 @@
   },
   {
     "id": "Harbour.Harbour",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hoverth.fdroidcl",
     "name": "",
     "publisher": null,
     "description": "",
@@ -23143,6 +23269,13 @@
   },
   {
     "id": "DupeGuru.DupeGuru",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DmitryChapyshev.AspiaHost",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25557,7 +25690,42 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenJS.NodeJS.20",
+    "name": "",
+    "publisher": null,
+    "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.16",
+    "name": "",
+    "publisher": null,
+    "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.12",
+    "name": "",
+    "publisher": null,
+    "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OpenJS.NodeJS.LTS",
+    "name": "",
+    "publisher": null,
+    "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.21",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.14",
     "name": "",
     "publisher": null,
     "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
@@ -28441,6 +28609,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PerfectGym.DeviceIntegrator",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PilotEdge.MSFSclient",
     "name": "",
     "publisher": null,
@@ -28561,6 +28736,13 @@
   },
   {
     "id": "PragmaTwice.proxinject",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Phrase.Phrase",
     "name": "",
     "publisher": null,
     "description": "",
@@ -29149,13 +29331,6 @@
   },
   {
     "id": "Elgato.EpocCam",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Elgato.ControlCenter",
     "name": "",
     "publisher": null,
     "description": "",
@@ -30142,13 +30317,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "8x8.Work",
-    "name": "8x8 Work",
-    "publisher": "8x8 Inc.",
-    "description": "使用 8x8 Work for Desktop（前身为 Virtual Office desktop app），与所有同事和业务联系人保持联系，比以往任何时候都更高效地协作。灵活拨打和管理电话，与联系人聊天，在公司内部或与外部与会者安排和召开高效会议，等等。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "AIVOICE.KURITA",
     "name": "A.I.VOICE 栗田 まろん",
     "publisher": "AI, Inc.",
@@ -30940,7 +31108,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "DirkBöttcher.Ahnenblatt.Free",
+    "id": "DirkBoettcher.Ahnenblatt.Free",
     "name": "Ahnenblatt",
     "publisher": "Dirk Böttcher",
     "description": "",
@@ -32375,13 +32543,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Argente.Utilities",
-    "name": "Argente Utilities",
-    "publisher": "https://argenteutilities.com/en",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "GraemeGill.ArgyllCMS",
     "name": "Argyll CMS",
     "publisher": "Graeme Gill",
@@ -32630,6 +32791,20 @@
     "id": "com.harelzadok.asmrun-installer",
     "name": "asmrun-installer",
     "publisher": "Harel Zadok",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DmitryChapyshev.AspiaClient",
+    "name": "Aspia Client",
+    "publisher": "Dmitry Chapyshev",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DmitryChapyshev.AspiaConsole",
+    "name": "Aspia Console",
+    "publisher": "Dmitry Chapyshev",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -34979,6 +35154,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SiarheiKuchuk.BUtil",
+    "name": "BUtil",
+    "publisher": "Siarhei Kuchuk",
+    "description": "Backup/synchronize your data Windows, Linux.\nImport photos from phone via WI-FI and more.\n\nSupports languages: English, Arabic, Bengal, Chinese, French, German, Hindi, Indonesian, Italian, Japanese, Marathi, Nigerian Pidgin, Portuguese, Russian, Spanish, Tamil, Telugu, Turkish, Ukrainian, Urdu, Vietnamese, Yue Chinese \n\nFeatures:\n- Incremental backup with deduplication of files and SFTP, FTPS, SMB/CIFS transports support;\n- Synchronization of files between devices using centralized storage and versioning support;\n- Import media - Import audios, photos, videos from SD Card of camera, recorder; photos and videos from your phone via WI-FI through FTPS Server application using template file names or via MTP;\n- P2P file transfer with encryption between devices;\n- Console for automation scheduling;\n- AES-256 encryption.\n\nPlatforms: Windows 10 or 11 x64, ARM64 or Ubuntu 24+.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Buttercup.Buttercup",
     "name": "Buttercup",
     "publisher": "MadDev",
@@ -35200,6 +35382,13 @@
     "name": "Camunda Modeler",
     "publisher": "Camunda",
     "description": "Desktop Modeler is a desktop application for modeling BPMN, DMN, and Forms.\nAs part of the Camunda implementation toolkit, it helps you create executable diagrams while working alongside your preferred IDE, integrated into your professional software development environment.\n\nFeatures:\n- Design BPMN, DMN, and Forms\n- Implement process applications for Camunda 7 and 8\n- Deploy and run processes directly from the application\n- Validate your diagrams using configurable lint rules\n- Customize and extend the application\n- Work against the local file system",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Huawei.Cangjie",
+    "name": "Cangjie",
+    "publisher": "Huawei Technologies Co., Ltd.",
+    "description": "仓颉编程语言是一款面向全场景智能的新一代编程语言，主打原生智能化、天生全场景、高性能、强安全。主要应用于鸿蒙原生应用及服务应用等场景中，为开发者提供良好的编程体验。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35844,6 +36033,13 @@
     "name": "Chromium-Gost",
     "publisher": "The Chromium-Gost Authors",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "InfluxData.Chronograf",
+    "name": "Chronograf",
+    "publisher": "InfluxData Inc.",
+    "description": "Chronograf is an open-source web application written in Go and React.js that provides the tools to visualize your monitoring data and easily create alerting and automation rules.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36501,7 +36697,7 @@
     "id": "CollapseLauncher.Collapse.Preview",
     "name": "Collapse",
     "publisher": "Collapse Project Team",
-    "description": "This launcher provides a seamless and user-friendly experience for managing and launching miHoYo games. It includes features such as automatic updates, game optimization, and customizable settings to enhance your gaming experience.",
+    "description": "This launcher provides a seamless and user-friendly experience for managing and launching HoYoverse games. It includes features such as automatic updates, game optimization, and customizable settings to enhance your gaming experience.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40432,6 +40628,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Elgato.ControlCenter",
+    "name": "Elgato Control Center",
+    "publisher": "Corsair Memory, Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Elgato.StreamDeck",
     "name": "Elgato Stream Deck",
     "publisher": "Corsair Memory, Inc.",
@@ -42630,6 +42833,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "getfloma.Floma",
+    "name": "Floma",
+    "publisher": "Aditya Thakkar",
+    "description": "Floma is a CLI automation tool that uses AI to create and manage workflows with built-in email integration. Automate file management, data processing, email reports, and more with natural language commands.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Ablaze.Floorp.Daylight",
     "name": "Floorp 12 Daylight",
     "publisher": "Ablaze",
@@ -44394,6 +44604,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "GnuPG.Gpg4win.Beta",
+    "name": "Gpg4win",
+    "publisher": "The Gpg4win Project",
+    "description": "Gpg4win 可让用户借助加密和数字签名安全地传输电子邮件和文件。加密可保护内容不被不需要的人读取，数字签名可确保邮件未经修改且来自特定发件人。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GnuPG.Gpg4win",
     "name": "Gpg4win",
     "publisher": "The Gpg4win Project",
@@ -44601,6 +44818,13 @@
     "name": "Groovy 4",
     "publisher": "The Groovy Team",
     "description": "Apache Groovy 是一种功能强大、可选择类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉和易学的语法提高开发人员的工作效率。它能与任何 Java 程序顺利集成，并能立即为您的应用程序提供强大的功能，包括脚本能力、特定域语言编写、运行时和编译时元编程以及函数式编程。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Stardock.Groupy.v2",
+    "name": "Groupy2",
+    "publisher": "Stardock Systems",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45021,6 +45245,13 @@
     "name": "Harzing's Publish or Perish",
     "publisher": "Tarma Software Research Ltd",
     "description": "Publish or Perish is a software program that retrieves and analyzes academic citations. It uses various publicly available data sources to obtain the raw citations, then analyzes these and calculates a series of citation metrics. The results are available on-screen and can also be copied to the Windows clipboard (for pasting into other applications) or saved to a text file (for future reference or further analysis).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Febooti.Hash&CRC",
+    "name": "Hash & CRC",
+    "publisher": "Febooti Software",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46550,6 +46781,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "InfluxData.InfluxDB.OSS",
+    "name": "InfluxDB OSS",
+    "publisher": "InfluxData Inc.",
+    "description": "It is an integral component of the TICK stack. InfluxDB is meant to be used as a backing store for any use case involving large amounts of timestamped data, including DevOps monitoring, application metrics, IoT sensor data, and real-time analytics.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Infracost.Infracost",
     "name": "Infracost",
     "publisher": "Infracost",
@@ -46827,6 +47065,13 @@
     "name": "Intel® oneAPI HPC Toolkit",
     "publisher": "Intel Corporation",
     "description": "High-performance computing (HPC) is at the core of AI, machine learning, and\ndeep learning applications. Intel® oneAPI HPC Toolkit delivers what developers\nneed to build, analyze, optimize, and scale HPC applications with the latest\ntechniques in vectorization, multithreading, multi-node parallelization, and\nmemory optimization.\n\nThis toolkit includes powerful data-centric libraries and advanced analysis\ntools.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Intel.ProcessorDiagnosticTool",
+    "name": "Intel® Processor Diagnostic Tool",
+    "publisher": "Intel Corporation",
+    "description": "The diagnostic checks for brand identification, verifies the processor operating frequency, tests specific processor features and performs a stress test on the processor.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47607,13 +47852,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "JetBrains.Rider",
-    "name": "JetBrains Rider",
-    "publisher": "JetBrains s.r.o.",
-    "description": "在 Windows、Mac 和 Linux 上开发 .NET、ASP.NET、.NET Core、Xamarin 或 Unity 应用程序",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "JetBrains.Rider.EAP",
     "name": "JetBrains Rider（抢先体验计划）",
     "publisher": "JetBrains s.r.o.",
@@ -48356,13 +48594,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "KDE.KirigamiGallery",
-    "name": "kirigami-gallery",
-    "publisher": "KDE e.V.",
-    "description": "Example application which uses all features from kirigami, including links to the sourcecode, tips on how to use the components and links to the corresponding HIG pages and code examples on invent.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "KDE.Kiriki",
     "name": "kiriki",
     "publisher": "KDE e.V.",
@@ -48703,13 +48934,6 @@
     "name": "KTimeTracker",
     "publisher": "KDE e.V.",
     "description": "KTimeTracker helps you track your personal time spent on various tasks and projects.\nIt is useful for tracking billable hours and can report the hours logged by task and day.\nWith KTimeTracker, you can organize a broken-down project as subtasks with unlimited nesting. The standard keyboard and mouse shortcuts are simple and make the tool really comfortable and intuitive to use.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "KDE.KTrip",
-    "name": "KTrip",
-    "publisher": "KDE e.V.",
-    "description": "KTrip helps you navigate in public transport. It allows you to find journeys between specified locations, departures for a specific station and shows real-time delay and disruption information.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49200,6 +49424,13 @@
     "name": "LEGO Education SPIKE",
     "publisher": "The LEGO Group",
     "description": "The SPIKE App is a student-facing app that can be used with both SPIKE Essential and SPIKE Prime to follow and complete lessons. The app includes “getting started” material, lessons, building instructions, and a series of coding experiences that progress from icon- and word-block coding based on Scratch to text-based coding based on Python.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LEGO.MindstormsEduNXT",
+    "name": "LEGO MINDSTORMS Edu NXT Software",
+    "publisher": "LEGO",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52087,6 +52318,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Corel.MindManager.25",
+    "name": "MindManager 25",
+    "publisher": "Corel Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EdrawSoft.EdrawMind.CN",
     "name": "MindMaster",
     "publisher": "EdrawSoft Co.,Ltd.",
@@ -52658,6 +52896,34 @@
     "name": "Mountain Duck",
     "publisher": "iterate GmbH",
     "description": "Mountain Duck lets you mount server and cloud storage as a disk in Finder on macOS and the File Explorer on Windows. Open remote files with any application and work like on a local volume.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviSlideshowMaker",
+    "name": "Movavi Slideshow Maker",
+    "publisher": "Movavi",
+    "description": "Create awesome slideshows easily\n- Sleek design and intuitive tools\n- Built-in templates for automatic slideshow making\n- Dozens of titles, transitions, music tracks, and more",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviVideoSuite",
+    "name": "Movavi Suite",
+    "publisher": "Movavi",
+    "description": "Create awesome video projects easily\n- Auto subtitles with one click, ready-made templates\n- Handy video editing, file conversion, and screen recording\n- Hundreds of drag-and-drop filters, transitions, titles, and overlays",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviVideoEditor",
+    "name": "Movavi Video Editor",
+    "publisher": "Movavi",
+    "description": "Your simple video editor for creating wow videos\n- Easily create clips for your socials, business, or family\n- Boost your videos with one-click auto subtitles and other AI tools\n- Choose from hundreds of titles, transitions, and music tracks",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviVideoEditorPlus",
+    "name": "Movavi Video Editor Plus",
+    "publisher": "Movavi",
+    "description": "Your simple video editor for creating wow videos\n- Easily create clips for your socials, business, or family\n- Boost your videos with one-click auto subtitles and other AI tools\n- Choose from hundreds of titles, transitions, and music tracks",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54124,6 +54390,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "StardockSystems.Multiplicity4",
+    "name": "Multiplicity 4",
+    "publisher": "Stardock Systems",
+    "description": "Control multiple PCs",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SeDuTec.Multisine",
     "name": "Multisine",
     "publisher": "SeDuTec",
@@ -55272,6 +55545,27 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenJS.NodeJS.18",
+    "name": "Node.js 18",
+    "publisher": "Node.js Foundation",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.22",
+    "name": "Node.js 22",
+    "publisher": "Node.js Foundation",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.23",
+    "name": "Node.js 23",
+    "publisher": "Node.js Foundation",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Andrelouis.NokiaSPMIDIPlayer",
     "name": "Nokia SP MIDI Player",
     "publisher": "Andrelouis",
@@ -55741,6 +56035,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NinjaCheetah.NUSGet",
+    "name": "NUSGet",
+    "publisher": "NinjaCheetah",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NickGasson.NVC",
     "name": "NVC VHDL Simulator",
     "publisher": "Nick Gasson",
@@ -55801,6 +56102,13 @@
     "name": "nvs",
     "publisher": "Jason Ginchereau",
     "description": "Node Version Switcher",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Nervosys.Nvtop",
+    "name": "NVTOP",
+    "publisher": "Nervosys",
+    "description": "NVTOP (Neat Videocard TOP) is a GPU monitoring tool for Windows that provides real-time information about GPU usage. Features multi-vendor GPU support (NVIDIA, AMD, Intel), per-process monitoring, color-coded utilization bars, and native Windows performance.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57085,13 +57393,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "ChangemakerStudios.Papercut-SMTP",
-    "name": "Papercut SMTP",
-    "publisher": "PapercutSMTP",
-    "description": "Papercut SMTP 是一款二合一的快速电子邮件查看器和内置 SMTP 服务器（仅用于接收邮件）。Papercut SMTP 并不限制你如何准备电子邮件，但它允许你查看整个电子邮件：body、html、页眉、附件，乃至调皮的原始编码位。Papercut 可配置为在启动时运行，并保持安静（最小化在托盘中），只在有新邮件到达时才发出通知。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "FutureScholars.Paperlib",
     "name": "Paperlib",
     "publisher": "Future Scholars",
@@ -57977,7 +58278,7 @@
     "id": "agateau.PixelWheels",
     "name": "Pixel Wheels",
     "publisher": "Aurélien Gâteau",
-    "description": "It features multiple tracks and vehicles as well as various bonuses and weapons to help you get to the finish line first!On PC, you can play Pixel Wheels alone or with a friend.",
+    "description": "It features multiple tracks and vehicles as well as various bonuses and weapons to help you get to the finish line first! On PC, you can play Pixel Wheels alone or with a friend.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58163,6 +58464,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TimKicker.Podliner",
+    "name": "Podliner",
+    "publisher": "TimKicker",
+    "description": "Cross-platform TUI podcast player",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RedHat.Podman",
     "name": "Podman",
     "publisher": "Red Hat",
@@ -58262,9 +58570,9 @@
   },
   {
     "id": "PopcornTime.Popcorn-Time",
-    "name": "Popcorn-Time",
+    "name": "Popcorn Time™",
     "publisher": "Popcorn Time",
-    "description": "",
+    "description": "This is a complete rebuild of Popcorn Time. Not a fork, not a patch - a fresh\nstart with new goals and a clean foundation. This repository will be the home\nfor ongoing development, documentation, and releases.\n\n#### What's New\n\n- Modern, safer, and legal\n- Cross-platform: desktop, mobile, and TV\n- Open source and community driven\n- Weekly published databases for developers and researchers - issue #3113\n- Local media playback, not just links (soon)",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58300,6 +58608,13 @@
     "name": "Portmaster",
     "publisher": "Safing ICS Technologies GmbH",
     "description": "Portmaster is a free and open-source application firewall that does the heavy lifting for you. Restore privacy and take back control over all your computer's network activity.\n\nDiscover everything that is happening on your computer. Expose every connection your applications make and detect evil ones. Finally get the power to act accordingly.\n\nProtect your whole computer, not just your browser. Block all advertisements and trackers for every application. Easily add your own rules and block individual domains.\n\nMake your own rules. Completely cut off applications from the Internet. Or block all p2p connections except for certain apps. Or never connect to specific countries. Portmaster has you covered.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "sean908.PortReleasor",
+    "name": "PortReleasor",
+    "publisher": "sean908",
+    "description": "一个跨平台的端口管理工具，用于检查端口占用情况并释放指定端口。\n功能特性\n- 🔍 端口检查 - 列出端口占用情况、进程 ID 和程序名称\n- 🔄 端口释放 - 安全释放指定端口（支持确认机制）\n- 🌍 跨平台支持 - 支持 Windows、Linux 和 macOS\n- ⚡ 性能优化 - 进程缓存和去重机制，响应快速\n- 🎯 灵活匹配 - 支持单端口、多端口、端口范围和通配符模式",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58425,7 +58740,7 @@
     "id": "Postimage.Postimage",
     "name": "Postimage",
     "publisher": "Postimage",
-    "description": "",
+    "description": "Postimage is a very easy-to-use application that was specifically designed to provide you with the means to take snapshots of your entire desktop or a portion of it.\n\nYou can manually set the area size, and after the capture is made, the image can be saved or shared online directly. Postimage can also send the URL of a shared screenshot to the system clipboard, so you can save it easily.\n\nFeatures\n- Quick image sharing.\n- Multiple images can be uploaded at the same time.\n- Upload images via the right-click context menu.\n- The fastest way to take a customizable screenshot.\n- Global hotkeys to activate screen capturing instantly.\n- And much more...",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60907,6 +61222,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "rexpose.rexpose",
+    "name": "rexpose",
+    "publisher": "k4i6 <info@k4i.ch>",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GIGABYTE.RGBFusion",
     "name": "RGB Fusion",
     "publisher": "Gigabyte",
@@ -61845,6 +62167,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DK1TB.SatPC32",
+    "name": "SatPC32",
+    "publisher": "DK1TB",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SauceLabs.SauceConnect",
     "name": "SauceConnect",
     "publisher": "SauceLabs",
@@ -62052,6 +62381,13 @@
     "name": "scrcpy",
     "publisher": "Genymobile",
     "description": "This application mirrors Android devices (video and audio) connected via USB or over TCP/IP, and allows to control the device with the keyboard and the mouse of the computer. It does not require any root access.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "pizi.scrcpygui",
+    "name": "Scrcpy GUI",
+    "publisher": "pizi-0",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64554,6 +64890,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Mantej-Singh.STT-CLI",
+    "name": "STT-CLI",
+    "publisher": "Mantej Singh Dhanjal",
+    "description": "STT-CLI is a Windows-only speech-to-text tool designed for users on corporate laptops where Win+H is disabled by IT policies. It runs as a background system tray application with no visible window, using a global hotkey (double-tap Left Alt) to toggle recording. Perfect for use with Windows Terminal, PowerShell, Claude Code, and Gemini CLI.\n\nKey Features:\n- Global hotkey activation (double-tap Left Alt)\n- Background operation with system tray icon\n- Balloon notifications for recording status\n- Automatic CLI window detection\n- No admin rights required\n- Portable executable - no installation needed\n- Works on corporate laptops with restricted permissions",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "abhimanyu003.sttr",
     "name": "sttr",
     "publisher": "abhimanyu003",
@@ -64866,6 +65209,13 @@
     "name": "Sylpheed E-Mail Client",
     "publisher": "Hiroyuki Yamamoto",
     "description": "Sylpheed is a lightweight and user-friendly email client designed for efficiency and simplicity. It offers a clean and intuitive interface, making it easy for users to manage their emails. Sylpheed supports multiple protocols, including POP3, IMAP4, and SMTP, and provides features such as junk mail filtering, address book integration, and customizable plug-ins.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ruanklein.synapseq",
+    "name": "SynapSeq",
+    "publisher": "Ruan Felisbino",
+    "description": "SynapSeq is a command-line tool for generating brainwave\nentrainment audio through programmable sequences. It supports\nbinaural, monaural, and isochronic tones, with optional noise\nmixing and smooth transitions. Sessions are defined using a\nsimple and human-readable text format (.spsq).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67399,7 +67749,7 @@
     "id": "bcpierce00.unison",
     "name": "Unison",
     "publisher": "Benjamin Pierce",
-    "description": "\"Unison is a file-synchronization tool for POSIX-compliant systems (e.g. *BSD, GNU/Linux, macOS) and Windows. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other.\"",
+    "description": "Unison is a file-synchronization tool for POSIX-compliant systems (e.g. *BSD, GNU/Linux, macOS) and Windows. It allows two replicas of a collection of files and directories to be stored on different hosts (or different disks on the same host), modified separately, and then brought up to date by propagating the changes in each replica to the other.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -68044,6 +68394,13 @@
     "name": "VidBatch",
     "publisher": "High Motion Software",
     "description": "VidBatch 是一款免费的批量视频处理工具。首先，将所需的视频文件添加到处理列表中，然后添加任务、调整参数并一次性处理大量视频文件。\n你可以将列表中的多个任务组合在一起，一次性完成处理！例如，您可以在批处理模式下调整视频文件的大小并设置水印。\n为了加快处理速度，VidBatch 以多线程模式运行，充分发挥现代 CPU 的性能。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Nexmoe.VidBee",
+    "name": "VidBee",
+    "publisher": "VidBee",
+    "description": "Download videos from almost any website worldwide\nBest-in-class UI interface - Clean, intuitive, and powerful\nBuilt with Electron, React, TypeScript, Tailwind CSS, and shadcn/ui.\n\n✨ Core Features\n🌍 Global Video Download Support\n- 1000+ Sites Supported - Download videos from almost any website worldwide through yt-dlp engine\n- Smart Platform Detection - Automatically detect video platforms and optimize download parameters\n- Multi-format Support - Videos, audio tracks, playlists to meet all download needs\n- Localized interface support in many languages\n🎨 Best-in-class UI Experience\n- Modern Design - Clean and beautiful interface\n- Intuitive Operations - One-click pause/resume/retry\n- Real-time Progress - Detailed download progress tracking and status management\n- Theme Switching - Support for system/light/dark themes for comfortable viewing",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -72275,6 +72632,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "siper.Youamp",
+    "name": "Youamp",
+    "publisher": "Copyright (c) 2024 Kirill Zhukov",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Ytmdesktop.Ytmdesktop",
     "name": "YouTube Music Desktop App",
     "publisher": "NovusTheory",
@@ -72622,6 +72986,13 @@
     "name": "Zint",
     "publisher": "Robin Stuart & BogDan Vatra",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ZipGenius6.Suite",
+    "name": "ZipGenius 6",
+    "publisher": "The ZipGenius Team",
+    "description": "Compressed archives manager",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -74103,6 +74474,13 @@
   },
   {
     "id": "Microsoft.WSL",
+    "name": "适用于 Linux 的 Windows 子系统",
+    "publisher": null,
+    "description": "适用于 Linux 的 Windows 子系统 (WSL) 是 Windows 的一项功能，可用于在 Windows 计算机上运行 Linux 环境，而无需单独的虚拟机或双引导。 WSL 旨在为希望同时使用 Windows 和 Linux 的开发人员提供无缝高效的体验。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.WSL.PreRelease",
     "name": "适用于 Linux 的 Windows 子系统",
     "publisher": null,
     "description": "适用于 Linux 的 Windows 子系统 (WSL) 是 Windows 的一项功能，可用于在 Windows 计算机上运行 Linux 环境，而无需单独的虚拟机或双引导。 WSL 旨在为希望同时使用 Windows 和 Linux 的开发人员提供无缝高效的体验。",
