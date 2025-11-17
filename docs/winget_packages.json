@@ -378,6 +378,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TeamFON.TeamSIP2go",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ThanhLe.RefiApp",
     "name": "",
     "publisher": null,
@@ -407,13 +414,6 @@
   },
   {
     "id": "ThatOneCalculator.DiscordRPCMaker",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Telegram.Unigram",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2184,6 +2184,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "natesales.q",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Nbc66.VTFEditReloaded",
     "name": "",
     "publisher": null,
@@ -3486,6 +3493,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AllanChain.SaneBreak",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Audient.Sono",
     "name": "",
     "publisher": null,
@@ -3913,6 +3927,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Altova.Authentic.Integration.2026",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Altova.Authentic.Integration.2023",
     "name": "",
     "publisher": null,
@@ -4246,13 +4267,6 @@
     "name": "",
     "publisher": null,
     "description": "作为一款集成了媒体播放器的强大多媒体技术，QuickTime 可让你以多种文件格式观看互联网视频和个人媒体内容，并以极高的画质享受视听体验。\n它是一个多媒体平台。\n无论是来自数码相机或手机的视频，Mac 或 PC 上的电影，还是网站上的媒体片段，无论你在看什么、在哪里观看，QuickTime 技术都能让一切成为可能。\n它是一款精密的媒体播放器。\n凭借简洁的设计和易于操作的控制功能，QuickTime Player 让你观看的内容更加赏心悦目。其清爽、无干扰的界面绝不会影响你的观看体验。想快进播放电影或放慢速度？便捷的滑块可让你将播放速度设置为正常速度的 1/2 倍至 3 倍。你还可以快速浏览影片的每一帧画面。\n它采用先进的视频技术。\nQuickTime 采用名为 H.264 的先进视频压缩技术，以更低的带宽和存储空间提供清晰、锐利的高清视频。无论你在何处观看视频，都能享受到纯净出色的画质。\n它是一种灵活的文件格式。\nQuickTime 让你能更充分地利用数字媒体。通过 QuickTime 7 Pro，你可以将文件转换为不同格式，并进行录制和编辑。第三方插件从多个方向扩展了 QuickTime 技术的功能，而 QuickTime 流媒体解决方案则可让你通过互联网流式传输媒体内容。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Apple.AirPort.BaseStationUpdate",
-    "name": "",
-    "publisher": null,
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -5632,6 +5646,13 @@
     "name": "",
     "publisher": null,
     "description": "Untis 是创建课表、安排课程和校园沟通的一体化解决方案\n- 电子班级日志与家长会：轻松在线管理学校预约\n- 课表编排与代课安排：为各类学校提供专业制定的课表方案\n- 校园通讯：实现教师、家长与学生之间的便捷协作",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ultrapoci.scp_terminal",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -7190,13 +7211,6 @@
   },
   {
     "id": "i3-Technologies.i3ALLSYNC.3",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "iwhalecloud.QShell",
     "name": "",
     "publisher": null,
     "description": "",
@@ -11998,6 +12012,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "mcuee.libusbK",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "mitmproxy.mitmproxy",
     "name": "",
     "publisher": null,
@@ -12236,6 +12257,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MoonshotAI.KimiCLI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "mindersec.minder",
     "name": "",
     "publisher": null,
@@ -12460,6 +12488,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.DotNet.HostingBundle.10",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.DotNet.Runtime.3_1",
     "name": "",
     "publisher": null,
@@ -12475,6 +12510,13 @@
   },
   {
     "id": "Microsoft.DotNet.Runtime.Preview",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.DotNet.Runtime.10",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12523,6 +12565,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.DotNet.DesktopRuntime.10",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.DotNet.SDK.6",
     "name": "",
     "publisher": null,
@@ -12552,6 +12601,13 @@
   },
   {
     "id": "Microsoft.DotNet.SDK.Preview",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.DotNet.SDK.10",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12594,6 +12650,13 @@
   },
   {
     "id": "Microsoft.DotNet.AspNetCore.2_1",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.DotNet.AspNetCore.10",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12775,6 +12838,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.OneLakeFileExplorer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.VisualStudio.2022.OnecoreMsvsmon",
     "name": "",
     "publisher": null,
@@ -12797,6 +12867,20 @@
   },
   {
     "id": "Microsoft.VisualStudio.Extensions.TypeScript",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.VisualStudio.Professional",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.VisualStudio.BuildTools",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12902,6 +12986,13 @@
   },
   {
     "id": "Microsoft.PowerBIReportServer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.DependencyAgent",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13325,6 +13416,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "medialab.xan",
+    "name": "",
+    "publisher": null,
+    "description": "xan 是一个命令行工具，可直接在 shell 中处理 CSV 文件。\n它使用 Rust 编写，旨在尽可能快速运行，占用最少的内存，能够轻松处理大型 CSV 文件（达数 GB）。xan 利用了一种新颖的 SIMD CSV 解析器，并能通过多线程并行化某些计算，以尽可能快地完成任务，充分发挥您计算机的性能。\n它可轻松预览、过滤、切片、聚合、排序和连接 CSV 文件，并提供大量可组合的命令，可串联起来执行各种常见任务。\nxan 还提供了一套自己的表达式语言，使您能够执行仅靠简单命令无法完成的复杂操作。这种极简语言专为 CSV 数据定制，执行速度远超 Python、Lua、JavaScript 等常见的动态类型语言。\n请注意，该工具最初是 BurntSushi 的 xsv 的一个分支，但目前已几乎完全重写，以适应法国社会科学高等研究院（SciencesPo）médialab 的使用场景，其背景是面向社会科学的网络数据采集与分析（您可能认为 CSV 已经过时，但在匆忙下结论之前，请先阅读我们对该格式的致敬信）。\n因此，xan 不仅超越了典型的数据操作功能，还提供了与词汇计量学、图论甚至网络爬取相关的实用工具。\n除了 CSV 数据，xan 还能处理多种与 CSV 相关的数据格式，涵盖不同学科领域，例如网络归档（.cdx）或生物信息学（.vcf、.gtf、.sam、.bed 等）。xan 还可通过 xan to 和 xan from 命令在多种数据格式之间转换，如 json、Excel 文件、numpy 数组等。更多细节请参见相关章节。\n最后，xan 可用于在终端中显示 CSV 文件，便于快速浏览，甚至还能绘制基本的数据可视化图表。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -13832,10 +13930,45 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Movavi.MovaviPicverse",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Movavi.MovaviVideoConverter",
     "name": "",
     "publisher": null,
     "description": "快速转换媒体文件\n- 高速转换视频、音频和图像文件\n- 支持 180 多种格式：MP4、MOV、AVI、DVD、VOB、MKV、MP3 等\n- 基础视频编辑：裁剪、剪裁、旋转、调整颜色和声音\n- 批量处理、无损压缩和 AI 视频画质增强",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviAcademic",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviPhotoManager",
+    "name": "",
+    "publisher": null,
+    "description": "想知道如何毫不费力地将照片整理到文件夹中吗？Movavi 正在开发一款新程序，旨在帮助您节省管理数字照片收藏的时间。您将能够轻松创建相册，并按日期和地点进行分类。这款适用于 Windows 和 Mac 的照片整理软件还提供基础编辑工具。\n在电脑上翻找照片将不再耗费您大量时间。程序会自动筛选所有图片，而您只需放松身心，重温与家人共度的美好时光，或与朋友分享度假照片合集。\nMovavi 的照片整理工具将成为每一位珍惜时间也珍视照片收藏人士的必备之选。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviPhotoDeNoise",
+    "name": "",
+    "publisher": null,
+    "description": "下次当你想拍摄令人惊叹的夜景城市风光或聚会夜晚的照片时，不要害怕图像噪点——我们知道如何帮你修复模糊的照片！Movavi Photo DeNoise 应用可以消除这些图像瑕疵，让你的照片变得清晰锐利。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.Movavi360VideoEditor",
+    "name": "",
+    "publisher": null,
+    "description": "如果你在寻找一款便捷的 360° 视频制作工具，那就别再找了。认识我们最新推出的产品——Movavi 360 Video Editor！借助这款应用，你只需几分钟即可创作属于自己的 360° 视频。如果你是视频制作新手，别担心——我们的视频编辑软件主打直观操控、轻松上手。现在，你就能打造令人惊叹的沉浸式视频，让亲朋好友大开眼界！",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -15894,6 +16027,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "QuantumNous.NewAPI",
+    "name": "",
+    "publisher": null,
+    "description": "New API is a next-generation large model gateway and AI asset management system, developed based on One API. The project aims to provide a unified interface for managing and utilizing various AI model services, including but not limited to OpenAI, Anthropic, Gemini, and Midjourney.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -18305,6 +18445,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "REVENGE.StremioEnhanced",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "re-volt.RVGLLauncher",
     "name": "",
     "publisher": null,
@@ -18501,6 +18648,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ReversingLabs.SAFEViewer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Ryuapp.Rb",
     "name": "",
     "publisher": null,
@@ -18649,6 +18803,13 @@
   },
   {
     "id": "rcmaehl.WhyNotWin11",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RaveInc.Rave",
     "name": "",
     "publisher": null,
     "description": "",
@@ -20048,6 +20209,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Squirrels.AirParrot3",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Soundly.Soundly",
     "name": "",
     "publisher": null,
@@ -20482,6 +20650,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "stern.stern",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SachaBruttin.CosmosDBExplorer",
     "name": "",
     "publisher": null,
@@ -20637,6 +20812,13 @@
   },
   {
     "id": "SoftwareOK.ThisIsMyFile",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftwareOK.FontViewOK",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21134,6 +21316,13 @@
   },
   {
     "id": "srjuddington.slade",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Sebastien_Warin.StreamWhatYouHear",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22120,6 +22309,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "handruin.spdif-ka",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HBK.MicrophoneViewer",
     "name": "",
     "publisher": null,
@@ -22862,14 +23058,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Duplicati.Duplicati.Beta",
+    "id": "Duplicati.Duplicati",
     "name": "",
     "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Duplicati.Duplicati",
+    "id": "Duplicati.Duplicati.Beta",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25697,6 +25893,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenJS.NodeJS.19",
+    "name": "",
+    "publisher": null,
+    "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.8",
+    "name": "",
+    "publisher": null,
+    "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OpenJS.NodeJS.16",
     "name": "",
     "publisher": null,
@@ -25718,10 +25928,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenJS.NodeJS.4",
+    "name": "",
+    "publisher": null,
+    "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OpenJS.NodeJS.21",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -27664,6 +27881,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PierreBarre.Privaxy",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Python.Python.3.6",
     "name": "",
     "publisher": null,
@@ -28532,6 +28756,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Psyche.Kelivo",
+    "name": "",
+    "publisher": null,
+    "description": "一个 Flutter LLM 聊天客户端。支持 Android、iOS 和 Harmony Next。\n✨ 功能特性\n- 🎨 现代化设计 - 采用 Material You 设计语言，支持动态色彩主题（Android 12+）。\n- 🌙 深色模式 - 完美适配的深色主题，保护您的双眼。\n- 🌍 多语言支持 - 支持英文和中文界面。\n- 🖥️ 多平台支持 - 移动端（Android/iOS/Harmony）和桌面端（Windows/macOS/Linux）。\n- 🔄 多服务商支持 - 支持 OpenAI、Google Gemini、Anthropic 等主流 AI 服务商。\n- 🤖 自定义助手 - 创建和管理个性化的 AI 助手。\n- 🖼️ 多模态输入 - 支持图片、文本文件、PDF、Word 文档等多种格式。\n- 📝 Markdown 渲染 - 完全支持代码高亮、LaTeX 公式、表格等功能。\n- 🎙️ 语音/TTS 服务 - 内置系统 TTS，同时支持 OpenAI / Google Gemini / ElevenLabs 语音服务。\n- 🛠️ MCP 支持 - 支持模型上下文协议（Model Context Protocol）工具集成。\n- 🧰 内置 MCP 工具 - 包含内置的 MCP Fetch 工具。\n- 🔍 网络搜索 - 集成多种搜索引擎（Exa、Tavily、Zhipu、LinkUp、Brave、Bing、Metaso、SearXNG、Ollama、Jina、Perplexity、Bocha）。\n- 🧩 提示词变量 - 支持模型名称、时间等动态变量。\n- 📤 二维码分享 - 通过二维码导出和导入服务商配置。\n- 💾 数据备份 - 支持聊天记录的备份与恢复。\n- 🌐 自定义请求 - 支持自定义 HTTP 请求头和请求体。\n- 🔡 自定义字体 - 可使用自定义字体（系统字体 / Google Fonts）。\n- ⚙️ Android 后台生成 - 支持在后台持续生成聊天内容（可选设置）。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "prefix-dev.pixi",
     "name": "",
     "publisher": null,
@@ -28687,13 +28918,6 @@
   },
   {
     "id": "pulsejet.edgeandbingdeflector",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "PopcornTime.Popcorn-Time-X64",
     "name": "",
     "publisher": null,
     "description": "",
@@ -28872,6 +29096,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PostgreSQL.PostgreSQL.18",
+    "name": "",
+    "publisher": null,
+    "description": "PostgreSQL 是一个功能强大的开源对象关系型数据库系统，经过 35 年的积极开发，在可靠性、功能健壮性和性能方面赢得了良好的声誉。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30310,6 +30541,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "8BitDo.UltimateSoftwareV2",
+    "name": "8BitDo Ultimate Software V2",
+    "publisher": "8BitDo",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HelmutBuhler.8GadgetPack",
     "name": "8GadgetPack",
     "publisher": "8GadgetPack.net",
@@ -30412,6 +30650,13 @@
     "name": "Absolute Uninstaller",
     "publisher": "Glarysoft Ltd",
     "description": "Absolute Uninstaller is a complete program uninstaller that helps you remove programs thoroughly without leaving any invalid remnant to burden your system gradually.\n\nAbsolute Uninstaller starts up faster than Add/Remove program with all appropriate icons of the application loaded and marks recently installed program. so that you can easily find out the application you want to uninstall. You may also look up the application you want through a handy search function.\n\nYou can uninstall multiple programs at once, searching for apps, remove entries or restore them, change program properties, check program support information, view command line, fix invalid entries automatically, backup and restore uninstall info, and export the program list.\n\n- Autofix invalid program entries.\n- List installed programs with appropriate icons.\n- Simple and user-friendly interface.\n- Batch uninstall programs.\n- Backup/restore uninstall information.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thegrideon.AccessForensics",
+    "name": "Access Forensics",
+    "publisher": "Thegrideon Software",
+    "description": "Access Forensics by Thegrideon Software is an advanced tool for MS Access database analysis, data preview and recovery as well as password recovery and protection removal.\nIt recovers deleted tables, records (rows) and columns; shows database structure, tables, properties and VBA source code; recovers database passwords and user-level security records; can be used to edit database properties and access rights, remove VBA protection and more...\nAccess Forensics works with all MS Access files (.mdb, .accdb, ...) from version 2000 to 2024.\n\n* Access Forensics is designed with 3 main goals: gain access to protected database, analyse database content and recover deleted or hidden information still present in the file. It works with database files directly - independent from any Access libraries or components, so you can edit parameters regardless of access rights and extract data unavailable in any other way.\n* MS Access 2000-2003: Password to open and user-level security records can be recovered instantly to access database, recreate lost workgroup information file (.mdw) or recover logins from existing .mdw. Internal permission editor can be used to fix access rights right away if the goal is to access data as fast as possible.\n* MS Access 2007-2024: User-level security was deprecated and exhaustive password search is required for \"password to open\" recovery due to stronger cryptographic algorithms used. Access Forensics password recovery engine is based on our well known ACCDB Password tool. Highly optimized assembler code and GPU utilization as well as precise search range setup with advanced mixed attacks are at your service.\n* Database Properties: One of the functions of database properties (settings) is to control user interface and access to menu and tools. This is used to limit user access to database structure and data. Access Forensics allows you to edit database properties. Just a few examples: enable AllowBypassKey, StartUpShowDBWindow, edit CustomRibbonID to disable custom ribbon menu with limited functionality, switch of MDE flag to access locked mde/accde database and export forms, edit StartUpForm property to disable of change initial form, etc...\n* VBA: Access Forensics can reset VBA Project protection. Internal VBA code viewer is available with highlighted source code to check the safety of modules and classes included as well as check security measures applied in VBA code.\n* Data Recovery: Access Forensics is mainly designed to analyze data in a valid (uncorrupted) database. Although it is not its main goal, it can also be used to analyse damaged databases. Redundant information available in a database is used to recover deleted tables, records (table rows) and columns. Columns recovery is a unique feature of our tool and a quite important one. It is not uncommon practice to \"delete\" several columns with personal data and send database (with data still accessible) to business partners or clients.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -31066,6 +31311,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Canva.Affinity",
+    "name": "Affinity",
+    "publisher": "Canva",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Xanthus58.AfformationRequester",
     "name": "Afformation Requester",
     "publisher": "Xanthus58",
@@ -31206,17 +31458,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ViewSonic.AirSyncSender",
+    "name": "AirSync Sender",
+    "publisher": "ViewSonic",
+    "description": "Enjoy effortless screen sharing free from the hassle of cables or adapters with AirSync. It provides seamless connectivity from any device, opening up new possibilities for learning and collaboration in your teaching space.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Airtame.Airtame",
     "name": "Airtame",
     "publisher": "Airtame",
     "description": "Revolutionize the way you connect, communicate, and collaborate with Airtame. The user-friendly solution enhancing productivity and engagement, in any environment inside your school or business.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Airwindows.AirwindowsConsolidated.DAWPlugin",
-    "name": "Airwindows Consolidated",
-    "publisher": "Airwindows (with BaconPaul and members of the Surge Synth Te",
-    "description": "The Airwindows Consolidated Plugin is a CLAP/AU/VST3/LV2/Standalone which uses JUCE to expose all the Airwindows as a single plugin, complete with documentation. It is a standard plugin which works in your DAW like any other effect.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33380,6 +33632,20 @@
     "name": "AyuGram Desktop",
     "publisher": "Radolyn Labs",
     "description": "https://github.com/AyuGram/AyuGramDesktop/blob/dev/README.md",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AzaharEmulator.Azahar.MSVC",
+    "name": "Azahar",
+    "publisher": "Azahar Emulator",
+    "description": "Azahar is an open-source 3DS emulator project based on Citra.\n\nIt was created from the merging of PabloMK7's Citra fork and the Lime3DS\nproject, both of which emerged shortly after Citra was taken down.\n\nThe goal of this project is to be the de-facto platform for future development.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AzaharEmulator.Azahar.MSYS2",
+    "name": "Azahar",
+    "publisher": "Azahar Emulator",
+    "description": "Azahar is an open-source 3DS emulator project based on Citra.\n\nIt was created from the merging of PabloMK7's Citra fork and the Lime3DS\nproject, both of which emerged shortly after Citra was taken down.\n\nThe goal of this project is to be the de-facto platform for future development.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38276,6 +38542,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Descript.Descript",
+    "name": "Descript",
+    "publisher": "Descript, Inc.",
+    "description": "Direct your AI co-editor to do your video editing for you, or do it yourself with intuitive editing tools. With Descript, video editing is as easy as typing.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "deskfiler.deskfiler",
     "name": "Deskfiler",
     "publisher": "Ilya Lopukhin",
@@ -39249,6 +39522,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "combostrap.doc-exec",
+    "name": "doc-exec",
+    "publisher": "combostrap",
+    "description": "Doc Exec, execution of code inside documentation",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "qforce.DocFetcher",
     "name": "DocFetcher",
     "publisher": "qforce",
@@ -39720,6 +40000,13 @@
   {
     "id": "DuckDuckGo.DesktopBrowser",
     "name": "DuckDuckGo",
+    "publisher": "DuckDuckGo",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DuckDuckGo.DesktopBrowser.Preview",
+    "name": "DuckDuckGo Preview",
     "publisher": "DuckDuckGo",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -40399,7 +40686,7 @@
   {
     "id": "Educator.Engine",
     "name": "Educator Engine",
-    "publisher": "IBUNKA KORYU KIKAKU CO., LTD",
+    "publisher": "ODINSOFT",
     "description": "This application is a management software for Japanese language schools in Japan. It supports student management, exam and attendance tracking, and the creation and management of various official reporting documents.",
     "icon": "/icons/intunify-default.png"
   },
@@ -41554,7 +41841,7 @@
   {
     "id": "BtbN.FFmpeg.GPL.Shared.7.1",
     "name": "FFmpeg (GPL 动态编译版, 7.1 发布分支)",
-    "publisher": "BtbN",
+    "publisher": null,
     "description": "FFmpeg 是领先的多媒体框架，能够解码、编码、转码、混流、分解、推流、应用滤镜并播放人类和机器创建的几乎所有内容。它支持从最晦涩古老的格式到最前沿的格式。\n由 BtbN 构建的基于 7.1 发布分支的动态编译的 FFmpeg，拥有包含那些要求完整 GPL 协议而不仅仅是 LGPL 协议的在内的所有依赖。",
     "icon": "/icons/intunify-default.png"
   },
@@ -41801,6 +42088,13 @@
     "name": "FileQL",
     "publisher": "AmrDeveloper",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GAI.FileShows",
+    "name": "FileShows",
+    "publisher": "Heshan Aisipai E-commerce Co., Ltd.",
+    "description": "FileShows：文件秀思 - 纯净、高效、尽你掌控的本地文件管理器\n\n- 核心特色：\n  - 无广告、免注册、离线使用\n  - 数据本地存储，隐私无忧\n\n- 核心功能：\n  - 智能匹配： 支持文件/路径通配符与内容正则表达式，实现递归式精准匹配。\n  - 批量处理： 提供增量镜像、文件查重、查找替换、归档解档、一键清理等多样化操作。\n  - 安全删除： 多重擦除机制，确保文件彻底不可恢复。\n  - 定时任务： 定时执行文件管理任务，兼容CRON表达式。\n\n- 进阶功能：\n  - 支持自定义规则脚本，通过CLI工具（开源）或GUI应用（定时任务）批量执行，实现如Makefile般对文件操作的全面掌控。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42966,6 +43260,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "flyhunterl.FlyMD",
+    "name": "flymd",
+    "publisher": "flymd",
+    "description": "跨平台 所见所得 图床上传 WebDav同步 插件扩展 响应迅速 占用极低的 Markdown 编辑 PDF 阅读工具。\n✨ 项目特色\n- 即开即用：安装包仅 7MB 拒绝臃肿。冷启动毫秒级响应，代码一键复制\n- 界面干净：极简界面，默认仅菜单栏+编辑区，专注内容创作 启动速度和响应速度优秀\n- 文库功能：支持指定文件夹，树状目录显示文件夹下子文件夹及文档 并支持文档管理/支持添加多个文档库\n- 安全可靠：本地运行，无网络连接，预览 HTML 自动消毒\n- 图床支持：支持 S3/R2 绑定，直接粘贴图片上传 上传成功后自行写好图片连接语法\n- 功能全面：MarkDown LaTeX Mermaid html 全部支持\n- 即时渲染：所见模式，输入即渲染！Mermaid LaTex 全局实时渲染，双击编辑代码\n- 极致性能：毫秒级响应速度，告别同类软件常见痛点\n- 位置记忆：阅读和编辑文档位置均自动记忆，下次打开改文档无论阅读还是编辑都回到记忆位置（v0.0.6 正式版）\n- 自动同步：Webdav 同步功能\n- 插件扩展：支持插件扩展功能，可以自行开发也可以一键安装已上架的扩展/插件\n- 格式支持：支持另存为 PDF Docx Wps\n- 人工智能：可通过扩展市场安装 AI 助手（通过扩展市场安装）润色、改错、总结。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "andrewbrey.flot",
     "name": "Flōt",
     "publisher": "Andrew Brey",
@@ -43933,9 +44234,9 @@
   },
   {
     "id": "DuckStudio.GitHubView.Nightly",
-    "name": "GitHubView",
+    "name": "GitHubView (Nightly)",
     "publisher": "鸭鸭「カモ」",
-    "description": "GitHubView 是一个用于查看 GitHub 上的信息的命令行工具。",
+    "description": "GitHubView is a command line tool for viewing content on GitHub.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44457,7 +44758,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Google.PlayGames.Beta",
+    "id": "Google.PlayGames",
     "name": "Google Play Spiele beta",
     "publisher": "Google LLC",
     "description": "Mit Google Play Spiele (Beta) kannst du Spiele für Mobilgeräte auf dem PC spielen. Dank der Gaming-Plattform von Google profitierst du so vom größeren Bildschirm und zusätzlichen Einstellungen.",
@@ -44564,13 +44865,6 @@
   {
     "id": "GoTo.GoTo",
     "name": "GoTo",
-    "publisher": "GoTo Group, Inc.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "GoTo.GoToMachine",
-    "name": "GoTo Machine Installer",
     "publisher": "GoTo Group, Inc.",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -45913,6 +46207,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Natthasath.hostctl",
+    "name": "hostctl",
+    "publisher": "Natthasath",
+    "description": "hostctl is a small CLI tool for managing the Windows hosts file with tagged entries: list, add, edit, remove hosts, manage tags, and create backups. Supports sorting by IP, hostname, and tags.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "scottlerch.hosts-file-editor",
     "name": "Hosts File Editor",
     "publisher": "Scott Lerch",
@@ -47075,6 +47376,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Intel.ProcessorIdentificationUtility",
+    "name": "Intel® Processor Identification Utility 8.0.43",
+    "publisher": "Intel Corporation",
+    "description": "It displays the Graphics information, Chipset information, Technologies supported by the processor, and more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Intermedia.Unite",
     "name": "Intermedia Unite",
     "publisher": "Intermedia.net, Inc.",
@@ -47387,6 +47695,13 @@
     "name": "ISO Creator",
     "publisher": "Bunny-Wabbit",
     "description": "ISOCreator (could also be called Folder-to-ISO or Directory-to-ISO) is a C#.NET 2.0 application which creates ISO 9660 Joliet CD images from a given folder or volume. It can also create ISO with virtual files, given a tree representing a directory structure.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.ISOOpener",
+    "name": "ISO Opener",
+    "publisher": "SoftSea",
+    "description": "ISO Opener is a free iso extractor for extracting files from the ISO files, this ISO extractor can help you to directly extract all files and folders form the disc image file, so you do not need the virtual CD-ROM, no need to burn DVD/CD discs, just use this program you can easily access the contents of the ISO image file.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50827,6 +51142,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MaaAssistantArknights.maa-cli",
+    "name": "maa-cli",
+    "publisher": "MaaAssistantArknights",
+    "description": "MAA means MAA Assistant Arknights. An Arknights assistant. Based on image recognition, helps you to complete daily quests efficiently!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "FelixRieseberg.MacintoshJS",
     "name": "macintosh.js",
     "publisher": "Felix Rieseberg",
@@ -50866,6 +51188,13 @@
     "name": "Magicsplat Tcl/Tk for Windows (64-bit)",
     "publisher": "Ashok P. Nadkarni",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Google.Magika",
+    "name": "Magika",
+    "publisher": "Google LLC",
+    "description": "Magika is a novel AI-powered file type detection tool that relies on the recent advance of deep learning to provide accurate detection. Under the hood, Magika employs a custom, highly optimized model that only weighs about a few MBs, and enables precise file identification within milliseconds, even when running on a single CPU. Magika has been trained and evaluated on a dataset of ~100M samples across 200+ content types (covering both binary and textual file formats), and it achieves an average ~99% accuracy on our test set.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52899,6 +53228,34 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Movavi.MovaviBusinessSuite",
+    "name": "Movavi Business Suite",
+    "publisher": "Movavi",
+    "description": "Use the opportunity to take your business to the next level with our video editor and screen recorder for business. Create effective marketing videos for any business purpose.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviGecata",
+    "name": "Movavi Gecata",
+    "publisher": "Movavi",
+    "description": "The world of video games is packed with highs and lows, insane headshots and epic raids. Armed with a game recorder, you can grab the best moments of your gaming life and share them online with peers across the planet.\nGecata by Movavi is a lightweight and free streaming and game recording software for PCs that lets you capture and stream gameplay or a full-screen Windows desktop with one click and no lags.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviPhotoFocus",
+    "name": "Movavi Photo Focus",
+    "publisher": "Movavi",
+    "description": "Usually, we hate it when pictures turn out blurry – and any photo editor can fix that – but it takes a dedicated tool to make blurred images ADD to the quality of an image. Movavi Photo Focus lets you use photo blur as a creative way to tell amazing visual stories!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Movavi.MovaviPowerPointToVideoConverter",
+    "name": "Movavi PowerPoint To Video Converter",
+    "publisher": "Movavi",
+    "description": "Meet Movavi PowerPoint to Video Converter – the perfect software for transforming PowerPoint presentations into video files. With this program, you can easily convert a slideshow to MP4, AVI, WMV, MOV, or any other popular video format. You can also add voiceover or music to your presentation, optimize it for mobile device viewing, and prepare it for sharing online.\nSave PowerPoint as a video file and watch your presentation yourself or show it to your audience anytime, anywhere!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Movavi.MovaviSlideshowMaker",
     "name": "Movavi Slideshow Maker",
     "publisher": "Movavi",
@@ -54453,6 +54810,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MuteMe.MuteMe",
+    "name": "MuteMe-Client",
+    "publisher": "MuteMe LLC <info@muteme.com>",
+    "description": "MuteMe is peripheral device used for those that engage in virtual meetings:\n- MuteMe uses our patent-pending technology and is the first illuminated button to both control your microphone AND sync with the conference application tool of your choice.\n- MuteMe lets you and others around you know when you are in a meeting and when you are muted/unmuted. This is ideal when working from home or when you get numerous interruptions.\n- MuteMe allows you to customize your color selection for each status. We are keeping folks preferences and visual impairments in mind. Today, there are 8 color options (including LED off).\n- MuteMe has numerous other features like sleep mode, brightness control, push-to-talk, push-to-mute, etc which make it the #1 tool ensuring you sound professional and are responsive when you want to be in virtual meetings.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ChronoplexSoftware.MyFamilyTree",
     "name": "My Family Tree",
     "publisher": "Chronoplex Software",
@@ -55230,6 +55594,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Loickal.NewsletterCLI",
+    "name": "newsletter-cli",
+    "publisher": "Loïc Kalbermatter",
+    "description": "A beautiful, privacy-friendly terminal tool to analyze and unsubscribe from newsletters — right from your inbox. Connects via IMAP, identifies newsletter senders, and provides an interactive TUI for management.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NewCloud.NewSSStudent",
     "name": "NewSS Student",
     "publisher": "NewCloud",
@@ -55541,7 +55912,14 @@
     "id": "OpenJS.NodeJS",
     "name": "Node.js",
     "publisher": "Node.js Foundation",
-    "description": "Node.js is a JavaScript runtime built on Chrome\"s V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js\" package ecosystem, npm, is the largest ecosystem of open source libraries in the world.",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.10",
+    "name": "Node.js 10",
+    "publisher": "Node.js Foundation",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55561,6 +55939,20 @@
   {
     "id": "OpenJS.NodeJS.23",
     "name": "Node.js 23",
+    "publisher": "Node.js Foundation",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.6",
+    "name": "Node.js 6",
+    "publisher": "Node.js Foundation",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.7",
+    "name": "Node.js 7",
     "publisher": "Node.js Foundation",
     "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
     "icon": "/icons/intunify-default.png"
@@ -55955,6 +56347,13 @@
     "name": "nu",
     "publisher": "The Nushell Project Developers",
     "description": "Hello, and welcome to the Nushell project.\nThe goal of this project is to take the Unix philosophy of shells, where pipes connect simple commands together, and bring it to the modern style of development.\nNu takes cues from a lot of familiar territory, traditional shells like bash, object based shells like PowerShell, functional programming, systems programming, and more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "R.Kremer.NubRub",
+    "name": "NubRub",
+    "publisher": "R. Kremer",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61033,6 +61432,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BrowserStackInc.Requestly",
+    "name": "Requestly",
+    "publisher": "BrowserStack Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Eccam.ReqView",
     "name": "ReqView",
     "publisher": "Eccam s.r.o.",
@@ -61821,13 +62227,6 @@
     "name": "S3Drive",
     "publisher": "S3Drive",
     "description": "S3Drive is a self-contained smart software which is 100% compatible with the open and broadly supported S3 protocol and Rclone library.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Citilab.S4A",
-    "name": "S4A",
-    "publisher": "Citilab (Cornellà)",
-    "description": "S4A is a Scratch modification that allows for simple programming of the Arduino open source hardware platform. It provides new blocks for managing sensors and actuators connected to Arduino. There is also a sensors report board similar to the PicoBoard one.\nThe main aim of the project is attracting people to the programming world. The goal is also to provide a high level interface to Arduino programmers with functionalities such as interacting with a set of boards through user events.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -68301,7 +68700,7 @@
   {
     "id": "Veracode.CLI",
     "name": "Veracode CLI",
-    "publisher": "Veracode",
+    "publisher": "Veracode, Inc.",
     "description": "You use the Veracode CLI to run security scans of development containers. The CLI helps developers prevent comprehensive exploits before runtime and provides visibility into their container pipeline security posture.",
     "icon": "/icons/intunify-default.png"
   },
@@ -68768,6 +69167,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.VisualStudio.Community",
+    "name": "Visual Studio Community 2026",
+    "publisher": "Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.VisualStudio.Community.Insiders",
     "name": "Visual Studio Community 2026 Insiders",
     "publisher": "Microsoft Corporation",
@@ -68798,6 +69204,13 @@
   {
     "id": "Microsoft.VisualStudio.2022.Enterprise",
     "name": "Visual Studio Enterprise 2022",
+    "publisher": "Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.VisualStudio.Enterprise",
+    "name": "Visual Studio Enterprise 2026",
     "publisher": "Microsoft Corporation",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -70525,6 +70938,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WenAnLin.wedi",
+    "name": "Wedi",
+    "publisher": "WenAnLin",
+    "description": "wedi is a lightweight, keyboard-driven console text editor that provides intuitive text selection, cut, copy, paste, fast navigation, commenting, and search, delivering a smooth and efficient editing experience entirely in the terminal without requiring any GUI.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LEGO.WeDo",
     "name": "WeDo",
     "publisher": "LEGO Education",
@@ -70914,6 +71334,13 @@
     "name": "Windows App",
     "publisher": "Microsoft Corp.",
     "description": "Windows App is your gateway to Azure Virtual Desktop, Windows 365, Microsoft Dev Box, Remote Desktop Services, and remote PCs, securely connecting you to Windows devices and apps.\nYou can use Windows App on many different types of devices on different platforms and form factors, such as desktops and laptops, tablets, smartphones, and through a web browser. When using a web browser on a desktop or laptop, you can connect without having to download and install any software.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.WinAppCli",
+    "name": "Windows App Development CLI",
+    "publisher": "Microsoft",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -72191,13 +72618,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "behringer.XAIREdit",
-    "name": "X AIR Edit",
-    "publisher": "behringer",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Highresolution.X-MouseButtonControl",
     "name": "X-Mouse Button Control",
     "publisher": "Highresolution Enterprises",
@@ -72272,6 +72692,13 @@
     "name": "xemu",
     "publisher": "xemu Project",
     "description": "A free and open-source application that emulates the original Microsoft Xbox game console, enabling people to play their original Xbox games on Windows, macOS, and Linux systems.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "XeniaManager.XeniaManager",
+    "name": "Xenia Manager",
+    "publisher": "Xenia Manager",
+    "description": "Xenia Manager is a user-friendly tool designed to simplify the use of the Xenia Emulator. It streamlines game management, patch installation, and configuration, all through an intuitive interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
