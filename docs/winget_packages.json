@@ -1582,6 +1582,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TheOneCodes.Wii-Balance-Board-GUI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TobiiDynavox.Boardmaker.Studio",
     "name": "",
     "publisher": null,
@@ -2660,17 +2667,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "NoMachine.NoMachine",
-    "name": "",
-    "publisher": null,
-    "description": "以光速远程连接任意计算机。得益于我们的 NX 技术，NoMachine 是您体验过的最快速、最高质量的远程桌面解决方案。仅需轻点几下，即可触达世界另一端的计算机。无论您的桌面位于何处，都能从任何设备访问并与指定人员共享。NoMachine 是您专属的私人服务器，既安全又私密。更重要的是，它完全免费。\n通过 NoMachine，您可以安全地访问所有文件、播放各类视频与音频、打印编辑文档，并能随时随地进行文件传输。所有操作均在您的掌控之下安全进行。它支持即时桌面共享、屏幕内容录制等丰富功能。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "NoMachine.NoMachine.WorkgroupCloudServer",
     "name": "",
     "publisher": null,
     "description": "NoMachine Workgroup Cloud Server 通过单一网关集中管理用户访问，让 NoMachine 客户端设备能够从企业网络外部安全连接到内部的远程桌面和服务器。该方案专为小型团队设计，支持最多 10 个并发连接。由于可无限扩展添加企业桌面或终端服务器等 NoMachine 节点，这款迷你连接代理器完美适用于以下场景：部署了多台支持 NoMachine 的桌面和计算机，但任意时刻仅需为少数用户提供异地远程访问。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NoMachine.NoMachine",
+    "name": "",
+    "publisher": null,
+    "description": "以光速远程连接任意计算机。得益于我们的 NX 技术，NoMachine 是您体验过的最快速、最高质量的远程桌面解决方案。仅需轻点几下，即可触达世界另一端的计算机。无论您的桌面位于何处，都能从任何设备访问并与指定人员共享。NoMachine 是您专属的私人服务器，既安全又私密。更重要的是，它完全免费。\n通过 NoMachine，您可以安全地访问所有文件、播放各类视频与音频、打印编辑文档，并能随时随地进行文件传输。所有操作均在您的掌控之下安全进行。它支持即时桌面共享、屏幕内容录制等丰富功能。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -2941,13 +2948,6 @@
   },
   {
     "id": "AlveSvaren.Resizer2",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "abbodi1406.vcredist",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4837,6 +4837,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ArianesLine.Ariane",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AILight.AILZ80ASM",
     "name": "",
     "publisher": null,
@@ -5734,6 +5741,13 @@
   },
   {
     "id": "UniversalMediaServer.UniversalMediaServer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "USBTree.USBTree",
     "name": "",
     "publisher": null,
     "description": "",
@@ -7693,6 +7707,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "IndigoByte.DrExplain",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Illustrate.dBpowerampCLIEncoder",
     "name": "",
     "publisher": null,
@@ -8877,6 +8898,13 @@
   },
   {
     "id": "Canon.GPCL6_V4_PrinterDriver_V21.00",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Changepacks.Changepacks",
     "name": "",
     "publisher": null,
     "description": "",
@@ -10542,6 +10570,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Gilgamech.Cat",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GeodeSDK.GeodeCLI",
     "name": "",
     "publisher": null,
@@ -10969,6 +11004,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "goreleaser.mcp",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "goreleaser.goreleaser-pro",
     "name": "",
     "publisher": null,
@@ -11096,6 +11138,13 @@
   },
   {
     "id": "Gcndevelopment.GNURadio",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GCStudio.DemonstrationsPack",
     "name": "",
     "publisher": null,
     "description": "",
@@ -11613,6 +11662,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "lshachar.WiiBalanceWalker",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LiveKit.LiveKitCLI",
     "name": "",
     "publisher": null,
@@ -11796,6 +11852,13 @@
   },
   {
     "id": "LinearOrbit.Linear",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "lainx86.InterpKit",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12726,13 +12789,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Microsoft.WindowsTerminal",
-    "name": "",
-    "publisher": "Microsoft",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Microsoft.WindowsSDK.10.0.26100",
     "name": "",
     "publisher": null,
@@ -13021,6 +13077,13 @@
   },
   {
     "id": "Microsoft.CmdPalAzureExtension",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.RMSClient",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22456,6 +22519,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HinTak.Font-Validator",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HaiYing.AionUi",
     "name": "",
     "publisher": null,
@@ -24465,6 +24535,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Flashforge.Orca-Flashforge",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Flashforge.FlashPrint",
     "name": "",
     "publisher": null,
@@ -24928,6 +25005,13 @@
   },
   {
     "id": "FookesHolding.NoteTabLight",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OrryVerducci.TtxFromTS",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25936,6 +26020,13 @@
   },
   {
     "id": "OpenJS.NodeJS.21",
+    "name": "",
+    "publisher": null,
+    "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.17",
     "name": "",
     "publisher": null,
     "description": "Node.js® 是一个免费、开源、跨平台的 JavaScript 运行时环境，它让开发人员能够创建服务器、Web 应用、命令行工具和脚本。",
@@ -27343,6 +27434,13 @@
   },
   {
     "id": "Baidu.Comate",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BrightSign.BAconnected",
     "name": "",
     "publisher": null,
     "description": "",
@@ -30002,6 +30100,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Enreach.SwyxIt",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EberhardWerle.QuickGamma",
     "name": "",
     "publisher": null,
@@ -31507,6 +31612,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.AKSdesktop",
+    "name": "AKS desktop",
+    "publisher": "Microsoft",
+    "description": "A desktop application for managing Azure Kubernetes Service (AKS) clusters.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Alacritty.Alacritty",
     "name": "Alacritty",
     "publisher": "Alacritty",
@@ -32337,6 +32449,13 @@
     "name": "Ant Commander Pro",
     "publisher": "Japplis",
     "description": "Ant Commander Pro - Professional file manager\nAnt Commander Pro is a powerful file manager. Several file systems are suported: file, zip, ftp, webdav, etc. Several kinds of panels are available: directory table; directory tree, text editor, image viewer, command line, etc.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Google.Antigravity",
+    "name": "Antigravity",
+    "publisher": "Google",
+    "description": "Google Antigravity is an agentic development platform, evolving the IDE into the agent-first era. Antigravity enables developers to operate at a higher, task-oriented level managing agents across workspaces, while retaining a familiar AI IDE experience at its core. Antigravity extracts agents into their own surface and provides them the tools needed to autonomously operate across the editor, terminal, and browser emphasizing verification and higher-level communication via tasks and artifacts. This capability enables agents to plan and execute more complex, end-to-end software tasks, elevating all aspects of development, from building features, UI iteration, and fixing bugs to research and generating reports.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33908,13 +34027,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BrightSign.BAconnected",
-    "name": "BA connected",
-    "publisher": "BrightSign",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Babashka.Babashka",
     "name": "Babashka",
     "publisher": "Babashka",
@@ -34821,7 +34933,7 @@
     "id": "Bluefish.Bluefish",
     "name": "Bluefish",
     "publisher": "The Bluefish Developers",
-    "description": "Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code.\nBluefish supports many programming and markup languages.\nSee features for an extensive overview, take a look at the screenshots, or download it right away.\nBluefish is an open source development project, released under the GNU GPL licence.",
+    "description": "Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code.\nBluefish has many features, this list will give you an overview of the most important or outstanding features in Bluefish 2.2. Not all features are (yet) available on Windows or Mac OSX.\n- Lightweight - Bluefish tries to be lean and clean, as far as possible given it is a GUI editor.\n- Fast - Bluefish starts really quick (even on a netbook) and loads hundreds of files within seconds.\n- Multiple document interface, easily opens 500+ documents (tested >10000 documents simultaneously)\n- Project support, enables you to work efficiently on multiple projects, and automatically restores settings for each project.\n- Multi-threaded support for remote files using gvfs, supporting FTP, SFTP, HTTP, HTTPS, WebDAV, CIFS and more\n- Very powerful search and replace, with support for Perl Compatible regular expressions, sub-pattern replacing, and search and replace in files on disk.\n- Open files recursively based on filename patterns and/or content patterns\n- Snippets sidebar - specify custom dialogs, search and replace patterns or insert patterns and bind them to a shortkut key combination of your liking to speed up your development process\n- Integrate external programs such as make, lint, weblint, xmllint, tidy, javac, or your own program or script to handle advanced text processing or error detection\n- Integrate external filters of your liking, pipe your document (or just the current selected text) through sort, sed, awk or any custom script\n- Unlimited undo/redo functionality\n- In-line spell checker which is programing language aware (spell check comments and strings, but not code), requires libenchant during compilation\n- Auto-recovery of changes in modified documents after a crash, kill or shutdown\n- Character map of all unicode characters (requires libgucharmap during compilation)\n- Site upload / download1\n- Full screen editing\n- Many tools such as tabs to spaces, join lines, lines to columns, strip whitespace, etc. etc.\n- Customizable programming language support:\n  - In-line reference information (move your mouse over a function name or tag name) for various programming languages\n  - Code block folding\n  - Highlighting matching block start and end markers (both brackets and tags)\n  - Auto-completion and auto-tag-closing for many programming languages, with reference information, and even for nested languages (e.g. css and javascript inside html code that is inside a php document)\n  with included language definition files for:\n  - Ada\n  - ASP .NET and VBS\n  - C/C++\n  - CSS\n  - CFML\n  - Clojure\n  - D\n  - gettext PO\n  - Google Go\n  - HTML, XHTML and HTML5\n  - Java and JSP\n  - JavaScript and jQuery\n  - Lua\n  - Octave/MATLAB\n  - MediaWiki\n  - NSIS\n  - Pascal\n  - Perl\n  - PHP\n  - Python\n  - R\n  - Ruby\n  - SASS\n  - Shell\n  - Scheme\n  - SQL\n  - SVG\n  - Vala\n  - Wordpress\n  - XML\n- Multiple encodings support. Bluefish works internally with UTF8, but can save your documents in any desired encoding.\n- Bookmarks functionality\n- HTML toolbar and tearable menu's\n  - Dialogs and wizards for many HTML tags, with all their attributes\n  - Fully featured image insert dialog\n  - Thumbnail creation and automatically linking of the thumbnail with the original image, and multi-thumbnail creation\n  - User-customizable toolbar for quick access to often used functions\n- ZenCoding support\n- Compliance with the Gnome and KDE user interface guidelines where possible\n- Translations into 17 languages - and more are coming for the next releases.\nBluefish is an open source development project, released under the GNU GPL licence.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35455,6 +35567,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DiRoots.DiCivil",
+    "name": "C3D Products",
+    "publisher": "DiRoots, LDA",
+    "description": "A single application bundle that includes 8 free Civil 3D Plugins to boost your productivity. DiCivil provides users, different tools to help design and manage their data to get your job done faster and better.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JamiePine.CacheMonkey",
     "name": "CacheMonkey",
     "publisher": "Jamie Pine",
@@ -35674,6 +35793,13 @@
   {
     "id": "CXWorld.CapFrameX",
     "name": "CapFrameX",
+    "publisher": "CXWorld",
+    "description": "Frametimes capture and analysis tool based on Intel's PresentMon. Overlay provided by Rivatuner Statistics Server.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CXWorld.CapFrameX.Beta",
+    "name": "CapFrameX Beta",
     "publisher": "CXWorld",
     "description": "Frametimes capture and analysis tool based on Intel's PresentMon. Overlay provided by Rivatuner Statistics Server.",
     "icon": "/icons/intunify-default.png"
@@ -39816,13 +39942,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "IndigoByte.DrExplain",
-    "name": "Dr.Explain",
-    "publisher": "Indigo Byte Systems, LLC",
-    "description": "Dr.Explain is a help authoring software to create help files, documentation and on-line manuals in CHM, PDF, RTF & HTML formats automatically.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "sireliah.dragit",
     "name": "Dragit",
     "publisher": "Piotr Gołąb",
@@ -39924,6 +40043,13 @@
     "id": "Drovio.Drovio",
     "name": "Drovio",
     "publisher": "Drovio",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JessicaDeneEarley-Cha.DrWhoQuotesCmdPalExtension",
+    "name": "DrWhoQuotesCmdPalExtension",
+    "publisher": "Jessica Dene Earley-Cha",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -43218,6 +43344,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FlutterGitUI.FlutterGitUI",
+    "name": "Flutter GitUI",
+    "publisher": "Mehmet Kartalbas",
+    "description": "A modern, cross-platform Git GUI featuring Material Design 3, command palette, and external diff/merge tool integration.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "FluxCD.Flux",
     "name": "Flux",
     "publisher": "FluxCD",
@@ -43460,6 +43593,13 @@
     "name": "Free Alarm Clock",
     "publisher": "Comfort Software Group",
     "description": "This freeware program allows you to set as many alarms as you want.\nYou can set one-time alarms or repeating alarms - activate only from Monday through Friday and give you a chance to sleep on the weekends.\n\nHave you ever wondered if it's possible to wake up your system from a suspended power conservation mode using a resident program and not waste all that energy? The answer is yes, it is possible! Free Alarm Clock will let you do it. This feature is PC-dependent and only possible for PCs that can go to sleep mode.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.FreeISOCreator",
+    "name": "Free ISO Creator",
+    "publisher": "SoftSea",
+    "description": "Free ISO Creator is a free ISO image file creation tool, can help you to directly create an ISO CD-image (ISO 9660, also referred to as CDFS, Compact Disc File System) file from the DVD/CD-ROM or any folders on your PC. No complicated settings and options, this software is very easy to use, just start the software, select the folder produced for the iso, set the output path, click \"Create\" button, an ISO image file will be created, convenient and practical.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43761,6 +43901,13 @@
     "name": "Game Capture HD60 S",
     "publisher": "Elgato Systems",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "lxndr.gswatcher",
+    "name": "Game Server Watcher",
+    "publisher": "Alexander Burobin",
+    "description": "Game Server Watcher is a simple application that helps you to monitor the state of your favorite game servers and control remotely the servers of your own. It also has a buddy list and can notify you if a buddy joins any of servers.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44115,6 +44262,13 @@
   },
   {
     "id": "Git.Git",
+    "name": "Git",
+    "publisher": "The Git Development Community",
+    "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.\nGit for Windows focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to Windows while providing appropriate user interfaces for experienced Git users and novices alike.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Git.Git.PreRelease",
     "name": "Git",
     "publisher": "The Git Development Community",
     "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.\nGit for Windows focuses on offering a lightweight, native set of tools that bring the full feature set of the Git SCM to Windows while providing appropriate user interfaces for experienced Git users and novices alike.",
@@ -47702,6 +47856,13 @@
     "name": "ISO Opener",
     "publisher": "SoftSea",
     "description": "ISO Opener is a free iso extractor for extracting files from the ISO files, this ISO extractor can help you to directly extract all files and folders form the disc image file, so you do not need the virtual CD-ROM, no need to burn DVD/CD discs, just use this program you can easily access the contents of the ISO image file.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.ISOtoWBFS",
+    "name": "ISO to WBFS",
+    "publisher": "SoftSea",
+    "description": "ISO to WBFS is a free game file converter, it can convert ISO disc image files to WBFS format files. If you are a Wii games user, it would be a very effective tool for you. This game utility is easy to use very much, you can complete file conversion with a few mouse clicks. Just choice an existed ISO file using \"Browse\" button, then click \"Convert\" button, that's all.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52339,6 +52500,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.SQLServerManagementStudio.22",
+    "name": "Microsoft SQL Server Management Studio 22",
+    "publisher": "Microsoft Corporation",
+    "description": "SQL Server Management Studio (SSMS) is an integrated environment for managing any SQL infrastructure, from SQL Server to Azure SQL Database. SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. Use SSMS to deploy, monitor, and upgrade the data-tier components used by your applications, and build queries and scripts.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.SQLServerManagementStudio.22.Preview",
     "name": "Microsoft SQL Server Management Studio 22 Preview",
     "publisher": "Microsoft Corporation",
@@ -55923,6 +56091,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenJS.NodeJS.15",
+    "name": "Node.js 15",
+    "publisher": "Node.js Foundation",
+    "description": "Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OpenJS.NodeJS.18",
     "name": "Node.js 18",
     "publisher": "Node.js Foundation",
@@ -57715,6 +57890,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Azuyamat.Pace",
+    "name": "pace",
+    "publisher": "Azuyamat",
+    "description": "Pace is a task runner that allows you to define, manage, and execute\ntasks with dependencies, hooks, caching, and file watching.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NagleCode.PacketSender",
     "name": "Packet Sender",
     "publisher": "NagleCode, LLC",
@@ -58473,6 +58655,13 @@
   {
     "id": "PHP.PHP.NTS.8.4",
     "name": "PHP 8.4 (Non Thread Safe)",
+    "publisher": "PHP Group",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PHP.PHP.NTS.8.5",
+    "name": "PHP 8.5 - Non-thread safe",
     "publisher": "PHP Group",
     "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
     "icon": "/icons/intunify-default.png"
@@ -62944,6 +63133,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "GeneralArcade.SDL2GamepadTool",
+    "name": "SDL2 Gamepad Tool",
+    "publisher": "General Arcade",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Airspy.SDRSharp.DotNet9",
     "name": "SDR#",
     "publisher": "AirSpy",
@@ -65292,7 +65488,7 @@
     "id": "Mantej-Singh.STT-CLI",
     "name": "STT-CLI",
     "publisher": "Mantej Singh Dhanjal",
-    "description": "STT-CLI is a Windows-only speech-to-text tool designed for users on corporate laptops where Win+H is disabled by IT policies. It runs as a background system tray application with no visible window, using a global hotkey (double-tap Left Alt) to toggle recording. Perfect for use with Windows Terminal, PowerShell, Claude Code, and Gemini CLI.\n\nKey Features:\n- Global hotkey activation (double-tap Left Alt)\n- Background operation with system tray icon\n- Balloon notifications for recording status\n- Automatic CLI window detection\n- No admin rights required\n- Portable executable - no installation needed\n- Works on corporate laptops with restricted permissions",
+    "description": "STT-CLI is a Windows-only speech-to-text tool designed for users on corporate laptops where Win+H is disabled by IT policies. It runs as a background system tray application with no visible window, using a global hotkey (double-tap Left Alt) to toggle recording. Perfect for use with Windows Terminal, PowerShell, Claude Code, and Gemini CLI.\n\nKey Features:\n- Auto-start on Windows Boot (new in v1.4.0)\n- Global hotkey activation (double-tap Left Alt)\n- Background operation with system tray icon\n- First-run welcome notification\n- Settings persistence across sessions\n- Balloon notifications for recording status\n- Automatic CLI window detection\n- No admin rights required\n- Portable executable - no installation needed\n- Works on corporate laptops with restricted permissions",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -70770,6 +70966,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.WBFStoISO",
+    "name": "WBFS to ISO",
+    "publisher": "SoftSea",
+    "description": "WBFS to ISO is a free game tool for all Wii users, it can convert WBFS file to Wii game ISO files, it is simple and easy to use, the WBFS is the abbreviation for Wii backup file system, one WBFS file always contains one full Wii game, this free tool can help you easily to convert your WBFS files to Wii game ISO file format.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "mmozeiko.wcap",
     "name": "wcap",
     "publisher": "Mārtiņš Možeiko",
@@ -71190,6 +71393,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Wimysoft.WimyGit.Nightly",
+    "name": "WimyGitNightly",
+    "publisher": "Wimysoft",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "oberrich.win11-toggle-rounded-corners",
     "name": "Win11 Toggle Rounded Corners",
     "publisher": "oberrich",
@@ -71284,7 +71494,7 @@
     "id": "GiulioSorrentino.WinDateFrom",
     "name": "WinDateFrom",
     "publisher": "Giulio Sorrentino",
-    "description": "Questa app mostra quanto tempo è passato da una data ben definita che dovrebbe rappresentare un evento, tipo l'incontro con una persona amata, e mostra quanto tempo è passato da quella data. Lo use case è la canzone Vita, morte e miracoli di Angelina Mango, e come c'è modo di vedere spiega con facilità nelle sue canzoni la vita di tutti i giorni, a partire dalla canzone 9 maggio che spiega perché doveva vincere amici. In pratica una donna vede un bell'uomo e comincia non a farsi castelli per aria, quelli vengono dopo, ma pippe mentali. La canzone fa \"mi vedo già in posa, già vestita da sposa\" e poi continua \"dopo giorni, dopo giorni non mi ricordo neanche come ti chiami\". Una donna ci tiene non alle scadenze, ma agli anniversari, questo significa che la data di incontro è importante, non la data della prima volta che si fa... l'amore, ma la data del primo incontro. In seguito viene il nome ed il cognome ed è la stessa bellissima madama (si legge porca) per eccellenza che dice \"dopo giorni con te non mi ricordo neanche come ti chiami\". Quindi perché non fare un software per appuntare la data di incontro ed il nome, ma non per due o tre volte, se no è da porci, ma per una sola persona per volta, magari accompagnato da un pulsante per cancellare nome e data se le cose non dovessero andare bene. Questa è la normalità femminile, le donne vedono begli uomini per la via, si immaginano col vestito da sposa ma spesso non si ricordano neanche il nome, e ci tengono agli anniversari. Questa non è matematica ma è psicologia spicciola, significa capire la ... bellissima artista, e capire la... bel panorama, non cod o pes, ma la fifa!",
+    "description": "Questa app mostra quanto tempo è passato da una data ben definita che dovrebbe rappresentare un evento, tipo l'incontro con una persona amata, e mostra quanto tempo è passato da quella data. Se volete approcciare le madame e non le p... vi serve qualcosa in più. Le madame amano essere pensate e ci tengono agli anniversari, ma il logorio della vita moderna fa sì che si scordino il nome delle persone con cui si vogliono vedere col vestito da sposa. Per cui io ho creato un software per appuntare la data ed il nome, poi quano vedete una madama vi segnate la data e poi la seconda volta che la reincontrate, con molta probabilità, molto casualmente le dite \"noi due ci siamo già visti il..., mi dici il tuo nome? Oh che bel nome ce lo prendiamo un caffé insieme?\" e vedete che è un grandissimo aiuto per fare conquiste. Se avete un computer con NPU potete augurare direttamente col microfono i mesiverari e gli anniversari o corteggiare ricordando il numero di giorni dal primo incontro non dalla prima... con l'IA.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71312,7 +71522,7 @@
     "id": "DeskSoft.WindowManager",
     "name": "WindowManager",
     "publisher": "DeskSoft",
-    "description": "WindowManager helps you to improve your work flow by remembering and restoring the position and size of your programs and windows.\nMany programs don't remember their position and size between sessions and even Windows Explorer does not restore windows to their last position under Windows 7 or higher.\nThis is where WindowManager steps in and makes sure your windows are placed exactly where you want them every time you open them. WindowManager even allows you to lock the position and size of any window, so that it will always open at the same spot no matter where you move it.\nThe window handling is fully customizable and you can set up special rules for your favorite or most frequently used windows.\nYou can also make WindowManager send keystrokes or mouse-clicks to a program when its window is opened, run additional programs and other advanced actions. With WindowManager, you can also minimize most windows to the system tray.\nFurthermore, WindowManager supports and enhances the virtual desktop functions of Windows 10 and 11 (switching desktops with Hot-Keys, individual desktop icons, etc.)\n\nKey Features:\n- Remembers and restores the position and size of your programs and windows\n- Supports explorer windows, programs, dialogs, etc.\n- Configurable rules for moving or sizing only, activating, closing windows, etc.\n- Advanced actions for typing text into windows, pressing keys, clicking mouse buttons, etc.\n- Can be configured to work like \"Save Workspace\" for Excel users\n- Multi-monitor support\n- Multiple profiles\n- Powerful trigger system for profile switching\n- Hot-key support\n- Minimize windows to the system tray area\n- Virtual desktop support & enhancements (hot-keys, individual desktop icons, etc.) for Windows 10 and 11\n- Fully customizable\n- Silent installation and uninstallation for mass deployment\n- Especially designed for Windows 10 and 11",
+    "description": "WindowManager helps you to improve your work flow by remembering and restoring the position and size of your programs and windows. Many programs don't remember their position and size between sessions and even Windows Explorer does not restore windows to their last position. This is where WindowManager steps in and makes sure your windows are placed exactly where you want them every time you open them. WindowManager even allows you to lock the position and size of any window, so that it will always open at the same spot no matter where you move it.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71442,6 +71652,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.WindowsTerminal",
+    "name": "Windows Terminal",
+    "publisher": "Microsoft Corporation",
+    "description": "Windows 终端程序是一款新式、快速、高效、强大且高效的终端应用程序，适用于命令行工具和命令提示符，PowerShell 和 WSL 等 Shell 用户。主要功能包括多个选项卡、窗格、Unicode、和 UTF-8 字符支持，GPU 加速文本渲染引擎以及自定义主题、样式和配置。\n这是一个开源项目，我们欢迎社区参与。如要参与，请访问 https://github.com/microsoft/terminal",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.WindowsTerminal.Preview",
     "name": "Windows Terminal Preview",
     "publisher": "Microsoft Corporation",
@@ -71488,6 +71705,13 @@
     "name": "windows_exporter",
     "publisher": "Prometheus Community",
     "description": "A Prometheus exporter for Windows machines.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.WindowsBusesTracing",
+    "name": "windowsbusestracing",
+    "publisher": "Microsoft",
+    "description": "A set of PowerShell and batch scripts for Windows buses tracing.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71572,6 +71796,13 @@
     "name": "Wing Pro",
     "publisher": "Wingware",
     "description": "Wing Pro is a full-featured Python IDE designed for professional developers. It includes powerful editing, code intelligence, refactoring, debugging, search, unit testing, project management, revision control, and remote development features.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.WinGetStudio.Experimental",
+    "name": "WinGet Studio (Experimental)",
+    "publisher": "Microsoft Corporation",
+    "description": "Building WinGet Configuration files (Configuration as Code with Microsoft (DSC) Desired State Configuration) is a complex undertaking for folks who are not already familiar with the technology stack.\nWinGet Studio is an experiment to see how we can help make it easier to author configuration files and build or test DSC resources.\n\nWinGet Studio is designed to help users create and modify WinGet Configuration files. It also includes the ability to use \"get\", \"set\", and \"test\" for any installed Desired State Configuration (DSC) resources.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71789,6 +72020,13 @@
     "name": "Winstep Xtreme",
     "publisher": "Winstep",
     "description": "A superb collection of utilities and desktop enhancements, Winstep Xtreme will change the way you work with Windows forever. Winstep Xtreme:\n\nTransforms your desktop\nLets you have a desktop that becomes the envy of whoever looks at it... everybody loves a pretty face!\n\nOrganizes your Applications and Reduces Desktop Clutter\nWinstep Xtreme allows you to eliminate the huge clutter from your desktop and quickly organize the applications and documents you use more frequently.\n\nEnhances your productivity\nPuts the things you need the most at your fingertips, allowing you to work better and faster. Your documents and applications are always just one or two clicks away.\n\nSimplifies every aspect of your daily work\nInstead of a generalist User Interface that compromises in order to accommodate millions of users, with Xtreme you can customize the Interface so it suits you, and the way you work.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MathiasCodes.Winstow",
+    "name": "Winstow",
+    "publisher": "MathiasCodes",
+    "description": "Winstow is a Windows-native symlink farm manager inspired by GNU Stow. It helps you manage your dotfiles, configuration files, and software packages by creating symbolic links from a central stow directory to a target directory (typically your home directory).\n\nFeatures:\n- Windows-Native: Built specifically for Windows with proper symlink support\n- GNU Stow Compatible: Familiar interface if you've used GNU Stow\n- Directory Folding: Intelligent directory symlinking reduces link count\n- Conflict Resolution: --adopt and --override for handling existing files\n- Pattern Matching: --ignore and --defer for flexible file management\n- Configuration Files: Set defaults with .winstowrc\n- Small & Fast: Single ~600KB binary\n- Safe: Dry-run mode to preview changes before applying",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -73804,6 +74042,13 @@
     "id": "arrow2nd.tokumei-player-pp",
     "name": "匿名Player++",
     "publisher": "arrow2nd",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Alibaba.Qianwen",
+    "name": "千问",
+    "publisher": "Alibaba Group",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
