@@ -2611,13 +2611,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "ngudbhav.Webkiosk-Wrapper",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Netmaker.Netmaker",
     "name": "",
     "publisher": null,
@@ -5908,6 +5901,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "vinaypamnani.WMIExplorer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "VictronEnergy.VEPowerSetup",
     "name": "",
     "publisher": null,
@@ -6290,6 +6290,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ValentinSoftware.PVSOL.Premium.2026",
+    "name": "",
+    "publisher": null,
+    "description": "使用光伏设计软件行业标准 PV*SOL premium，您可以设计和模拟各类现代光伏系统。从小型屋顶系统到商业屋顶的中型系统，再到太阳能园区——PV*SOL premium 提供丰富的设计和仿真工具支持。\n独特的 3D 可视化是 PV*SOL premium 的亮点。您能以三维形式呈现所有常见系统类型，无论是屋顶嵌入式还是屋顶架设式，无论是小型斜面屋顶、大型工业厂房还是开阔场地——最高支持 7,500 个架设模块或 10,000 个平行屋顶模块——并基于 3D 对象计算阴影。通过周边物体的真实阴影模拟，您可获得最高可靠性的发电量预测。\nPV*SOL 的所有其他设计类型当然也包含在 PV*SOL premium 中。无论是计算自消耗率、设计电池储能系统，还是整合电动汽车——PV*SOL premium 能让您快速实现客户的所有需求。\n我们庞大的产品数据库包含：26,000+ 光伏组件、7,500+ 逆变器、5,500+ 电池系统以及电动汽车、功率优化器等众多产品。数据由制造商定期更新，确保您始终使用最新信息。\n您能生成可定制的高质量项目报告，还可创建含必要安全装置的电路图（如用于提交监管部门）。\n我们的数据库包含现行上网电价数据，结合系统成本信息可生成 20 年详细经济性分析，助您在几分钟内完成初步报价。\nPV*SOL premium 支持九种语言：德语🇩🇪、英语🇬🇧、西班牙语🇪🇸、法语🇫🇷、意大利语🇮🇹、波兰语🇵🇱、捷克语🇨🇿、葡萄牙语🇵🇹、土耳其语🇹🇷。项目报告支持 23 种语言，彻底消除语言障碍。\n技术支持团队和帮助页面随时解答疑问，论坛则为您提供与开发团队及其他高级用户深入交流的平台。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -7896,6 +7903,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "IgorBayerl.nanovision",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ima.menu",
     "name": "",
     "publisher": null,
@@ -8128,6 +8142,13 @@
   },
   {
     "id": "IrisInstruments.FullWaveViewerII",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IrisInstruments.ElectreTerraSequencer",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8551,6 +8572,20 @@
     "name": "",
     "publisher": null,
     "description": "我们的旗舰产品——Cryptainer Pro 加密软件，是一款强大的实时磁盘加密工具，采用尖端高强度加密技术。Cryptainer 支持 448 位 Blowfish 算法及 256 位 AES 标准，能创建加密虚拟硬盘，所有敏感信息皆可安全存储其中。\n仅需单一密码即可访问虚拟磁盘，无需为每个加密文件记忆不同密码。Cryptainer 兼具操作简便、部署灵活、运行迅捷及多功能性，是适用于各类环境的理想安全解决方案。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cypherix.Cryptainer.Pro.19",
+    "name": "",
+    "publisher": null,
+    "description": "我们的旗舰产品——Cryptainer Pro 加密软件，是一款强大的实时磁盘加密工具，采用尖端高强度加密技术。Cryptainer 支持 448 位 Blowfish 算法及 256 位 AES 标准，能创建加密虚拟硬盘，所有敏感信息皆可安全存储其中。\n仅需单一密码即可访问虚拟磁盘，无需为每个加密文件记忆不同密码。Cryptainer 兼具操作简便、部署灵活、运行迅捷及多功能性，是适用于各类环境的理想安全解决方案。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cypherix.Cryptainer.Personal.19",
+    "name": "",
+    "publisher": null,
+    "description": "使用 CRYPTAINER 个人加密软件，为任意 Windows 电脑上的数据、磁盘、文件及文件夹进行加密\n- 创建加密驱动器（保险库）以保护所有数据\n- 采用 448 位高强度加密技术\n- 操作简便，安全无懈可击\n- 兼容所有 32 位及 64 位 Windows 系统\n- 支持任意存储介质加密（U 盘、闪存盘、记忆棒、CD/DVD 光盘等）\n- 还可发送安全加密邮件\n- 简单拖放即可完成操作",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -14049,6 +14084,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Marvell.FastlinQDriverInstaller",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Marvell.AQtionAqnic650",
     "name": "",
     "publisher": null,
@@ -18732,13 +18774,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "RootsMagic.RootsMagic11",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "RedactSoftware.Redact",
     "name": "",
     "publisher": null,
@@ -18838,6 +18873,13 @@
   },
   {
     "id": "rink-turksma.IntunePrepTool",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RomTenma.Siki",
     "name": "",
     "publisher": null,
     "description": "",
@@ -20510,6 +20552,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Samsung.BIOSCommandTool",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "sw4you.Hardcopy",
     "name": "",
     "publisher": null,
@@ -20609,13 +20658,6 @@
   },
   {
     "id": "Synology.Presto",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Synology.DriveClient",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21218,13 +21260,6 @@
   },
   {
     "id": "stefanprodan.timoni",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Streamlabs.StreamlabsOBS",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22547,6 +22582,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HORI.DeviceManager",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HERE.OLPCLI",
     "name": "",
     "publisher": null,
@@ -22835,6 +22877,13 @@
   },
   {
     "id": "hickford.git-credential-azure",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HuggingFace.Git-Xet",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25914,6 +25963,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Onkyo.X-ME11DSPSoftware",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ObinsKit.ObinsKit",
     "name": "",
     "publisher": null,
@@ -26867,6 +26923,13 @@
   },
   {
     "id": "btargac.excel-parser-processor",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Braillify.Braillify",
     "name": "",
     "publisher": null,
     "description": "",
@@ -29274,6 +29337,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Easy2Convert.png2dds",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "elieserdejesus.JamTaba",
     "name": "",
     "publisher": null,
@@ -30135,6 +30205,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "eduVPN.Client",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EDRLab.Thorium",
     "name": "",
     "publisher": null,
@@ -30185,6 +30262,13 @@
   },
   {
     "id": "EclipseFoundation.Eclipse.DSL",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "elfpie.TizenAppInstaller",
     "name": "",
     "publisher": null,
     "description": "",
@@ -30586,7 +30670,7 @@
     "id": "3CX.CallFlowDesigner",
     "name": "3CX Call Flow Designer",
     "publisher": "3CX Ltd",
-    "description": "通过 3CX Call Flow Designer，您可以在 3CX 通信系统上轻松创建语音应用程序。语音应用程序是通过电话与用户交互，然后执行特定逻辑的程序。例如，您可以创建一个语音应用程序，要求呼叫者输入一个客户号码，然后根据数据库对该号码进行验证。然后根据该号码将呼叫转到某个队列。由于 3CX 呼叫流设计器完全可视化，因此几乎不需要电话或编程知识。",
+    "description": "通过 3CX Call Flow Designer，您可以在 3CX 通信系统上轻松创建语音应用程序。语音应用程序是通过电话与 用户交互，然后执行特定逻辑的程序。例如，您可以创建一个语音应用程序，要求呼叫者输入一个客户号码，然后根 据数据库对该号码进行验证。然后根据该号码将呼叫转到某个队列。由于 3CX 呼叫流设计器完全可视化，因此几乎 不需要电话或编程知识。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -31658,6 +31742,13 @@
     "name": "Algodoo",
     "publisher": "Algoryx",
     "description": "Algodoo is a unique 2D-simulation software from Algoryx Simulation AB. Algodoo is designed in a playful, cartoony manner, making it a perfect tool for creating interactive scenes. Explore physics, build amazing inventions, design cool games or experiment with Algodoo in your science classes. Algodoo encourages students and children’s own creativity, ability and motivation to construct knowledge while having fun. Making it as entertaining as it is educational. Algodoo is also a perfect aid for children to learn and practice physics at home.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OCaml.Alice",
+    "name": "Alice",
+    "publisher": "Stephen Sherratt",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33548,6 +33639,13 @@
     "name": "AviUtl ExEdit2",
     "publisher": "ＫＥＮくん",
     "description": "AVIファイルに各種フィルタをかけるツールです。簡単な動画編集や各種codecを使って圧縮しながら出力することも出来ます。\nWinXP、Win7等で動作すると思います。MMXが使えるCPUが必要です。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Neosku.AviUtl2-Catalog",
+    "name": "AviUtl2 カタログ",
+    "publisher": "Neosku",
+    "description": "AviUtl2 のプラグインやスクリプトを、検索・インストール・アップデートまで一括管理できるデスクトップ向けカタログアプリです。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39690,6 +39788,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WestWind.DocumentationMonster",
+    "name": "Documentation Monster",
+    "publisher": "West Wind Technologies",
+    "description": "Create comprehensive documentation, FAQs, and reference docs with ease using Documentation Monster, a powerful Markdown-based documentation tool.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DocuSign.DocusignEdit",
     "name": "Docusign Edit",
     "publisher": "DocuSign Inc.",
@@ -41059,6 +41164,13 @@
     "name": "Elgato Studio",
     "publisher": "Corsair Memory, Inc.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BayerischesLandesamtfuerSteuern.ElsterAuthenticator",
+    "name": "ElsterAuthenticator",
+    "publisher": "Bayerisches Landesamt fuer Steuern",
+    "description": "Der ElsterAuthenticator ist die Schnittstelle zwischen ihrem Sicherheitsstick bzw. ihrer Signaturkarte und Mein ELSTER. Wenn Sie Mein ELSTER mit Ihrem Sicherheitsstick oder Ihrer Signaturkarte verwenden, muss der ElsterAuthenticator nebenher auf Ihrem System gestartet sein.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43197,6 +43309,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftMaker.FlexiPDF",
+    "name": "FlexiPDF",
+    "publisher": "SoftMaker Software GmbH",
+    "description": "The PDF editor that makes editing PDFs as easy as working with a word processor.\n\nWith automatic DeepL translation, AI-based document summarization and excellent\nlanguage tools.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SICK.FlexiSoftDesigner",
     "name": "FlexiSoftDesigner",
     "publisher": "SICK AG",
@@ -45185,6 +45304,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "grapplerobotics.GrappleHook",
+    "name": "GrappleHook",
+    "publisher": "grapplerobotics",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GraylogInc.GraylogSidecar",
     "name": "Graylog Sidecar",
     "publisher": "Graylog Inc",
@@ -46900,6 +47026,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "iDescriptor.iDescriptor",
+    "name": "iDescriptor",
+    "publisher": "iDescriptor",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "IDmelon.IDmelonPairingTool",
     "name": "IDmelon Pairing Tool",
     "publisher": "IDmelon Technologies Inc",
@@ -47548,13 +47681,6 @@
     "name": "Intermodal",
     "publisher": "Casey Rodarmor",
     "description": "Intermodal is a user-friendly and featureful command-line BitTorrent metainfo\nutility. The binary is called imdl and runs on Linux, Windows, and macOS.\n\nAt the moment, creation, viewing, and verification of .torrent files is\nsupported.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Tonec.InternetDownloadManager",
-    "name": "Internet Download Manager",
-    "publisher": "Tonec Inc.",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51100,6 +51226,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Yonomesh.Loo",
+    "name": "loo",
+    "publisher": "Yonomesh",
+    "description": "loo is a lightweight DNS query tool designed for debugging and testing.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "gnif.LookingGlass",
     "name": "Looking Glass",
     "publisher": "Looking Glass",
@@ -51982,6 +52115,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Memvid.MemoryCLI",
+    "name": "Memory CLI",
+    "publisher": "Memvid",
+    "description": "Memory CLI is a test tool for validating package deployment pipelines across multiple platforms before releasing memvid-cli.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PureDevSoftware.MemPro",
     "name": "MemPro",
     "publisher": "PureDev Software",
@@ -52132,7 +52272,7 @@
     "id": "Agisoft.Metashape.Standard",
     "name": "Metashape Standard",
     "publisher": "Agisoft",
-    "description": "It is widely used by archaeologists. Many UAV companies are also using it. The software is available in Standard and Pro versions, the standard version is sufficient for interactive media tasks, while the Pro version is designed for authoring GIS content",
+    "description": "It is widely used by archaeologists. Many UAV companies are also using it. The software is available in Standard and Pro versions, the standard version is sufficient for interactive media tasks, while the Pro version is designed for authoring GIS content. Note that it does not work on the Home N or Pro N versions of Windows.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58660,6 +58800,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PHP.PHP.8.5",
+    "name": "PHP 8.5",
+    "publisher": "PHP Group",
+    "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PHP.PHP.NTS.8.5",
     "name": "PHP 8.5 - Non-thread safe",
     "publisher": "PHP Group",
@@ -59216,7 +59363,7 @@
     "id": "NetSarangComputer.PortX",
     "name": "PortX",
     "publisher": "NetSarang Computer, Inc.",
-    "description": "Now in Open Beta!\nPortX is a lightweight cross-platform SSH & SFTP Client.\nWith a simple but comprehensive UI, PortX gives you a pure terminal emulation experience.\nGoogle Drive syncing for session files across devices and OSes allows sysadmin and network admins to stay up to date wherever they are.\nAccessing and managing remote systems has never been this easy.\nAccessibility, Security, Simplicity. PortX has everything you need, nothing you don’t.\nPortX Features:\n- Cross Platform (Mac OS X, Windows, Linux)\n- Clean Tabbed UI\n- Local Shell\n- SSH2\n- SFTP File Uploads\n- Port Forwarding: X11, Local, Remote, SocksV5\n- Keyword Search\n- Agent Forwarding, Keyboard Interactive, Password, Public/Private Key Authentication\n- Address Bar for Quick Connections\n- Appearance Customizations\n- Global Options\n- No Ads Ever\n- SFTP Client\n- Split Panes\n- Key Mapping\n- AWS S3\n- Google Cloud Storage\n\nPortX Features in Development:\n- Script Hosting\n- And More\nThe PortX Open Beta is free to use and open to all. Feedback, bug reports, and other suggestions are highly appreciated.\nTo review our Privacy Policy go here: https://portx.online/en/privacy-policy/",
+    "description": "Now in Open Beta!\nPortX is a lightweight cross-platform SSH & SFTP Client.\nWith a simple but comprehensive UI, PortX gives you a pure terminal emulation experience.\nAccessibility, Security, Simplicity. PortX has everything you need, nothing you don’t.\nPortX Features:\n- Cross Platform (Mac OS X, Windows, Linux)\n- Clean Tabbed UI\n- Local Shell\n- SSH2\n- SFTP File Uploads\n- Port Forwarding: X11, Local, Remote, SocksV5\n- Keyword Search\n- Agent Forwarding, Keyboard Interactive, Password, Public/Private Key Authentication\n- Address Bar for Quick Connections\n- Appearance Customizations\n- Global Options\n- No Ads Ever\n- SFTP Client\n- Split Panes\n- Key Mapping\n- AWS S3\n- Google Cloud Storage\n\nThe PortX Open Beta is free to use and open to all. Feedback, bug reports, and other suggestions are highly appreciated.\nTo review our Privacy Policy go here: https://portx.online/en/privacy-policy",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60690,6 +60837,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "masaodev.quick-dash-launcher",
+    "name": "QuickDashLauncher",
+    "publisher": "masaodev",
+    "description": "QuickDashLauncher is a Windows launcher application that provides quick access to websites, applications, folders, and files via a global hotkey (Alt+Space by default, customizable).\n\nKey Features:\n- Fast launch with global hotkey\n- Quick access to websites, applications, and folders\n- Custom URI scheme support (obsidian://, vscode://, etc.)\n- Auto-import folder contents\n- Group launch for multiple items\n- Modern implementation with Electron + React + TypeScript",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LiErHeXun.Quicker",
     "name": "Quicker",
     "publisher": "北京立迩合讯科技有限公司",
@@ -61044,13 +61198,6 @@
     "name": "Raven Reader",
     "publisher": "Hello Efficiency Inc.",
     "description": "Raven is a open source desktop news reader with flexible settings to optimize your experience. No login is required, and no personal data is collected. Just select the websites you want to curate articles from and enjoy!",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Raycast.Raycast",
-    "name": "Raycast",
-    "publisher": "Raycast Technologies, Ltd.",
-    "description": "Raycast is a fast and flexible launcher that lets you control your computer with your keyboard. With a customizable interface and extensible plugins, Raycast helps you get things done quickly and efficiently, without ever having to touch the mouse.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62121,7 +62268,14 @@
     "id": "RootsMagic.RootsMagic.10",
     "name": "RootsMagic 10",
     "publisher": "RootsMagic, Inc.",
-    "description": "RootsMagic is the award-winning genealogy software which makes researching, organizing, and sharing your family history easy! Whether you're a beginner or an experienced professional, RootsMagic is the perfect tool for you!",
+    "description": "RootsMagic is the award-winning genealogy and family tree software designed to help users discover, document, and share their family history with ease. It allows you to start from scratch or import existing trees, integrate records from FamilySearch, Ancestry, MyHeritage, and Findmypast, and keep notes, photos, health details, and DNA matches organized in one place.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RootsMagic.RootsMagic.11",
+    "name": "RootsMagic 11",
+    "publisher": "RootsMagic, Inc.",
+    "description": "RootsMagic is the award-winning genealogy and family tree software designed to help users discover, document, and share their family history with ease. It allows you to start from scratch or import existing trees, integrate records from FamilySearch, Ancestry, MyHeritage, and Findmypast, and keep notes, photos, health details, and DNA matches organized in one place.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62758,6 +62912,13 @@
     "id": "DK1TB.SatPC32",
     "name": "SatPC32",
     "publisher": "DK1TB",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SatSignal.Runtimes",
+    "name": "SatSignal Software - Runtime Libraries",
+    "publisher": "SatSignal Software",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -64799,6 +64960,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MutagenModding.Spriggit",
+    "name": "Spriggit",
+    "publisher": "Mutagen Modding",
+    "description": "A tool to facilitate converting Bethesda plugin files to a text based format that can be stored in Git. Large scale projects can then live in Github, and accept Pull Requests from many developers.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "houmain.spright",
     "name": "spright",
     "publisher": "houmain",
@@ -65947,6 +66115,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Synology.DriveClient",
+    "name": "Synology Drive Client",
+    "publisher": "Synology Inc.",
+    "description": "Synology Drive Client 允许您在各种平台（包括 Windows、macOS、Linux、iOS 和 Android）上同步和共享您拥有或他人共享的文件。\n使用 Synology Drive Client，您可以随时随地访问和编辑文件，并与他人无缝协作。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Synology.EvidenceIntegrityAuthenticator",
     "name": "Synology Evidence Integrity Authenticator",
     "publisher": "Synology Inc.",
@@ -66196,6 +66371,13 @@
     "name": "Tailwind CSS",
     "publisher": "Tailwind Labs",
     "description": "Tailwind CSS 的工作原理是扫描您所有的 HTML 文件、JavaScript 组件以及其它任何模板的类名，生成相应的样式，然后将其写入一个静态 CSS 文件中。快速、灵活、可靠，并且零等待。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "talhelper.talhelper",
+    "name": "talhelper",
+    "publisher": "budimanjojo",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66693,6 +66875,13 @@
     "name": "Textify",
     "publisher": "Ramen Software",
     "description": "A tool for Windows to copy text from dialogs and controls which dont allow it otherwise",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Agisoft.TextureDeLighter",
+    "name": "Texture De-Lighter",
+    "publisher": "Agisoft",
+    "description": "A free stand-alone software to remove shadows from model textures.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67715,6 +67904,13 @@
     "name": "TrueTTY V3.33",
     "publisher": "DXsoft",
     "description": "A program for amateur radio digital communications via a sound card. Supported modes are RTTY (Baudot code), ASCII (7 or 8 bits), PSK31 (BPSK and QPSK), BPSK63, QPSK63, BPSK125, AMTOR-FEC (SITOR-B, NAVTEX), MultiFSK-16, MultiFSK-8. HF-PACKET and UHF-PACKET (AX25) are supported in KISS-TNC emulation mode. SELFEC SITOR, AMTOR-ARQ (SITOR-A) and DTMF-code decoding is also possible. No additional hardware is required. You only need a transceiver and computer (Pentium-100 or better) with a sound card. A simple circuit for PTT-control can be used. It is fast and convenient to use with many macros for transmitting. Can integrate with AALog logger.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "cURL.trurl",
+    "name": "trurl",
+    "publisher": "curl",
+    "description": "trurl is a command line tool that parses and manipulates URLs, designed to help shell script authors everywhere.\n\nURLs are tricky to parse and there are numerous security problems in software because of this.\n\ntrurl wants to help soften this problem by taking away the need for script and command line authors everywhere to re-invent the wheel over and over.\n\ntrurl uses libcurl URL parser. It parses and understands URLs exactly the same way curl the command line tool does - making it the perfect companion tool.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -70700,6 +70896,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "VSDC.Editor.32-bit",
+    "name": "VSDC Free Video Editor (32-bit)",
+    "publisher": "Flash-Integro LLC",
+    "description": "VSDC Video Editor is an excellent watermark-free solution for editing video files and creating projects of any complexity, featuring a wide range of visual and audio effects. The program combines powerful functionality with a simple, intuitive interface, enabling you to produce high-quality videos with minimal effort. It imposes no restrictions on file size or video duration. Even in the free version, you can edit videos in 4K, 5.3K, and up to 8K resolution while enjoying high frame rates of up to 120 frames per second.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.VSIXBootstrapper",
     "name": "VSIX Bootstrapper",
     "publisher": "Microsoft Corporation",
@@ -71050,6 +71253,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ngudbhav.Webkiosk-Wrapper",
+    "name": "Webkiosk-Wrapper",
+    "publisher": "NGUdbhav",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EugeneZrazhevsky.WeblocOpener",
     "name": "WeblocOpener",
     "publisher": "benchdoos",
@@ -71187,6 +71397,13 @@
     "name": "welle.io",
     "publisher": "Albrecht Lohofener",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WenAnLin.Wenget",
+    "name": "Wenget",
+    "publisher": "WenAnLin",
+    "description": "A cross-platform portable binary package manager powered by GitHub/GitLab releases. Simple, fast, and always up-to-date.",
     "icon": "/icons/intunify-default.png"
   },
   {
