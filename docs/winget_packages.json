@@ -231,6 +231,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TunnelBear.TunnelBear",
+    "name": "",
+    "publisher": null,
+    "description": "TunnelBear 可加密你的网络连接，让您在任何网络上的在线活动都保持私密。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TASKING.winIDEA",
     "name": "",
     "publisher": null,
@@ -1169,13 +1176,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "TechSmith.Snagit.2020",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "TheTTRTeam.ToontownRewritten",
     "name": "",
     "publisher": null,
@@ -1303,6 +1303,13 @@
   },
   {
     "id": "the-sz.SpyEx",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "the-sz.Westwood",
     "name": "",
     "publisher": null,
     "description": "",
@@ -1582,6 +1589,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thunderhead.WxClient",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thunderhead.WxSolution",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TheOneCodes.Wii-Balance-Board-GUI",
     "name": "",
     "publisher": null,
@@ -1667,6 +1688,13 @@
   },
   {
     "id": "ToastyX.CustomResolutionUtility",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TomasRudh.WinSize4",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2800,6 +2828,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Netsdk.RdpGuard",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Netsdk.S3Browser",
     "name": "",
     "publisher": null,
@@ -3200,6 +3235,13 @@
   },
   {
     "id": "azure06.clips",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "audiveris.org.Audiveris",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4701,13 +4743,6 @@
     "name": "",
     "publisher": null,
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Atos.emotachDirect",
-    "name": "",
-    "publisher": null,
-    "description": "emotachDirect 是 HVC 系统中的一个独立应用程序。\n车主可以通过 emotachDirect 查看车辆设备（emotach）记录的数据，并将申报数据以电子方式传送给 FCA。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -6699,6 +6734,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KDE.Kate.AppX",
+    "name": "",
+    "publisher": null,
+    "description": "Kate 是 KDE 为程序员量身定制的一款轻快的多文档、多视图文本编辑器。它的功能丰富，支持 LSP (Language Server Protocol, 语言服务器协议)、项目、多光标、多个选择对象、Git 集成、文件夹内搜索、水平和垂直视图拆分、Vi 模式、300 多种语言的语法高亮、内置终端、动态换行等。它可在 Linux、BSD、Windows 和 macOS 上使用。\n功能特性：\n- 多文档界面 (MDI)、窗口拆分、标签页\n- 拼写检查\n- CR、CRLF、LF 换行支持\n- 编码支持 (UTF-8、UTF-16、ASCII 等)\n- 编码转换\n- 基于正则表达式的查找和替换\n- 300 多种语言的语法高亮\n- 代码和文本折叠\n- 多光标和多个选择对象\n- 块选择模式\n- 自动缩进\n- 自动补全支持\n- 系统外壳程序集成\n- 支持多种类型的协议 (HTTP、FTP、SSH、WebDAV 等)\n- 可通过插件扩展\n- 集成终端\n- 基于 JavaScript 实现的脚本编程\n- Vi 模式\n- Intellisense 支持 (基于 LSP/Language Server Protocol/语言服务器协议)\n- DAP (Debug Adapter Protocol/调试适配器协议) 支持\n- 垂直标签页/文档列表\n- 轻量级项目支持。Kate 可以将文件夹作为工程打开\n- 使用本地格式化工具 (如 clang-format、prettier 等) 对代码进行格式化。\n- 内建在文件系统浏览器中\n- CTags 支持\n- 搜索整个项目和整个文件夹的内容\n- Git 集成",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KDE.Granatier",
     "name": "",
     "publisher": null,
@@ -6910,6 +6952,20 @@
   },
   {
     "id": "kubewall.kubewall",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KinookSoftware,Inc.CopyWiz",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KinookSoftware,Inc.UltraRecall",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8421,6 +8477,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Canonical.UbuntuProforWSL",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CommunicationPlatform.MAX",
     "name": "",
     "publisher": null,
@@ -8582,6 +8645,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Cypherix.Cryptainer.Lite.19",
+    "name": "",
+    "publisher": null,
+    "description": "Cryptainer Lite - 448 位加密软件\n- 可创建多个加密磁盘驱动器（保险库），单个容量高达 100MB，用于存储各类数据\n- 采用 448 位高强度加密技术\n- 支持简单的拖放操作\n- 兼容所有 32 位及 64 位 Windows 系统\n- 支持对任意存储介质的数据加密（U 盘、闪存盘、CD/DVD 光盘）\n- 可发送安全加密邮件\n- 最大亮点：永不过期，无弹窗干扰",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Cypherix.Cryptainer.Personal.19",
     "name": "",
     "publisher": null,
@@ -8718,6 +8788,13 @@
     "id": "ChilliBits.CCom",
     "name": "",
     "publisher": "ChilliBits",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "cankoptor.VAE",
+    "name": "",
+    "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -9094,13 +9171,6 @@
   },
   {
     "id": "C-PartnerSystemhausGmbH.DocuToolbox",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "C-PartnerSystemhausGmbH.DocuToolbox.AllFeatures",
     "name": "",
     "publisher": null,
     "description": "",
@@ -10472,6 +10542,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Gardener.gardenlogin",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GISInternals.GDAL.FileGDB",
     "name": "",
     "publisher": null,
@@ -11019,6 +11096,13 @@
   },
   {
     "id": "GaryBentley.QuollWriter",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GregOrigin.CleanerSuite",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12027,6 +12111,13 @@
   },
   {
     "id": "Learneo.LanguageTool",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LINQPad.LINQPad.9",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15939,6 +16030,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "m4ym4y.museum-of-all-things",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "magic-wormhole.magic-wormhole",
     "name": "",
     "publisher": null,
@@ -19061,6 +19159,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ReceitaFederaldoBrasil.EscrituraçãoDigitalECF",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ReceitaFederaldoBrasil.IRPF2023",
     "name": "",
     "publisher": null,
@@ -19657,6 +19762,13 @@
   },
   {
     "id": "Spacemesh.Spacemesh",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SKHynix.DriverManager",
     "name": "",
     "publisher": null,
     "description": "",
@@ -24129,6 +24241,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DatawellBV.Waves5",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DeltaChat.DeltaChat",
     "name": "",
     "publisher": null,
@@ -25963,6 +26082,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Oracle.WebLogicRemoteConsole",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Onkyo.X-ME11DSPSoftware",
     "name": "",
     "publisher": null,
@@ -26678,13 +26804,6 @@
   },
   {
     "id": "bitwig.bitwig",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "boy1dr.SpleeterGui",
     "name": "",
     "publisher": null,
     "description": "",
@@ -30170,13 +30289,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Enreach.SwyxIt",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "EberhardWerle.QuickGamma",
     "name": "",
     "publisher": null,
@@ -31567,6 +31679,13 @@
     "name": "AI Shell",
     "publisher": "Microsoft Corporation",
     "description": "AI Shell is a CLI tool that brings the power of artificial intelligence directly to your command line! Designed to help you get command assistance from various AI assistants, AI Shell is a versatile tool to help you become more productive in the command line. We call these various AI assistant providers agents. You can use agents to interact with different generative AI models or other AI/ML/assistant providers in a conversational manner.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hermithic.aiask",
+    "name": "AIask",
+    "publisher": "Hermithic",
+    "description": "AIask is an AI-powered command line assistant that converts natural language \ninto shell commands for PowerShell, CMD, Bash, and Zsh.\n\nFeatures:\n- Natural language to command conversion\n- Multiple LLM provider support (Grok, OpenAI, Anthropic, Gemini, Ollama)\n- Auto-detect current shell\n- Execute, copy, edit, or re-prompt commands",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35518,6 +35637,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RedCactus.Bubble",
+    "name": "Bubble",
+    "publisher": "Red Cactus B.V.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OnePartRain.Buckets",
     "name": "Buckets",
     "publisher": "Buckets",
@@ -35994,17 +36120,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "JaydenDev.Catalyst",
-    "name": "catalyst",
+    "id": "JaydenDev.Catalyst3",
+    "name": "Catalyst3",
     "publisher": "JaydenDev",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "JaydenDev.Catalyst3",
-    "name": "Catalyst3",
-    "publisher": "JaydenDev",
-    "description": "",
+    "id": "WenAnLin.Cate",
+    "name": "Cate",
+    "publisher": "WenAnLin",
+    "description": "A lightweight CLI tool to display file contents with encoding support - like cat with better encoding handling.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36050,6 +36176,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BQN.CBQN",
+    "name": "CBQN",
+    "publisher": "vylsaz",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GiulioSorrentino.CBriscola.Avalonia",
     "name": "CBriscola.Avalonia",
     "publisher": "Giulio Sorrentino",
@@ -36082,6 +36215,13 @@
     "name": "CCleaner",
     "publisher": "Piriform",
     "description": "CCleaner is a utility used to clean potentially unwanted files and invalid Windows Registry entries from a computer.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.CDDVDLabelMaker",
+    "name": "CD & DVD Label Maker",
+    "publisher": "SoftSea",
+    "description": "CD & DVD Label Maker is one powerful CD and DVD label and jewel case design software, help you to create beautiful and professional CD/DVD labels, CD & DVD Label Maker is one freeware of www.cddvdlabelmaker.com, completely free for any personal or commercial use, it is a very useful tool for office, family and hobby, it is very ease and flexibility.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36333,7 +36473,7 @@
     "id": "Bin-Huang.Chatbox",
     "name": "Chatbox",
     "publisher": "Benn Huang",
-    "description": "Chatbox 支持多款全球最先进的 AI 大模型服务，支持 Windows、Mac 和 Linux。作为一款热门的开源桌面应用，深受全世界专业人士的好评。",
+    "description": "Chatbox 支持多款全球最先进的 AI 大模型服务，支持 Windows、Mac 和 Linux。作为一款热门的开源桌面应用，深受全 世界专业人士的好评。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36439,6 +36579,13 @@
     "name": "Chicken Invaders 1",
     "publisher": "InterAction studios",
     "description": "Sometime in the near future, Earth is invaded by chickens from another galaxy, bent on revenge against the human race for oppressing earth chickens! Take the world's fate in your hands (or at least have an omelette) in this modern rendition of the 80's classic. Save the world today!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Chillblast.CryoClick",
+    "name": "Chillblast Cryo Click",
+    "publisher": "Chillblast",
+    "description": "Chillblast Cryo Click Wireless Gaming Mouse Software",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37569,6 +37716,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "GitHub.Copilot",
+    "name": "Copilot CLI",
+    "publisher": "GitHub, Inc.",
+    "description": "GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations. Powered by the same agentic harness as GitHub's Copilot coding agent, it provides intelligent assistance while staying deeply integrated with your GitHub workflow.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GitHub.Copilot.Prerelease",
+    "name": "Copilot CLI (Preview)",
+    "publisher": "GitHub, Inc.",
+    "description": "GitHub Copilot CLI brings AI-powered coding assistance directly to your command line, enabling you to build, debug, and understand code through natural language conversations. Powered by the same agentic harness as GitHub's Copilot coding agent, it provides intelligent assistance while staying deeply integrated with your GitHub workflow.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ColorLogic.CoPrA",
     "name": "CoPrA",
     "publisher": "ColorLogic",
@@ -37786,6 +37947,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Mozilla.CrashFirefoxIntentionally",
+    "name": "Crash Firefox Intentionally",
+    "publisher": "Mozilla and/or Benjamin Smedberg",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Creality.CrealityPrint",
     "name": "Creality Print",
     "publisher": "Creality",
@@ -37902,6 +38070,13 @@
     "name": "Crushee",
     "publisher": "Xander Frangos",
     "description": "Crushee is an image compression tool, powered by Electron and Node.js.\nIt accepts JPEG, PNG, GIF, SVG, and WebP files, and will convert to JPEG, PNG, or WebP.\nIt's useful for batch optimization and resizing images.\nYou can carefully tune your images to meet your needs without having to re-upload or restart every time.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Chillblast.CryoSlate",
+    "name": "Cryo Slate Keyboard",
+    "publisher": "Chillblast",
+    "description": "Chillblast Cryo Slate Wired Hall Effect Keyboard",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40985,6 +41160,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Espressif.eim",
+    "name": "eim",
+    "publisher": "espressif",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "eksctl.eksctl",
     "name": "eksctl",
     "publisher": "eksctl.io",
@@ -41072,6 +41254,13 @@
     "id": "Tympanix.Electorrent",
     "name": "Electorrent",
     "publisher": "tympanix",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.Electron.39",
+    "name": "Electron",
+    "publisher": "OpenJS Foundation",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -41454,6 +41643,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Espressif.EIM-CLI",
+    "name": "ESP-IDF Installation Manager CLI",
+    "publisher": "Espressif Systems",
+    "description": "CLI tool for installing and managing ESP-IDF installations",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BioSilico.EssayWriter",
     "name": "EssayWriter",
     "publisher": "BioSilico",
@@ -41738,6 +41934,13 @@
     "name": "Extraterm - Terminal emulator",
     "publisher": "extraterm.org",
     "description": "Extraterm is an open source project to build a terminal emulator and expand it with new features to support modern workflows and do more than just act like a glorified teletype.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NecdetSanli.EyeRest",
+    "name": "EyeRest",
+    "publisher": "Necdet Şanlı",
+    "description": "EyeRest is a small Windows tray application that helps you follow the 20–20–20 rule for eye health by showing periodic desktop notifications.\n\nIt runs in the Windows notification area, uses Windows 10/11 toast notifications when available (with a tray balloon fallback), and lets you configure:\n- Reminder interval (for example every 5–60 minutes)\n- Whether reminders are enabled\n- Optional left-click toggle on the tray icon\n- Optional persistent settings and \"Start with Windows\" for the current user\n\nThe app is built with .NET Framework 4.8 and WinForms, is open source, and does not collect any personal data or telemetry. For full details, source code, and privacy information, see the project page.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42242,6 +42445,13 @@
     "name": "File Hash Generator Free Edition",
     "publisher": "BinaryMark",
     "description": "Compute and save MD5, SHA1, SHA2, RIPEMD hashes and CRC16/32 checksums for multiple files! Calculate hashes and checksums for the whole file or just specified bytes. Insert hashes into files in text or binary form. Generate file list with hashes in specified format and save it to a file. Rename files and include hashes in file name. Process 1000s of files using multiple CPU cores in manual, automatic/continuous, triggered/scheduled, or console modes, or directly from Windows Explorer right-click menu. Save files to output directory specified using either absolute or relative path, with original or new name defined by a mask. Select files for processing based on their name, dates, size, and contents using advanced file search supporting RegEx and advanced wildcards. Optionally merge together, split all, or zip processed files. Perform different operations on different files with conditional processing and process branching. Detailed processing logs are available in both user interface and log files. Run multiple program instances simultaneously.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Voidstar.FilePilot",
+    "name": "File Pilot",
+    "publisher": "Voidstar",
+    "description": "Engineered entirely from scratch for light-speed performance, featuring a modern and robust interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43715,6 +43925,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.FreeISOBurner",
+    "name": "Free ISO Burner",
+    "publisher": "SoftSea",
+    "description": "Free ISO Burner is a free ISO image burning software, it can burn one ISO image file to CDs or DVDs. This software is small and smart, can run from USB drive, no installation needed. One standalone executable file can do everything about burning ISO images. It supports bootable CD to image file, no need to mount any \"virtual drives\". Free ISO Burner is a simple application that helps users to burn ISO and CD/DVD image files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SoftSea.FreeISOCreator",
     "name": "Free ISO Creator",
     "publisher": "SoftSea",
@@ -43726,6 +43943,13 @@
     "name": "Free Pascal Compiler",
     "publisher": "Free Pascal",
     "description": "Free Pascal is a mature, versatile, open source Pascal compiler. It can target many processor architectures: Intel x86 (16 and 32 bit), AMD64/x86-64, PowerPC, PowerPC64, SPARC, SPARC64, ARM, AArch64, MIPS, Motorola 68k, AVR, and the JVM. Supported operating systems include Windows (16/32/64 bit, CE, and native NT), Linux, Mac OS X/iOS/iPhoneSimulator/Darwin, FreeBSD and other BSD flavors, DOS (16 bit, or 32 bit DPMI), OS/2, AIX, Android, Haiku, Nintendo GBA/DS/Wii, AmigaOS, MorphOS, AROS, Atari TOS, and various embedded platforms.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ComfortSoftwareGroup.FreeVirtualKeyboard",
+    "name": "Free Virtual Keyboard",
+    "publisher": "Comfort Software Group",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44034,6 +44258,13 @@
     "name": "Game-Menu",
     "publisher": "clanmonsterxd-cmd",
     "description": "Dieses Programm bietet ein einfaches grafisches Menü, um Spiele komfortabel zu starten.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Oscaritodev.GameLauncher",
+    "name": "GameLauncher",
+    "publisher": "Oscaritodev",
+    "description": "This is an game launcher make with python This project is in beta. If you find any errors, please submit an issue describing the problem. Happy Gaming!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47684,6 +47915,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Tonec.InternetDownloadManager",
+    "name": "Internet Download Manager",
+    "publisher": "Tonec Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CrystalRich.InternetOff",
     "name": "InternetOff",
     "publisher": "Crystal Rich Ltd",
@@ -47971,6 +48209,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.ISOCompressor",
+    "name": "ISO Compressor",
+    "publisher": "SoftSea",
+    "description": "ISO Compressor is a free game ISO file compression software, it can compress and convert normal ISO image files to compressed image format CSO (CISO) files, or decompress CSO files to normal ISO files. This software can support both Sony PlayStation games files and Nintendo games files. If you are a PSP games or Wii games fan, this software will be very useful to you. By using this small tool, you can easily compress your game files, reduce file size and save your disk space, then you can play these games from your memory stick.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Bunny-Wabbit.ISOCreator",
     "name": "ISO Creator",
     "publisher": "Bunny-Wabbit",
@@ -47996,6 +48241,13 @@
     "name": "IsoBuster",
     "publisher": "Smart Projects",
     "description": "IsoBuster is a highly specialized yet easy to use media data recovery tool. It supports all disc formats and all common file systems. Insert a disc, USB stick or memory card, Start up IsoBuster and select the drive or media (if not selected already) and let IsoBuster mount the media. IsoBuster immediately shows you all the partitions or tracks and sessions located on the media, combined with all file systems that are present. This way you get easy access, just like explorer, to all the files and folders per file system. Instead of being limited to one file system that the OS picks for you, you have access to \"the complete picture\". Access data from older sessions or hidden partitions, access data that your OS (e.g. Windows) does not see or hides from you etc.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.ISODisk",
+    "name": "ISODisk",
+    "publisher": "SoftSea",
+    "description": "ISODisk is a FREE and powerful ISO disk image file tool, allows you to create virtual CD/DVD driver up to 20 drivers, mount an .ISO disk image and access the files on it as if it were burned to CD or DVD. This free program can quickly create ISO image file from CD/DVD-ROM, with ISODisk, you don't need install any other virtual drive software. Once you map the archive to a virtual drive, you can be able to view the contents in Windows Explorer.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49081,6 +49333,13 @@
     "name": "KensingtonWorks",
     "publisher": "Kensington",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KeraDB.CLI",
+    "name": "KeraDB CLI",
+    "publisher": "KeraDB",
+    "description": "KeraDB is a single-file, embedded document database designed for simplicity and ease of use. \nThink SQLite, but for JSON documents! It provides a CLI tool and library for working with \ndocument-oriented data storage with automatic indexing and persistent storage.\n\nFeatures:\n- Single-file database format\n- Fast and memory-safe (written in Rust)\n- Document-oriented storage with JSON documents\n- Primary key indexing for fast lookups\n- Interactive REPL and command-line interface\n- Collections for organizing documents\n- Simple and easy-to-use API",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50771,6 +51030,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Liner.LinerWorkspace",
+    "name": "Liner Workspace",
+    "publisher": "Liner",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LingitAS.Lingdys4",
     "name": "Lingdys 4",
     "publisher": "Lingit AS",
@@ -51139,6 +51405,13 @@
     "name": "Logi Tune",
     "publisher": "Logitech",
     "description": "Take charge of your workplace experience wherever you are — at home, in the office or on the go. Webcam and headset settings are all at your fingertips to ensure you look and sound the way you want in video meetings.\n\nIn addition, if your organization uses Logitech room and desk booking, you can easily find the right space, with the right tools at the right time and with the right people for better days in the office.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GregOrigin.LogicAtlasCLI",
+    "name": "LogicAtlas CLI",
+    "publisher": "GregOrigin",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51667,6 +51940,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ElgibeSolutions.MarkdownViewer",
+    "name": "Markdown Viewer",
+    "publisher": "ElgibeSolutions",
+    "description": "Quick and easy Markdown file viewer. In the world of AI, countless .md files are created daily. This tool provides instant viewing of markdown files with beautiful rendering, syntax highlighting, and seamless integration with Windows Explorer. Set it as your default .md viewer for effortless access.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "FelixZeller.markdown-oxide",
     "name": "markdown-oxide",
     "publisher": "Felix Zeller",
@@ -51912,6 +52192,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.MDFtoISO",
+    "name": "MDF to ISO",
+    "publisher": "SoftSea",
+    "description": "MDF to ISO is a freeware that helps you easily convert MDF image files to ISO image files. The MDF (Mirror Disc File) is disk/DVD/CD image format produced by some burning software (such as Alcohol 120%), and the ISO format is the most popular image format, it is used in many applications on Windows and Linux operating systems. So, if you need to convert your MDF files (*.mdf) to ISO files (*.iso), this program can do this for you. The generated ISO file is ISO 9660 format.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "hrzlgnm.mdns-browser",
     "name": "mdns-browser",
     "publisher": "hrzlgnm",
@@ -52042,6 +52329,13 @@
     "name": "mediamtx",
     "publisher": "bluenviron",
     "description": "MediaMTX is a ready-to-use and zero-dependency real-time media server and media proxy that allows\nto publish, read, proxy, record and playback video and audio streams. It has been conceived as a\n\"media router\" that routes media streams from one end to the other.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MediaTab.MediaTab",
+    "name": "MediaTab",
+    "publisher": "MediaArea",
+    "description": "MediaTab provides you information of your multimedia files, like MediaInfo does, but without the need to launch an application",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52703,15 +52997,15 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Microsoft.VCRedist.2005.x86",
-    "name": "Microsoft Visual C++ 2005 Redistributable",
+    "id": "Microsoft.VCRedist.2005.x64",
+    "name": "Microsoft Visual C++ 2005 Redistributable (x64)",
     "publisher": "Microsoft Corporation",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Microsoft.VCRedist.2005.x64",
-    "name": "Microsoft Visual C++ 2005 Redistributable (x64)",
+    "id": "Microsoft.VCRedist.2005.x86",
+    "name": "Microsoft Visual C++ 2005 Redistributable (x86)",
     "publisher": "Microsoft Corporation",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -58094,7 +58388,7 @@
   },
   {
     "id": "kawaiiDango.pano-scrobbler",
-    "name": "pano-scrobbler",
+    "name": "Pano Scrobbler",
     "publisher": "kawaiiDango",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -59178,6 +59472,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CodeWise.PneumaticTube",
+    "name": "PneumaticTube",
+    "publisher": "CodeWise LLC",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KevinBralten.Png2Ico",
+    "name": "Png2Ico",
+    "publisher": "KevinBralten",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BenHollis.PNGGauntlet",
     "name": "PNGGauntlet",
     "publisher": "Ben Hollis",
@@ -60168,6 +60476,13 @@
     "id": "Golde.PurplePen",
     "name": "Purple Pen",
     "publisher": "Golde inc",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Purple.PurplePlus",
+    "name": "Purple+",
+    "publisher": "Lets Go Purple",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -61334,6 +61649,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "zippoxer.recall",
+    "name": "recall",
+    "publisher": "zippoxer",
+    "description": "A TUI for searching and resuming past conversations from Claude Code, Codex CLI, and Factory (Droid). Features full-text search, match highlighting, and seamless resume directly into the CLI.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Remeha.ServiceTool",
     "name": "Recom (PCST)",
     "publisher": "Remeha BV",
@@ -61681,6 +62003,13 @@
     "name": "Remotix",
     "publisher": "Nulana",
     "description": "Connect to all your computers from anywhere.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MirillisLtd.Remotly",
+    "name": "Remotly",
+    "publisher": "Mirillis Ltd.",
+    "description": "Secure remote desktop software, enabling users to ultra-low latency 4k HDR access and control computers from anywhere - for remote work, IT support, learning and gaming.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64330,6 +64659,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TechSmith.Snagit.2020",
+    "name": "Snagit 2020",
+    "publisher": "TechSmith Corporation",
+    "description": "Snagit helps you quickly share information in a way that's easy to understand. Capture your screen and camera, add additional context and move work forward faster.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TechSmith.Snagit.2021",
     "name": "Snagit 2021",
     "publisher": "TechSmith Corporation",
@@ -65100,6 +65436,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Stacher.Stacher",
+    "name": "Stacher is a modern front-end for the yt-dlp command line tool",
+    "publisher": "Stacher",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SMLNJ.SMLNJ.Legacy",
     "name": "Standard ML of New Jersey",
     "publisher": "Fellowship of SML/NJ",
@@ -65622,6 +65965,13 @@
     "name": "Stremio",
     "publisher": "Smart Code Ltd",
     "description": "Stremio is a modern media center that's a one-stop solution for your video entertainment. You discover, watch and organize video content from easy to install addons.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Zaarrg.StremioCommunity",
+    "name": "Stremio Community v5",
+    "publisher": "Zaarrg",
+    "description": "Stremio Desktop app with the latest Stremio web UI v5, built with WebView2",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67018,13 +67368,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "ThreeShips.ThreeShipsHelper",
-    "name": "Three Ships Helper",
-    "publisher": "Three Ships",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Threema.Threema.2",
     "name": "Threema Beta",
     "publisher": "Threema GmbH",
@@ -67781,6 +68124,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "alirezagsm.trayy",
+    "name": "Trayy",
+    "publisher": "alirezagsm",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Japplis.TreeDataExplorer",
     "name": "Tree Data Explorer",
     "publisher": "Japplis",
@@ -67974,13 +68324,6 @@
     "name": "TuneLab",
     "publisher": "LiuYunPlayer",
     "description": "TuneLab is a lightweight singing voice synthesis editor that supports multiple synthesis engines",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "TunnelBear.TunnelBear",
-    "name": "TunnelBear",
-    "publisher": "TunnelBear",
-    "description": "TunnelBear 可加密你的网络连接，让您在任何网络上的在线活动都保持私密。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -68352,6 +68695,13 @@
     "name": "UIAutomation MCP Server",
     "publisher": "Locomorange",
     "description": "UIAutomationMCP is a high-performance MCP server that provides Windows UI Automation capabilities.\nFeatures include:\n- Native AOT compilation for ultra-fast startup (~400ms)\n- Hybrid architecture: AOT server with framework-dependent workers\n- Full Windows UI Automation API support\n- Element search, interaction, and monitoring capabilities\n- Process isolation for stability and security\n- JSON-UTF8 based IPC for optimal performance and internationalization\nNote: Requires .NET 9 Desktop Runtime for worker processes",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.UIFtoISO",
+    "name": "UIF to ISO",
+    "publisher": "SoftSea",
+    "description": "UIF to ISO is a free software that can convert UIF image format to ISO image format. UIF is the abbreviation for \"Universal Image Format\", a strong compression and encryption of CD/DVD image file format, generally produced by the Magic ISO Maker. You can simply select the file you want to convert, then press the \"Convert\" button to start conversion, the default generated ISO file have the same file name with the original file, just the file extension is \".iso\", easy to use so much.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69042,9 +69392,9 @@
   },
   {
     "id": "Veeam.VeeamAgent",
-    "name": "Veeam Agent",
+    "name": "Veeam Agent for Microsoft Windows",
     "publisher": "Veeam",
-    "description": "The FREE standalone Veeam Agent for Microsoft Windows provides a simple solution for backing up Windows-based desktops, laptops and tablets with Veeam Agent for Microsoft Windows FREE. So, you can easily back up your computer to an external hard drive, network-attached storage (NAS) share or a Veeam Backup & Replication repository.",
+    "description": "The FREE standalone Veeam Agent for Microsoft Windows provides a simple solution for backing up Windows-based desktops, laptops and tablets. So, you can easily back up your computer to an external hard drive, network-attached storage (NAS) share or a Veeam Backup & Replication repository.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69206,6 +69556,13 @@
     "name": "Video Downloader for Command Palette",
     "publisher": "DevLG",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "kayapater.VideoDownloader",
+    "name": "Video İndirici",
+    "publisher": "kayapater",
+    "description": "Video İndirici, YouTube, Twitter, Instagram ve birçok platformdan video indirmek için profesyonel bir masaüstü uygulamasıdır.\n\nÖzellikler:\n- 4K Ultra HD video indirme (2160p, 1440p, 1080p, 720p, 480p, 360p)\n- Çoklu platform desteği (YouTube, Twitter, Instagram, TikTok, Facebook ve 1000+ site)\n- Çoklu dilde altyazı indirme\n- MP3 formatında ses çıkarma\n- Hız izleme ile gerçek zamanlı indirme ilerlemesi\n- Açık ve koyu tema seçenekleri ile modern arayüz\n- Çok dilli arayüz (İngilizce ve Türkçe)\n- Otomatik FFmpeg kurulumu ve yapılandırması\n- Sıfır veri toplama ile gizlilik odaklı\n\nTeknik:\n- .NET 8.0 Windows Forms ile geliştirildi\n- yt-dlp ve FFmpeg destekli\n- Otomatik bağımlılık yönetimi\n- FFprobe ile gelişmiş çözünürlük doğrulama",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -73070,6 +73427,13 @@
     "name": "wxUiEditor",
     "publisher": "KeyWorks",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Thunderhead.WxVoice",
+    "name": "WxVoice",
+    "publisher": "Thunderhead Technologies",
+    "description": "WxVoice takes advantage of Text-to-Speech (TTS) technology to produce a more\nnatural sounding dialogue than other products that use pre-recorded numbers and\nphrases.\n\nWxVoice is an add-on product to WxSolution.\n\nWxVoice uses the built-in Speech capabilities of Windows® 7/8.1/10.",
     "icon": "/icons/intunify-default.png"
   },
   {
