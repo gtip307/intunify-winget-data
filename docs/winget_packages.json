@@ -1631,6 +1631,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TheDocumentFoundation.LibreOffice.PreRelease",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TamsosVardu.RenPyCheatGenerator",
     "name": "",
     "publisher": null,
@@ -4886,13 +4893,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "axes4.PAC",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Aleab.Toastify",
     "name": "",
     "publisher": null,
@@ -6325,6 +6325,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ValentinSoftware.GeoTSOL.2026",
+    "name": "",
+    "publisher": null,
+    "description": "您是否正在寻找一款专业且用户友好的热泵系统规划设计软件？GeoT*SOL 正是您的理想之选。\n该软件提供多种热源选择（土壤、空气和地下水）、运行模式（单能源、混合能源及双能源）以及针对不同场地的多样化系统配置方案。程序支持锅炉作为辅助热源的双能源系统，并可集成太阳能热利用系统与光伏发电系统。\n基于动态分钟级模拟计算，软件可精确测算电力消耗、季节性能系数、运行成本等系统参数，同时考虑限电时段与电价政策。通过这些关键指标，GeoT*SOL 能协助您开发高效节能、经济合理的热泵系统方案。您还可将精选计算结果便捷地整合至面向客户的项目报告中。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -8306,6 +8313,13 @@
     "name": "",
     "publisher": null,
     "description": "CleverShare 是无缝内容共享的终极解决方案，可以让你毫不费力地连接多达 50 个设备。无论在教室还是会议室，CleverShare 都能让你直接在 Clevertouch 屏幕上分享图像、视频和音频，打造引人入胜的动态体验。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Caphyon.PacKit",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -12201,6 +12215,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MicrosoftCorporation.AzureVPNClient",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "mcuee.libusbK",
     "name": "",
     "publisher": null,
@@ -13300,6 +13321,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.16BitInstallShieldSupport",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.WindowsPCHealthCheck",
     "name": "",
     "publisher": null,
@@ -14172,6 +14200,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "miaotouy.AIOHub",
+    "name": "",
+    "publisher": null,
+    "description": "A desktop hub application developed with Tauri + Vue 3 + TypeScript, offering a variety of practical development and daily-use tools.\n\n🌟 Flagship Feature: LLM Intelligent Chat\nAIO Hub's chat function is a highly customizable, conversational AI workspace designed for complex tasks and deep exploration.\n🌐 Open Model Ecosystem\nSeamless integration, flexible expansion.\n- Multi-provider support: Natively supports major LLM providers including OpenAI, Anthropic (Claude), Google (Gemini), Cohere, DeepSeek, and more. Easily connect and manage locally running language models via OpenAI-compatible APIs (e.g., Ollama, LM Studio, Llama.cpp).\n- Custom endpoints: Add custom API endpoints for all integrated service types (e.g., OpenAI, Claude, Gemini), enabling exceptional extensibility.\n- Visual model management: Centrally manage model metadata in settings, define capabilities (e.g., vision, tool use), and enable intelligent filtering in tools based on task requirements (e.g., \"requires vision capability\").\n🌳 Dual-View Conversation Management\nFreely switch between traditional linear lists and innovative non-linear graphs to suit different scenarios.\n- Traditional Linear View (Linear List View)\n  - Ultimate performance: Virtual scrolling powered by @tanstack/vue-virtual effortlessly handles ultra-long conversations with thousands of messages while maintaining smoothness.\n  - Familiar experience: Classic top-down message flow, intuitive and zero learning curve.\n  - Message navigator: Equipped with quick jump (to top/bottom) and new message indicators.\n  - Fine-grained control: Hover toolbar for messages supports copy, edit, regenerate, branch creation, context analysis, message disabling, and more—enabling deep conversation control.\n- Non-linear Conversation Graph\n  - Infinite canvas: Driven by Vue Flow + D3.js, presents conversation history as an interactive tree-like network.\n  - Dual layout engine: Offers hierarchical tree layout and dynamic force-directed physics layout with one-click switching.\n  - Advanced node operations: Enable/disable branches, view details, copy content, delete subtrees.\n  - Free structural reorganization: Drag and connect lines to \"graft\" branches, freely restructure conversation flows—all structural operations support undo/redo.\n  - Visual assistance: Built-in minimap, zoom/pan controls, and active branch highlighting for easy navigation within complex conversation networks.\n🛠️ Professional-Grade Prompt Engineering\nFull control over every token sent to the model.\n- Context Analyzer: Developer-level debugging tool. Clearly view the complete final prompt, message history, token consumption, and raw request payload sent to the LLM.\n- Advanced Context Injection: Introduces declarative message injection strategies, allowing precise control over where preset messages are placed in context (e.g., \"second-to-last\" or \"before a specific anchor\"), and supports importing SillyTavern character cards and presets for seamless reuse of community resources.\n- Macro System: Use dynamic macros like {{user}}, {{time}}, {{random::...}} in prompts to build powerful automated workflows.\n- Agents: At its core, an agent is a sequence of preset messages, allowing you to combine System, User, and Assistant messages (including special placeholders like \"User Profile\" and \"Chat History\") into reusable templates. By dragging to reorder or enabling/disabling specific messages, you can create highly customized conversation starters or contexts, with support for import/export and community sharing.\n- Dynamic Agent Switching: Unlike traditional chat apps that bind one session to one assistant, AIO Hub decouples sessions from agents. You can switch agents within the same conversation—let a \"coding expert\" write code, then seamlessly switch to a \"documentation expert\" to write comments—enabling conversations centered around the \"task\" rather than a fixed \"assistant.\"\n- Personas: Predefine multiple user identities (e.g., \"Senior Architect,\" \"Code Reviewer\") and switch anytime to help AI better understand your role and needs.\n🖼️ Multi-modal Interaction\n- File upload and reference: Drag and drop or paste images, PDFs, TXT files into the chat window. Files are uniformly processed by the asset manager, enabling advanced functions like \"summarize this PDF\" or \"analyze this chart.\"\n- Vision model support: Fully compatible with vision capabilities of multimodal models like Gemini, Claude, GPT-5, Qwen-VL.\n\n✨ Core Highlights\n🖼️ Free Window Management\nBreak free from traditional layout constraints.\n- Component-level separation: Not just tools—chat input boxes and conversation areas can also be dragged into independent floating windows.\n- State synchronization: All detached windows share the same state source—changes in one window update all others in real time.\n- Memory function: Automatically remembers the position and size of all windows.\n🎨 Ultimate Visual Experience\n- Native effects: Supports Windows Mica / Acrylic and macOS Vibrancy frosted glass effects.\n- Dynamic wallpapers: Supports video/image carousel wallpapers, combined with CSS blend modes for an immersive workspace.\n- Deep customization: Built-in CSS editor allows real-time modification of every visual detail.\n🧩 Powerful Plugin System\n- JavaScript plugins: Lightweight UI extensions, write-and-use immediately.\n- Native plugins (Rust): High-performance backend extensions, dynamically loaded via DLL.\n- Sidecar plugins: Independent process plugins written in any language.\n\n🚀 Productivity Toolkit\n📊 Git Repository Analyzer\nHigh-performance analysis tool built on Rust git2-rs\n- No dependencies: Doesn't rely on system Git commands—directly reads .git database for lightning-fast speed.\n- Streaming analysis: Uses streaming technology to instantly open large repositories and render commit graphs in real time.\n- Multi-dimensional visualization: Contributor heatmaps, commit frequency charts, lines-of-code statistics.\n👁️ Smart OCR\nMulti-engine text recognition solution\n- Multi-engine switching: Supports VLM (GPT-4o), Windows Native (offline, fast), Tesseract.js (pure frontend).\n- Smart slicing: Proprietary long-image slicing algorithm automatically detects blank areas and splits long screenshots, greatly improving recognition accuracy.\n- Batch processing: Supports concurrent recognition of multiple images and result export.\n📦 Asset Manager\nApplication-level resource center\n- Unified indexing: Centrally manage all images, documents, and media files generated across tools.\n- Automatic deduplication: Content-based hashing (SHA-256) automatically removes duplicates, saving storage space.\n- High performance: Fast indexing and filtering powered by Rust backend, supports infinite scrolling.\n🎨 Regex Applier\nDual-engine regex processing tool\n- Real-time preview: Frontend JS engine provides millisecond-level input feedback.\n- Batch processing: Backend Rust engine handles large-scale file modifications with high performance.\n- Rule chains: Combine multiple regex replacements into a single processing pipeline.\n📝 Rich Text Renderer\nHigh-performance rendering engine built for LLM streaming output\n- Flicker-free streaming: Uses incremental diff algorithm and patch system to perfectly eliminate flickering during streaming, delivering a smooth typewriter-like experience.\n- Deep mixed typesetting: Proprietary parser supports perfect nesting of Markdown with arbitrarily deep HTML tags.\n- Rich interactive components:\n  - Code blocks: Integrated with Monaco Editor, offering professional syntax highlighting, folding, and font controls.\n  - Chain-of-thought: Native support for <think> tags, displaying LLM reasoning processes via expandable dynamic components.\n  - Charts and formulas: Built-in Mermaid diagram rendering (with zoom/separate window support) and KaTeX math formula rendering.\n- MD Style Editor:\n  - WYSIWYG: Real-time preview panels for each Markdown element (headings, paragraphs, quotes, code) with independent customization.\n  - Full control: Fine-tune CSS properties like font, color, margins to create a unique reading experience.\n  - Flexibility: Supports one-click toggle of custom styles or reset to system defaults.\n🛠️ Additional Practical Tools\n- JSON Formatter: Smart JSON formatting and beautification with syntax highlighting and error hints—can be sent directly to chat for analysis with one click.\n- Token Calculator: Estimate text token count, supporting multiple tokenization models.\n- Color Extractor: Screen color picker, image palette analysis.\n- Text Diff Tool: Professional-grade diff tool based on Monaco Editor.\n- Directory Tree Generator: Generate project structure trees with .gitignore filtering support.\n- And more tools…",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -19663,6 +19698,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Snowflake.OdbcDriver",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SagarGurtu.Lector",
     "name": "",
     "publisher": null,
@@ -23373,13 +23415,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Devolutions.HubImporter",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Devolutions.RemoteDesktopManagerAgent",
     "name": "",
     "publisher": null,
@@ -24497,6 +24532,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FinalWire.AIDA64.Engineer",
+    "name": "",
+    "publisher": null,
+    "description": "AIDA64 Engineer 拥有同类产品无可匹敌的硬件检测引擎，能提供已安装软件的详细信息，并具备硬件诊断功能和超频支持。通过实时监控传感器，可精准获取电压、温度及风扇转速数据，其诊断功能有助于发现和预防硬件问题。该软件还提供多种基准测试工具，用于评估单个硬件组件或整机性能表现。全面兼容 32 位与 64 位 Windows 系统，包括 Windows 11 和 Windows Server 2022。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -26705,20 +26747,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BlenderFoundation.Blender.LTS.3.6",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "BlenderFoundation.Blender.LTS.3.3",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "BitGuardian.BitGameBooster",
     "name": "",
     "publisher": null,
@@ -27294,6 +27322,13 @@
   },
   {
     "id": "BluePointLilac.ContextMenuManager",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BernatRomagosa.Snap4Arduino",
     "name": "",
     "publisher": null,
     "description": "",
@@ -31696,13 +31731,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "FinalWire.AIDA64.Engineer",
-    "name": "AIDA64 Engineer",
-    "publisher": "FinalWire Ltd.",
-    "description": "AIDA64 Engineer has a hardware detection engine unrivaled in its class.\nIt provides detailed information about installed software and offers diagnostic functions and support for overclocking.\nAs it is monitoring sensors in real time, it can gather accurate voltage, temperature and fan speed readings, while its diagnostic functions help detect and prevent hardware issues.\nIt also offers a couple of benchmarks for measuring the performance of individual hardware components or the whole system.\nIt is compatible with all 32-bit and 64-bit Windows editions, including Windows 10 and Windows Server 2019.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "FinalWire.AIDA64.Extreme",
     "name": "AIDA64 Extreme",
     "publisher": "FinalWire Ltd.",
@@ -32683,6 +32711,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "anyme123.AnyCode",
+    "name": "Any Code",
+    "publisher": "workbench",
+    "description": "Any Code 是一个为 AI 驱动的代码开发工作流量身打造的专业桌面应用，支持 Claude Code CLI、OpenAI Codex 和 Google Gemini CLI 三大 AI 引擎。提供完整的项目管理、会话控制、成本追踪、智能翻译和高级功能扩展。通过直观的可视化界面和创新的多引擎架构，让您更高效地使用 AI 进行辅助开发。\n为什么选择 Any Code？\n- ✅ 三引擎架构 - 支持 Claude Code、OpenAI Codex 和 Google Gemini 三大引擎，一键切换，无缝集成\n- ✅ 完整的会话管理 - 多标签页会话、历史记录、实时流式输出、跨引擎统一管理\n- ✅ 精确的成本追踪 - 多模型定价、Token 统计、使用分析仪表板、成本优化建议\n- ✅ 强大的扩展系统 - MCP 集成、Hooks 自动化、Claude 扩展管理、自定义工具\n- ✅ 智能翻译中间件 - 中英文透明翻译、渐进式翻译、翻译缓存、8 种内容提取策略\n- ✅ 自动上下文管理 - 智能监控、自动压缩、Token 优化、压缩历史管理\n- ✅ 开发者友好 - Git 集成、代码上下文搜索、Slash 命令、多项目管理\n- ✅ 现代化 UI/UX - 深色/浅色主题、流畅动画、响应式设计、国际化支持",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PowerSoftware.AnyBurn",
     "name": "AnyBurn",
     "publisher": "Power Software Ltd",
@@ -32897,6 +32932,13 @@
     "name": "AppReadWriteCounter",
     "publisher": "NirSoft",
     "description": "AppReadWriteCounter is a tool for Windows that counts and displays the current file read / write operations of every application running on your system. It displays the number of read/write bytes, the number of read/write operations, current calculated read/write speed, and the details about the application (product name, product version, and so on) that makes the file read/write operations.\n\nImmediately after running it, the main window displays every application that currently read or write files. Be aware that the counters in this tool are not per process but per application, so if you have multiple processes for the same application , AppReadWriteCounter merges them into one line. Also, if you close an application and then run it again, AppReadWriteCounter will continue the update the read/write counters of the same application entry.\nAt any time, you can clear the entire list and start with empty window by pressing Ctrl+X (Clear All). You can also reset the counters of selected items by pressing Ctrl+R (Reset Selected Counters).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PassMark.AppTimer",
+    "name": "AppTimer",
+    "publisher": "PassMark Software",
+    "description": "AppTimer will run an executable a number of times and time how long it takes for\nthe application to reach a state where user input is being accepted before\nexiting the application.\n\nAfter each run of the application AppTimer will attempt to close the application\nin an automated fashion while logging the startup time measurements to a log\nfile.\n\nIt's main use is in benchmarking an application's startup time. This can be\nuseful when comparing the performance of different products on the same\nhardware, or comparing the performance of the same product on different\nhardware.\n\nUsing AppTimer will give far a more consistent and repeatable measurement than\nmanual measurements with a stopwatch. Especially when the applications startup\ntime is less than a couple of seconds.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33226,6 +33268,13 @@
     "name": "ART",
     "publisher": "ART",
     "description": "ART is a derivative of the popular RawTherapee, trading a bit of customization and control over various processing parameters for a simpler and (hopefully) easier to use interface, while still maintaining the power and quality of RawTherapee.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AresValley.Artemis",
+    "name": "Artemis",
+    "publisher": "AresValley",
+    "description": "Artemis is a software designed to assist radio frequency (RF) signal identification and storage. It simplifies real-time spectrum analysis by leveraging one of the most extensive and community-driven databases, containing over 500 recognized signals. This comprehensive software solution allows users to collect RF signals with specific parameters such as frequency, bandwidth, modulation, etc. Users can also store spectrum waterfalls, audio samples, and all types of documents for future reference. Artemis provides a robust platform to manage a wide range of RF data with precision and ease.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36596,6 +36645,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CHIRPSoftware.CHIRP-next",
+    "name": "CHIRP-next",
+    "publisher": "CHIRP Software LLC",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "wandersick.ChMac",
     "name": "ChMac",
     "publisher": "a wandersick",
@@ -38003,6 +38059,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JunkunDi.CrossDesk",
+    "name": "CrossDesk",
+    "publisher": "CrossDesk",
+    "description": "CrossDesk 是一个轻量级的跨平台远程桌面软件，支持 Web 端控制远程设备。\nCrossDesk 是 MiniRTC 实时音视频传输库的实验性应用。MiniRTC 是一个轻量级的跨平台实时音视频传输库。它具有网络透传（RFC5245），视频软硬编解码（H264/AV1），音频编解码（Opus），信令交互，网络拥塞控制，传输加密（SRTP）等基础能力。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LacyMorrow.CrossOver",
     "name": "CrossOver",
     "publisher": "Lacy Morrow",
@@ -38794,6 +38857,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SubrotoSaha.DeepCleaner",
+    "name": "DeepCleaner",
+    "publisher": "Subroto Saha",
+    "description": "DeepCleaner is a professional Windows utility that helps you clean temporary files, system cache, and free up disk space. Features include safe cleaning algorithms, detailed scan reports, and scheduled cleaning options.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "UnionTech.DeepinCloudPrintServer",
     "name": "Deepin Cloud Print Server",
     "publisher": "Deepin",
@@ -39209,6 +39279,13 @@
   {
     "id": "DimonSmart.NugetMcpServer",
     "name": "DimonSmart.NugetMcpServer",
+    "publisher": "DimonSmart",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DimonSmart.PdfCropper",
+    "name": "DimonSmart.PdfCropper.Cli",
     "publisher": "DimonSmart",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -40005,6 +40082,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DenisZhitnyakov.DolphinAnty",
+    "name": "Dolphin Anty",
+    "publisher": "Zhitnyakov software solutions LTD",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DolphinComputerAccess.EasyReader",
     "name": "Dolphin EasyReader",
     "publisher": "Dolphin",
@@ -40253,6 +40337,13 @@
     "id": "DrayTek.SmartVPN",
     "name": "DrayTek Smart VPN Client",
     "publisher": "DrayTek Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Gouryella.Drip",
+    "name": "Drip",
+    "publisher": "Gouryella",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -40534,6 +40625,13 @@
     "name": "DVD or CD Sharing",
     "publisher": "Apple Inc.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.DVDtoISO",
+    "name": "DVD to ISO",
+    "publisher": "SoftSea",
+    "description": "DVD to ISO is a free DVD/CD image creating tool, it can help you to rip and convert DVD/CD data into a single ISO image file. It is very easy to use, no complicated settings, just a few mouse clicks, you can easily create your own disc images for optical discs by yourself.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47460,6 +47558,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PassMark.ImageUSB",
+    "name": "ImageUSB",
+    "publisher": "PassMark Software",
+    "description": "Capable of creating exact bit-level copies of USB Flash Drive (UFDs), ImageUSB\nis an extremely effective tool for the mass duplication of UFDs. ImageUSB also\nsupports writing of an ISO file byte by byte directly to an USB drive (*).\nImageUSB can also be used to install OSFClone to a USB Drive for use with\nPassMark OSForensics™.\n\nUnlike other USB duplication tools, ImageUSB can preserve all unused and slack\nspace during the cloning process, including the Master Boot Record (MBR).\nImageUSB can perform flawless mass duplications of all UFD images, including\nbootable UFDs.\n\nimageUSB includes functionality to Zero a USB Flash Drive. This will replace the\ncontents of the entire drive with 0s. Or alternatively to just Zero the MBR\nand/or GPT entries that exists on the drive. In addition, imageUSB has the\nability to reformat even hard to format drives and reclaim any disk space that\nmay be lost previously.\n\n(*) CD ISO images use a different file systems compared to USB drives. So the\ndirect imaging of ISO9660, Joliet or UDF file system, from a CD, to a USB drive,\nmight not allow the USB drive to function in all operating systems. A reformat\ncan recover the drive however. As of V1.5, imageUSB now supports extraction of\nISO contents onto USB Drive.\n\nWarning: Due to the forensic nature of image duplication by ImageUSB, please\nensure that you select UFDs with a storage size similar to the image you wish\nto duplicate. For example, if a 2GB image is copied to an 8GB USB Flash Drive,\nthe drive will only be able to use two out of the eight gigabytes of storage\nspace. In this scenario, users will need to reformat the UFD in order to\naccess the rest of the storage space.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TonyPottier.ImageView",
     "name": "ImageView",
     "publisher": "Tony Pottier",
@@ -47499,6 +47604,13 @@
     "name": "ImBatch",
     "publisher": "High Motion Software",
     "description": "ImBatch 是一款适用于 Windows PC 的免费多线程图像处理工具。有了 ImBatch，用户可以执行各种复杂的图像编辑任务，并将这些更改同时应用到数百张图像中。从裁剪、缩放、旋转、添加/删除标签到转换图像格式，ImBatch 为用户提供数十种编辑工具。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.IMGtoISO",
+    "name": "IMG to ISO",
+    "publisher": "SoftSea",
+    "description": "IMG to ISO is a reliable and user-friendly utility designed to convert disk image files from the IMG or IMA format into the widely adopted ISO standard. While IMG files are commonly used by certain virtual drive software, the ISO format has become more prevalent due to its broad compatibility and adherence to the ISO-9660 standard. This tool ensures that converted files conform to ISO-9660 specifications, making them suitable for use across a variety of platforms and applications. In addition to conversion, IMG to ISO also supports opening IMA files, providing a versatile solution for managing disk image formats.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48212,7 +48324,7 @@
     "id": "SoftSea.ISOCompressor",
     "name": "ISO Compressor",
     "publisher": "SoftSea",
-    "description": "ISO Compressor is a free game ISO file compression software, it can compress and convert normal ISO image files to compressed image format CSO (CISO) files, or decompress CSO files to normal ISO files. This software can support both Sony PlayStation games files and Nintendo games files. If you are a PSP games or Wii games fan, this software will be very useful to you. By using this small tool, you can easily compress your game files, reduce file size and save your disk space, then you can play these games from your memory stick.",
+    "description": "A free game ISO file compression software, which can compress and convert normal ISO image files to compressed image format CSO (CISO) files, or decompress CSO files to normal ISO files. This software can support both Sony PlayStation games files and Nintendo games files. If you are a PSP games or Wii games fan, this software will be very useful to you. By using this small tool, you can easily compress your game files, reduce file size and save your disk space, then you can play these games from your memory stick. Although it is not designed with PS2 in mind, the program can also convert PS2 .iso-s, but only if they are less than circa 2.0 GB.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48227,6 +48339,13 @@
     "name": "ISO Opener",
     "publisher": "SoftSea",
     "description": "ISO Opener is a free iso extractor for extracting files from the ISO files, this ISO extractor can help you to directly extract all files and folders form the disc image file, so you do not need the virtual CD-ROM, no need to burn DVD/CD discs, just use this program you can easily access the contents of the ISO image file.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.ISOtoUSB",
+    "name": "ISO to USB",
+    "publisher": "SoftSea",
+    "description": "ISO to USB is a free and small software that can burn the ISO image file directly to the USB drives, these USB drives include USB flash drives, memory sticks and other USB storage devices, it also supports to create a bootable USB disk with Windows operating systems.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49361,6 +49480,13 @@
     "name": "Keybase",
     "publisher": "Keybase, Inc.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PassMark.KeyboardTest",
+    "name": "KeyboardTest",
+    "publisher": "PassMark Software",
+    "description": "- Quickly verify all keys are functioning on your computer keyboard\n- Check keyboard LEDs\n- Examine internal scan codes being generated by keyboard and measure possible\n  mechanical typing speed\n- Down/up key stroke registration\n- Supports custom keyboard layouts\n- Established industry keyboard testing utility since 2003",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50799,13 +50925,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BellSoft.LibericaJRE.25",
-    "name": "Liberica JRE 24",
-    "publisher": "BellSoft",
-    "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "BellSoft.LibericaJRE.24",
     "name": "Liberica JRE 24",
     "publisher": "BellSoft",
@@ -50813,15 +50932,22 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BellSoft.LibericaJRE.25.Full",
+    "id": "BellSoft.LibericaJRE.24.Full",
     "name": "Liberica JRE 24 Full",
     "publisher": "BellSoft",
     "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BellSoft.LibericaJRE.24.Full",
-    "name": "Liberica JRE 24 Full",
+    "id": "BellSoft.LibericaJRE.25",
+    "name": "Liberica JRE 25",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJRE.25.Full",
+    "name": "Liberica JRE 25 Full",
     "publisher": "BellSoft",
     "description": "Liberica JDK is a free and open source Java Development Kit produced by BellSoft.\nIt has been verified by TCK for Java SE specs and supports most Linux distributions (including Alpine Linux), Windows, macOS, Solaris.\nThe Liberica OpenJDK package with the HotSpot Virtual Machine viably replaces Java 8 (LTS), 9, 10, 11 (LTS), 12, 13, 14, 15, 16, 17 (LTS), 18, 19.",
     "icon": "/icons/intunify-default.png"
@@ -53760,6 +53886,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PassMark.MonitorTest",
+    "name": "MonitorTest",
+    "publisher": "PassMark Software",
+    "description": "- Investigate quality and performance of computer monitors or LCD flat panel screens.\n- Generates 35 test patterns. Including touch screens and HDR.\n- Support for all available resolutions and color depths\n- Scripted testing*\n- Support multi-monitor systems*\n- Runs from a USB drive",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Mono.Mono",
     "name": "Mono",
     "publisher": "Mono Project",
@@ -56497,6 +56630,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Narula.NLock",
+    "name": "NLock",
+    "publisher": "Narula",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Dillonb.nmuidi",
     "name": "nmuidi",
     "publisher": "Dillon Beliveau",
@@ -58128,6 +58268,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PassMark.OSForensics",
+    "name": "OSForensics",
+    "publisher": "PassMark Software",
+    "description": "- Identify suspicious files and activity\n- Extract evidence from computers quickly\n- Manage your investigation",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Intel.OSPRay",
     "name": "OSPRay",
     "publisher": "Intel Corporation",
@@ -58660,6 +58807,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "axes4.PAC",
+    "name": "PDF Accessibility Checker (PAC) 2026",
+    "publisher": "axes4 GmbH",
+    "description": "PAC is the globally used, free PDF accessibility checking tool that has been tried and tested since 2010. PAC can check many PDF/UA and WCAG requirements at the touch of a button. In addition to this, PAC also supports the required visual check.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Avanquestpdfforge.PDFArchitect",
     "name": "PDF Architect 9",
     "publisher": "pdfforge GmbH",
@@ -58923,6 +59077,13 @@
     "name": "Perfoo",
     "publisher": "Shenzhen Qianhai Shouhui Science and Technology Culture Co., Ltd.",
     "description": "Perfoo is a presentation tool that is even more impressive than PowerPoint. You can easily add presentations on a borderless canvas and create eye-catching presentations with cool animation effects. It greatly improves the efficiency of information delivery and fundamentally reduces the difficulty of audience understanding.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PassMark.PerformanceTest",
+    "name": "PerformanceTest 11",
+    "publisher": "Passmark Software",
+    "description": "- Compare the performance of your PC to similar computers around the world.\n- Measure the effect of configuration changes and hardware upgrades.\n- Free license for Standard Tests\n- Paid license for Advanced Tests\n- Industry standard since 1998.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60550,6 +60711,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Chill-Astro.PyCalc-PLUS",
+    "name": "PyCalc PLUS!",
+    "publisher": "Chill-Astro Software",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Chill-Astro.PyCalc-GUI",
     "name": "PyCalc-GUI",
     "publisher": "Chill-Astro",
@@ -61432,6 +61600,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PassMark.RAMMon",
+    "name": "RAMMon",
+    "publisher": "PassMark Software",
+    "description": "RAMMon is a lightweight Windows application that reports memory timings, transfer rate, channel mode and other memory settings, as well as the Serial Presence Detect (SPD) data of RAM modules.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SUSE.RancherDesktop",
     "name": "Rancher Desktop",
     "publisher": "SUSE",
@@ -61646,6 +61821,13 @@
     "name": "REAPER",
     "publisher": "Cockos Incorporated",
     "description": "REAPER is a complete digital audio production application for computers, offering a full  multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.\nREAPER supports a vast range of hardware, digital formats and plugins, and can be comprehensively extended, scripted and modified.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PassMark.Rebooter",
+    "name": "Rebooter",
+    "publisher": "PassMark Software",
+    "description": "Rebooter is a small utility program developed by PassMark Software to help\nautomate the PC hardware testing process. It has been designed to work with\nPassMark BurnInTest but will also work with 3rd party application. Rebooter\nallows you to,\n\n- Shutdown, Reboot or Logout of a PC.\n- Reboot a PC from the command line\n- Set a timer so that the PC will reboot after a certain amount of time\n- Setup a reboot loop, to reboot a PC over an over again in a cycle.\n- Force a shutdown or request a shutdown.\n- Enable and disable the Windows auto-login feature. (NT/2000/XP only)\n- Include reboots into your hardware stress testing plan, (when used with\n  BurnInTest).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62342,13 +62524,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "RIDI.Ridibooks",
-    "name": "Ridibooks",
-    "publisher": "리디(주)",
-    "description": "Ridibooks는 RIDI eBook의 PC 뷰어입니다.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "WolfgangBuescher.rsNTP",
     "name": "Ridiculously Simple NTP Client",
     "publisher": "Wolfgang \"Wolf\" Buescher DL4YHF",
@@ -62603,6 +62778,20 @@
   {
     "id": "RootsMagic.RootsMagic.11",
     "name": "RootsMagic 11",
+    "publisher": "RootsMagic, Inc.",
+    "description": "RootsMagic is the award-winning genealogy and family tree software designed to help users discover, document, and share their family history with ease. It allows you to start from scratch or import existing trees, integrate records from FamilySearch, Ancestry, MyHeritage, and Findmypast, and keep notes, photos, health details, and DNA matches organized in one place.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RootsMagic.RootsMagic.8",
+    "name": "RootsMagic 8",
+    "publisher": "RootsMagic, Inc.",
+    "description": "RootsMagic is the award-winning genealogy and family tree software designed to help users discover, document, and share their family history with ease. It allows you to start from scratch or import existing trees, integrate records from FamilySearch, Ancestry, MyHeritage, and Findmypast, and keep notes, photos, health details, and DNA matches organized in one place.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RootsMagic.RootsMagic.9",
+    "name": "RootsMagic 9",
     "publisher": "RootsMagic, Inc.",
     "description": "RootsMagic is the award-winning genealogy and family tree software designed to help users discover, document, and share their family history with ease. It allows you to start from scratch or import existing trees, integrate records from FamilySearch, Ancestry, MyHeritage, and Findmypast, and keep notes, photos, health details, and DNA matches organized in one place.",
     "icon": "/icons/intunify-default.png"
@@ -63032,6 +63221,13 @@
     "name": "Sandboxie-Plus",
     "publisher": "http://xanasoft.com/",
     "description": "Sandboxie is a sandbox-based isolation software for 32- and 64-bit Windows NT-based operating systems.\nIt is developed by David Xanatos since it became open source, before that it was developed by Sophos (which acquired it from Invincea, which acquired it earlier from the original author Ronen Tzur).\nIt creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying the local or mapped drive.\nSuch an isolated virtual environment allows controlled testing of untrusted programs and web surfing.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SanDisk.MemoryZone",
+    "name": "SanDisk Memory Zone",
+    "publisher": "SanDisk Corporation",
+    "description": "SanDisk Memory Zone features the ability to:\n- Back up files, browse, and transfer files from computers to compatible SanDisk product\n- Restore files and folders\n- Encrypt and password protect critical and sensitive files\n- Create a password to keep others from accessing the files on the drive\nSupported Products:\nPortable & Internal SSD, USB Flash, Memory Cards, and Readers",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63721,6 +63917,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SecureExchanges.SEOASF",
+    "name": "Secure Exchanges Outlook Area Sign Form",
+    "publisher": "Secure Exchanges",
+    "description": "SEOASF est l'application Secure Exchanges pour la signature numérique. Elle permet de définir les zones de signatures et d'envoyer les documents de façon sécurisée.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Cypherix.SecureIT",
     "name": "Secure IT",
     "publisher": "Cypherix Software",
@@ -63781,13 +63984,6 @@
     "name": "Sentinel CLI",
     "publisher": "Sentinel",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "SecureExchanges.SEOASF",
-    "name": "SEOASF",
-    "publisher": "Secure Exchanges",
-    "description": "SEOASF est l'application Secure Exchanges pour la signature num�rique. Elle permet de d�finir les zones de signatures et d'envoyer les documents de fa�on s�curis�e.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64512,6 +64708,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PassMark.Sleeper",
+    "name": "Sleeper",
+    "publisher": "PassMark Software",
+    "description": "Sleeper is a small utility program developed by PassMark Software to help test\nthe ability of PC systems to enter and recover from sleep and hibernation. It\nhas been designed to work with PassMark BurnInTest but will also work with 3rd\nparty applications. Sleeper allows you to:\n\n- Put a PC into any sleep state (S1, S2, S3) supported by the system\n- Place your PC into hibernation (S4)\n- Wake the computer after a specified period of time.\n- Put a PC to sleep or hibernation from the command line\n- Force the PC into the requested sleep state\n- Cycle through all sleep states or just all states supported by the system\n- Launch Sleeper from BurnInTest scripts to test sleep states between test runs.\n- Display the supported sleep states",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "K1DBO.slice-master-6000",
     "name": "Slice Master 6000",
     "publisher": "K1DBO",
@@ -64764,13 +64967,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Snowflake.OdbcDriver",
-    "name": "Snowflake ODBC Driver",
-    "publisher": "Snowflake Computing",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "SmartBear.SoapUI",
     "name": "SoapUI",
     "publisher": "SmartBear Software",
@@ -64936,6 +65132,13 @@
     "name": "Sony Xperia Companion",
     "publisher": "Sony Corporation",
     "description": "Software repair will reset your device and reinstall the system software. This can be useful if you experience severe problems with your device.\nSoftware repair will erase all user data on your device. Files on the external storage (SD™ card) will not be deleted.\nYou may need to unlock your device using your Google™ account if theft protection is enabled. Please make sure you know your Google™ account details before you start a software repair.\nThe software will be downloaded to your computer and, once the download is complete, the device can be repaired. A step-by-step guide will take you through the whole process.\nIt is strongly recommended to keep your computer plugged into a power source while repairing.\nYour device should be connected to the computer during the repair.\nYou will not be able to use your phone during the repair, not even for emergency calls.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TeamSophia.SophiaScript",
+    "name": "Sophia Script for Windows",
+    "publisher": "Team Sophia",
+    "description": "Sophia Script for Windows is the largest PowerShell module on GitHub for Windows 10 and Windows 11 fine-tuning and automating the routine tasks",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -65468,6 +65671,13 @@
     "name": "Starborne",
     "publisher": "Solid Clouds",
     "description": "Starborne Sovereign Space is not a persistent MMO - instead, new servers are launched regularly, and each game lasts for a few weeks and is then over. Our latest game server is open now. Start playing before it fills up.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Stardesk.Stardesk",
+    "name": "Stardesk",
+    "publisher": "Stardesk",
+    "description": "Stardesk is a next-generation remote desktop solution designed for speed. Unlike traditional tools, Stardesk handles high-framerate transmission (up to 144FPS) and 4K resolution with minimal latency, making it ideal for gaming, video editing, and high-performance workflows.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69135,7 +69345,7 @@
     "id": "UweSieber.USBDLM",
     "name": "USB Drive Letter Manager",
     "publisher": "uwe-sieber.de",
-    "description": "USBDLM is a Windows service that gives control over Windows' drive letter assignment for USB drives.\nRunning as service makes it independent of the logged on user's privileges, so there is no need to give the users the\nprivilege to change drive letters. It automatically solves conflicts between USB drives and network or subst drives of the currently logged on user.\nFurthermore you can define new default letters for USB drives and much more.\nIt works on Windows XP to Windows 11 and Server 2003 to 2022.",
+    "description": "USBDLM is a Windows service that gives control over Windows' drive letter\nassignment for USB drives.\n\nRunning as service makes it independent of the logged on user's privileges, so\nthere is no need to give the users the privilege to change drive letters. It\nautomatically solves conflicts between USB drives and network or subst drives of\nthe currently logged on user.\n\nFurthermore you can define new default letters for USB drives and much more.\n\nIt works on Windows XP to Windows 11 and Server 2003 to 2022.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69507,6 +69717,13 @@
     "name": "vibe",
     "publisher": "thewh1teagle",
     "description": "⌨️ Transcribe audio / video offline using OpenAI Whisper",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TIANQIAN1238.VibeClip-Pro",
+    "name": "VibeClip Pro",
+    "publisher": "VibeClip Team",
+    "description": "VibeClip Pro 是一款专注于提升剪贴板效率的桌面应用，提供实时捕获、历史管理、AI 快捷操作与全局快捷键等功能。采用现代化的毛玻璃视觉设计，支持深浅色主题切换。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -72674,6 +72891,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PassMark.WirelessMon",
+    "name": "WirelessMon 5",
+    "publisher": "PassMark Software",
+    "description": "- Test your WiFi hardware and setup\n- Check signal levels of your home or office WiFi networks\n- Measure network speed and throughput\n- Locate sources of interference to your network\n- Scan for hot spots in your local area (wardriving)",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WiresharkFoundation.Wireshark",
     "name": "Wireshark",
     "publisher": "The Wireshark developer community, https://www.wireshark.org/",
@@ -73542,6 +73766,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "bgreenwell.xleak",
+    "name": "xleak",
+    "publisher": "Brandon Greenwell",
+    "description": "xleak brings Excel spreadsheets to your command line with beautiful rendering, powerful export capabilities, and a feature-rich interactive TUI.\nFeatures include full-text search, clipboard support, formula display, multi-sheet navigation, and support for .xlsx, .xls, .xlsm, .xlsb, and .ods formats.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "XlightFTP.XlightFTP",
     "name": "Xlight FTP Server",
     "publisher": "Xlight FTP",
@@ -74133,7 +74364,7 @@
     "id": "ColorLogic.ZePrA",
     "name": "ZePrA",
     "publisher": "ColorLogic",
-    "description": "ZePrA Smart Color Server is a full-featured color server that optimizes PDF printing data and image files such as PSD, TIFF and JPEG via DeviceLink profiles. Create customized configurations and queues to automate day-to-day color management tasks. ZePrA's easy-to-use interface simplifies the process of custom color conversions with SmartLink and can be integrated into an existing workflow for immediate results. \n\nOur high quality color conversion and optimization of CMYK, RGB, Grayscale, Multicolor and ECG printing data is achieved through DeviceLink profiles built on-the-fly, as well as intelligent PDF processing. Our sophisticated spot color rendering uses state-of-the-art spectral color prediction technology, supports CxF/X-4, and allows production of proofs with high color accuracy.",
+    "description": "ZePrA Smart Color Server is a full-featured color server that optimizes PDF printing data and image files such as PSD, TIFF and JPEG via DeviceLink profiles. Create customized configurations and queues to automate day-to-day color management tasks. ZePrA's easy-to-use interface simplifies the process of custom color conversions with SmartLink and can be integrated into an existing workflow for immediate results.\n\nOur high quality color conversion and optimization of CMYK, RGB, Grayscale, Multicolor and ECG printing data is achieved through DeviceLink profiles built on-the-fly, as well as intelligent PDF processing. Our sophisticated spot color rendering uses state-of-the-art spectral color prediction technology, supports CxF/X-4, and allows production of proofs with high color accuracy.\"",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -74235,13 +74466,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "ZipGenius6.Suite",
-    "name": "ZipGenius 6",
-    "publisher": "The ZipGenius Team",
-    "description": "Compressed archives manager",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "zigtools.zls",
     "name": "zls",
     "publisher": "zigtools",
@@ -74288,6 +74512,13 @@
     "name": "Zoom Rooms",
     "publisher": "Zoom Video Communications, Inc.",
     "description": "Convert any space in your home, school, or office into a modern collaboration hub with HD audio/video, wireless content sharing, and interactive whiteboarding.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PassMark.ZoomSearchEngine",
+    "name": "Zoom Search Engine",
+    "publisher": "Zoom Search Engine",
+    "description": "It provides fast and powerful full-text searching by indexing your website in advance with an user friendly desktop application that allows you to configure and index your site, from the convenience of your Windows computer.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -75279,7 +75510,7 @@
   },
   {
     "id": "iQIYI.GeePlayer",
-    "name": "爱奇艺万能联播",
+    "name": "爱奇艺万能播放",
     "publisher": "爱奇艺",
     "description": "GeePlayer is a versatile player and fast transfer tool by iQIYI that supports various audio and video formats and casting without limitations from location or local area Wi-Fi networks, and allows high-speed cross-platform file transfer between mobile and desktop.",
     "icon": "/icons/intunify-default.png"
@@ -75849,6 +76080,13 @@
     "name": "네이트온",
     "publisher": "SK Communications",
     "description": "NateOn is instant messgnger and business messenger developed by SK Communications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RIDI.Ridibooks",
+    "name": "리디북스",
+    "publisher": "리디(주)",
+    "description": "이야기를 즐기는 나만의 공간, RIDI",
     "icon": "/icons/intunify-default.png"
   },
   {
