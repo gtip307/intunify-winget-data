@@ -637,6 +637,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TacitDynamics.FolderSync",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TechHit.JumpToWindow",
     "name": "",
     "publisher": null,
@@ -1456,6 +1463,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Tixeo.TixeoClient",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TobyAllen.DocTo",
     "name": "",
     "publisher": null,
@@ -1813,6 +1827,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.USBDeview",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NirSoft.UninstallView",
     "name": "",
     "publisher": null,
@@ -2073,6 +2094,20 @@
   },
   {
     "id": "NuitsJp.ClaudeToZenn",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NIUBI.PartitionEditor.Professional",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NIUBI.PartitionEditor.Technician",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2387,6 +2422,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "nvluan3.GetHardwareInfo",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NativeSoft.NativeRest",
     "name": "",
     "publisher": null,
@@ -2563,6 +2605,13 @@
   },
   {
     "id": "NASS.HashMich",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NASS.Wrok",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2983,6 +3032,13 @@
   },
   {
     "id": "AlveSvaren.Resizer2",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "awaescher.Fusion",
     "name": "",
     "publisher": null,
     "description": "",
@@ -6965,6 +7021,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KinookSoftware,Inc.VisualBuildProfessional",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KinookSoftware,Inc.CopyWiz",
     "name": "",
     "publisher": null,
@@ -7567,6 +7630,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "iTop.iTopVoicy",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "iTop.iTopScreenshot",
     "name": "",
     "publisher": null,
@@ -8093,6 +8163,13 @@
   },
   {
     "id": "ilime.petal",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Innovaphone.myApps",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9331,6 +9408,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "cexll.codex-wrapper",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CGSecurity.TestDisk",
     "name": "",
     "publisher": null,
@@ -9856,13 +9940,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "CherubicSoftware.SageThumbs",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "chaosweasl.interva",
     "name": "",
     "publisher": null,
@@ -9878,6 +9955,13 @@
   },
   {
     "id": "Codectory.AutoActions",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CacheFarms.SkeeBall",
     "name": "",
     "publisher": null,
     "description": "",
@@ -11753,6 +11837,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "legeling.PromptHub",
+    "name": "",
+    "publisher": null,
+    "description": "Tired of searching for prompts in notebooks, documents, and chat histories? PromptHub lets you manage prompts like code — version control, variable templates, multi-model testing, all local and privacy-first.\n✨ Features\n- 📝 Prompt Management - Create, edit, delete with folder and tag organization\n- ⭐ Favorites - Quick access to frequently used prompts\n- 🔄 Version Control - Auto-save history with view and rollback support\n- 🔧 Variable System - Template variables {{variable}} with dynamic replacement\n- 📋 One-Click Copy - Quickly copy prompts to clipboard\n- 🔍 Full-Text Search - Fast search across titles, descriptions, and content\n- 📤 Data Export - JSON format backup and restore\n- 🎨 Theme Customization - Dark/Light/System modes with multiple accent colors\n- 🌐 Multi-Language - Chinese and English interface support\n- 💾 Local Storage - All data stored locally for privacy\n- 🖥️ Cross-Platform - Support for macOS, Windows, Linux\n- 📊 List View - Table-style display with sorting and batch operations\n- 🤖 AI Testing - Built-in multi-model testing with 18+ providers",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Lka.Excel2ZUGFeRD",
     "name": "",
     "publisher": null,
@@ -11778,6 +11869,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "lyswhut.AnyListen",
+    "name": "",
+    "publisher": null,
+    "description": "跨平台私人音乐播放服务\n功能\n- 添加并播放本地歌曲（标准播放列表和本地列表）\n- 添加并播放存储在 WebDAV 上的歌曲（远程列表）\n- 在线歌曲元数据匹配（封面、歌词；通过扩展管理器安装相关扩展）\n- 实验性音频效果\n- 卡拉 OK 歌词和标题栏歌词",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -13139,6 +13237,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.WindowsDeviceRecoveryTool",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.LingeringObjectLiquidator",
     "name": "",
     "publisher": null,
@@ -13315,6 +13420,13 @@
   },
   {
     "id": "Microsoft.EdgeWebView2Runtime",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.WindowsMIDIServicesSDK",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14011,6 +14123,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MistralAI.MistralVibe.ACP",
+    "name": "",
+    "publisher": null,
+    "description": "Mistral 的开源 CLI 编程助手。\nMistral Vibe 是由 Mistral 模型驱动的命令行编程助手。它为您的代码库提供了一个对话式界面，让您可以通过自然语言，利用一系列强大的工具来浏览、修改和与项目进行交互。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -14830,6 +14949,13 @@
     "name": "",
     "publisher": null,
     "description": "Thunderbird 是一款免费开源的电子邮件、新闻订阅、即时通信、日历客户端，配置简单，定制自由。Thunderbird 的核心准则之一是使用和推广开放标准——重点就是拒绝世界上我们无法相互通信的封闭平台和服务。我们希望我们的用户在沟通方式上拥有自由和选择。\n这是官方年度延长支持版本。此版本面向希望按年获取所有新功能、按月获取稳定性/安全性修复的用户。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Mozilla.ProfileManager",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -15918,6 +16044,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MetalBear.mirrord",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MochaSoft.MochaTelnet",
     "name": "",
     "publisher": null,
@@ -16206,6 +16339,13 @@
   },
   {
     "id": "QMK.QMKToolbox",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "qr243vbi.NekoBox",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16650,6 +16790,13 @@
     "name": "",
     "publisher": null,
     "description": "Python 与 Django IDE，支持智能代码补全、实时错误检查和快速修复，等等…",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JetBrains.IntelliJIDEA",
+    "name": "",
+    "publisher": null,
+    "description": "IntelliJ IDEA 毫无疑问是软件开发者的首选 IDE，让 Java 和 Kotlin 开发更高效、更愉快。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -21861,6 +22008,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "sohamw03.wifui",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Symflower.SymflowerCLI",
     "name": "",
     "publisher": null,
@@ -22379,6 +22533,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HMCL.HMCL.Stable.CNB",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HMCL.HMCL.Stable.Maven",
     "name": "",
     "publisher": null,
@@ -22387,6 +22548,13 @@
   },
   {
     "id": "HMCL.HMCL.Stable.Maven.TencentCloudMirror",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HMCL.HMCL.Dev.CNB",
     "name": "",
     "publisher": null,
     "description": "",
@@ -23843,6 +24011,13 @@
   },
   {
     "id": "dukus.digiCamControl",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Dreamtonics.SynthesizerVStudio2Pro",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25683,6 +25858,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Odizinne.QontrolPanel",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "oss-winget.gperf",
     "name": "",
     "publisher": null,
@@ -26397,6 +26579,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Xieweikang123.ReFast",
+    "name": "",
+    "publisher": null,
+    "description": "ReFast is a modern Windows launcher designed to boost your productivity. Quickly summon it with a global shortcut to:\n- ⚡ Instantly open apps - Rapidly search and launch the applications you need\n- 🔍 Smart search - Integrated with Everything search to quickly locate files and folders\n- 📝 Memo management - Record and retrieve important information anytime\n- 🔧 Plugin extensions - Extend functionality with a plugin system\n- ⌨️ Custom shortcuts - Fully customize your workflow",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "XWolfOverride.DuckDNS",
     "name": "",
     "publisher": null,
@@ -27070,6 +27259,13 @@
   },
   {
     "id": "btargac.excel-parser-processor",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BlobstStudios.bVald",
     "name": "",
     "publisher": null,
     "description": "",
@@ -28266,6 +28462,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Plabayo.Rama.Preview",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Prowise.ProwiseReflect",
     "name": "",
     "publisher": null,
@@ -28687,6 +28890,13 @@
   },
   {
     "id": "Paragon.APFS",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ProjectTick.ProjTLauncher",
     "name": "",
     "publisher": null,
     "description": "",
@@ -33565,6 +33775,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "M-Rajabi-Dev.AudioShelf",
+    "name": "AudioShelf",
+    "publisher": "M-Rajabi-Dev",
+    "description": "AudioShelf is a modern audiobook player designed for accessibility and ease of use. It supports various formats and helps you organize your listening library efficiently.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CoenFin.AuditfileConverterAndAnalyser",
     "name": "Auditfile Converter",
     "publisher": "CoenFin Software",
@@ -35000,6 +35217,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "dlbroadfoot.bb",
+    "name": "Bitbucket CLI",
+    "publisher": "dlbroadfoot",
+    "description": "Bitbucket CLI (bb) brings Bitbucket to your terminal.\nManage pull requests, repositories, and pipelines without leaving your development environment.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BitcoinCoreProject.BitcoinCore",
     "name": "Bitcoin Core",
     "publisher": "Bitcoin Core project",
@@ -35095,6 +35319,20 @@
     "name": "blender",
     "publisher": "Blender Foundation",
     "description": "Blender 是一款免费开源的 3D 创作套件。\n使用 Blender，您可以创建 3D 可视化效果，例如静态图像，3D 动画，VFX（视觉特效）快照和视频编辑。它非常适合那些受益于其统一解决方案和响应式开发过程的独立和小型工作室。\nBlender 是一款跨平台的应用工具，可以在 Linux、macOS 以及 Windows 系统下运行。与其他 3D 建模工具相比，Blender 对内存和驱动的需求更低。其界面使用 OpenGL，在所有支持的硬件与平台都能提供一致的用户体验。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BlenderFoundation.Blender.LTS.4.5",
+    "name": "blender",
+    "publisher": "Blender Foundation",
+    "description": "Welcome to Blender! Blender is a free and open-source 3D creation suite.\nWith Blender, you can create 3D visualizations such as still images, 3D animations and VFX shots. You can also edit videos. It is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process.\nBeing a cross-platform application, Blender runs on Linux, macOS, as well as Windows systems. It also has relatively small memory and drive requirements compared to other 3D creation suites. Its interface uses OpenGL to provide a consistent experience across all supported hardware and platforms.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BlenderFoundation.Blender.LTS.4.2",
+    "name": "blender",
+    "publisher": "Blender Foundation",
+    "description": "Welcome to Blender! Blender is a free and open-source 3D creation suite.\nWith Blender, you can create 3D visualizations such as still images, 3D animations and VFX shots. You can also edit videos. It is well suited to individuals and small studios who benefit from its unified pipeline and responsive development process.\nBeing a cross-platform application, Blender runs on Linux, macOS, as well as Windows systems. It also has relatively small memory and drive requirements compared to other 3D creation suites. Its interface uses OpenGL to provide a consistent experience across all supported hardware and platforms.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35693,6 +35931,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RedCactus.BubbleBeta",
+    "name": "Bubble Beta",
+    "publisher": "Red Cactus BV",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OnePartRain.Buckets",
     "name": "Buckets",
     "publisher": "Buckets",
@@ -35774,6 +36019,13 @@
     "name": "BurnAware Professional",
     "publisher": "Burnaware",
     "description": "BurnAware is a full-fledged, easy-to-use burning software which allows users to write all types of files such as digital photos, archives, documents, music and videos to CDs, DVDs and Blu-ray Discs, including BDXL and M-Disc. With BurnAware, you also be able to create boot or multisession discs, high-quality Audio CDs and Video DVDs, make and burn ISO images, copy and backup discs, extract audio tracks, verify and recover data from multisession or unreadable discs.\n\n• Burn Data and Multisession CD, DVD, Blu-ray discs, including M-Disc\n• Burn Audio CDs, Video DVDs, Blu-ray Video discs and MP3 discs\n• Extract files and folders from ISO images, burn Disc Images\n• Copy Data and Audio discs, save discs to ISO and BIN disc images\n• Burn files and folders across multiple discs (disc spanning)\n• Recover data from damaged and unreadable discs, grab audio tracks\n• Write ISO images to multiple recorders simultaneously\n\nFree 7-day trial",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PassMark.BurnInTest",
+    "name": "BurnInTest",
+    "publisher": "Passmark Software",
+    "description": "- Stress test all the major sub-systems of a computer for Endurance, Reliability\n  and Stability.\n- Best value professional Windows hardware test tool on the market.\n- Industry standard since 1998.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36908,6 +37160,13 @@
     "name": "clarinet",
     "publisher": "Hiro Systems",
     "description": "Clarinet is a Clarity runtime packaged as a command line tool, designed to facilitate smart contract understanding, development, testing and deployment. Clarinet consists of a Clarity REPL and a testing harness, which, when used together allow you to rapidly develop and test a Clarity smart contract, with the need to deploy the contract to a local devnet or testnet.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "cameronrye.clarissa",
+    "name": "Clarissa",
+    "publisher": "Cameron Rye",
+    "description": "Clarissa is a CLI terminal assistant powered by AI that helps you with development tasks, system operations, and more. It supports multiple AI providers and features tool execution capabilities for enhanced productivity.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38388,6 +38647,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Corsinvest.cv4pve.autosnap",
+    "name": "cv4pve-autosnap",
+    "publisher": "Corsinvest Srl",
+    "description": "cv4pve-autosnap is an automatic snapshot tool for Proxmox VE virtual machines and containers.\nIt creates snapshots with retention policies and supports flexible targeting patterns including\nID/name based selection, bulk operations, and pool-based selections.\n\nFeatures:\n- Automatic snapshot creation with retention policies\n- Support for VMs and Containers\n- Flexible VM selection (ID, name, patterns, pools)\n- Hook script execution (pre/post snapshot)\n- Multiple snapshot labels for different schedules\n- Clean command to remove old snapshots\n- Status command to view existing snapshots",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "dxatlas.CwSkimmer",
     "name": "CwSkimmer",
     "publisher": "dxatlas",
@@ -38959,6 +39225,13 @@
     "name": "Dell Peripheral Manager",
     "publisher": "Dell Inc.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Dell.SystemUpdate",
+    "name": "Dell System Update",
+    "publisher": "Dell Inc.",
+    "description": "Dell System Update (DSU) is a legacy Windows application that helps update BIOS, firmware, and device drivers on Dell systems. Dell recommends using Dell Command | Update for newer Windows systems.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40425,6 +40698,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DeliveryStation.ds",
+    "name": "DS (Delivery Station)",
+    "publisher": "Kharkevich Engineering Lab",
+    "description": "DS is a plugin manager and infrastructure provider for OCI artifact tools; plugins handle artifact operations while DS manages configuration, registry access, cache, and coordination.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Aserto.DSLoad",
     "name": "ds-load",
     "publisher": "Aserto",
@@ -41265,6 +41545,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EKA2L1.EKA2L1",
+    "name": "EKA2L1",
+    "publisher": "EKA2L1",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "eksctl.eksctl",
     "name": "eksctl",
     "publisher": "eksctl.io",
@@ -42035,6 +42322,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AndrejFogelton.eyeblink",
+    "name": "eyeblink",
+    "publisher": "Andrej Fogelton",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NecdetSanli.EyeRest",
     "name": "EyeRest",
     "publisher": "Necdet Şanlı",
@@ -42130,6 +42424,13 @@
     "name": "FaFa Runner",
     "publisher": "Insco",
     "description": "Step into the enchanting world of FaFa Runner: Dawn Legends, where an epic adventure awaits! Developed using Flutter and the Flame engine, this RPG delivers a seamless gaming experience with stunning visual effects.\n\nEmbark on your journey as a brave adventurer, explore mysterious lands, uncover hidden secrets, and face endless challenges. With rich story-driven quests and diverse character progression systems, every battle offers a unique sense of achievement.\n\nKey Features:\n\nDynamic Combat System: Enjoy intuitive controls and fluid action as you take on powerful enemies and formidable bosses.\nGorgeous Visuals: Experience vivid graphics and captivating animations, thanks to the powerful Flutter and Flame engine.\nRich Quest System: Engage in main quests and side stories, with each adventure offering surprises and challenges.\nCustomizable Character Growth: Tailor your hero with various skills and equipment to build the ultimate warrior.\nInteractive World Exploration: Discover hidden treasures and secret locations across a fantastical map.\n\nJoin FaFa Runner: Dawn Legends and create your own legendary tale in this magical world. Download now and begin your epic adventure!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FaFaRunner.FaFaRunner",
+    "name": "FaFa Runner",
+    "publisher": "Qiazo",
+    "description": "踏入《发发跑酷》的魔幻世界，开启一段前所未有的奇幻旅程！这款RPG游戏由Flutter和Flame引擎精心打造，为你带来流畅的游戏体验和绚丽的视觉效果。\n\n在这里，你将化身为一位勇敢的冒险者，探索神秘的大陆，解锁隐藏的秘密，迎接无尽的挑战。游戏中拥有丰富的剧情任务和多样的角色成长系统，让你在每一次战斗中都能体验到前所未有的成就感。\n\n主要特点：\n\n动感十足的战斗系统：使用直观的操作，体验流畅的动作打击感，挑战各种强大的敌人和首领。\n绚丽的视觉效果：利用Flutter和Flame引擎的强大性能，呈现精美的画面和生动的动画效果。\n丰富的任务系统：从主线任务到支线剧情，每一次冒险都充满惊喜和挑战。\n多样化的角色成长：自由定制你的角色，选择不同的技能和装备，打造最强的战斗力。\n互动式的世界探索：探索充满奇幻的地图，发现隐藏的宝藏和秘密地点。\n\n加入《发发跑酷》，在这个奇妙的世界中书写属于你的传奇故事。赶快下载，开启你的冒险之旅吧！",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42276,6 +42577,13 @@
     "id": "FellowInsights.Fellow",
     "name": "Fellow",
     "publisher": "Fellow Insights Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "StardockSystems.Fences6",
+    "name": "Fences® 6",
+    "publisher": "Stardock Systems",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -43781,6 +44089,13 @@
     "id": "FluxCD.Flux",
     "name": "Flux",
     "publisher": "FluxCD",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Fluxzy.Fluxzy",
+    "name": "Fluxzy",
+    "publisher": "Fluxzy SAS",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -45545,7 +45860,7 @@
     "id": "tumic0.GPXSee",
     "name": "GPXSee",
     "publisher": "Martin Tůma",
-    "description": "GPXSee is a Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats.\n\nFeatures:\n- Opens GPX, TCX, FIT, KML, NMEA, IGC, CUP, SIGMA SLF, Suunto SML, LOC, GeoJSON, OziExplorer (PLT, RTE, WPT), Garmin GPI&CSV, TomTom OV2&ITN, ONmove OMD/GHP, TwoNav (TRK, RTE, WPT), GPSDump WPT, Velocitek VTK, Vakaros VKX, 70mai GPS logs and geotagged JPEG files.\n- Opens geo URIs (RFC 5870).\n- User-definable online maps (OpenStreetMap/Google tiles, WMTS, WMS, TMS, QuadTiles).\n- Offline maps (MBTiles, PMTiles, OziExplorer maps, TrekBuddy maps/atlases, Garmin IMG/GMAP & JNX maps, TwoNav RMaps, GeoTIFF images, BSB charts, ENC charts, KMZ maps, AlpineQuest maps, Locus/OsmAnd/RMaps SQLite maps, Mapsforge vector maps, QCT maps, GEMF maps, Osmdroid SQLite maps, Orux maps, COROS maps, ESRI World-File georeferenced images).\n- Elevation, speed, heart rate, cadence, power, temperature and gear ratio/shifts graphs.\n- Support for DEM files (SRTM HGT).\n- Support for multiple tracks in one view.\n- Support for POI files.\n- Print/export to PDF/PNG.\n- Full-screen mode.\n- HiDPI/Retina displays & maps support.\n- Real-time GPS position.",
+    "description": "GPXSee is a Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats.\n\nFeatures:\n- Opens GPX, TCX, FIT, KML, NMEA, IGC, CUP, SIGMA SLF, Suunto SML, LOC, GeoJSON, OziExplorer (PLT, RTE, WPT), Garmin GPI&CSV, TomTom OV2&ITN, ONmove OMD/GHP, TwoNav (TRK, RTE, WPT), GPSDump WPT, Velocitek VTK, Vakaros VKX, 70mai GPS logs, GoPro GPMF videos, Sony RTMD videos, Google CAMM videos, Novatek/VIOFO dashcam videos and geotagged JPEG/MP4 files.\n- Opens geo URIs (RFC 5870).\n- User-definable online maps (OpenStreetMap/Google tiles, WMTS, WMS, TMS, QuadTiles).\n- Offline maps (MBTiles, PMTiles, OziExplorer maps, TrekBuddy maps/atlases, Garmin IMG/GMAP & JNX maps, TwoNav RMaps, GeoTIFF images, BSB charts, ENC charts, KMZ maps, AlpineQuest maps, Locus/OsmAnd/RMaps SQLite maps, Mapsforge vector maps, QCT maps, GEMF maps, Osmdroid SQLite maps, Orux maps, COROS maps, ESRI World-File georeferenced images).\n- Elevation, speed, heart rate, cadence, power, temperature and gear ratio/shifts graphs.\n- Support for DEM files (SRTM HGT).\n- Support for multiple tracks in one view.\n- Support for POI files.\n- Print/export to PDF/PNG.\n- Full-screen mode.\n- HiDPI/Retina displays & maps support.\n- Real-time GPS position.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45777,6 +46092,13 @@
     "name": "GSmartControl",
     "publisher": "Alexander Shaduri",
     "description": "GSmartControl is a graphical user interface for smartctl (from smartmontools package), which is a tool for querying and controlling SMART (Self-Monitoring, Analysis, and Reporting Technology) data on modern hard disk and solid-state drives. It allows you to inspect the drive's SMART data to determine its health, as well as run various tests on it.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "dabrain34.GstPipelineStudio",
+    "name": "GstPipelineStudio",
+    "publisher": "dabrain34",
+    "description": "GstPipelineStudio aims to provide a graphical user interface to the GStreamer framework. From a first step in the framework with a simple pipeline to a complex pipeline debugging, the tool provides a friendly interface to add elements to a pipeline and debug it.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46249,6 +46571,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Midry.hato",
+    "name": "hato",
+    "publisher": "Midry",
+    "description": "Before performing important tasks like committing or pushing to a repository, you can review a pre-set checklist. Of course, you can also use it as a standalone checklist or simply as a task runner.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CKingX.haveibeenpwned",
     "name": "haveibeenpwned",
     "publisher": "CKingX",
@@ -46295,6 +46624,13 @@
     "name": "HDHomeRun TECH",
     "publisher": "Silicondust",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "QNAP.NetBakPCAgent",
+    "name": "HDP PC Agent",
+    "publisher": "QNAP Systems, Inc.",
+    "description": "NetBak PC Agent provides system backup and full device restoration for applications, system settings, and data from Windows® PC and servers. You can easily connect your Windows Client with QNAP NAS in just a few clicks and create backup jobs. NetBak PC Agent also supports restoration without shutting down for greater usage flexibility.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48013,6 +48349,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "InterceptSuite.InterceptSuite.Pro",
+    "name": "InterceptSuite Pro",
+    "publisher": "InterceptSuite",
+    "description": "InterceptSuite is a cross-platform network traffic interception tool for TCP, UDP, DTLS, and TLS protocols. Operating at the transport layer, it provides comprehensive visibility into encrypted traffic from IoT devices, thick clients, databases, gaming applications, and custom protocols.\nKey Capabilities\n- Any Protocol - Intercepts traffic from any TCP/UDP/TLS/DTLS application\n- IoT & Embedded Devices - Perfect for analyzing IoT device TCP/UDP communications\n- Custom Protocols - Works with thick clients, games, and proprietary protocols\n- Python Extensions - Add custom protocol dissection capabilities\n- Cross-Platform - Native support for Windows, Linux, and macOS",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "InterceptSuite.InterceptSuite.Standard",
+    "name": "InterceptSuite Standard",
+    "publisher": "InterceptSuite",
+    "description": "InterceptSuite is a cross-platform network traffic interception tool for TCP, UDP, DTLS, and TLS protocols. Operating at the transport layer, it provides comprehensive visibility into encrypted traffic from IoT devices, thick clients, databases, gaming applications, and custom protocols.\nKey Capabilities\n- Any Protocol - Intercepts traffic from any TCP/UDP/TLS/DTLS application\n- IoT & Embedded Devices - Perfect for analyzing IoT device TCP/UDP communications\n- Custom Protocols - Works with thick clients, games, and proprietary protocols\n- Python Extensions - Add custom protocol dissection capabilities\n- Cross-Platform - Native support for Windows, Linux, and macOS",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Intermedia.Unite",
     "name": "Intermedia Unite",
     "publisher": "Intermedia.net, Inc.",
@@ -48724,13 +49074,6 @@
     "name": "jdMrpackInstaller",
     "publisher": "JakobDev",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "AppWork.JDownloader",
-    "name": "JDownloader 2",
-    "publisher": "AppWork GmbH",
-    "description": "JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. Users can start, stop or pause  downloads, set bandwith limitations, auto-extract archives and much more.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50435,6 +50778,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AMD.LemonadeServer",
+    "name": "Lemonade Server",
+    "publisher": "AMD",
+    "description": "🍋 Lemonade Server is a server interface that uses the standard Open AI API, allowing applications to integrate with local LLMs. This means that you can easily replace cloud-based LLMs with private and free LLMs that run locally on your own PC's NPU and GPU.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LieberLieber.LemonTree.Connect.Codebeamer",
     "name": "LemonTree.Connect.Codebeamer",
     "publisher": "LieberLieber Software GmbH",
@@ -50495,6 +50845,13 @@
     "name": "lessmsi",
     "publisher": "Scott Willeke",
     "description": "This is a utility with a graphical user interface and a command line interface that can be used to view and extract the contents of an MSI file.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LetsConnect.Client",
+    "name": "Let's Connect! Client",
+    "publisher": "Let's Connect!",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50575,6 +50932,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BellSoft.LibericaJDK.13",
+    "name": "Liberica JDK 13",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.13.Full",
+    "name": "Liberica JDK 13 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BellSoft.LibericaJDK.14",
     "name": "Liberica JDK 14",
     "publisher": "BellSoft",
@@ -50617,6 +50988,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BellSoft.LibericaJDK.16.Lite",
+    "name": "Liberica JDK 16 Lite",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BellSoft.LibericaJDK.17",
     "name": "Liberica JDK 17",
     "publisher": "BellSoft",
@@ -50626,6 +51004,13 @@
   {
     "id": "BellSoft.LibericaJDK.17.Full",
     "name": "Liberica JDK 17 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.17.Lite",
+    "name": "Liberica JDK 17 Lite",
     "publisher": "BellSoft",
     "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
     "icon": "/icons/intunify-default.png"
@@ -50645,6 +51030,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BellSoft.LibericaJDK.18.Lite",
+    "name": "Liberica JDK 18 Lite",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BellSoft.LibericaJDK.19",
     "name": "Liberica JDK 19",
     "publisher": "BellSoft",
@@ -50654,6 +51046,13 @@
   {
     "id": "BellSoft.LibericaJDK.19.Full",
     "name": "Liberica JDK 19 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.19.Lite",
+    "name": "Liberica JDK 19 Lite",
     "publisher": "BellSoft",
     "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
     "icon": "/icons/intunify-default.png"
@@ -50673,6 +51072,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BellSoft.LibericaJDK.20.Lite",
+    "name": "Liberica JDK 20 Lite",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BellSoft.LibericaJDK.21",
     "name": "Liberica JDK 21",
     "publisher": "BellSoft",
@@ -50682,6 +51088,13 @@
   {
     "id": "BellSoft.LibericaJDK.21.Full",
     "name": "Liberica JDK 21 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.21.Lite",
+    "name": "Liberica JDK 21 Lite",
     "publisher": "BellSoft",
     "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
     "icon": "/icons/intunify-default.png"
@@ -50701,6 +51114,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BellSoft.LibericaJDK.22.Lite",
+    "name": "Liberica JDK 22 Lite",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BellSoft.LibericaJDK.23",
     "name": "Liberica JDK 23",
     "publisher": "BellSoft",
@@ -50710,6 +51130,13 @@
   {
     "id": "BellSoft.LibericaJDK.23.Full",
     "name": "Liberica JDK 23 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.23.Lite",
+    "name": "Liberica JDK 23 Lite",
     "publisher": "BellSoft",
     "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
     "icon": "/icons/intunify-default.png"
@@ -50729,6 +51156,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BellSoft.LibericaJDK.24.Lite",
+    "name": "Liberica JDK 24 Lite",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BellSoft.LibericaJDK.25",
     "name": "Liberica JDK 25",
     "publisher": "BellSoft",
@@ -50738,6 +51172,13 @@
   {
     "id": "BellSoft.LibericaJDK.25.Full",
     "name": "Liberica JDK 25 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.25.Lite",
+    "name": "Liberica JDK 25 Lite",
     "publisher": "BellSoft",
     "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
     "icon": "/icons/intunify-default.png"
@@ -53529,6 +53970,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Hex.MirrorForPhotoshopServer",
+    "name": "Mirror for Photoshop Server",
+    "publisher": "hex",
+    "description": "Mirror for Photoshop Server is a WebSocket relay that connects Adobe Photoshop to iOS devices for real-time preview. It enables the Photoshop plugin to transmit preview images to connected iOS clients via Bonjour/mDNS discovery.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ThaUnknown.Miru",
     "name": "Miru",
     "publisher": "ThaUnknown_",
@@ -56224,6 +56672,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JamesTsang.Nettune",
+    "name": "Nettune",
+    "publisher": "James Tsang",
+    "description": "A network diagnostics and TCP optimization tool with MCP (Model Context Protocol) integration for AI-assisted configuration.\nFeatures\n- End-to-end Network Testing: RTT measurement, throughput testing, latency under load detection\n- Configuration Profiles: Pre-built profiles for BBR, FQ, buffer tuning\n- Safe Apply/Rollback: Automatic snapshots before configuration changes with rollback capability\n- MCP Integration: Works with Claude and other LLM chat interfaces via MCP stdio protocol",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MeinbergGlobal.NTP",
     "name": "Network Time Protocol",
     "publisher": "Meinberg Global",
@@ -56626,6 +57081,27 @@
     "id": "NitrokeyGmbH.Nitropy",
     "name": "Nitropy",
     "publisher": "Nitrokey GmbH",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NIUBI.PartitionEditor.Enterprise",
+    "name": "NIUBI Partition Editor Enterprise Edition",
+    "publisher": "NIUBI Technology Co., Ltd.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NIUBI.PartitionEditor.Free",
+    "name": "NIUBI Partition Editor Free Edition",
+    "publisher": "NIUBI Technology Co., Ltd.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NIUBI.PartitionEditor.Server",
+    "name": "NIUBI Partition Editor Server Edition",
+    "publisher": "NIUBI Technology Co., Ltd.",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -58170,6 +58646,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Mozilla.opus-tools",
+    "name": "opus-tools",
+    "publisher": "Mozilla, XiphORG, and/or IETF",
+    "description": "Provides command-line utilities to encode, inspect, and decode .opus files. Although a libopus 1.5.2 exists, no official Windows .exe binaries exist for it.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Oracle.OracleLinux.7.9",
     "name": "Oracle Linux 7.9",
     "publisher": "Oracle America, Inc.",
@@ -59207,7 +59690,7 @@
   },
   {
     "id": "PHP.PHP.NTS.8.1",
-    "name": "PHP 8.1 (Non Thread Safe)",
+    "name": "PHP 8.1 - Non-thread safe",
     "publisher": "PHP Group",
     "description": "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML.",
     "icon": "/icons/intunify-default.png"
@@ -59311,10 +59794,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PicGuard.PicGuard",
+    "name": "PicGuard",
+    "publisher": "Qiazo",
+    "description": "Introducing **PicGuard** - the ultimate solution for securing and customizing your digital photos. With our app, you can easily add watermarks to your images to protect your creative work and maintain your privacy.\n\n**PicGuard** offers robust privacy protection features, ensuring your personal and sensitive information remains safeguarded. It's highly customizable, allowing you to personalize watermarks with various fonts, styles, and designs to suit your needs.\n\nAccessible on web, mobile, and desktop, you can seamlessly integrate and manage your watermarking tasks across all your devices. **PicGuard**, as an open-source tool, it's not only free but also continuously improved by a community of developers dedicated to providing the best user experience.\n\nDownload **PicGuard** today and take control of your photo security and personalization like never before!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Insco.PicGuard.Pro",
     "name": "PicGuard Pro",
     "publisher": "Insco",
     "description": "介绍 **PicGuard Pro** - 保护和自定义数码照片的终极解决方案。使用我们的应用程序，您可以轻松地在图像上添加水印，以保护您的创意作品并维护您的隐私。\n\n**PicGuard Pro** 提供强大的隐私保护功能，确保您的个人和敏感信息得到保护。它具有高度可定制性，允许您使用各种字体、样式和设计个性化水印以满足您的需求。\n\n可在网络、移动设备和桌面上访问，您可以无缝集成和管理所有设备上的水印任务。**PicGuard Pro** 是一种开源工具，它不仅免费，而且还由致力于提供最佳用户体验的开发人员社区不断改进。\n\n立即下载 **PicGuard Pro**，以前所未有的方式控制您的照片安全和个性化！",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PicGuard.PicGuard.Pro",
+    "name": "PicGuard Pro",
+    "publisher": "Qiazo",
+    "description": "Introducing **PicGuard Pro** - the ultimate solution for securing and customizing your digital photos. With our app, you can easily add watermarks to your images to protect your creative work and maintain your privacy.\n\n**PicGuard Pro** offers robust privacy protection features, ensuring your personal and sensitive information remains safeguarded. It's highly customizable, allowing you to personalize watermarks with various fonts, styles, and designs to suit your needs.\n\nAccessible on web, mobile, and desktop, you can seamlessly integrate and manage your watermarking tasks across all your devices. **PicGuard Pro**, as an open-source tool, it's not only free but also continuously improved by a community of developers dedicated to providing the best user experience.\n\nDownload **PicGuard Pro** today and take control of your photo security and personalization like never before!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60221,6 +60718,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "qyzhg.Prism",
+    "name": "prism",
+    "publisher": "qyzhg",
+    "description": "🚀 一款强大的跨平台 AI 翻译应用，采用先进的语言模型和 OCR 技术。\n功能特性\n- 🌍 跨平台支持 - 完美支持 Windows、macOS 和 Linux，功能完全一致\n- 🤖 先进的 AI 翻译 - 完全自由的 ai 配置接口\n- 📸 内置 OCR 识别 - 完全自由的 ai 配置接口\n- ⚡ 极速翻译 - 实时翻译，延迟最小化\n- 🎯 易用的界面 - 基于 Vue 3 的直观用户界面，交互流畅\n- 🔗 全局快捷键 - 自定义快捷键快速访问（开发中）\n- 💾 本地翻译历史 - 基于 SQLite 的翻译记录存储\n- 🎨 现代化架构 - 基于 Tauri + Rust 构建，性能优异且安全可靠",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Stoplight.Prism",
     "name": "Prism",
     "publisher": "Stoplight",
@@ -60449,6 +60953,13 @@
     "name": "Prowlarr",
     "publisher": "Team Prowlarr",
     "description": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps.\nProwlarr supports management of both Torrent Trackers and Usenet Indexers.\nIt integrates seamlessly with Lidarr, Mylar3, Radarr, Readarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required (we do it all).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "InterceptSuite.ProxyBridge",
+    "name": "ProxyBridge",
+    "publisher": "InterceptSuite",
+    "description": "ProxyBridge is a lightweight, open-source universal proxy client (Proxifier alternative) that provides transparent proxy routing for applications on Windows and macOS. It redirects TCP and UDP traffic from specific processes through SOCKS5 or HTTP proxies, with the ability to route, block, or allow traffic on a per-application basis. ProxyBridge fully supports both TCP and UDP proxy routing and works at the system level, making it compatible with proxy-unaware applications without requiring any configuration changes.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60788,6 +61299,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PyPy.PyPy.3.11",
+    "name": "PyPy3.11",
+    "publisher": "PyPy Team",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Thunderhead.PyroSim.2024",
     "name": "PyroSim 2024",
     "publisher": "Thunderhead Engineering",
@@ -61023,13 +61541,6 @@
     "name": "QNAP External RAID Manager",
     "publisher": "QNAP Systems, Inc.",
     "description": "With the QNAP External RAID Manager you can set up, monitor, and view the status of your QNAP external RAID devices (such as the TR-004). All device events are recorded and desktop notifications will be sent if a system alert occurs.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "QNAP.NetBakPCAgent",
-    "name": "QNAP NetBak PC Agent",
-    "publisher": "QNAP Systems, Inc.",
-    "description": "NetBak PC Agent provides system backup and full device restoration for applications, system settings, and data from Windows® PC and servers. You can easily connect your Windows Client with QNAP NAS in just a few clicks and create backup jobs. NetBak PC Agent also supports restoration without shutting down for greater usage flexibility.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62440,6 +62951,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Revopoint.RevoMetro",
+    "name": "Revo Metro",
+    "publisher": "Revopoint",
+    "description": "Revo Metro enables point cloud capture, post-processing, and multi-model alignment, empowering you to scan and process quickly.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Revopoint.RevoScan",
     "name": "Revo Scan 5",
     "publisher": "Revopoint",
@@ -63144,6 +63662,13 @@
     "name": "SAGA - System for Automated Geoscientific Analyses",
     "publisher": "SAGA User Group Association",
     "description": "SAGA GIS (System for Automated Geoscientific Analyses) is a free and open source geographic information system used for editing and analysing spatial data. It includes a large number of modules for the analysis of vector (point, line and polygon), table, grid and image data. Among others the package includes modules for geostatistics, image classification, projections, simulation of dynamic processes (hydrology, landscape development) and terrain analysis. The functionality can be accessed through a GUI, the command line or by using the C++ API.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CherubicSoftware.SageThumbs",
+    "name": "SageThumbs",
+    "publisher": "Cherubic Software",
+    "description": "A powerful shell extension allowing to preview enormous amount of image formats directly in Windows Explorer. Note that the program has not been updated since 2017 and lacks support for e.g. WebP and JPG2000.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66031,6 +66556,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Kindness-Kismet.Stelliberty",
+    "name": "Stelliberty",
+    "publisher": "Stelliberty",
+    "description": "一款使用 Flutter 和 Rust 构建的现代跨平台 Clash 客户端，采用独特的 MD3M（Material Design 3 Modern）视觉风格\n✨ 特性\n- 🎨 MD3M 设计系统：结合 MD3 色彩管理与亚克力玻璃效果的独特 Material Design 3 Modern 风格\n- 🦀 Rust 后端：由 Rust 提供高性能核心，搭配 Flutter 用户界面\n- 🌐 多语言支持：使用 slang 实现内置 i18n 支持\n- 🔧 订阅管理：完整支持订阅与覆盖配置\n- 📊 实时监控：连接追踪与流量统计\n- 🪟 原生桌面集成：支持 Windows 服务、系统托盘及自动启动\n- 🔄 内置 UWP 回环管理器：管理 Windows UWP 应用回环豁免（仅 Windows）\n🏆 实现亮点\n这可能是最注重细节的 Flutter 桌面应用之一：\n- ✨ 系统托盘暗黑模式：针对 Windows 明暗主题自适应的托盘图标\n- 🚀 无闪烁启动：最大化窗口启动无视觉瑕疵\n- 👻 平滑窗口过渡：显示/隐藏动画无闪烁\n- 🎯 像素级精准 UI：精心打造的 MD3M 设计系统",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Smallstep.step",
     "name": "step",
     "publisher": "Smallstep",
@@ -67890,6 +68422,13 @@
     "name": "tldx",
     "publisher": "brandonyoungdev",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ten-framework.tman",
+    "name": "tman",
+    "publisher": "TEN Framework 團隊",
+    "description": "tman 是 TEN Framework 的官方套件管理器。\n它幫助開發者管理擴充套件、通訊協定和其他 TEN 框架元件。\n主要特性：\n- 輕鬆安裝和管理 TEN 套件\n- 自動相依性解析\n- 套件版本控制和更新\n- 支援多種套件類型（擴充套件、通訊協定等）\n- 與 TEN Framework 專案無縫整合\nTEN Framework 是一個強大的即時通訊應用程式框架，\ntman 讓您可以輕鬆擴充和客製化應用程式。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69923,6 +70462,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NibbleNerds.Viewpoint",
+    "name": "Viewpoint",
+    "publisher": "Nibble Nerds",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ViCon.viflow.8",
     "name": "viflow 8 Suite (purchase license)",
     "publisher": "ViCon GmbH",
@@ -70389,6 +70935,13 @@
     "name": "Volanta",
     "publisher": "Orbx Simulation Systems Pty Ltd",
     "description": "Volanta is an easy-to-use smart flight tracker that integrates all your flight data across all major sims.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PassMark.VolatilityWorkbench",
+    "name": "Volatility Workbench",
+    "publisher": "PassMark Software",
+    "description": "Volatility is a command line memory analysis and forensics tool for extracting\nartifacts from memory dumps. Volatility Workbench is free, open source and runs\nin Windows. It provides a number of advantages over the command line version\nincluding,\n\n- No need to install Python script interpreter.\n- No need of remembering command line parameters.\n- Storage of the platform and process list with the memory dump, in a .CFG file.\n  When a memory image is re-loaded, this saves a lot of time and eliminates the\n  need to get process list each time.\n- Automatic platform detection with .CFG files\n- Simpler copy & paste.\n- Simpler printing of paper copies (via right click).\n- Simpler saving of the dumped information to a file on disk.\n- A drop down list of available commands and a short description of what the\n  command does.\n- Time stamping of the commands executed.\n- Auto-loading the first dump file found in the current folder.\n- Support for analysing Mac and Linux memory dumps.\n- Up to 20% increase in speed compared to interpreted version.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -72702,6 +73255,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "leeter.WinMTR",
+    "name": "WinMTR",
+    "publisher": "leeter",
+    "description": "WinMTR is a free MS Windows visual application that combines the functionality\nof the traceroute and ping in a single network diagnostic tool. WinMTR is Open\nSource Software, maintained by Appnor MSP, a fully managed hosting & cloud\nprovider.\n\nIt was started in 2000 by Vasile Laurentiu Stanimir as a clone for the popular\nMatt’s Traceroute (hence MTR) Linux/UNIX utility.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LX-Systems.WinMute",
     "name": "WinMute",
     "publisher": "LX-Systems",
@@ -73476,6 +74036,13 @@
     "name": "workspacer beta",
     "publisher": "Rick Button",
     "description": "Workspacer is a tiling window manager for Windows 10, similar in style and function to common unix tiling window managers (dwm, i3, xmonad).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "max-sixty.worktrunk",
+    "name": "worktrunk",
+    "publisher": "max-sixty",
+    "description": "worktrunk (wt) is a Git worktree manager designed for trunk-based development workflows.\nIt simplifies creating, switching between, and managing Git worktrees, making it easy to\nwork on multiple features or branches simultaneously without the overhead of stashing\nor switching branches in a single working directory.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -74592,6 +75159,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "zTools.zTools",
+    "name": "zTools",
+    "publisher": "lzx8589561",
+    "description": "一个高性能、可扩展的应用启动器和插件平台\n✨ 特性\n- 🚀 快速启动 - 拼音搜索、正则匹配、历史记录、固定应用\n- 🧩 插件系统 - 支持 UI 插件和无界面插件，完整的 API 支持\n- 📋 剪贴板管理 - 历史记录、搜索、图片支持、跨平台原生实现\n- 🎨 主题定制 - 系统/亮色/暗色模式，6 种主题色可选\n- ⚡ 高性能 - LMDB 数据库、WebContentsView 架构、极速响应\n- 🌍 跨平台 - 原生支持 macOS 和 Windows，统一体验\n- 🔒 数据隔离 - 插件数据独立存储，安全可靠\n- 🛠️ 开发友好 - 完整的 TypeScript 类型支持，热重载开发\n- ⚙️ 最新技术栈 - Electron 38.5 + Node 22.20 + Chrome 140",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Sangoma.Zulu",
     "name": "Zulu",
     "publisher": "Sangoma Technologies Corp.",
@@ -75510,7 +76084,7 @@
   },
   {
     "id": "iQIYI.GeePlayer",
-    "name": "爱奇艺万能播放",
+    "name": "爱奇艺万能联播",
     "publisher": "爱奇艺",
     "description": "GeePlayer is a versatile player and fast transfer tool by iQIYI that supports various audio and video formats and casting without limitations from location or local area Wi-Fi networks, and allows high-speed cross-platform file transfer between mobile and desktop.",
     "icon": "/icons/intunify-default.png"
