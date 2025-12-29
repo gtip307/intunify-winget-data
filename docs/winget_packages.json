@@ -77,6 +77,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TobiasHammer.HTerm",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Tiwut.TiwutLauncher",
     "name": "",
     "publisher": null,
@@ -4781,6 +4788,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ADATA.SSDToolbox",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Actifile.ActifileAgent",
     "name": "",
     "publisher": null,
@@ -5412,6 +5426,13 @@
   },
   {
     "id": "Arnau478.hevi",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "antangelo.xdvdfs",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8918,6 +8939,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ChilliCream.Nitro",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CenSoft.TinyTERM",
     "name": "",
     "publisher": null,
@@ -10164,6 +10192,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "cwensley.PabloDraw",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CheckMAL.AppCheck",
     "name": "",
     "publisher": null,
@@ -10864,6 +10899,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "grdl.git-get",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Garmin.BaseCamp",
     "name": "",
     "publisher": null,
@@ -11110,6 +11152,13 @@
   },
   {
     "id": "G0rocks.Cab",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "G0rocks.DesktopShortcutRemover",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12089,6 +12138,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "lainx86.EcoScan",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "lainx86.InterpKit",
     "name": "",
     "publisher": null,
@@ -12328,6 +12384,13 @@
   },
   {
     "id": "mitmproxy.mitmproxy",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "mentebinaria.dz6",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13552,6 +13615,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.OSCDIMG",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.WindowsInstallationAssistant",
     "name": "",
     "publisher": null,
@@ -13577,6 +13647,13 @@
     "name": "",
     "publisher": null,
     "description": "Microsoft Access database engine 2016 帮助在现有的 Microsoft Office 文件（例如 Microsoft Office Access（*.mdb 和 *.accdb）文件和 Microsoft Office Excel（*.xls、*.xlsx 和 *.xlsb）文件）与其他数据源（例如 Microsoft SQL Server）之间传输数据。还支持与现有文本文件建立连接。此外，还会安装 ODBC 和 OLEDB 驱动程序，供应用程序开发人员在开发与 Office 文件格式连接的应用程序时使用。\n\nAccess 2016 数据库引擎可再发行程序包不用于以下用途：\n1. 作为 Jet 的一般替代品（如果需要 Jet 的一般替代品，应使用 SQL Server Express Edition）。\n2. 作为服务器端应用程序的 Jet OLEDB 提供程序的替代品。\n3. 作为常规文字处理、电子表格或数据库管理系统，可以用来创建文件。（可使用 Microsoft Office 或 Office 自动化来创建 Microsoft Office 支持的文件。）\n4. 由系统服务或代码将在系统帐户下运行的服务器端程序使用，或将同时处理多个用户标识，或可高度重入并且期望无状态行为。例如，当没有任何用户登录时从任务计划程序运行的程序；或者，从像 ASP.NET 这样的服务器端 Web 应用程序调用的程序；或者，在 COM+ 服务下运行的分布式组件。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.FRSDiag",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -14456,6 +14533,13 @@
   },
   {
     "id": "MasujiSUTO.StereoPhotoMaker",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MellowMill.Studio",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16639,6 +16723,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JS8Call-improved.JS8Call-improved",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "johnlng.slickcmd",
     "name": "",
     "publisher": null,
@@ -17381,6 +17472,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Yali.DelFast",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "YutakaSawada.MultiPar.Beta",
     "name": "",
     "publisher": null,
@@ -17683,13 +17781,6 @@
   },
   {
     "id": "Wfview.Wfview",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "w1hjk.fldigi",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18264,6 +18355,13 @@
   },
   {
     "id": "writage.writage",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WernerKrenn.WsWinAprs",
     "name": "",
     "publisher": null,
     "description": "",
@@ -20251,6 +20349,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftemiaLT.SoftemiamCardmiddleware",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SonicVisualiser.SonicVisualiser",
     "name": "",
     "publisher": null,
@@ -20763,13 +20868,6 @@
   },
   {
     "id": "sourcegit-scm.SourceGit",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Shift.Shift",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22855,6 +22953,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "hcs64.ww2ogg",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "hwtnb.SylphyHornPlus",
     "name": "",
     "publisher": null,
@@ -24546,6 +24651,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Dell.Optimizer",
+    "name": "",
+    "publisher": null,
+    "description": "Dell Optimizer 通过调整电源、电池、显示器、协作触控板和存在检测的设置，提升系统性能和生产力。它还让您能够访问随新电脑购买的应用程序。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -26572,6 +26684,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "xxnuo.OpenCoreUI",
+    "name": "",
+    "publisher": null,
+    "description": "Open CoreUI，一个轻量级的 Open WebUI 实现\n功能\n- 提供桌面客户端，只需下载单个可执行文件即可开始使用\n- 使用原始前端\n- 无需 Docker、Python、PostgreSQL、Redis 等依赖\n- 相比原版本内存占用更低（显著降低）\n- 硬件要求低于原版本\n- 采用 Rust 后端服务器，性能优于原版本",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Xencelabs.Driver",
     "name": "",
     "publisher": null,
@@ -26804,6 +26923,13 @@
   },
   {
     "id": "xfangfang.Wiliwili",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "xdpxi.xds-code",
     "name": "",
     "publisher": null,
     "description": "",
@@ -28931,6 +29057,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Prog.ProgTV.3",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Prog.ProgFinder",
     "name": "",
     "publisher": null,
@@ -29288,6 +29421,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PatrickMatthiesen.oh-my-dot",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "prefix-dev.pixi",
     "name": "",
     "publisher": null,
@@ -29583,6 +29723,13 @@
   },
   {
     "id": "PaddiM8.kalker",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ParrotHat.PLP",
     "name": "",
     "publisher": null,
     "description": "",
@@ -31209,6 +31356,13 @@
     "id": "DirSoft.ARPro",
     "name": "Accident Reconstruction Professional",
     "publisher": "Dirigo Software",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.AccountLockoutStatus",
+    "name": "Account Lockout Status",
+    "publisher": "Microsoft Corporation",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -32921,6 +33075,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "LuisPater.anyAIProxyAPI",
+    "name": "Any AI Proxy API",
+    "publisher": "Luis Pater",
+    "description": "This project creates a bridge between OpenAI's API format and various AI websites' web interfaces. It uses ChromeDP for browser automation to interact with Any AI website and provides a REST API that mimics OpenAI's chat completions endpoint.\nFeatures\n- OpenAI-Compatible API: Supports /v1/chat/completions endpoints\n- Browser Automation: Uses ChromeDP with Fingerprint Chromium browser for web automation\n- Request Queue: Implements a queue system to handle requests sequentially\n- Configurable Workflows: YAML-based configuration for different automation workflows\n- Multi-AI Service Support: Supports ChatGPT, Gemini AI Studio, Grok, and more\n- Multi-Instance Support: Can manage multiple AI service instances simultaneously\n- Screenshot API: Built-in screenshot functionality for debugging\n- Authentication Management: Automatic cookie and session management",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "anyme123.AnyCode",
     "name": "Any Code",
     "publisher": "workbench",
@@ -33211,6 +33372,13 @@
     "id": "Quadren.Arc.Prerelease",
     "name": "Arc",
     "publisher": "Quadren",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Jul13n1.ArcAgent",
+    "name": "Arc Agent",
+    "publisher": "Jul13n1",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -33939,6 +34107,13 @@
     "id": "jbreland.autoflac",
     "name": "AutoFLAC",
     "publisher": "Jared Breland",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ZhipuAI.AutoGLM",
+    "name": "AutoGLM",
+    "publisher": "智谱华章",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -36512,6 +36687,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CCExtractor.CCExtractor",
+    "name": "CCExtractor",
+    "publisher": "CCExtractor Development",
+    "description": "CCExtractor is a tool that analyzes video files and produces independent subtitle files from the closed captions data.\n\nKey features:\n- Extracts closed captions from various video formats (MPEG, H.264, MKV, MP4, etc.)\n- Supports multiple input sources including DVDs, DVRs, and live TV captures\n- Outputs to multiple formats (SRT, WebVTT, SAMI, transcript, etc.)\n- OCR support for bitmap-based subtitles (DVB, teletext)\n- Cross-platform (Windows, Linux, macOS)\n- Includes a GUI for easy operation",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Piriform.CCleaner",
     "name": "CCleaner",
     "publisher": "Piriform",
@@ -37587,6 +37769,13 @@
     "name": "CodeLite",
     "publisher": "Eran Ifrah",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JordanCoin.codemap",
+    "name": "codemap",
+    "publisher": "JordanCoin",
+    "description": "codemap generates a compact, structured \"brain map\" of your codebase\nthat LLMs can instantly understand. One command gives instant\narchitectural context without burning tokens.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40313,6 +40502,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JordanCoin.docmap",
+    "name": "docmap",
+    "publisher": "JordanCoin",
+    "description": "docmap generates a compact, structured map of your documentation\nthat LLMs can instantly understand. Navigate massive docs without\nburning tokens.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WestWind.DocumentationMonster",
     "name": "Documentation Monster",
     "publisher": "West Wind Technologies",
@@ -41997,6 +42193,13 @@
     "name": "ESBUnitConv Pro TRIAL",
     "publisher": "ESB Consultancy",
     "description": "ESBUnitConv Pro is an Enhanced user-friendly Windows Utility to easily convert between units of measurement. Includes Units for Temperature, Distance, Mass, Area, Volume, Pressure, Velocity, Acceleration, Force, Energy, Power, Fuel Consumption, Flow, Torque, Angles, Time, Illumination, Luminous Intensity, Luminance, Luminous Flux, Density, Angular Velocity, Angular Acceleration, Computer Storage, Data Rates, Dynamic Viscosity, Kinematic Viscosity, Electric Charge, Electric Current, Magnetic Flux, Magnetic Flux Density, Magnetic Field Strength, Quantities, Radiation Absorption, Radiation Dose, Radioactivity, Thermal Conductivity, Solid Angles, Specific Energy and Electrical Resistance.\nIncludes the ability to log conversions, print, improved clipboard support, integrated help and much more. Also support for Exponential Notation in conversions and in the pop-up calculator. Special support included for SI Units, American Wire Gauge Table, Paper Sizes, Circle Calculations, Sphere Calculations and Solar System Comparison Tool. Also includes the ability to hide units if you don't want them.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ReceitaFederaldoBrasil.EscrituraçãoDigitalEFD",
+    "name": "Escrituração Digital EFD-Contribuições",
+    "publisher": "Receita Federal do Brasil",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43890,6 +44093,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "w1hkj.fldigi",
+    "name": "Fldigi",
+    "publisher": "Fldigi developers",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JetBrains.FleetLauncher.Preview",
     "name": "Fleet Launcher (Public Preview)",
     "publisher": "JetBrains s.r.o.",
@@ -44674,6 +44884,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Aida-Enna.GamebarHandler",
+    "name": "GamebarHandler",
+    "publisher": "Aida-Enna",
+    "description": "Gets rid of those pesky 'open ms-gamebar' and 'open ms-gamingoverlay' popups. When you don't have the gamebar and Xbox gaming overlay installed, Windows still tries to call them do to various things (for some reason?). By running this program, you tell Windows \"Hey, this program can handle those!\". So then when Windows wants to open the gamebar or gaming overlay, it opens this program, which instantly (and silently!) closes. \\ o /",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Oscaritodev.GameLauncher",
     "name": "GameLauncher",
     "publisher": "Oscaritodev",
@@ -45024,6 +45241,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NuitsJp.GistGet",
+    "name": "GistGet",
+    "publisher": "nuitsjp",
+    "description": "GistGet is a tool that synchronizes your WinGet package list with GitHub Gist,\nenabling easy backup and restoration of your installed packages across multiple machines.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Git.Git",
     "name": "Git",
     "publisher": "The Git Development Community",
@@ -45203,6 +45427,13 @@
     "name": "GitTools GitVersion",
     "publisher": "GitTools",
     "description": "Versioning when using Git, solved.\nGitVersion looks at your git history and works out the Semantic Version of the commit being built.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AmarBego.GitTop",
+    "name": "GitTop",
+    "publisher": "AmarBego",
+    "description": "A lightweight GitHub notifications client. Why spin up a browser just to check your GitHub notifications?",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49553,6 +49784,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KDE.KAIChat",
+    "name": "KAIChat",
+    "publisher": "KDE",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KDE.Kaidan",
     "name": "Kaidan",
     "publisher": "KDE e.V.",
@@ -50932,6 +51170,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BellSoft.LibericaJDK.11.Lite",
+    "name": "Liberica JDK 11 Lite",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.12.Lite",
+    "name": "Liberica JDK 12 Lite",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BellSoft.LibericaJDK.13",
     "name": "Liberica JDK 13",
     "publisher": "BellSoft",
@@ -50955,6 +51207,13 @@
   {
     "id": "BellSoft.LibericaJDK.14.Full",
     "name": "Liberica JDK 14 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.14.Lite",
+    "name": "Liberica JDK 14 Lite",
     "publisher": "BellSoft",
     "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
     "icon": "/icons/intunify-default.png"
@@ -51193,6 +51452,13 @@
   {
     "id": "BellSoft.LibericaJDK.8.Full",
     "name": "Liberica JDK 8 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.8.Lite",
+    "name": "Liberica JDK 8 Lite",
     "publisher": "BellSoft",
     "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
     "icon": "/icons/intunify-default.png"
@@ -54001,7 +54267,7 @@
     "id": "MiTeC.ExeExplorer",
     "name": "MiTeC EXE Explorer",
     "publisher": "MiTeC",
-    "description": "This application is based on MiTeC Portable Executable Reader. It reads and displays executable file properties and structure. It is compatible with PE32 (Portable Executable), PE32+ (64bit), NE (Windows 3.x New Executable) and VxD (Windows 9x Virtual Device Driver) file types. .NET executables are supported too.\n\nIt enumerates introduced classes, used units and forms for files compiled by Borland compilers.\nIt contains powerful Resource Viewer that is able to abalyze and display al basic resouce types and some extra ones as JPEG, PNG, GIF, AVI, REGISTRY. It contains excellent Type Library viewer that enumerates all objects and creates import interface unit in Object Pascal language. Every type of resource can be saved to file.\nEXE Explorer produces text report with all important information about selected file.\nSearching capability is also available. It searches all resources that can be interpreted as text.\n\nHere are enumerated structures that are evaluated:\n- DOS, File, Optional, Rich and CLR headers\n- CLR Metadata streams\n- Sections, Directories\n- Imports, Exports\n- Resources\n- ASCII and Unicode Strings\n- .NET Metadata\n- Load Config\n- Debug, Thread Local Storage\n- Exceptions, Units, Forms\n- Classes, Certificates\n- Packages, Package Flags\n- Version Info\n- Hexadecimal File Content View\n- TypeLib Viewer\n- Form Preview\n- VirusTotal scan report\n- Compiler and installer/packer/protector identification\n\nFree to use for private, educational and non-commercial purposes. For other usage you should buy commercial license.",
+    "description": "This application is based on MiTeC Portable Executable Reader. It reads and displays executable file properties and structure. It is compatible with PE32 (Portable Executable), PE32+ (64bit), NE (Windows 3.x New Executable) and VxD (Windows 9x Virtual Device Driver) file types. .NET executables are supported too.\n\nIt enumerates introduced classes, used units and forms for files compiled by Borland compilers.\nIt contains powerful Resource Viewer that is able to abalyze and display al basic resouce types and some extra ones as JPEG, PNG, GIF, AVI, REGISTRY. It contains excellent Type Library viewer that enumerates all objects and creates import interface unit in Object Pascal language. Every type of resource can be saved to file.\nEXE Explorer produces text report with all important information about selected file.\nSearching capability is also available. It searches all resources that can be interpreted as text.\n\nHere are enumerated structures that are evaluated:\n• DOS, File, Optional, Rich and CLR headers\n• CLR Metadata streams\n• Sections, Directories\n• Imports, Exports\n• Resources\n• ASCII and Unicode Strings\n• .NET Metadata\n• Load Config\n• Debug, Thread Local Storage\n• Exceptions, Units, Forms\n• Classes, Certificates\n• Packages, Package Flags\n• Version Info\n• Hexadecimal File Content View\n• TypeLib Viewer\n• Form Preview\n• VirusTotal scan report\n• Compiler and installer/packer/protector identification\n\nFree to use for private, educational and non-commercial purposes. For other usage you should buy commercial license.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54246,6 +54512,13 @@
     "id": "Modyfi.Modyfi",
     "name": "Modyfi",
     "publisher": "Modyfi",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Blocktronics.Moebius",
+    "name": "Moebius",
+    "publisher": "Blocktronics",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -55979,6 +56252,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ungive.MusicPresence",
+    "name": "Music Presence",
+    "publisher": "Jonas van den Berg",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "maotoumao.MusicFree",
     "name": "MusicFree",
     "publisher": "猫头猫",
@@ -56357,6 +56637,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "joadoumie.NBACommandPaletteExtension",
+    "name": "NBA Command Palette Extension",
+    "publisher": "joadoumie",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Jaquadro.NBTExplorer",
     "name": "NBTExplorer",
     "publisher": "Justin Aquadro",
@@ -56494,6 +56781,13 @@
     "name": "Neovim",
     "publisher": "neovim.io",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Nero.NeroBurningROM",
+    "name": "Nero Burning ROM & Express 2026",
+    "publisher": "Nero AG",
+    "description": "With Nero Platinum Suite, you can manage your everyday digital life, at home and on the road - guaranteed! Now equipped with brand-new functions.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57068,6 +57362,13 @@
     "name": "NirSoft Wireless Network Watcher",
     "publisher": "Nirsoft",
     "description": "For every computer or device that is connected to your network, the following information is displayed:\n  IP address, MAC address, the company that manufactured the network card, and\n  optionally the computer name.\n\nYou can also export the connected devices list into html/xml/csv/text file, or\ncopy the list to the clipboard and then paste into Excel or other spreadsheet\napplication.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ChilliCream.Nitro.CLI",
+    "name": "Nitro CLI",
+    "publisher": "ChilliCream",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58975,6 +59276,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "fsprojects.Paket",
+    "name": "Paket",
+    "publisher": "F# Community Project Incubation Space",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "nikpapa.palamedes",
     "name": "Palamedes",
     "publisher": "Nikolaos Papahristou",
@@ -59871,6 +60179,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AbdElMoniemElHifnawy.PidCat",
+    "name": "PidCat",
+    "publisher": "AbdElMoniem ElHifnawy",
+    "description": "PidCat is an enhanced Android logcat viewer originally created by Jake Wharton for the Android Open Source Project.\nThis Windows-optimized fork adds modern features including VT100 color support, advanced tag filtering with substring matching, and improved column formatting.\n\nPidCat filters logcat output by application package name, colorizes the output for better readability, and provides powerful filtering options to help you focus on the logs that matter.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Pidgin.Pidgin",
     "name": "Pidgin",
     "publisher": "Pidgin IM",
@@ -59903,6 +60218,13 @@
     "name": "Pinga",
     "publisher": "Cedric Louvrier",
     "description": "pinga is an easy to use GUI, experimental image optimizer (PNG, JPEG, APNG) designed to be used for web context",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DarthDemono.PingDD",
+    "name": "PingDD",
+    "publisher": "DarthDemono",
+    "description": "PingDD is a cross-platform ping tool made in C for TCP port checking. This tool is designed to help network administrators and enthusiasts test the availability and responsiveness of specific TCP ports on remote servers.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61044,6 +61366,13 @@
     "name": "PstRotator",
     "publisher": "YO3DMU",
     "description": "PstRotator supports separate antenna rotator controllers for Azimuth and Elevation control. It can control two separate rotor interfaces: one for azimuth and the second for elevation, or it can control a single azimuth + elevation rotor interface.\n\nConnect the rotator interfaces to PC using the RS232 ports or USB to serial converters, and select the communication ports from the available COM Ports.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "abhimanyu003.pttr",
+    "name": "pttr",
+    "publisher": "abhimanyu003",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63301,6 +63630,41 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RootsMagic.RootsMagic.3",
+    "name": "RootsMagic 3",
+    "publisher": "RootsMagic, Inc.",
+    "description": "RootsMagic is the award-winning genealogy and family tree software designed to help users discover, document, and share their family history with ease. It allows you to start from scratch or import existing trees, integrate records from FamilySearch, Ancestry, MyHeritage, and Findmypast, and keep notes, photos, health details, and DNA matches organized in one place.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RootsMagic.RootsMagic.4",
+    "name": "RootsMagic 4",
+    "publisher": "RootsMagic, Inc.",
+    "description": "RootsMagic is the award-winning genealogy and family tree software designed to help users discover, document, and share their family history with ease. It allows you to start from scratch or import existing trees, integrate records from FamilySearch, Ancestry, MyHeritage, and Findmypast, and keep notes, photos, health details, and DNA matches organized in one place.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RootsMagic.RootsMagic.5",
+    "name": "RootsMagic 5",
+    "publisher": "RootsMagic, Inc.",
+    "description": "RootsMagic is the award-winning genealogy and family tree software designed to help users discover, document, and share their family history with ease. It allows you to start from scratch or import existing trees, integrate records from FamilySearch, Ancestry, MyHeritage, and Findmypast, and keep notes, photos, health details, and DNA matches organized in one place.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RootsMagic.RootsMagic.6",
+    "name": "RootsMagic 6",
+    "publisher": "RootsMagic, Inc.",
+    "description": "RootsMagic is the award-winning genealogy and family tree software designed to help users discover, document, and share their family history with ease. It allows you to start from scratch or import existing trees, integrate records from FamilySearch, Ancestry, MyHeritage, and Findmypast, and keep notes, photos, health details, and DNA matches organized in one place.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RootsMagic.RootsMagic.7",
+    "name": "RootsMagic 7",
+    "publisher": "RootsMagic, Inc.",
+    "description": "RootsMagic is the award-winning genealogy and family tree software designed to help users discover, document, and share their family history with ease. It allows you to start from scratch or import existing trees, integrate records from FamilySearch, Ancestry, MyHeritage, and Findmypast, and keep notes, photos, health details, and DNA matches organized in one place.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RootsMagic.RootsMagic.8",
     "name": "RootsMagic 8",
     "publisher": "RootsMagic, Inc.",
@@ -64012,6 +64376,13 @@
     "name": "Sc1",
     "publisher": "Scintilla",
     "description": "SciTE is a SCIntilla based Text Editor.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "razpinator.scaffo",
+    "name": "scaffo",
+    "publisher": "razpinator",
+    "description": "Scaffolding tool for Go projects",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64785,6 +65156,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Shift.Shift",
+    "name": "Shift",
+    "publisher": "Shift Technologies, Inc.",
+    "description": "One window for everything you do on the internet. The first browser to integrate your web apps into one seamless experience. Requires either a Google or Microsoft account to launch properly.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RockinChaos.Shiru",
     "name": "Shiru",
     "publisher": "RockinChaos",
@@ -64907,7 +65285,7 @@
     "id": "Microsoft.Sysinternals.Sigcheck",
     "name": "Sigcheck",
     "publisher": "Microsoft",
-    "description": "Sigcheck is a command-line utility that shows file version number, timestamp information, and digital signature details, including certificate chains. It also includes an option to check a file’s status on VirusTotal, a site that performs automated file scanning against over 40 antivirus engines, and an option to upload a file for scanning.",
+    "description": "Sigcheck is a command-line utility that shows file version number, timestamp information, and digital signature details, including certificate chains. It also includes an option to check a file’s status on VirusTotal, a site that performs automated file scanning against over 40 antivirus engines, and an option to upload a file for scanning. For .exe-s (but not other executables) it can also check its architecture.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -65776,6 +66154,13 @@
     "name": "spacectl",
     "publisher": "spacelift-io",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Datronicsoft.SpacedeskViewer.Client.Beta",
+    "name": "spacedesk Windows VIEWER",
+    "publisher": "datronicsoft Inc.",
+    "description": "Transform any device into an additional display! Experience the versatility of extending your desktop real estate with this easy-to-use, intuitive viewer application. Connect to your main system with just a few clicks and enjoy the seamless integration of multiple screens for a truly unified multi-display environment. Note that this Winget package's version is noticeably older than the msstore version of VIEWER.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67046,6 +67431,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FaserF.SwitchCraft",
+    "name": "SwitchCraft",
+    "publisher": "FaserF",
+    "description": "SwitchCraft is your comprehensive packaging assistant for IT Professionals. It goes beyond simple switch identification to streamline your entire application packaging workflow.\nFeatures:\n- Universal Analysis: Instantly identify silent switches for EXE, MSI, and obscure installer frameworks.\n- AI-Powered Helper: Get context-aware packaging advice and troubleshooting.\n- Intune Ready: Generate standardized PowerShell installation scripts automatically.\n- Cross-Platform: Manage installers for Windows, Linux, and macOS.\n- Winget Integration: Fast package detection.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "kvakulo.switcheroo",
     "name": "Switcheroo",
     "publisher": "Regin Larsen",
@@ -68079,6 +68471,13 @@
     "name": "Thio's SVG Thumbnail Extension",
     "publisher": "ThioJoe",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "wenming.ThirdSpace",
+    "name": "ThirdSpace",
+    "publisher": "WenMing",
+    "description": "ThirdSpace is a Windows system tray translation utility that uses AI models via OpenRouter to translate clipboard text. It features a global hotkey (Ctrl+Alt+T), a settings UI, and toast notifications.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69734,6 +70133,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KevinBralten.UMDT",
+    "name": "Universal Modbus Diagnostic Tool",
+    "publisher": "KevinBralten",
+    "description": "UMDT is a comprehensive toolkit designed for engineers and developers working with Modbus (RTU/TCP) devices. It simplifies tasks such as: Diagnosing: Reading/writing registers, scanning address ranges, and identifying devices; Simulating: Creating virtual Modbus slaves with configurable behavior and fault injection; Bridging: Routing traffic between different transports (e.g., TCP to Serial) and modifying packets on the fly; Sniffing: Capturing and analyzing Modbus traffic for forensic debugging.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Bit4id.UniversalMiddleware",
     "name": "Universal MW",
     "publisher": "Bit4id",
@@ -71305,7 +71711,7 @@
     "id": "VovSoft.ExecutableBitScanner",
     "name": "Vovsoft Executable Bit Scanner",
     "publisher": "VOVSOFT",
-    "description": "Executable Bit Scanner is a powerful and user-friendly Windows utility designed to analyze and categorize executable files and dynamic-link libraries within your system. This efficient tool scans selected folders, providing valuable insights into the executable landscape of your computer.\n\nAll executable binary files start with special markers. This executable checker program automatically checks MZ, NE, PE, LE headers.\n\nKey Features\n1. Comprehensive File Detection:\n   Identifies both EXE (executable) and DLL (dynamic-link library) files\n   Thorough scanning of selected folders and subfolders\n2. Multi-Architecture Support:\n   64-bit executables for modern systems\n   32-bit executables for backward compatibility\n   16-bit executables from legacy applications\n   DOS executables for historical software\n   VXD files (Virtual Device Driver)\n   ROM images\n3. User-Friendly Interface:\n   Intuitive folder selection process\n4. Detailed Reporting:\n   Option to export results in various formats (e.g., HTML, TXT, CSV, XLS, XLSX)",
+    "description": "Executable Bit Scanner is a powerful and user-friendly Windows utility designed to analyze and categorize executable files and dynamic-link libraries within your system. This efficient tool scans selected folders, providing valuable insights into the executable landscape of your computer.\n\nAll executable binary files start with special markers. This executable checker program automatically checks MZ, NE, PE, LE headers.\n\nKey Features\n1. Comprehensive File Detection:\n   Identifies both EXE (executable) and DLL (dynamic-link library) files\n   Thorough scanning of selected folders and subfolders\n2. Multi-Architecture Support:\n   64-bit executables for modern systems\n   32-bit executables for backward compatibility\n   16-bit executables from legacy applications\n   DOS executables for historical software\n   VXD files (Virtual Device Driver)\n   ROM images\n3. User-Friendly Interface:\n   Intuitive folder selection process\n4. Detailed Reporting:\n   Option to export results in various formats (e.g., HTML, TXT, CSV, XLS, XLSX)\n\nNote that as of 1.0.0.0, the tool does not distinguish between traditional and ARM architectures, and that it cannot detect the bits of non-.exe executables.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71368,7 +71774,7 @@
     "id": "VovSoft.HexViewer",
     "name": "Vovsoft Hex Viewer",
     "publisher": "VOVSOFT",
-    "description": "Vovsoft Hex Viewer is a simple application that allows you to view hex code of binary files. Open any binary file on your laptop or desktop computer to view its hex code and explore it with ease with the help of this easy to use program for Windows.\n\nWhen running this software, you are greeted by a simple and clean interface, with just a few controls. The minimalistic look tells you from the start that this application is simple and only fulfills a single purpose: to deliver a quick and easy hex reader.\n\nYou can load any binary file to view its contents in this software, regardless of its size. It can easily open files larger than 1 gigabyte. Navigating through the hex code can be done using the keyboard arrows and the \"Page Up\" and \"Page Down\" buttons. The viewer allows you to change the default reading order and provides additional options in the context menu to show and insert unicode control characters.\n\nThe application displays useful information, such as the file size and whether an executable file or DLL file is 64-bit, 32-bit, or 16-bit.",
+    "description": "Vovsoft Hex Viewer is a simple application that allows you to view hex code of binary files. Open any binary file on your laptop or desktop computer to view its hex code and explore it with ease with the help of this easy to use program for Windows.\n\nWhen running this software, you are greeted by a simple and clean interface, with just a few controls. The minimalistic look tells you from the start that this application is simple and only fulfills a single purpose：to deliver a quick and easy hex reader.\n\nYou can load any binary file to view its contents in this software, regardless of its size. It can easily open files larger than 1 gigabyte. Navigating through the hex code can be done using the keyboard arrows and the \"Page Up\" and \"Page Down\" buttons. The viewer allows you to change the default reading order and provides additional options in the context menu to show and insert unicode control characters.\n\nThe application displays useful information, such as the file size and whether an executable file or DLL file is 64-bit, 32-bit, or 16-bit.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -74648,6 +75054,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ycookiey.yClocky",
+    "name": "yClocky",
+    "publisher": "ycookiey",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Yealink.YealinkUSBConnect.CN",
     "name": "Yealink USB Connect",
     "publisher": "Yealink",
@@ -75030,6 +75443,13 @@
     "name": "Zint",
     "publisher": "Robin Stuart & BogDan Vatra",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "zizmor.zizmor",
+    "name": "zizmor",
+    "publisher": "William Woodruff",
+    "description": "zizmor is a static analysis tool for GitHub Actions.\n\nIt can find many common security issues in typical GitHub Actions CI/CD setups, including:\n- Template injection vulnerabilities, leading to attacker-controlled code execution\n- Accidental credential persistence and leakage\n- Excessive permission scopes and credential grants to runners\n- Impostor commits and confusable git references\n- ...and much more!",
     "icon": "/icons/intunify-default.png"
   },
   {
