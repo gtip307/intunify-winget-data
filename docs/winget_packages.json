@@ -63,13 +63,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "TableClothProject.TableCloth",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "tldr-pages.tlrc",
     "name": "",
     "publisher": null,
@@ -231,6 +224,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TimeStored.QStudio",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TatLead.WindowsGSM",
     "name": "",
     "publisher": null,
@@ -323,6 +323,13 @@
   },
   {
     "id": "tecwindow.Albayan",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TragicCode.BuslyCLI",
     "name": "",
     "publisher": null,
     "description": "",
@@ -1841,13 +1848,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "NirSoft.UninstallView",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "NirSoft.ShellExView",
     "name": "",
     "publisher": null,
@@ -2801,6 +2801,13 @@
   },
   {
     "id": "NOWTV.NOWTVPlayer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Nuand.bladeRF",
     "name": "",
     "publisher": null,
     "description": "",
@@ -5348,6 +5355,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AlperHan.CrossMacro",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AlanJhu.OXWUEEW",
     "name": "",
     "publisher": null,
@@ -6111,6 +6125,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "VadimKholodilo.GitSwitchBranch",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "vividos.winLAME",
     "name": "",
     "publisher": null,
@@ -6657,6 +6678,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KDE.Ark.AppX",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KDE.Lokalize",
     "name": "",
     "publisher": null,
@@ -6745,6 +6773,13 @@
     "name": "",
     "publisher": null,
     "description": "Ruqola 是 Rocket.Chat 的客户端。\n它支持 RC 功能：\n- 私聊\n- 群组频道\n- 频道\n- 支持自动翻译（当 RC 有该功能时）\n- 配置房间通知\n- 配置房间\n- 支持帖子消息\n- 讨论室\n- 支持团队会议室\n- 配置自己的账户\n- 注册新账户\n- 支持多账户\n- 在房间内搜索信息\n- 显示提及/附加/置顶消息/开始消息\n- 支持表情符号\n- 支持视频\n- 配置管理员支持（添加/删除角色、添加/删除用户、添加/删除权限、配置房间等）\n- 支持 OTR（开发中）\n- 支持 GIF 图像\n- 添加对上传附件文件的支持\n- 显示未读邮件信息\n- 允许屏蔽/取消屏蔽用户\n- 自动离开\n- 通过 TOTP 进行双因素身份验证\n- 通过电子邮件进行双因素验证\n- 管理员支持（服务器信息、房间、自定义用户状态、自定义声音、自定义表情符号、用户、邀请、查看日志、权限、角色、OAuth）、管理员设置（消息、账户、保留策略、文件上传、加密）\n- 导出信息\n- 视频会议\n额外功能\n- 允许从通知中直接回复消息（kde 功能）\n- 从 Ruqola 拖放图片到网站或本地文件夹\n- 将消息存储在本地数据库中，以便离线搜索\n- 标记所有频道已读\n- 添加通知历史\n- 支持新的 RocketChat 服务器信息\n- 管理设备（RC >= 5.0）\n- 管理个人访问令牌\n- 增加本地翻译支持\n- 增加文本自动更正支持",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KDE.Ruqola.AppX",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -9793,13 +9828,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Chill-Astro.PyCalc-SE",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Chill-Astro.FastCalc",
     "name": "",
     "publisher": null,
@@ -9808,27 +9836,6 @@
   },
   {
     "id": "Chill-Astro.MsixCertImportTool",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Chill-Astro.PyCalc-CE",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Chill-Astro.PyCalc-JE",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Chill-Astro.Calculator.unp",
     "name": "",
     "publisher": null,
     "description": "",
@@ -10669,6 +10676,13 @@
   },
   {
     "id": "Ginger.GingerWriter",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Gardener.gardenctl",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12131,6 +12145,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "LazyDuchess.AlderLakePatcher",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LinearOrbit.Linear",
     "name": "",
     "publisher": null,
@@ -12363,13 +12384,6 @@
   },
   {
     "id": "Mrs4s.go-cqhttp",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "MicrosoftCorporation.AzureVPNClient",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12803,6 +12817,34 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Tokenizer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.DirectX.ShaderCompiler",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.DirectX.ToolKit.MakeSpriteFont",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.DirectX.ToolKit.XWBTool",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.WCFDataServices50.ODatav3",
     "name": "",
     "publisher": null,
@@ -13055,7 +13097,21 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.LightGBM",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.Sysinternals.PsTools",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Sysinternals.Autologon",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13091,6 +13147,13 @@
   },
   {
     "id": "Microsoft.MediaCreationTool",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.SmartDump",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13594,6 +13657,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.HIDTools.Waratah",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.MouseandKeyboardCenter",
     "name": "",
     "publisher": null,
@@ -13657,6 +13727,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.etl2pcapng",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.LogParser",
     "name": "",
     "publisher": null,
@@ -13693,6 +13770,13 @@
   },
   {
     "id": "Microsoft.Azure.TrustedSigningClientTools",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Azure.CloudHSM-ClientSDK",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13784,6 +13868,13 @@
   },
   {
     "id": "Microsoft.SQLServer.2019.Developer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.SQLServer.OLEDBDriver",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14302,6 +14393,13 @@
   },
   {
     "id": "MetaCubeX.Mihomo",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MetaCubeX.Mihomo.GOAMD64v2",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15037,6 +15135,13 @@
   },
   {
     "id": "Mozilla.ProfileManager",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Mozilla.XULRunner",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16310,6 +16415,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Meituan.CatPaw",
+    "name": "",
+    "publisher": null,
+    "description": "Meituan CatPaw is an AI-powered IDE launched by Meituan, revolutionizing the programming experience through Agent-driven innovation, enabling developers to focus on creative implementation and enhancing project delivery efficiency.\nAs your AI programming partner, Meituan CatPaw not only answers code-related questions but also assists you in completing complex development tasks, ensuring every idea can be quickly realized.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "QL-Win.QuickLook",
     "name": "",
     "publisher": null,
@@ -17185,6 +17297,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JMMG.TextFileEditor",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JakobDev.jdDesktopEntryEdit",
     "name": "",
     "publisher": null,
@@ -17634,13 +17753,6 @@
   },
   {
     "id": "Yealink.YealinkUSBConnect",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "YandereDev.YandereSimulator",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18326,6 +18438,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "wahibre.mtn",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WorldTimeCLI.WorldTimeCLI",
     "name": "",
     "publisher": null,
@@ -18362,6 +18481,13 @@
   },
   {
     "id": "WernerKrenn.WsWinAprs",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WernerKrenn.WsWin",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18551,6 +18677,13 @@
   },
   {
     "id": "zeankundev.suside",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ZulerTechnology.DeskIn",
     "name": "",
     "publisher": null,
     "description": "",
@@ -19495,6 +19628,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "rix0rrr.WindowsPathEditor",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Radiantly.Invisiwind",
     "name": "",
     "publisher": null,
@@ -20304,13 +20444,6 @@
     "name": "",
     "publisher": null,
     "description": "SapMachine 项目包含 OpenJDK 项目的下游版本，用于为希望使用 OpenJDK 运行其应用程序的 SAP 客户和合作伙伴构建和维护 SAP 支持的 OpenJDK 版本。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Sysinternals.Autologon",
-    "name": "",
-    "publisher": null,
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -22169,6 +22302,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Sketchpunk.OpenKeyboard",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Skyjos.Redfish",
     "name": "",
     "publisher": null,
@@ -23451,6 +23591,13 @@
   },
   {
     "id": "drakkan.SFTPGo",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "drakkan.SFTPGoEnterprise",
     "name": "",
     "publisher": null,
     "description": "",
@@ -26684,6 +26831,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "xxnuo.OpenCoreUI.Desktop",
+    "name": "",
+    "publisher": null,
+    "description": "Open CoreUI，一个轻量级的 Open WebUI 实现\n功能\n- 提供桌面客户端，只需下载单个可执行文件即可开始使用\n- 使用原始前端\n- 无需 Docker、Python、PostgreSQL、Redis 等依赖\n- 相比原版本内存占用更低（显著降低）\n- 硬件要求低于原版本\n- 采用 Rust 后端服务器，性能优于原版本",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "xxnuo.OpenCoreUI",
     "name": "",
     "publisher": null,
@@ -26930,6 +27084,13 @@
   },
   {
     "id": "xdpxi.xds-code",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "xdpxi.sponge",
     "name": "",
     "publisher": null,
     "description": "",
@@ -29029,6 +29190,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Proton.ProtonPass.CLI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Proton.ProtonAuthenticator",
     "name": "",
     "publisher": null,
@@ -29554,6 +29722,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PCMan-BBS.PCMan",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PatrikLaszlo.P3XRedisUI",
     "name": "",
     "publisher": null,
@@ -29751,6 +29926,20 @@
   },
   {
     "id": "PCLCommunity.PCL2",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PCLCommunity.PCL2-CE.Beta",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PCLCommunity.PCL2-CE",
     "name": "",
     "publisher": null,
     "description": "",
@@ -30055,6 +30244,13 @@
     "name": "",
     "publisher": null,
     "description": "DisplayCAL（曾名为 dispcalGUI）是一款专注于精确性与多功能性的显示器校准和特性描述解决方案（事实上，作者诚实地认为，它可能是目前可用的最精确、最灵活的兼容 ICC 的显示器特性描述解决方案）。其核心依赖于 ArgyllCMS，这是一个先进的开源色彩管理系统，用于执行测量、创建校准和特性文件，以及完成其他多种高级色彩相关任务。\n使用众多受支持的测量设备之一来校准和表征您的显示设备，支持多显示器设置，并为高级用户提供多种可选项，例如验证和报告功能，用以评估 ICC 特性文件和显示设备、创建视频 3D LUT，以及可选的 CIECAM02 色域映射以考虑不同的观看条件。其他功能包括：\n- 支持针对不同类型显示设备进行色度计校正，以提高色度计的绝对精度。校正数据可从厂商软件导入，或在拥有分光辐射计时通过测量自行创建。\n- 通过测量检查显示设备的均匀性。\n- 测试色卡编辑器：可创建任意数量和组合色块的色卡，支持从 CGATS、CSV 文件（仅支持制表符分隔）及电子表格应用程序轻松复制粘贴，用于特性文件的验证与评估。\n- 创建自定义原色、白点与黑点以及色调响应的合成 ICC 特性文件，可用作工作空间或设备连接（3D LUT）变换中的源特性文件。\n\n本项目旨在对 DisplayCAL 代码进行现代化改进，包括支持 Python 3。\nFlorian Höch 作为原始开发者，多年来出色地完成了 DisplayCAL 的创建与维护工作。但由于疫情原因，他完全可以理解地失去了对该项目的热情。现在，是时候由我们 DisplayCAL 社区成员回馈这一优秀工具了。\n本项目基于 Sourceforge 版本的 HEAD 分支，该分支在 2020 年 1 月 14 日发布的 3.8.9.3 版本基础上额外包含了 Florian 提交的 5 个更新。\n感谢社区成员付出的所有努力，DisplayCAL 目前已可正常运行于 Python 3.9 及以上版本。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "edenian-prince.rust-secrets",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30374,6 +30570,13 @@
   },
   {
     "id": "EDCD.EliteDangerousMarketConnector",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "EclipseCommunity.r3dfox",
     "name": "",
     "publisher": null,
     "description": "",
@@ -31006,6 +31209,13 @@
     "id": "3TSoftwareLabs.Robo3T",
     "name": "",
     "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.DotNet.CodeContracts",
+    "name": ".NET CodeContracts",
+    "publisher": "Microsoft Corporation",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -33166,6 +33376,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RAXSoftware.AOLRemovalTool",
+    "name": "AOL Removal Tool",
+    "publisher": "RAX Software",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AOMEI.PartitionAssistant",
     "name": "AOMEI Partition Assistant",
     "publisher": "AOMEI International Network Limited.",
@@ -34636,6 +34853,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Azure.ADConnectSyncDocumenter",
+    "name": "Azure AD Connect Sync Configuration Documenter",
+    "publisher": "Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.Azure.CosmosEmulator",
     "name": "Azure Cosmos DB Emulator",
     "publisher": "Microsoft® Corporation",
@@ -35863,7 +36087,7 @@
   {
     "id": "Secomba.Boxcryptor",
     "name": "Boxcryptor",
-    "publisher": "Secomba GmbH",
+    "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -36092,6 +36316,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SAP.btp",
+    "name": "btp",
+    "publisher": "SAP SE",
+    "description": "The SAP BTP command-line interface (btp CLI) lets administrators automate the management of global accounts, subaccounts, and other resources on the SAP Business Technology Platform (BTP).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SAP.btptf",
     "name": "btptf",
     "publisher": "SAP SE",
@@ -36173,6 +36404,13 @@
     "name": "Bun Profile",
     "publisher": "Oven-sh",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hyperpolymath.Bunsenite",
+    "name": "Bunsenite",
+    "publisher": "Hyperpolymath",
+    "description": "Bunsenite is a Nickel configuration file parser with multi-language FFI bindings.\nIt provides a Rust core library with a stable C ABI layer that enables bindings\nfor Deno, ReScript, and WebAssembly. Parse and evaluate Nickel configuration files\nfrom any language with type-safe, memory-safe bindings.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37040,7 +37278,7 @@
     "id": "Giuspen.Cherrytree",
     "name": "CherryTree",
     "publisher": "Giuseppe Penone",
-    "description": "A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in either a single file (xml or sqlite) or multiple files and directories.",
+    "description": "一个层级式笔记记录程序，具有富文本和代码高亮的功能，数据存储在单个文件（xml或sqlite）或多个文件和目录中。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38612,6 +38850,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TescoSW.CryptoNativeAppNG",
+    "name": "Crypto Native App NG",
+    "publisher": "TESCO SW a.s.",
+    "description": "Crypto Native App New Generation (hereinafter CNA) is an application developed by TESCO SW a.s., which is intended for the handling of cryptographic operations like electronic signature and encryption and decryption in the web application environment. The web application communicates with CNA using the Crypto Web Extension (hereinafter CWE), an extension installed in the web browser.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JacquelinPotier.CryptoStuff",
     "name": "Crypto Stuff",
     "publisher": "Jacquelin Potier",
@@ -38665,6 +38910,13 @@
     "name": "CrystalDiskMark Shizuku Edition",
     "publisher": "Crystal Dew World",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CrystalDewWorld.CrystalMark3D25",
+    "name": "CrystalMark 3D25",
+    "publisher": "Crystal Dew World",
+    "description": "CrystalMark 3D25は、3D性能（GLSL/WebGL）をワンクリックで手軽に測定できる3Dベンチマークソフトです。 日本のデモシーンを支えるデモシーナーの方々から作品をご提供いただき、デモシーンの魅力を世界中のPC愛好家（ベンチマーカー）に知っていただくことを目標に開発しました。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39043,6 +39295,13 @@
     "name": "Dashlane",
     "publisher": "Dashlane Inc.",
     "description": "Dashlane is a cross-platform subscription-based password manager and digital wallet application available on macOS, Windows, iOS and Android. Dashlane uses a freemium pricing model which includes both a free tier and a premium subscription.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Dashlane.CLI",
+    "name": "Dashlane CLI",
+    "publisher": "Dashlane, Inc.",
+    "description": "Dashlane CLI is a command line interface for Dashlane. It allows you to interact with your Dashlane account, and to manage your passwords, secure notes, secrets and personal data.\n\nDashlane CLI also allows you to access team admin related features such as accessing your team’s member list, Dark Web Insights reports and audit logs.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42077,10 +42336,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Cteros.ENO-M",
+    "name": "ENO-M",
+    "publisher": "meanc",
+    "description": "基于 Bilibili 的高颜值桌面音乐播放器\n✨ Features\n- 🎵 Bilibili 音乐播放：直接播放 B 站音频和视频内容\n- 📺 视频模式：支持悬浮窗和侧边栏视频播放\n- ❤️ 收藏夹同步：登录后可管理 B 站收藏夹\n- 🎨 歌单海报生成：自定义生成精美歌单海报\n- 🎚️ EQ 均衡器：内置多种音效预设（Pop, Rock, Jazz 等）\n- 🔍 搜索：支持关键词和 BV 号搜索\n- 🖥️ 跨平台：支持 Windows 和 macOS",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EnsoAnalytics.Enso",
     "name": "Enso",
     "publisher": "Enso Analytics",
     "description": "Enso Analytics is a modern, workflow-based data preparation platform designed for teams. Keep your familiar, visual, no-code canvas and unlock powerful features: cross-platform support for Windows, Mac, and Linux, built-in scheduling, granular version history, and encrypted secrets. With seamless in-memory and in-database processing, your complex data prep runs efficiently where your data lives.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "J3n5en.EnsoAI",
+    "name": "EnsoAI",
+    "publisher": "J3n5en",
+    "description": "EnsoAI is a desktop application that combines Git Worktree management with AI coding agents. It provides a unified workspace where you can manage multiple git worktrees while leveraging AI assistants like Claude, Codex, and Gemini to help with your development tasks.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42445,6 +42718,13 @@
     "name": "Exclaimer Cloud Signature Update Agent",
     "publisher": "Exclaimer Ltd",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SecurityXploded.Exe64bitDetector",
+    "name": "EXE 64bit Detector",
+    "publisher": "SecurityXploded",
+    "description": "The simple command-line tool to find if the file is a 32-bit or 64-bit Executable. You can specify any valid PE file like EXE, DLL, OCX etc. Note that as of v2.1, it does not distinguish between traditional and ARM architectures.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44412,6 +44692,13 @@
     "name": "FontBase",
     "publisher": "Dominik Levitsky Studio, LLC",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FontGet.FontGet",
+    "name": "fontget",
+    "publisher": "Graphixa",
+    "description": "A tiny, cross-platform CLI tool to install and manage fonts from the command line. Search for fonts, list installed fonts, install or remove fonts all from the CLI.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46886,6 +47173,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Revoconner.HeadlessTTY",
+    "name": "Headless-TTY",
+    "publisher": "revoconner",
+    "description": "A headless terminal emulator built for native Windows OS, that keeps isatty true for TUI, CLI or GUI applications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SmartHoldemDAPPs.heads-tails",
     "name": "Heads-Tails",
     "publisher": "technologiespro",
@@ -47495,6 +47789,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "djmattyg007.hr-zig",
+    "name": "hr-zig",
+    "publisher": "djmattyg007",
+    "description": "This is a port of hr to Zig, as a learning exercise for Zig.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JohannesKaufmann.html2markdown",
     "name": "html-to-markdown",
     "publisher": "Johannes Kaufmann",
@@ -47884,6 +48185,13 @@
     "name": "Iconset",
     "publisher": "Iconset Creative",
     "description": "Fast, powerful and cross-platform SVG icons manager app for designers, developers or product teams.\n\nBy organizing icons with sets, packs, tags and groups in our icon manager app, you and your team will have a well-organized icon library eventually.\n\nEasily drag and drop icons from Iconset directly into your favorite design tool, streamlining your workflow like never before! Say goodbye to the hassle of installing extra plugins or extensions.\n\nWhether you're working in Figma, Sketch, Adobe Illustrator, or another tool, simply pick an icon and drop it where you need it.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.IconsExtract",
+    "name": "IconsExtract",
+    "publisher": "NirSoft",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49017,6 +49325,13 @@
     "id": "MaximilianHerczegh.iTunesBackupExplorer",
     "name": "iTunes Backup Explorer",
     "publisher": "Maximilian Herczegh",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "nicerloop.ivanti-gsudo",
+    "name": "Ivanti gsudo",
+    "publisher": "nicerloop",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -50365,6 +50680,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KonicaMinolta.UniversalPrinterDriverPCL6",
+    "name": "Konica Minolta Universal Printer Driver PCL6",
+    "publisher": "Konica Minolta",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "glueckkanja.KONNEKT",
     "name": "KONNEKT",
     "publisher": "glueckkanja AG",
@@ -51198,6 +51520,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BellSoft.LibericaJDK.13.Lite",
+    "name": "Liberica JDK 13 Lite",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BellSoft.LibericaJDK.14",
     "name": "Liberica JDK 14",
     "publisher": "BellSoft",
@@ -51228,6 +51557,13 @@
   {
     "id": "BellSoft.LibericaJDK.15.Full",
     "name": "Liberica JDK 15 Full",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.15.Lite",
+    "name": "Liberica JDK 15 Lite",
     "publisher": "BellSoft",
     "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
     "icon": "/icons/intunify-default.png"
@@ -52458,6 +52794,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "blueberrycongee.LuminaNote",
+    "name": "lumina-note",
+    "publisher": "luminanote",
+    "description": "Lumina Note 不仅仅是一个编辑器，它是一个集成了 LLM 能力的知识生产环境。\n📝 沉浸式编辑体验\n- 多模式切换：无缝切换 源码 / 实时预览 / 阅读模式\n- 双向链接：使用 [[WikiLinks]] 构建网状知识图谱，支持从文件树拖拽创建链接\n- 专业排版：原生支持 LaTeX 数学公式、Mermaid 图表及 Obsidian 风格 > [!info] 提示块\n- 语法高亮：基于 CodeMirror 6，支持上百种语言的代码高亮\n- 分栏编辑：水平/垂直分栏，可拖拽调整大小，活动面板自动接收新文件\n- 图片粘贴：截图或复制图片后直接 Ctrl+V 粘贴，自动保存到笔记库\n🕸️ 知识图谱\n- 基于 Canvas 的高性能可视化引擎，直观展示笔记间的关联关系。\n- 文件夹层级：文件夹作为节点显示（带刺圆球样式），父子关系带箭头连线\n- 颜色分区：按文件夹自动分配颜色，子节点继承父文件夹颜色\n- 双向链接：[[WikiLinks]] 自动解析为节点间的连线\n- 右键孤立查看：右键点击任意节点，可在新标签页中查看该节点及其直接关联的节点\n- 物理引擎：可调节的斥力、弹力、向心力参数，支持拖拽节点和画布缩放\n🤖 AI Agent 系统\n- Agent 模式：能够理解意图，自动执行读取、编辑、搜索笔记等复杂任务链。\n- AI 悬浮球：随时唤起的助手，支持拖拽，不打断当前心流。\n- 语音输入：基于 Web Speech API 的语音转文字，支持流式显示、自动停止、录音动画。\n- Diff 预览：AI 修改内容前提供 Diff 对比视图，由你决定是否 Apply。\n- RAG 语义搜索：内置 SQLite 向量库，基于语义理解检索你的本地知识库。\n🎬 B 站视频笔记\n- 边看视频边做笔记，通过弹幕同步实现精确时间戳记录。\n- 内嵌播放 在应用内直接播放 B 站视频，支持登录和发弹幕\n- 弹幕同步 发送带前缀的弹幕（如 #笔记内容），一键同步为带时间戳的笔记\n- 时间跳转 点击笔记时间戳，视频自动跳转到对应位置（无需刷新）\n- 自动保存 笔记自动保存为 Markdown 文件，下次打开同一视频自动加载\n📄 PDF 智能阅读器\n- 为学术工作流优化的 PDF 阅读和标注系统。\n- 交互式元素识别：自动识别文本、图片、表格等元素，支持悬浮高亮和点击选中\n- PDF 批注系统：选中文本添加高亮/下划线，支持 5 种颜色和笔记\n- 批注笔记同步：批注自动保存为 Markdown 文件，与 PDF 同目录\n- 双向跳转：点击笔记中的链接跳转到 PDF 对应位置，Ctrl+Click 分栏打开\n- 缩略图与目录：侧边栏显示页面缩略图和文档大纲，快速跳转\n- 全文搜索：支持在 PDF 中搜索关键词，实时高亮匹配结果\n- 与 AI 对话：将选中的 PDF 内容发送给 AI，进行摘要、翻译或解释\n🎨 主题系统\n- 15 套官方主题：默认/海洋/森林/薰衣草/玫瑰/落日/薄荷/靛青/拿铁/极光/极简等\n- 明暗双模式：每套主题都有明亮和暗黑两种模式（共 30 种外观）\n- Markdown 颜色：主题影响标题/链接/代码块/引用等 17 种元素\n- 设置面板：左下角齿轮图标，统一管理主题、AI、RAG 等设置\n🔌 多模型生态\n支持接入主流 LLM Provider，自由切换模型：\nAnthropic · OpenAI · Gemini · DeepSeek · Moonshot · Groq · OpenRouter · Ollama (Local)",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LuminanceHDR.LuminanceHDR",
     "name": "Luminance HDR",
     "publisher": "Luminance HDR Development Team",
@@ -52917,6 +53260,13 @@
     "name": "MaxLauncher",
     "publisher": "Roberto Concepcion",
     "description": "MaxLauncher is a simple tabbed launcher that was designed to reduce the amount of time to find and run a program.\nIt is capable of creating multiple data files, each of which can have a maximum of 10 tabs.\nEach tab and button is assigned a key(eg. F1-F10, 0-9, A-Z, etc.) based on the current keyboard.\nSimply press the hotkey (eg. CTRL+`) to activate the program then press the key that corresponds to the program you want to run.\nMaxLauncher is a redesign of MadAppLauncher.\nA few key features such as the ability to delete a tab, support for themes, and portable use were added.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AwesomeDog.MaxLaunchpad",
+    "name": "MaxLaunchpad",
+    "publisher": "AwesomeDog",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54008,6 +54358,13 @@
     "id": "MigrosBank.EBanking",
     "name": "Migros Bank E-Banking",
     "publisher": "Migros Bank AG",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MetaCubeX.Mihomo.GOAMD64v1",
+    "name": "Mihomo (GOAMD64=v1)",
+    "publisher": "MetaCubeX",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -58590,6 +58947,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SST.OpenCodeDesktop",
+    "name": "OpenCode",
+    "publisher": "opencode",
+    "description": "opencode is an AI coding agent. It features:\n- A responsive, native, themeable terminal UI.\n- Automatically loads the right LSPs, so the LLMs make fewer mistakes.\n- Have multiple agents working in parallel on the same project.\n- Create shareable links to any session for reference or to debug.\n- Log in with Anthropic to use your Claude Pro or Claude Max account.\n- Supports 75+ LLM providers through Models.dev, including local models.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OleguerLlopart.OpenComic",
     "name": "OpenComic",
     "publisher": "Oleguer Llopart",
@@ -58937,6 +59301,13 @@
     "name": "Opera Stable",
     "publisher": "Opera Software",
     "description": "Opera er en nettleser med flere plattformer utviklet av Opera Software. Opera er en krombasert nettleser. Den skiller seg fra andre nettlesere gjennom brukergrensesnittet, funksjonaliteten og andre funksjoner.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JMMG.OCWin",
+    "name": "Operation Center",
+    "publisher": "JMMG Communications",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59503,13 +59874,6 @@
     "id": "HomeDev.PatchCleanerPortable",
     "name": "PatchCleaner Portable",
     "publisher": "HomeDev",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Patchdeck.Agent",
-    "name": "PatchdeckWindowsAgent",
-    "publisher": "Patchdeck LLC",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -62601,6 +62965,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ReadAI.ReadAI",
+    "name": "Read AI",
+    "publisher": "Read AI, Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "chrox.Readest",
     "name": "Readest",
     "publisher": "bilingify",
@@ -63529,6 +63900,13 @@
     "name": "RoboForm",
     "publisher": "Siber Systems",
     "description": "1) One click convenience\n- RoboForm securely stores all of your passwords and logs you in with a single click (or tap).\nSave time entering personal and billing information with AutoFill for long web forms.\n\n2) Multi-platform support\n- RoboForm is available for Windows, Mac, iOS, and Android with support for all\ntheir respective major browsers, including Microsoft Edge.\n\n3) Create stronger passwords\n- RoboForm's random password generator will create a strong and unique password for each site.\nSay goodbye to using weak or duplicate passwords for everything.\n\n4) Share Logins securely\n- Securely share Login information with other RoboForm users.\nSimply enter the recipient's email and share away.\n\n5) Stronger security\n- To protect your data, RoboForm uses AES-256 bit encryption with PBKDF2 SHA-256.\nSupport for two factor authentication (2FA) to access your account.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "lucasdeeiroz.RobotRunner",
+    "name": "Robot Runner",
+    "publisher": "Lucas de Eiroz Rodrigues",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -65639,6 +66017,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FlashPeak.Slimjet",
+    "name": "Slimjet Web Browser",
+    "publisher": "FlashPeak Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Slite.Slite",
     "name": "Slite",
     "publisher": "Slite team",
@@ -66049,6 +66434,13 @@
     "name": "SophiApp",
     "publisher": "Team Sophia",
     "description": "The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Soplang.Soplang",
+    "name": "Soplang",
+    "publisher": "Soplang Software Foundation",
+    "description": "Soplang is a modern programming language designed with Somali syntax at its core.\nIt offers dual typing modes (static & dynamic), improved readability, and educational value\nfor Somali-speaking developers.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66507,6 +66899,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SRWare.Iron",
+    "name": "SRWare Iron",
+    "publisher": "SRWare",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TransendInfo.SSDScopeApp",
     "name": "SSDScopeApp",
     "publisher": "Transcend Information, Inc.",
@@ -66553,6 +66952,13 @@
     "name": "Stacher is a modern front-end for the yt-dlp command line tool",
     "publisher": "Stacher",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "stakpak.agent",
+    "name": "Stakpak",
+    "publisher": "Stakpak",
+    "description": "Open source AI DevOps Agent in Your Terminal - Infrastructure shouldnt be this hard. Stakpak lets developers secure, deploy, and run infra from the terminal.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67767,6 +68173,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TableClothProject.TableCloth",
+    "name": "TableCloth",
+    "publisher": "TableCloth Project",
+    "description": "Tablecloth is an innovative solution that leverages Windows' sandbox feature to enable the use of online banking and e-government services in a completely isolated environment.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TablePlus.TablePlus",
     "name": "TablePlus",
     "publisher": "TablePlus, Inc",
@@ -68476,8 +68889,8 @@
   {
     "id": "wenming.ThirdSpace",
     "name": "ThirdSpace",
-    "publisher": "WenMing",
-    "description": "ThirdSpace is a Windows system tray translation utility that uses AI models via OpenRouter to translate clipboard text. It features a global hotkey (Ctrl+Alt+T), a settings UI, and toast notifications.",
+    "publisher": "thirdspace",
+    "description": "ThirdSpace is a Windows system tray translation utility that uses AI models via OpenRouter to translate clipboard text. It features a global hotkey (Ctrl+Alt+T), a settings UI, toast notifications, and autostart on boot.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -70032,6 +70445,13 @@
     "name": "Uninstall Tool",
     "publisher": "CrystalIDEA Software",
     "description": "Fast and Powerful Uninstaller for Complete Removal of Programs\n- Thorough removal of unwanted apps\n- Real-time installation monitor\n- Control apps that run at system startup\n- Portable, multilingual and beautifully designed",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.UninstallView",
+    "name": "UninstallView",
+    "publisher": "NirSoft",
+    "description": "UninstallView is a tool for Windows that collects information about all programs installed on your system and displays the details of the installed programs in one table. You can use it to get installed programs information for your local system, for remote computer on your network, and for external hard-drive plugged to your computer. It also allows you to easily uninstall a software on your local computer and remote computer (Including quiet uninstall if the installer supports it).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -72478,6 +72898,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "loonghao.vx",
+    "name": "vx",
+    "publisher": "loonghao",
+    "description": "vx is a universal development tool manager that automatically installs and manages development tools like Node.js, Python, Go, Rust, etc. Zero learning curve - just use familiar commands and vx handles the rest.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Flexense.VXSearch",
     "name": "VX Search",
     "publisher": "Flexense Computing Systems Ltd.",
@@ -74620,6 +75047,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SatSignal.WXtrack",
+    "name": "WXtrack",
+    "publisher": "David Taylor",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KeyWorks.wxUiEditor",
     "name": "wxUiEditor",
     "publisher": "KeyWorks",
@@ -74679,6 +75113,13 @@
     "id": "Nova_Max.XBatteryStatus",
     "name": "XBatteryStatus",
     "publisher": "Nova_Max",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Gaming.GDK.XboxGamePackageManager",
+    "name": "Xbox Game Package Manager",
+    "publisher": "Microsoft Corporation",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
