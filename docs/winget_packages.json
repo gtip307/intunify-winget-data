@@ -1169,6 +1169,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Trimble.SketchUp.2026",
+    "name": "",
+    "publisher": null,
+    "description": "SketchUp 是一款顶尖的 3D 设计软件，它让三维建模与绘图变得触手可及，并为您提供强大的工具集，助您将想象化为现实。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Trimble.SketchUp.2025",
     "name": "",
     "publisher": null,
@@ -2520,6 +2527,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Natthasath.ExamTimer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NCSoft.Purple",
     "name": "",
     "publisher": null,
@@ -2919,13 +2933,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "AETMobile.ZORG-IDDesktopApp",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "AxisCommunicationsAB.FilePlayerLauncher",
     "name": "",
     "publisher": null,
@@ -3053,6 +3060,13 @@
   },
   {
     "id": "awaescher.Fusion",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "abbodi1406.vcredist",
     "name": "",
     "publisher": null,
     "description": "",
@@ -3318,6 +3332,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ActualBudget.ActualBudget",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "audiveris.org.Audiveris",
     "name": "",
     "publisher": null,
@@ -3375,6 +3396,13 @@
   },
   {
     "id": "AlgorandFoundation.AlgoKit",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "aiclientproxy.ProxyCast",
     "name": "",
     "publisher": null,
     "description": "",
@@ -5544,6 +5572,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Asus.DisplayWidgetCenter",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AndresMorelos.Invoncify",
     "name": "",
     "publisher": null,
@@ -6370,6 +6405,76 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "VisionAid.IvonaVoicePack.German",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Italian",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Swedish",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Polish",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Danish",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.English.British",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.English.Other",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Portuguese",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Russian",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Spanish",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "VisIt.VisIt",
     "name": "",
     "publisher": null,
@@ -6699,6 +6804,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KDE.Alkimia",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KDE.GCompris",
     "name": "",
     "publisher": null,
@@ -6857,6 +6969,13 @@
     "name": "",
     "publisher": null,
     "description": "Kate 是 KDE 为程序员量身定制的一款轻快的多文档、多视图文本编辑器。它的功能丰富，支持 LSP (Language Server Protocol, 语言服务器协议)、项目、多光标、多个选择对象、Git 集成、文件夹内搜索、水平和垂直视图拆分、Vi 模式、300 多种语言的语法高亮、内置终端、动态换行等。它可在 Linux、BSD、Windows 和 macOS 上使用。\n功能特性：\n- 多文档界面 (MDI)、窗口拆分、标签页\n- 拼写检查\n- CR、CRLF、LF 换行支持\n- 编码支持 (UTF-8、UTF-16、ASCII 等)\n- 编码转换\n- 基于正则表达式的查找和替换\n- 300 多种语言的语法高亮\n- 代码和文本折叠\n- 多光标和多个选择对象\n- 块选择模式\n- 自动缩进\n- 自动补全支持\n- 系统外壳程序集成\n- 支持多种类型的协议 (HTTP、FTP、SSH、WebDAV 等)\n- 可通过插件扩展\n- 集成终端\n- 基于 JavaScript 实现的脚本编程\n- Vi 模式\n- Intellisense 支持 (基于 LSP/Language Server Protocol/语言服务器协议)\n- DAP (Debug Adapter Protocol/调试适配器协议) 支持\n- 垂直标签页/文档列表\n- 轻量级项目支持。Kate 可以将文件夹作为工程打开\n- 使用本地格式化工具 (如 clang-format、prettier 等) 对代码进行格式化。\n- 内建在文件系统浏览器中\n- CTags 支持\n- 搜索整个项目和整个文件夹的内容\n- Git 集成",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KDE.KDiff3.AppX",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -7183,6 +7302,13 @@
   },
   {
     "id": "KonicaMinolta.SoporteKM",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "karamem0.Capreze",
     "name": "",
     "publisher": null,
     "description": "",
@@ -7848,6 +7974,13 @@
   },
   {
     "id": "InstantHousecall.InstantHousecall",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ImpulseAdventure.JPEGsnoop",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9223,6 +9356,13 @@
     "name": "",
     "publisher": null,
     "description": "Chez Scheme 既是一种编程语言，也是该语言的实现方案，包含配套工具与文档。\n作为《Revised⁶ Report on the Algorithmic Language Scheme》（R6RS）所描述语言的超集，Chez Scheme 完整支持 Scheme 的所有标准特性，包括对过程化的首要支持、正确的尾调用处理、continuation、用户自定义记录、库、异常以及卫生宏展开。\n它还提供与 C 等语言交互的广泛支持、多核多线程运行能力、非阻塞 I/O 等丰富功能。\nChez Scheme 的实现由编译器、运行时系统和编程环境构成。虽然提供解释器，但默认所有代码均会被编译。无论是从源文件加载还是通过交互式环境输入，源代码都会即时编译。源文件也可预编译为二进制存储格式，并在依赖项变更时自动重新编译。无论即时编译还是预编译，编译器都会生成优化机器码，甚至支持跨库优化。通过全程序编译模式，还能实现跨库完全优化，并将程序及其依赖库合并为单一二进制文件。\n运行时系统负责与操作系统交互，主要支持二进制/文本（Unicode）I/O、自动存储管理（动态内存分配与分代垃圾回收）、库管理和异常处理。默认情况下，运行时系统内置编译器，允许程序在运行时生成并编译代码，且动态编译代码的存储空间会像其他动态分配内存一样由垃圾回收器自动回收。\n编程环境包含：源码级调试器、编译时启用性能分析后可生成热点代码 HTML 可视化报告的工具、内存使用检查工具、支持多行表达式编辑的交互式 Shell 环境（expression editor，简称“expeditor”）。\nChez Scheme 的 R6RS 核心特性记载于《The Scheme Programming Language》中，该书同时包含 Scheme 入门指南和示例程序集。扩展语言特性、运行时系统及编程环境功能详见《Chez Scheme User's Guide》。后者提供共享索引和语法形式摘要，并适时关联前书内容，因此通常是最佳学习起点。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Cisco.Webex",
+    "name": "",
+    "publisher": null,
+    "description": "Cisco Webex 是一款用于持续团队协作的应用。每个人都可以在安全工作空间中随时通过发送消息、文件共享、白板描绘、视频会议、呼叫等方式推进工作。它几乎适用于任何设备，并主要提供以下优势：\n- 简化团队协作：将所有工具集中在一个地方，帮助您更好、更快地完成工作。为您和另一个人或为从事某个项目的团队创建空间。\n- 做出更好的决策：立刻开始及加入会议，通过出色的高清视频体验看见每一个人，共享您的屏幕，并在在线工作空间中保持团队协作。\n- 及时了解您的所有工作：从我们不断增长的集成和 bot 目录中选择，及时了解 Box 和 Salesforce 等其它应用中发生的事情\n- 快速查找所有信息：搜索所有空间中的人员、消息和文件 - 无需切换帐户或视图\n- 将这种体验带入会议室：将您的应用程序与 Webex 设备（如 Webex Board）配对，进行无线控制会议和保存白板绘画等活动\n- 安全工作：通过端对端加密进行业务协作",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -11886,6 +12026,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "looplj.AxonHub",
+    "name": "",
+    "publisher": null,
+    "description": "AxonHub 是一个 All-in-one AI 开发平台，提供统一的 API 网关、项目管理和全面的开发工具。平台提供 OpenAI、Anthropic 和 AI SDK 兼容的 API 层，通过转换器管道架构将请求转换到各种 AI 提供商。系统具备完整的追踪能力、基于项目的组织结构以及集成的 Playground 快速原型开发，帮助开发者和企业更好地管理 AI 开发工作流。\n核心特性：\n1. 统一 API Unified API：兼容 OpenAI 与 Anthropic 的接口，配合转换管线实现模型互换与映射，无需改动现有代码。\n2. 追踪 / 线程 Tracing / Threads：线程级追踪实时记录完整调用链路，提升可观测性与问题定位效率。\n3. 细粒度权限 Fine-grained Permission：基于 RBAC 的权限策略，帮助团队精细管理访问控制、配额与数据隔离。\n4. 自适应负载均衡 Adaptive Load Balancing: 智能多策略负载均衡，自动选择最优 AI 渠道，确保高可用性和最佳性能。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LukaszSwiszcz.Winpinator",
     "name": "",
     "publisher": null,
@@ -13091,6 +13238,13 @@
   },
   {
     "id": "Microsoft.OneDrive",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.AzureVPNClient",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14735,13 +14889,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "martinvonz.jj",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Melodics.Melodics",
     "name": "",
     "publisher": null,
@@ -15149,6 +15296,13 @@
   },
   {
     "id": "Mozilla.sccache",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Mozilla.Firefox.Unbranded.Beta",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17444,6 +17598,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JacquelinPotier.AllDllsDependencies",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JiriPolasek.RecentFilesforCommandPalette",
     "name": "",
     "publisher": null,
@@ -19216,6 +19377,13 @@
   },
   {
     "id": "RCharan.wiki",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RazrFalcon.SVGCleaner.GUI",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22701,13 +22869,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "SaltStack.SaltMinion",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "smartfrigde.Legcord",
     "name": "",
     "publisher": null,
@@ -22716,6 +22877,20 @@
   },
   {
     "id": "spluxx.Protoman",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "seb07-cloud.dktop",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ShineeKun.PixelShell",
     "name": "",
     "publisher": null,
     "description": "",
@@ -23241,13 +23416,6 @@
   },
   {
     "id": "Henry++.freeshooter",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Homebrew.Cortexso",
     "name": "",
     "publisher": null,
     "description": "",
@@ -23871,13 +24039,6 @@
   },
   {
     "id": "Dman95.SASM",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Daytonaio.Daytona",
     "name": "",
     "publisher": null,
     "description": "",
@@ -29092,6 +29253,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PlatformLabs.Toolkit",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PTC.CreoView.Express",
     "name": "",
     "publisher": null,
@@ -29190,13 +29358,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Proton.ProtonPass.CLI",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Proton.ProtonAuthenticator",
     "name": "",
     "publisher": null,
@@ -29240,6 +29401,13 @@
   },
   {
     "id": "Prog.ProgDVB.Professional",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Prog.ProgDVB.Free",
     "name": "",
     "publisher": null,
     "description": "",
@@ -29912,20 +30080,6 @@
   },
   {
     "id": "POQDavid.PotatoWall",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "PCLCommunity.PCL2.Beta",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "PCLCommunity.PCL2",
     "name": "",
     "publisher": null,
     "description": "",
@@ -33516,6 +33670,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AppLocate.AppLocate",
+    "name": "AppLocate",
+    "publisher": "AppLocate",
+    "description": "A Windows CLI tool to locate installed applications. Supports MSI, MSIX, Store apps, portable apps, and common package managers.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NirSoft.AppReadWriteCounter",
     "name": "AppReadWriteCounter",
     "publisher": "NirSoft",
@@ -33828,6 +33989,13 @@
     "name": "Armaria",
     "publisher": "Jonathan Hope",
     "description": "Armaria is a FOSS bookmarks manager that keeps all of your local bookmarks in a SQLite database. You can use many different frontends to manage your bookmarks including browsers, and back them up and/or sync them however you see fit.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "armbian.imager",
+    "name": "Armbian Imager",
+    "publisher": "Armbian",
+    "description": "This tool simplifies the process of writing Armbian OS files to SD cards, USB\ndrives, or eMMC modules, featuring a user-friendly interface tailored for\nArmbian users.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34493,6 +34661,13 @@
     "name": "AWS IAM Authenticator",
     "publisher": "Kubernetes SIGs",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ByteNess.AWSVault",
+    "name": "AWS Vault",
+    "publisher": "ByteNess Solutions",
+    "description": "AWS Vault is a tool to securely store and access AWS credentials in a development environment.\n\nAWS Vault stores IAM credentials in your operating system's secure keystore and then generates\ntemporary credentials from those to expose to your shell and applications. It's designed to be\ncomplementary to the AWS CLI tools, and is aware of your profiles and configuration in\n~/.aws/config.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35308,6 +35483,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Kubus.BCFManager.Revit.2026",
+    "name": "BCF Manager - Revit 2026",
+    "publisher": "KUBUS BV",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BDRThermea.ServiceTool",
     "name": "BDR Thermea Service Tool (PCST)",
     "publisher": "BDR Thermea Group",
@@ -35487,6 +35669,13 @@
     "name": "Bethesda.net Launcher",
     "publisher": "Bethesda Softworks",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "xmn.BetterTrumpet",
+    "name": "BetterTrumpet",
+    "publisher": "xmn",
+    "description": "BetterTrumpet is a refined fork of EarTrumpet, the beloved Windows volume mixer. Features include enhanced volume control, a slick music overlay, fully customizable colors, and a cleaner interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36082,13 +36271,6 @@
     "name": "Box Sync",
     "publisher": "Box, Inc.",
     "description": "Box Sync is a productivity tool that enables you to mirror data stored on Box to your desktop. You can then navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Secomba.Boxcryptor",
-    "name": "Boxcryptor",
-    "publisher": null,
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36834,13 +37016,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "JaydenDev.Catalyst3",
-    "name": "Catalyst3",
-    "publisher": "JaydenDev",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "WenAnLin.Cate",
     "name": "Cate",
     "publisher": "WenAnLin",
@@ -36950,6 +37125,13 @@
     "name": "CDInfo",
     "publisher": "the sz development",
     "description": "See all ISO descriptors from all attached cd-rom drives.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HendersonSoftware.CDRipper",
+    "name": "CDRipper",
+    "publisher": "Henderson Software",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37251,6 +37433,13 @@
     "name": "CheckSum",
     "publisher": "the sz development",
     "description": "Calculate a new checksum for a given PE image. This is needed for device drivers since Windows NT checks the checksum before loading the driver.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.ChecksumCalculator",
+    "name": "Checksum Calculator",
+    "publisher": "SoftSea",
+    "description": "Checksum Calculator is a free file checksum calculation utility, it can support the most commonly used file checksum algorithm, such as md5, crc32, and sha1, can batch process multiple files. This verification software has some useful features, but it is easy to understand and very easy to use.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38132,7 +38321,7 @@
     "id": "den4b.Colors",
     "name": "Colors",
     "publisher": "den4b Team",
-    "description": "Color picker that helps you easily select a desired color using various pallets. It is also able to pick a color from the currently displayed screen content and supports a number of different color models, i.e. RGB, HSV, HSL, CMYK.",
+    "description": "Colour picker that helps you easily select a desired colour using various pallets. It is also able to pick a colour from the currently displayed screen content and supports a number of different colour models, i.e. RGB, HSV, HSL, CMYK.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38955,6 +39144,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.CSVtovCard",
+    "name": "CSV to vCard",
+    "publisher": "SoftSea",
+    "description": "CSV to vCard is a free and simple contacts file converter. As its name implies, it can convert CSV contacts files to vCard files (*.vcf). It is a helpful tool to transfer your contacts information. With a friendly interface, this program is easy to use. In addition, this software is free to use. Additionally, if all fields in your contacts CSV file are in English, the program can auto-fill correct vCard properties, such as First Name, Last Name, Job Title and more. Also, for some common fields, the program can automatically map them to corresponding vCard properties (synonyms words), such as Family Name to Last Name, Occupation to Job Title, Web Page to Website, and more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.CSVViewer",
+    "name": "CSV Viewer",
+    "publisher": "SoftSea",
+    "description": "CSV Viewer is a free and simple file viewer for CSV files, it can quickly open and format the data in the (*.csv) files, help you to easily browse and view, it is easy to use very much and completely free. CSV file is a comma-separated values file (Comma Separated Value), it is a plain text file format that is used to store data, usually used in a spreadsheet or database software.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NirSoft.CSVFileView",
     "name": "CSVFileView",
     "publisher": "NirSoft",
@@ -39095,6 +39298,34 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Corsinvest.cv4pve.botgram",
+    "name": "cv4pve-botgram",
+    "publisher": "Corsinvest Srl",
+    "description": "cv4pve-botgram is a Telegram bot for managing Proxmox VE clusters.\nIt allows you to monitor and control your virtual machines and containers\nthrough Telegram chat commands with secure authentication.\n\nFeatures:\n- Manage VMs and Containers via Telegram\n- Secure chat ID-based authentication\n- Real-time status monitoring\n- Start/Stop/Reboot operations\n- Node management commands\n- API explorer for advanced operations\n- Custom command aliases\n- Service and console modes",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Corsinvest.cv4pve.cli",
+    "name": "cv4pve-cli",
+    "publisher": "Corsinvest Srl",
+    "description": "cv4pve-cli is a comprehensive command-line interface tool for Proxmox VE that provides\npowerful management and automation capabilities for your virtualization infrastructure.\n\nFeatures:\n- VM/Container management and automation\n- Snapshot and backup operations\n- Resource monitoring and management\n- Cluster operations\n- Advanced scripting capabilities\n- Multiple output formats (Text, HTML, JSON, Markdown)\n- Batch operations support\n- Integration with Proxmox VE API",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Corsinvest.cv4pve.diag",
+    "name": "cv4pve-diag",
+    "publisher": "Corsinvest Srl",
+    "description": "cv4pve-diag is a comprehensive diagnostic tool for Proxmox VE that performs health checks\nand system analysis on your virtualization infrastructure.\n\nFeatures:\n- Node health and status monitoring\n- VM/Container diagnostics and configuration validation\n- Storage capacity and performance checks\n- Replication and backup status verification\n- Snapshot age monitoring\n- Multiple output formats (Text, HTML, JSON, Markdown)\n- Customizable severity thresholds\n- Support for ignore patterns",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Corsinvest.cv4pve.metrics-exporter",
+    "name": "cv4pve-metrics-exporter",
+    "publisher": "Corsinvest Srl",
+    "description": "cv4pve-metrics-exporter is a Prometheus metrics exporter for Proxmox VE that provides\ncomprehensive monitoring data for your virtualization infrastructure.\n\nFeatures:\n- Prometheus metrics export for monitoring and alerting\n- Node health and status metrics\n- VM/Container resource usage and performance metrics\n- Storage capacity and usage metrics\n- Replication status monitoring\n- High Availability (HA) resource tracking\n- Subscription status monitoring\n- Disk SMART health monitoring\n- Customizable endpoint (host, port, URL path)\n- API token support for secure authentication\n- Multiple host support for HA configurations",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "dxatlas.CwSkimmer",
     "name": "CwSkimmer",
     "publisher": "dxatlas",
@@ -39232,6 +39463,13 @@
     "name": "Dalux (MSI)",
     "publisher": "Dalux",
     "description": "Dalux BIM viewer is the world’s best at handling multiple complex BIM models. Have confidence that you can see and engage with your project information, regardless of project size, model complexity, or access device!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Dankinations.Catboxxer",
+    "name": "Danki",
+    "publisher": "Dankinations",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40782,6 +41020,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.DocxReader",
+    "name": "Docx Reader",
+    "publisher": "SoftSea",
+    "description": "Docx Reader is a handy Word Docx document viewer. It allows users to view the Docx documents without Microsoft Word. Simple and easy to use. Many users don't have Microsoft Word or still use Word 2003 or even earlier, Docx Reader can help you to open, view and read the docx format documents, and don't need Microsoft Word installed in your PC.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ogham.dog",
     "name": "dog",
     "publisher": "Benjamin Sago",
@@ -41188,6 +41433,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Mylloon.dsr",
+    "name": "dsr",
+    "publisher": "Mylloon",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Kornelski.DSSIM",
     "name": "DSSIM",
     "publisher": "Kornel",
@@ -41244,6 +41496,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "pa001024.dna-builder",
+    "name": "Duet Night Abyss Builder",
+    "publisher": "pa001024",
+    "description": "DNA Builder （二重螺旋构筑模拟器）简称 DOB ，是一个用于游戏《Duet Night Abyss》的角色构建和伤害计算工具，帮助玩家优化角色配置和计算战斗输出。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "muesli.duf",
     "name": "duf",
     "publisher": "Christian Muehlhaeuser",
@@ -41261,6 +41520,13 @@
     "id": "DCSS.DungeonCrawlStoneSoup",
     "name": "Dungeon Crawl Stone Soup",
     "publisher": "DCSS Devteam",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DuoSecurity.DuoDesktop",
+    "name": "Duo Desktop",
+    "publisher": "Duo Security Inc.",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -41699,13 +41965,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "EclipseFoundation.Eclipse.JEE.TencentCloudMirror",
-    "name": "Eclipse IDE for Enterprise Java and Web Developers",
-    "publisher": "Eclipse.org Foundation, Inc.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "EclipseFoundation.Eclipse.PHP",
     "name": "Eclipse IDE for PHP Developers",
     "publisher": "Eclipse.org Foundation, Inc.",
@@ -41951,14 +42210,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "7S2P.Effie",
+    "id": "7S2P.Effie.CN",
     "name": "Effie",
     "publisher": "7S2P Inc.",
     "description": "Effie 是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie 都是您明智的选择。",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "7S2P.Effie.CN",
+    "id": "7S2P.Effie",
     "name": "Effie",
     "publisher": "7S2P Inc.",
     "description": "Effie 是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie 都是您明智的选择。",
@@ -44730,13 +44989,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Fortinet.FortiClientVPN",
-    "name": "FortiClient VPN",
-    "publisher": "Fortinet Technologies Inc",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "PeculiarVentures.Fortify",
     "name": "Fortify",
     "publisher": "Peculiar Ventures",
@@ -45105,6 +45357,13 @@
     "name": "G-Helper PreRelease",
     "publisher": "seerge",
     "description": "Small and lightweight Armoury Crate alternative for Asus laptops offering almost same functionality without extra bloat and unnecessary services. Works on all popular models, such as ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, Flow Z13, TUF Series, Strix / Scar Series, ProArt, VivoBook and many more!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "evandde.G4Starter",
+    "name": "G4Starter",
+    "publisher": "evandde",
+    "description": "Interactive CLI tool for generating Geant4 simulation projects",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46400,6 +46659,13 @@
     "name": "GrafanaOSS",
     "publisher": "Grafana Labs",
     "description": "Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored.\nCreate, explore, and share dashboards with your team and foster a data driven culture.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "skssmd.Graft",
+    "name": "Graft",
+    "publisher": "skssmd",
+    "description": "A high-performance, zero-overhead deployment engine that extends the Docker Compose workflow to cloud infrastructure via SSH. Graft enables native remote management of AWS, GCP, and VPS instances with no agent installs or server-side overhead required. With V2.0 Graft is now optimized for git and github actions ci/cd flow",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48356,6 +48622,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "IJe.IJe",
+    "name": "IJe Programming Language",
+    "publisher": "IJe Team",
+    "description": "I made this programming language because I wanted to. It uses custom keywords like da, kian, tha. It has a compiler and interpreter and it runs code. Go try it its not that good but i just make it anyway so try it.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "IkemenGO.IkemenGO",
     "name": "Ikemen GO",
     "publisher": "Ikemen GO",
@@ -49805,6 +50078,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "pigfun.jmsr",
+    "name": "jmsr",
+    "publisher": "hewel",
+    "description": "A high-performance Jellyfin cast receiver that controls an external MPV player.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "jpmens.jo",
     "name": "jo",
     "publisher": "Jan-Piet Mens",
@@ -50173,6 +50453,13 @@
     "name": "Kando",
     "publisher": "Simon Schneegans",
     "description": "Kando is an open source pie menu for your desktop. It offers an unconventional, fast, highly efficient, and fun way of interacting with your computer! You can use it to launch applications, simulate keyboard shortcuts, open files, and much more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Taozuhong.KangarooMongoDB",
+    "name": "Kangaroo MongoDB",
+    "publisher": "Taozuhong",
+    "description": "Kangaroo is a AI-powered SQL client and admin tool for popular databases(MariaDB / MongoDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQLServer / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53368,6 +53655,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.MD5Calculator",
+    "name": "MD5 Calculator",
+    "publisher": "SoftSea",
+    "description": "MD5 Calculator is a freeware to calculate and compare MD5 checksums for any files. You can copy the generated hash to clipboard, and can verify the MD5 hash to ensure the file integrity is correct with the matching file. It is fast, small and very easy to use.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Rustlang.mdBook",
     "name": "mdBook",
     "publisher": "The Rust Programming Language",
@@ -54096,6 +54390,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.SQLServer.2025.Express",
+    "name": "Microsoft SQL Server 2025 Express",
+    "publisher": "Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.SQLServerManagementStudio",
     "name": "Microsoft SQL Server Management Studio",
     "publisher": "Microsoft Corporation",
@@ -54555,6 +54856,13 @@
     "name": "Minisign",
     "publisher": "Frank Denis",
     "description": "Minisign is a dead simple tool to sign files and verify signatures. It is portable, lightweight, and uses the highly secure Ed25519 public-key signature system.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MYVOIPAPP.miniSIPPhone",
+    "name": "miniSIPPhone",
+    "publisher": "MYVOIPAPP,Inc.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56438,6 +56746,13 @@
     "name": "Msty (CPU only)",
     "publisher": "CloudStack, LLC",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "loonghao.msvc-kit",
+    "name": "msvc-kit",
+    "publisher": "loonghao",
+    "description": "msvc-kit is a portable MSVC Build Tools installer and manager for Rust/Windows development. Download and manage MSVC compiler and Windows SDK without full Visual Studio installation.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60305,6 +60620,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "willibrandon.pgtail",
+    "name": "pgtail",
+    "publisher": "Brandon Williams",
+    "description": "pgtail is an interactive CLI tool for tailing PostgreSQL log files.\nIt auto-detects PostgreSQL instances and provides real-time log streaming\nwith level filtering, vim-style navigation, and color output.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OpenPHDGuiding.PHD2",
     "name": "PHD 2",
     "publisher": "Open PHD Guiding",
@@ -60942,6 +61264,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "jousse.pomodorolm",
+    "name": "pomodorolm",
+    "publisher": "jousse",
+    "description": "Pomodorolm is a simple, lightweight, good looking and configurable pomodoro tracker with tray icon built with Tauri. You can change its look and feel by using themes and you if none suits you, you can create your own theme. All sessions durations are configurable and you can choose to play sounds too (ticking sound, end of session and so on). You can even display notifications if you want to.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MLMGames.Pomodorot",
     "name": "Pomodorot",
     "publisher": "MLM Games",
@@ -61495,6 +61824,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Prog.ProgDVB.Network",
+    "name": "ProgDVB Network",
+    "publisher": "Prog",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Telerik.Fiddler.Classic",
     "name": "Progress Telerik Fiddler Classic",
     "publisher": "Progress Software Corporation",
@@ -61597,6 +61933,13 @@
     "name": "Proton Pass",
     "publisher": "Proton AG",
     "description": "Proton Pass is a free password manager with identity protection. It is used to securely store, share and auto-login to your accounts, using end-to-end encryption.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Proton.ProtonPass.CLI",
+    "name": "Proton Pass CLI",
+    "publisher": "Proton AG",
+    "description": "The Proton Pass CLI allows you to manage your Proton Pass vaults and items directly from the command line, bringing the power of secure secret management to your terminal workflow. With the CLI, you can create, list, view, and delete vaults and items seamlessly, making it an great tool for developers and system administrators who prefer working in the command line.\n\nBeyond basic vault management, the CLI allows you to inject secrets into your applications through environment variables or template files, enabling easy integration with your deployment workflows. The tool also provides comprehensive SSH integration, allowing you to use your SSH keys stored in Proton Pass with your existing SSH workflows.\n\nKey features\nFlexible secret management\n- The CLI offers a flexible and intuitive approach to secret management through a simple URI syntax. You can reference any secret using the format pass://vault/item/field, making it easy to access specific credentials programmatically. This design allows you to inject secrets into environment variables for your applications or process template files that contain secret references.\nSSH agent integration\n- For developers working with SSH keys, the CLI provides robust SSH agent integration capabilities. You can load SSH keys stored in Proton Pass directly into your existing SSH agent, or run the Proton Pass CLI as a standalone SSH agent.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62853,6 +63196,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.RARFileExtractor",
+    "name": "RAR File Extractor",
+    "publisher": "SoftSea",
+    "description": "RAR File Extractor is a simple and easy-to-use RAR files unzip utility, it can quickly extract and decompress all files and folders inside the RAR archive. Select a file (*.rar) and a output folder, files will be extracted to the output folder, then hit button \"Extract\", that is all. The options include \"Overwrite\" and \"Show extracted files when complete\". This program supports multi-volume RAR archive.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Dummerle.Rare",
     "name": "Rare",
     "publisher": "UNKNOWN",
@@ -63095,6 +63445,13 @@
     "name": "Redis Insight",
     "publisher": "Redis Ltd.",
     "description": "Redis Insight is a powerful tool for visualizing and optimizing data in Redis, making real-time application development easier and more fun than ever before. Redis Insight lets you do both GUI- and CLI-based interactions in a fully-featured desktop GUI client.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Redis.Redis",
+    "name": "Redis on Windows",
+    "publisher": "MSOpenTech",
+    "description": "Redis is an open source, BSD licensed, advanced key-value cache and store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets, sorted sets, bitmaps and hyperloglogs. This is a Windows port maintained by Microsoft Archive",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64435,6 +64792,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SaltStack.SaltMinion",
+    "name": "Salt Minion",
+    "publisher": "SaltStack, Inc",
+    "description": "Salt is a new approach to infrastructure management built on a dynamic communication bus. Salt can be used for data-driven orchestration, remote execution for any infrastructure, configuration management for any app stack, and much more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LIJI32.SameBoy",
     "name": "SameBoy",
     "publisher": "LIJI32",
@@ -65275,6 +65639,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "LouisHitchcock.SerialMonitor",
+    "name": "Serial Monitor",
+    "publisher": "Louis Hitchcock",
+    "description": "Serial Monitor is a lightweight, feature-rich serial port monitoring application for Windows.\n\nFeatures:\n- Real-time serial monitoring with configurable baud rates\n- Color-coded output for ERROR, WARNING, INFO, SUCCESS, and DEBUG messages\n- Automatic COM port detection with visual feedback\n- Dark theme interface\n- Save logs to timestamped files\n- Copy output to clipboard\n- Built-in help system",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Eltima.SerialPortMonitor",
     "name": "Serial Port Monitor",
     "publisher": "Electronic Team, Inc.",
@@ -65355,7 +65726,7 @@
     "id": "aelassas.Servy",
     "name": "Servy",
     "publisher": "Akram El Assas",
-    "description": "Servy lets you run any app as a native Windows service with full control over working directory, startup type, process priority, logging, health checks, environment variables, dependencies, pre-launch scripts and parameters. An open-source alternative to NSSM, WinSW and FireDaemon.\n\nFeatures\n- Clean, simple UI\n- Quickly monitor and manage all installed services with Servy Manager\n- CLI for full scripting and automated deployments\n- Run any executable as a Windows service\n- Set service name, description, startup type, priority, working directory, environment variables, dependencies, and parameters\n- Environment variable expansion supported in both environment variables and process parameters\n- Run services as Local System, local user, or domain account\n- Redirect stdout/stderr to log files with automatic size-based rotation\n- Run pre-launch script execution before starting the service, with retries, timeout, logging and failure handling\n- Prevent orphaned/zombie processes with improved lifecycle management and ensuring resource cleanup\n- Health checks and automatic service recovery\n- Monitor and manage services in real-time\n- Browse and search logs by level, date, and keyword for faster troubleshooting from Servy Manager\n- Export/Import service configurations\n- Service Event Notification alerts on service failures via Windows notifications and email\n- Compatible with Windows 7–11 x64 and Windows Server editions\n\nWho is it for?\n- Developers: Run development servers, scripts, or custom tools as services without extra setup.\n- Sysadmins & IT professionals: Ensure critical background processes stay alive, monitored, and properly logged.\n- Teams or organizations: Automate background services reliably across multiple machines.",
+    "description": "Servy lets you run any app as a native Windows service with full control over the working directory, startup type, process priority, logging, health checks, environment variables, dependencies, pre-launch and post-launch hooks, and parameters. It's designed to be a full-featured alternative to NSSM, WinSW, and FireDaemon Pro.\n\nServy is digitally signed using a trusted code-signing certificate provided by the SignPath Foundation. This ensures that all Servy executables and installers are verified and secure, giving you peace of mind when using the tool.\n\nServy offers a desktop app, a CLI, and a PowerShell module that let you create, configure, and manage Windows services interactively or through scripts and CI/CD pipelines. It also includes a Manager app for easily monitoring and managing all installed services in real time.\n\nFeatures:\n- Clean, simple UI\n- Monitor and manage all installed services with Servy Manager\n- Real-time CPU and RAM monitoring with live performance graphs for installed services\n- CLI and PowerShell module for full scripting and automated deployments\n- Run any executable as a Windows service\n- Set service name, description, startup type, priority, working directory, environment variables, dependencies, and parameters\n- Environment variable expansion supported in both environment variables and process parameters\n- Run services as Local System, local or domain accounts, Active Directory accounts, or gMSAs\n- Redirect stdout/stderr to log files with automatic size-based and date-based rotations\n- Run pre-launch hook before starting the service, with retries, timeout, logging and failure handling\n- Run post-launch hook after the application starts successfully\n- Supports Ctrl+C for command-line apps, close-window for GUI apps, and force kill if unresponsive\n- Prevent orphaned/zombie processes with improved lifecycle management and ensuring resource cleanup\n- Health checks and automatic service recovery\n- Browse and search logs by level, date, and keyword for faster troubleshooting from Servy Manager\n- Export/Import service configurations\n- Service Event Notification alerts on service failures via Windows notifications and email\n- Compatible with Windows 7-11 x64 and Windows Server editions\n\nWho is it for?\n- Developers: Run development servers, scripts, or custom tools as services without extra setup.\n- Sysadmins & IT professionals: Ensure critical background processes stay alive, monitored, and properly logged.\n- Teams or organizations: Automate background services reliably across multiple machines.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -65426,6 +65797,13 @@
     "name": "Shapr3D",
     "publisher": "Shapr3D",
     "description": "Inspiration can strike anytime, anywhere—you could be at your desk, on site, on the go. And this shouldn’t be a limitation for CAD design. Transform your 3D modeling workflow with Shapr3D, an industrial-strength CAD tool for Windows. Go from idea to 3D prototyping in minutes, create anywhere, and export manufacturable models. Switch up your workflow with what works best for you: Start designing on your tablet, and add finishing touches on your PC or laptop.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Th0rgal.ShardLauncher",
+    "name": "Shard Launcher",
+    "publisher": "Thomas Marchand",
+    "description": "Shard is a minimal, clean, CLI-first Minecraft launcher focused on stability,\nreproducibility, and low duplication. It uses content-addressed storage to\ndeduplicate mods and resource packs across profiles.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -70525,13 +70903,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Unity.Unity.CN.6000",
-    "name": "Unity 6000 (中国版)",
-    "publisher": "Unity Technologies ApS",
-    "description": "Unity 是旗舰游戏开发平台。使用 Unity 构建高质量的 3D 和 2D 游戏，将其部署至手机、桌面、VR/AR、游戏机或网页，并连接忠实热情的玩家与客户。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Unity.UnityHub",
     "name": "Unity Hub",
     "publisher": "Unity Technologies Inc.",
@@ -71435,6 +71806,48 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "VisionAid.IvonaVoicePack.English.American",
+    "name": "VisionAid American English Ivona Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Dutch",
+    "name": "VisionAid Dutch Ivona Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.French",
+    "name": "VisionAid French Ivona Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Norwegian",
+    "name": "VisionAid Norwegian Ivona Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Romanian",
+    "name": "VisionAid Romanian Ivona Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Turkish",
+    "name": "VisionAid Turkish Ivona Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LeeSoft.ViStart",
     "name": "ViStart",
     "publisher": "Lee-Soft.com",
@@ -71710,13 +72123,6 @@
   {
     "id": "VB-Audio.Voicemeeter",
     "name": "Voicemeeter",
-    "publisher": "VB-Audio Software",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "VB-Audio.Voicemeeter.Banana",
-    "name": "Voicemeeter Banana",
     "publisher": "VB-Audio Software",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -73185,13 +73591,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Cisco.Webex",
-    "name": "Webex",
-    "publisher": "Cisco Systems, Inc",
-    "description": "Cisco Webex 是一款用于持续团队协作的应用。每个人都可以在安全工作空间中随时通过发送消息、文件共享、白板描绘、视频会议、呼叫等方式推进工作。它几乎适用于任何设备，并主要提供以下优势：\n- 简化团队协作：将所有工具集中在一个地方，帮助您更好、更快地完成工作。为您和另一个人或为从事某个项目的团队创建空间。\n- 做出更好的决策：立刻开始及加入会议，通过出色的高清视频体验看见每一个人，共享您的屏幕，并在在线工作空间中保持团队协作。\n- 及时了解您的所有工作：从我们不断增长的集成和 bot 目录中选择，及时了解 Box 和 Salesforce 等其它应用中发生的事情\n- 快速查找所有信息：搜索所有空间中的人员、消息和文件 - 无需切换帐户或视图\n- 将这种体验带入会议室：将您的应用程序与 Webex 设备（如 Webex Board）配对，进行无线控制会议和保存白板绘画等活动\n- 安全工作：通过端对端加密进行业务协作",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Cisco.Webex.Bundle",
     "name": "Webex",
     "publisher": "Cisco Systems, Inc",
@@ -73654,6 +74053,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CatBraaain.winconfig",
+    "name": "winconfig",
+    "publisher": "CatBraaain",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MarcoDAmato.WinContig",
     "name": "WinContig",
     "publisher": "MarcoDAmato",
@@ -73990,13 +74396,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "jazzdelightsme.WingetPathUpdater",
-    "name": "WingetPathUpdater",
-    "publisher": "jazzdelightsme",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Wings3D.Wings3D",
     "name": "Wings 3D",
     "publisher": "Wings3D Team",
@@ -74127,6 +74526,13 @@
     "name": "WinPrefs",
     "publisher": "Tatsh",
     "description": "Developer tool to dump a registry path to equivalent reg commands, C#, C, or PowerShell code. It can filter based on depth and based on configurable wildcard strings. This is the native component only and does not include the PowerShell module.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "michalhavranek.wphfxwin",
+    "name": "WinPrint Hylafax for Windows",
+    "publisher": "Michal Havránek",
+    "description": "Simple Windows client for HylaFax server. This is rewrited version of WinPrint\nHylaFax (winprinthylafax.sourceforge.net by Michael Stowe).\n\nWorks on Windows 7, Windows 8, 10, Windows Server 2008,2012. And later",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -74876,6 +75282,13 @@
     "name": "worktrunk",
     "publisher": "max-sixty",
     "description": "worktrunk (wt) is a Git worktree manager designed for trunk-based development workflows.\nIt simplifies creating, switching between, and managing Git worktrees, making it easy to\nwork on multiple features or branches simultaneously without the overhead of stashing\nor switching branches in a single working directory.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PadWorld-Entertainment.WorldOfPadman",
+    "name": "World of PADMAN",
+    "publisher": "Padworld Entertainment",
+    "description": "World of PADMAN is an incredibly carefully designed and colorful freeware fun shooter for young and young-at-heart people, created by cartoonist and illustrator ENTE and the WoP team, aka. PadWorld Entertainment. For more information about the game please visit the official World of PADMAN website. All notable changes to this game are documented in CHANGELOG.md.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -75884,6 +76297,13 @@
     "name": "Zint",
     "publisher": "Robin Stuart & BogDan Vatra",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.ZipInstaller",
+    "name": "ZipInstaller",
+    "publisher": "NirSoft",
+    "description": "The ZipInstaller utility installs and uninstalls applications and utilities that do not provide an internal installation program. It automatically extracts all files from the Zip file, copies them to the destination folder you select, creates shortcuts in the start menu and in your desktop, and adds an uninstall module to allow you to automatically remove the software in the future.",
     "icon": "/icons/intunify-default.png"
   },
   {
