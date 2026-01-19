@@ -1694,6 +1694,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TheOSCARTeam.OSCAR",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TurtleBeach.ROCCATSwarm",
     "name": "",
     "publisher": null,
@@ -3346,6 +3353,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AETMobileB.V.ZORG-IDDesktopApp",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Aerosoft.One",
     "name": "",
     "publisher": null,
@@ -3445,6 +3459,13 @@
   },
   {
     "id": "AlexanderPershin.lsdeer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "azurejoga.brasilacessivel",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4802,6 +4823,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AhmedSamy.PureLink",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AxiomaticSystems.Bento4",
     "name": "",
     "publisher": null,
@@ -5254,6 +5282,13 @@
     "name": "",
     "publisher": null,
     "description": "Password Depot Enterprise Server 是 Password Depot 的一个扩展功能。通过 Enterprise Server，用户可以共享存储在服务器上的数据库。Windows 桌面客户端是主要程序，同时也用于连接 Enterprise Server。此外，您也可以通过我们的 macOS 版本或移动应用程序（Android 和 iOS）访问 Enterprise Server。另外，您还可以使用我们的网页界面，无论您使用何种设备或操作系统，都可以方便快捷地访问 Enterprise Server。服务器数据库可通过这些客户端之一打开和修改。\nPassword Depot Enterprise Server 可安装在本地网络内的计算机上，也可通过 Azure 部署在云端。服务器管理员主要使用 Server Manager（服务器管理器）这一独立工具来进行 Enterprise Server 的管理和配置。在 Server Manager 中，管理员可以创建新的数据库，向服务器添加用户和用户组，并为其分配数据库。用户可被授予访问整个数据库或仅部分数据库的权限。\n通常情况下，您可以允许多个用户访问同一个服务器数据库，并在同一个数据库中为不同用户定义不同的访问权限。在这种情况下，每个用户所看到的数据库内容将是不同的。\n拥有数据库访问权限的用户可以在客户端中打开这些数据库。连接 Enterprise Server 所需的信息包括：\n- 服务器地址\n- 端口\n- 访问凭证（用户名和密码）\n用户的访问凭证由管理员设定。登录 Enterprise Server 可通过本地用户（用户名和密码）、集成 Windows 身份验证（SSO），或 Azure AD/OIDC 身份验证方式完成。\n此外，管理员还可以在 Server Manager 中设置更多服务器参数，例如：在需要 SSL 连接时安装证书、启用双因素身份验证（2FA）、为特定事件设置通知，以及定义全局服务器策略等。\n所有传输的数据均使用临时密钥并通过 AES 256 位加密算法进行加密。客户端通过 TCP/IP 协议（IPv4/IPv6）与服务器通信，从而确保符合 GDPR（通用数据保护条例）的要求。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "atagon.com.kogiQA",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -6405,6 +6440,132 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "VisionAid.NuanceVocalizerVoicePack.German",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Romanian",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Italian",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Thai",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.French",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Gaelic",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Swedish",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Polish",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Slovak",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Czech",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Chinese",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Greek",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Hungarian",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Hindi",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Korean",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Norwegian",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Spanish",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Finnish",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "VisionAid.IvonaVoicePack.German",
     "name": "",
     "publisher": null,
@@ -6455,6 +6616,13 @@
   },
   {
     "id": "VisionAid.IvonaVoicePack.Portuguese",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.IvonaVoicePack.Welsh",
     "name": "",
     "publisher": null,
     "description": "",
@@ -7959,6 +8127,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "IgorPavlov.7-max",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "igoogolx.lux",
     "name": "",
     "publisher": null,
@@ -9142,6 +9317,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "cvut.qtrvsim",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CMU.Alice.3",
     "name": "",
     "publisher": null,
@@ -9178,6 +9360,13 @@
   },
   {
     "id": "CloudBees.WindowsServiceWrapper",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CloudBees.WindowsServiceWrapper.3",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9940,6 +10129,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CobaltFusion.DebugViewPP",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Carmix.HexWalk",
     "name": "",
     "publisher": null,
@@ -10445,6 +10641,20 @@
   },
   {
     "id": "Gamebanana.Modboy",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "geteduroam.geteduroam",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "geteduroam.getgovroam",
     "name": "",
     "publisher": null,
     "description": "",
@@ -11354,6 +11564,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "gnome.EasyTAG",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "gnome.gedit",
     "name": "",
     "publisher": null,
@@ -11362,6 +11579,13 @@
   },
   {
     "id": "gnome.gitg",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "gnome.Planner",
     "name": "",
     "publisher": null,
     "description": "",
@@ -11813,6 +12037,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "lbjlaq.AntigravityTools",
+    "name": "",
+    "publisher": null,
+    "description": "Antigravity Tools is a fully-featured desktop application designed specifically for developers and AI enthusiasts. It seamlessly integrates multi-account management, protocol conversion, and intelligent request scheduling, providing you with a stable, high-speed, and cost-effective local AI relay station.\nWith this application, you can convert common Web-based Sessions (Google/Anthropic) into standardized API interfaces, completely eliminating protocol barriers across different vendors.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -13552,6 +13783,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.OpenAPI.Hidi",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.FuzzyLookupAddExcel",
     "name": "",
     "publisher": null,
@@ -13790,6 +14028,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.WindowsADK.WinPEAddon",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.SurfaceHubRecoveryTool",
     "name": "",
     "publisher": null,
@@ -13874,6 +14119,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.MSIX-Toolkit",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.FRSDiag",
     "name": "",
     "publisher": null,
@@ -13917,6 +14169,13 @@
   },
   {
     "id": "Microsoft.Azure.TemplateAnalyzer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Azure.Auth",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14546,6 +14805,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "myvoipapp.miniSIPServer.5C",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MetaCubeX.Mihomo",
     "name": "",
     "publisher": null,
@@ -14778,6 +15044,13 @@
   },
   {
     "id": "mcmilk.7zip-zstd",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "mcmilk.7zip-zstd-ndm",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16478,6 +16751,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MarkusSchwenk.MidiEditor",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ManaPlus.ManaPlus",
     "name": "",
     "publisher": null,
@@ -16535,6 +16815,13 @@
   },
   {
     "id": "Medibang.MediBangPaintPro",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MichalKrenek.QSpectrumAnalyzer",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16870,6 +17157,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "jmalarcon.DotNetVersions",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JonahFintzDEV.CommandPalette-VSCode",
     "name": "",
     "publisher": null,
@@ -17171,6 +17465,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JuanjoFuchs.ccburn",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JamesCJ60.Universalx86TuningUtility",
     "name": "",
     "publisher": null,
@@ -17346,6 +17647,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JvanKatwijk.Qt-DAB.Scalar",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Jagex.OldSchoolRunescape",
     "name": "",
     "publisher": null,
@@ -17487,6 +17795,13 @@
   },
   {
     "id": "jendrikseipp.RedNotebook",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "joemiller.vault-token-helper",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18131,6 +18446,13 @@
   },
   {
     "id": "Wilfred.difftastic",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "wood3n.Biu",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18844,6 +19166,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "zz85.SpaceRadar",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ZulerTechnology.DeskIn",
     "name": "",
     "publisher": null,
@@ -19030,6 +19359,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ZhipuAI.ZCode",
+    "name": "",
+    "publisher": null,
+    "description": "Z Code 是一款轻量级的 AI 代码编辑器，旨在解决命令行 AI 编程工具（如 Claude Code、Codex、Gemini 等）操作门槛高的问题。它通过提供一个统一、友好的可视化桌面，将这些 Agent 的能力无缝集成，仅使用一个 api key 就能丝滑切换体验多个 Agent 编程工具。此外，还提供安全的文件版本管理、高效代码审查、任务 Agent、MCP 协议管理等一系列特性，为你打造一站式的 AI 辅助开发体验。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -21735,6 +22071,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Sonuscape.Mouseless",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Sinew.Enpass",
     "name": "",
     "publisher": null,
@@ -21806,13 +22149,6 @@
   },
   {
     "id": "ScottMcKendry.Pat",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Streamlink.Streamlink",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22435,6 +22771,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SunJary.NetAssistant",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Spicetify.Spicetify",
     "name": "",
     "publisher": null,
@@ -22471,6 +22814,13 @@
   },
   {
     "id": "Sketchpunk.OpenKeyboard",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SCS.Alpha",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22884,6 +23234,13 @@
   },
   {
     "id": "seb07-cloud.dktop",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "seb07-cloud.AVDHealthMonitor",
     "name": "",
     "publisher": null,
     "description": "",
@@ -24080,6 +24437,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DrygvalArtyom.DelAfterReboot",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Dixa.Dixa",
     "name": "",
     "publisher": null,
@@ -24088,6 +24452,20 @@
   },
   {
     "id": "dsymbol.yt-dlp-gui",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Datahunter.DatahunterTNT",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Datahunter.Datahunter",
     "name": "",
     "publisher": null,
     "description": "",
@@ -24486,6 +24864,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DayuanJiang.NextAIDrawio",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DataPLANT.ArcCommander",
     "name": "",
     "publisher": null,
@@ -24774,6 +25159,13 @@
   },
   {
     "id": "Docker.Cagent",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Docker.docker-credential-wincred",
     "name": "",
     "publisher": null,
     "description": "",
@@ -27594,6 +27986,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Bit4id.SignDesktop.InfoCamere",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "beyerdynamic.UpdateHub",
     "name": "",
     "publisher": null,
@@ -27986,14 +28385,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "btpf.Alexandria",
+    "id": "Benisgo.Symbolic11",
     "name": "",
     "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Buanzo.FFmpegforAudacity",
+    "id": "btpf.Alexandria",
     "name": "",
     "publisher": null,
     "description": "",
@@ -28841,6 +29240,13 @@
   },
   {
     "id": "PierreBarre.Privaxy",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Potato.Browser",
     "name": "",
     "publisher": null,
     "description": "",
@@ -34069,6 +34475,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ArturoLang.Arturo",
+    "name": "Arturo",
+    "publisher": "ArturoLang",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Besware.Artweaver.7.Free",
     "name": "Artweaver Free 7",
     "publisher": "Besware",
@@ -35714,6 +36127,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.BIKPlayer",
+    "name": "BIK Player",
+    "publisher": "SoftSea",
+    "description": "BIK Player is a free game utility designed for gamers, it can open and play the Bink video format files (*.bik) in many games. This software currently includes the most basic playback features, supports full-screen playback mode.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ForgQi.biliup-rs",
     "name": "biliup-rs",
     "publisher": "ForgQi",
@@ -36341,6 +36761,13 @@
     "name": "Breitbandmessung",
     "publisher": "zafaco GmbH",
     "description": "宽带测量桌面应用允许您确定您的实际网速，并将其与合同约定的网速相比较。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "chuthree.BrewGuide",
+    "name": "Brew Guide",
+    "publisher": "chuthree",
+    "description": "Brew Guide is an all-in-one coffee brewing assistant app.\nFeatures include brewing timer with multi-stage guidance, coffee bean inventory management,\nbrewing notes with ratings and flavor profiles, and cloud sync support.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37072,6 +37499,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.CBRReader",
+    "name": "CBR Reader",
+    "publisher": "SoftSea",
+    "description": "CBR Reader is a free *.cbr file reader, the CBR is a very popular comic book archive format, this program can help you to easily open and view these comic book files, it also supports other similar comic format files, such as *.cbz, *.cb7, *.cbt and *.cba files. So, if you are a comic fan, this is a very useful software. At the best, it is completely free.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GiulioSorrentino.CBriscola.Avalonia",
     "name": "CBriscola.Avalonia",
     "publisher": "Giulio Sorrentino",
@@ -37510,6 +37944,13 @@
     "name": "CHIRP-next",
     "publisher": "CHIRP Software LLC",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.CHMViewer",
+    "name": "CHM Viewer",
+    "publisher": "SoftSea",
+    "description": "CHM Viewer is a free software to view CHM format files, it can quickly open the *.chm file, format and display the contents, very simple to use, support to find, copy, and output functions, at the same time, this is a completely freeware, free for personal use.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38157,6 +38598,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "satodaiki.cntdwn",
+    "name": "cntdwn",
+    "publisher": "satodaiki",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "cobalt-org.cobalt",
     "name": "Cobalt SSG",
     "publisher": "Cobalt SSG",
@@ -38412,13 +38860,6 @@
     "id": "Bitfocus.Companion",
     "name": "Companion",
     "publisher": "Bitfocus",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.CompanyPortal",
-    "name": "Company Portal",
-    "publisher": "Microsoft Corporation",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -39326,6 +39767,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Corsinvest.cv4pve.pepper",
+    "name": "cv4pve-pepper",
+    "publisher": "Corsinvest Srl",
+    "description": "cv4pve-pepper is a tool for launching SPICE remote-viewer to connect to Proxmox VE\nvirtual machines and containers.\n\nFeatures:\n- Launch SPICE remote-viewer for VMs and containers\n- Simple and easy to use\n- Integration with Proxmox VE API",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "dxatlas.CwSkimmer",
     "name": "CwSkimmer",
     "publisher": "dxatlas",
@@ -40201,6 +40649,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "leandrofariasldf.die-cli",
+    "name": "die-cli",
+    "publisher": "Leandro Farias",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TrueHumanDesign.Diffinity",
     "name": "Diffinity",
     "publisher": "Michael Lidgren & Anders Nivfors",
@@ -40313,6 +40768,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.DirectX.Mesh",
+    "name": "DirectXMesh geometry processing library",
+    "publisher": "Chuck Walbourn @ Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "direnv.direnv",
     "name": "direnv",
     "publisher": "Jonas Chevalier",
@@ -40415,6 +40877,13 @@
     "name": "Discotheek",
     "publisher": "Japplis",
     "description": "Discotheek - Use your monitor(s) as spotlight\nDiscotheek changes your screen into a night club spotlight. You can use your it to generate multicolor flashes or strobe. Discotheek supports multiple screens. You can run Discotheek on Windows, macOS, Linux and online.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "afonsojramos.discrakt",
+    "name": "Discrakt",
+    "publisher": "afonsojramos",
+    "description": "Discrakt bridges your Trakt.tv watching status to Discord Rich Presence. It runs silently in your system tray and automatically updates your Discord status when watching movies or TV shows tracked by Trakt.tv.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40842,6 +41311,20 @@
     "name": "DJI Terra",
     "publisher": "DJI",
     "description": "大疆智图是专为行业应用领域设计的 PC 应用程序，可控制 DJI 飞行器按照规划航线（二维或三维）自主飞行，还可进行二维地图重建、三维模型重建、农田规划等。大疆智图适用场景广泛，有助于提高农业植保、搜索救援、消防等领域任务的执行效率。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.DjVuConverter",
+    "name": "DjVu Converter",
+    "publisher": "SoftSea",
+    "description": "DjVu Converter is a free DjVu image conversion software, it can convert DjVu images to PDF documents, EPUB e-books, or TIFF, JPG/JPEG and PNG images. You can convert all pages or select partial pages, and can control image quality of output image. Software is easy to use, no complicated settings and complex steps, with a few mouse clicks, you can easily complete DjVu file conversions by yourself.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.DjVuViewer",
+    "name": "DjVu Viewer",
+    "publisher": "SoftSea",
+    "description": "DjVu Viewer is a small .djvu file reader, enables you to open and view DjVu format files, easily zoom in and zoom out. This software can generate the thumbnails of all image pages, allow you to quickly browse. And, you can export the images to other format image files, such as JPEG, PNG, GIF, TIFF and BMP formats, program supports batch conversion, you can convert all images at once.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42210,14 +42693,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "7S2P.Effie.CN",
+    "id": "7S2P.Effie",
     "name": "Effie",
     "publisher": "7S2P Inc.",
     "description": "Effie 是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie 都是您明智的选择。",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "7S2P.Effie",
+    "id": "7S2P.Effie.CN",
     "name": "Effie",
     "publisher": "7S2P Inc.",
     "description": "Effie 是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie 都是您明智的选择。",
@@ -42616,10 +43099,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.DotNet.Runtime.2_2",
+    "name": "Entorno de ejecución de .NET 2.2",
+    "publisher": "Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MySky.EntraPassWeb",
     "name": "EntraPass web",
     "publisher": "MySkyAccess",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "tolgamorf.env2op-cli",
+    "name": "env2op-cli",
+    "publisher": "Tolga O.",
+    "description": "env2op-cli provides two commands:\n- env2op: Push .env files to 1Password as Secure Notes and generate templates\n- op2env: Pull secrets from 1Password using templates to generate .env files",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42669,6 +43166,13 @@
     "name": "ept",
     "publisher": "Edgeless",
     "description": "Next generation package management solution for Windows - built on Nep specification\n- 🚀 Built with Rust, it can be compiled to less than 20MB and requires no runtime or DLL dependencies while exhibiting superior performance\n- 🔒 Utilizes the hash algorithm BLAKE3 in conjunction with the Ed25519 digital signature algorithm to provide a secure and extremely fast signing experience\n- 📦 Adopts Zstandard compression algorithm for efficient data compression and decompression capabilities\n- 🛠️ Features perfect workflow design that elegantly describes the process of installing, updating, and uninstalling packages; supports automatic generation of reverse workflows, permission information, packing lists, and other information from workflows\n- 📝 Features perfect meta-information management capabilities including support for labels, permissions control and other capabilities; support for identifying program self-updates, support for identifying registry entries to obtain the main program path and uninstall commands; support for installer version and portable version of the package, support for expandable packages, support for customizing package type preferences\n- 🤖 Rich ecosystem with a well-established CI/CD process, using robots to automate builds and ensure package quality through automated quality assurance systems",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.EPUBFileReader",
+    "name": "EPUB File Reader",
+    "publisher": "SoftSea",
+    "description": "EPUB File Reader is a free and simple EPUB file viewer, it can quickly open a EPUB document, let you view file content. Software has a friendly interface, and installation package is very small, it is very easy to use. At the best, it is a freeware and completely free to use. If you have a lot of EPUB eBooks, this software is what you need.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42843,6 +43347,13 @@
     "id": "EVEMonDevelopmentTeam.EVEMon",
     "name": "EVEMon",
     "publisher": "EVEMon Development Team",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.EventLogExpert",
+    "name": "EventLogExpert",
+    "publisher": "Microsoft Corporation",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -45101,10 +45612,38 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.FreeMKVPlayer",
+    "name": "Free MKV Player",
+    "publisher": "SoftSea",
+    "description": "Free MKV player is a small utility released by mkvcodec.com, free for any personal use. This program is simple, compact and easy to use, is specifically designed to play MKV format files, built-in MKV video decoder, supports all the basic operation of video playback. This software is completely free, no adware, totally clean.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "FreePascal.FreePascalCompiler",
     "name": "Free Pascal Compiler",
     "publisher": "Free Pascal",
     "description": "Free Pascal is a mature, versatile, open source Pascal compiler. It can target many processor architectures: Intel x86 (16 and 32 bit), AMD64/x86-64, PowerPC, PowerPC64, SPARC, SPARC64, ARM, AArch64, MIPS, Motorola 68k, AVR, and the JVM. Supported operating systems include Windows (16/32/64 bit, CE, and native NT), Linux, Mac OS X/iOS/iPhoneSimulator/Darwin, FreeBSD and other BSD flavors, DOS (16 bit, or 32 bit DPMI), OS/2, AIX, Android, Haiku, Nintendo GBA/DS/Wii, AmigaOS, MorphOS, AROS, Atari TOS, and various embedded platforms.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.FreeVideoCompressor",
+    "name": "Free Video Compressor",
+    "publisher": "SoftSea",
+    "description": "Free Video Compressor is a free and lightweight compression software for video files, it can help you to easily compress video files and save your PC disk space. This software can work with many popular video formats, such as MP4 (MPEG), WMV, FLV, AVI, MOV, MKV, ASF, MPG, RMVB (RM) and more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.FreeVideoCutter",
+    "name": "Free Video Cutter",
+    "publisher": "SoftSea",
+    "description": "Free Video Cutter is a free video utility to help you to cut and split your video files into small size you can use it as a \"video cutter\", \"video splitter\" or \"video clipper\". Program can work with most video formats, such as MPEG 1/2, MPEG4, DivX, Xvid, AVI, WMV, Quicktime MOV, Flash video and more, the output video can have a good video quality. No need any professional IT skills, No need any knowledge about all kinds of video formats, it is so easy to use. Without any adware or spyware, this simple software is 100% clean and secure, and completely free.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.FreeVideoJoiner",
+    "name": "Free Video Joiner",
+    "publisher": "SoftSea",
+    "description": "Free Video Joiner is a tool that can join several videos into one large video file, it is a powerful tool and easy to use, works fast and keeps the quality of video, supports many video formats include AVI (Divx,XviD,MPEG4), WMV, MPEG (MPEG1 and MPEG2), MP4, MOV, DVD, VCD and other formats. This free tool does not require any technical experience and is very easy to use.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45157,6 +45696,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FreedomScientific.Fusion.2026",
+    "name": "Freedom Scientific Fusion 2026",
+    "publisher": "Freedom Scientific",
+    "description": "Fusion is the ultimate accessibility tool for schools, agencies, training centers, and businesses where individuals with vision loss are served. Fusion provides the best of both worlds – ZoomText® , with its screen magnification and visual enhancements for screen viewing ease, coupled with the power and speed of JAWS®  for screen reading functionality. A single installer and one license gives you access to both ZoomText and JAWS individually, or together when run as the combined solution – Fusion.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "FreedomScientific.JAWS.2024",
     "name": "Freedom Scientific JAWS 2024",
     "publisher": "Freedom Scientific",
@@ -45166,6 +45712,13 @@
   {
     "id": "FreedomScientific.JAWS.2025",
     "name": "Freedom Scientific JAWS 2025",
+    "publisher": "Freedom Scientific",
+    "description": "JAWS, Job Access With Speech, is the world’s most popular screen reader, developed for computer users whose vision loss prevents them from seeing screen content or navigating with a mouse. JAWS provides speech and Braille output for the most popular computer applications on your PC. You will be able to navigate the Internet, write a document, read an email and create presentations from your office, remote desktop, or from home.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FreedomScientific.JAWS.2026",
+    "name": "Freedom Scientific JAWS 2026",
     "publisher": "Freedom Scientific",
     "description": "JAWS, Job Access With Speech, is the world’s most popular screen reader, developed for computer users whose vision loss prevents them from seeing screen content or navigating with a mouse. JAWS provides speech and Braille output for the most popular computer applications on your PC. You will be able to navigate the Internet, write a document, read an email and create presentations from your office, remote desktop, or from home.",
     "icon": "/icons/intunify-default.png"
@@ -46004,6 +46557,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "gnome.Glade",
+    "name": "Glade",
+    "publisher": "GNOME Project",
+    "description": "A RAD tool to enable quick & easy development of user interfaces for the GTK toolkit and the GNOME desktop environment.\n\nNote that as of January 9, 2026, the recentmost Windows version (3.14.2) lags noticeably behind the recentmost Linux version (3.40.0).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Glarysoft.FileRecoveryFree",
     "name": "Glarysoft File Recovery",
     "publisher": "Glarysoft Ltd",
@@ -46106,6 +46666,13 @@
     "name": "GMT6",
     "publisher": "The GMT Team",
     "description": "GMT is an open-source collection of command-line tools for manipulating geographic and Cartesian data sets (including filtering, trend fitting, gridding, projecting, etc.) and producing high-quality illustrations ranging from simple x–y plots via contour maps to artificially illuminated surfaces and 3D perspective views. It supports many map projections and transformations and includes supporting data such as coastlines, rivers, and political boundaries and optionally country polygons.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "gnome.GNOMETranslationEditor",
+    "name": "GNOME Translation Editor",
+    "publisher": "GNOME Project",
+    "description": "An enhanced gettext po file editor for the GNOME desktop environment.\n\nNote that as of January 9, 2026, the recentmost Windows version (1.9.5) lags far behind the recentmost Linux version (49.0).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46907,6 +47474,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "gnome.gtkmm",
+    "name": "gtkmm",
+    "publisher": "GNOME Project",
+    "description": "The official C++ interface for the popular GUI library GTK.\n\nNote that as of January 9, 2026, the recentmost Windows version (2.22.0-2) lags noticeably behind the recentmost Linux version (4.21.2).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DrewNaylor.guinget",
     "name": "guinget",
     "publisher": "DrewNaylor",
@@ -46967,6 +47541,13 @@
     "name": "Gyroflow",
     "publisher": "Gyroflow",
     "description": "Gyroflow is an application that can stabilize your video by using motion data from a gyroscope and optionally an accelerometer. Modern cameras record that data internally (GoPro, Sony, Insta360 etc), and this application stabilizes the captured footage precisely by using them. It can also use gyro data from an external source (eg. from Betaflight blackbox).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.H264Encoder",
+    "name": "H.264 Encoder",
+    "publisher": "SoftSea",
+    "description": "H.264 Encoder is a freeware to encode popular video files to H.264/AVC video format. H.264 can encode video with approximately 3 times fewer bits than comparable MPEG-2 encoders. With the friendly interface and design, you can easily handle this software without any help, this encoder is one simple and easy-to-use tool for beginners, it offers fast encoding speed, professional quality, simply install and uninstall. H.264 Encoder support almost existing video formats, include MPEG-2, DivX, XviD etc. At the best, it is totally FREE software for everyone.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48062,6 +48643,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MorganZWest.HSEmulate",
+    "name": "HSEmulate",
+    "publisher": "Morgan Z West",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JohannesKaufmann.html2markdown",
     "name": "html-to-markdown",
     "publisher": "Johannes Kaufmann",
@@ -48248,6 +48836,13 @@
     "name": "Hyperspace Desktop",
     "publisher": "Marquis Kurt",
     "description": "Socialize and communicate with your friends in the fediverse (ActivityPub-powered social networks like Mastodon and Pleroma) with Hyperspace Desktop.\nBrowse your timelines, check in with friends, and share your experiences across the fediverse in a beautiful, clean, and customizable way.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HypixelStudios.Hytale",
+    "name": "Hytale Launcher",
+    "publisher": "Hypixel Studios Canada inc.",
+    "description": "Hytale is a sandbox action-adventure game that combines open-world exploration with RPG elements and robust creative tools. Set in a procedurally generated world, it offers diverse biomes, dungeons, and creatures to discover. Players can engage in combat, complete quests, build and shape environments block by block, and use integrated tools to create custom content, including minigames, models, animations, and scripts. The game supports both solo and multiplayer play, with the option to host or join community servers and develop mods.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50547,6 +51142,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KDE.ISOImageWriter",
+    "name": "KDE ISO Image Writer",
+    "publisher": "KDE",
+    "description": "A quick and simple way to create a bootable USB drive.\n\nNote that as of January 10, 2026, the recentmost Windows version (1.0.0) lags noticeably behind the recentmost Linux version (25.12.1).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KDE.Kdenlive",
     "name": "Kdenlive",
     "publisher": "KDE e.V.",
@@ -50932,6 +51534,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.OpenCLGLVulkanCompatibilityPack",
+    "name": "Kompatibilitetspakke for OpenCL™, OpenGL® og Vulkan®",
+    "publisher": "Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Kubernetes.kompose",
     "name": "kompose",
     "publisher": "Kubernetes",
@@ -51156,6 +51765,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "txn2.kubefwd",
+    "name": "kubefwd",
+    "publisher": "txn2",
+    "description": "kubefwd is a command line utility for bulk forwarding Kubernetes services to your local workstation. Each service gets its own unique loopback IP (127.x.x.x), eliminating port conflicts. Access cluster services by name exactly as in-cluster with automatic /etc/hosts management.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "stackrox.kube-linter",
     "name": "KubeLinter",
     "publisher": "StackRox",
@@ -51300,6 +51916,13 @@
     "name": "LameXP",
     "publisher": "lordmulder",
     "description": "LameXP is a graphical user-interface (GUI front-end) for various of audio encoders and decoders: It allows you to convert your audio files from one audio format to another one in the most simple way. Despite its name, LameXP is not only a front-end for the LAME MP3 encoder, but supports a wide range of output formats, including MP3, Ogg Vorbis, Opus, AAC/MP4, FLAC, AC-3 and Wave Audio. The number of supported input formats is even bigger!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Chill-Astro.Lamina.unp",
+    "name": "Lamina",
+    "publisher": "Chill-Astro Software",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51758,6 +52381,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Lianja.LianjaAppBuilder",
+    "name": "Lianja App Builder",
+    "publisher": "Lianja Inc.",
+    "description": "Lianja is an AI-assisted low-code application development platform for building and deploying desktop, web, mobile, and progressive web applications. It supports no-code, low-code, and professional development workflows using LianjaScript/Visual FoxPro, JavaScript, TypeScript, and Python, and can be used to modernise legacy Visual FoxPro (VFP) applications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RIA.Libdigidocpp",
     "name": "Libdigidocpp",
     "publisher": "RIA",
@@ -51781,6 +52411,13 @@
   {
     "id": "BellSoft.LibericaJDK.11.Lite",
     "name": "Liberica JDK 11 Lite",
+    "publisher": "BellSoft",
+    "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BellSoft.LibericaJDK.12",
+    "name": "Liberica JDK 12",
     "publisher": "BellSoft",
     "description": "Liberica JDK is available on a variety of platforms. It is built from OpenJDK which BellSoft contributes to and is thoroughly tested. Liberica JDK is compatible with the Java SE standard as confirmed by the JCK provided under the license from OpenJDK. Support options are available from BellSoft.",
     "icon": "/icons/intunify-default.png"
@@ -52437,6 +53074,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SawtoothSoftware.LighthouseStudio",
+    "name": "Lighthouse Studio",
+    "publisher": "Sawtooth Software",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Alibaba.LightProxy",
     "name": "LightProxy",
     "publisher": "Alibaba Open Source",
@@ -52644,6 +53288,13 @@
     "name": "Litecoin Core",
     "publisher": "Litecoin Core project",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Diorser.LiteMonitor",
+    "name": "LiteMonitor",
+    "publisher": "Diorser",
+    "description": "LiteMonitor is a modern Windows desktop system monitoring tool. It supports horizontal/vertical display, multiple languages, theme switching, transparency, adaptive DPI scaling, and three-level color alerts — in a clean and highly configurable interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52969,6 +53620,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Teradata.Loom",
+    "name": "Loom",
+    "publisher": "Teradata",
+    "description": "Loom is a Go framework for building autonomous LLM agent threads with natural language agent creation,\npattern-guided learning, and multi-agent orchestration. It includes:\n\n- Natural language agent creation via the weaver meta-agent\n- Multi-agent orchestration with 6 workflow patterns\n- 90+ reusable patterns across 16 domains\n- 8 LLM provider integrations (Anthropic, Bedrock, OpenAI, etc.)\n- Multi-modal support (vision, document parsing)\n- Built-in judge evaluation system with DSPy integration\n- Self-improving agents with pattern proposal capabilities\n- Real-time streaming and complete observability",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Loom.Loom",
     "name": "Loom",
     "publisher": "Loom, Inc.",
@@ -53099,6 +53757,13 @@
     "name": "Luminea Remote",
     "publisher": "BJLive!",
     "description": "Luminea Remote - Control your Luminea Remote from the command line, or from any thrid party application that can run external commands, i.e. Grid 3, TD Snap, Communicator 5, etc. Select a device or controll all at once, change colors and control the bubbles,",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LumiOwO.LumiTracker",
+    "name": "LumiTracker",
+    "publisher": "LumiOwO",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54124,6 +54789,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.DotNet.Framework.Runtime",
+    "name": "Microsoft .NET Framework Runtime (ARM64)",
+    "publisher": "Microsoft Corporation",
+    "description": "Do you want to run apps? The runtime includes everything you need to run existing apps/programs built with .NET Framework. Not necessarily to be confused with «Microsoft .NET Runtime».\n\nNormally the runtime is installed by default with all x64 versions of Windows 11, and with x64 and x86 versions of Windows 10 22H2, which as of January 14, 2026 causes complications with the Winget verification process. Due to that, this package can by default only be installed on ARM64 devices, and users of x64/x86 versions of Windows 10 ≤21H2 cannot use this package even if they are still on Framework 4.8.0.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.DotNet.Runtime.5",
     "name": "Microsoft .NET Runtime 5.0",
     "publisher": "Microsoft Corporation",
@@ -54754,6 +55426,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "dongdongbh.Mindwtr",
+    "name": "Mindwtr",
+    "publisher": "dongdongbh",
+    "description": "A complete Getting Things Done (GTD) productivity system.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DavidNorgren.Mine-imator",
     "name": "Mine-imator",
     "publisher": "David Norgren",
@@ -55094,6 +55773,13 @@
     "name": "MobaXterm",
     "publisher": "Mobatek",
     "description": "MobaXterm 是您的远程计算终极工具箱，通过单个 Windows 应用程序提供了大量的功能，为程序员、网站管理员、IT 管理员以及几乎所有需要以更简单的方式处理远程工作的用户量身定制。\nMobaXterm 为 Windows 提供了所有重要的远程网络工具（SSH、RDP、X11、SFTP、FTP、Telnet、Rlogin……），仅需一个便携 exe 文件，开箱即用。一些插件可以为 MobaXterm 添加功能，例如 Unix 命令（bash、ls、cat、sed、grep、awk、rsync……）。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.MobiFileReader",
+    "name": "Mobi File Reader",
+    "publisher": "SoftSea",
+    "description": "Mobi File Reader is a free and simple file viewer for Mobi e-book files. It can help you to open a Mobi file, convert and save Mobi files as Text and HTML files. With a clean and friendly interface, this compact software is easy to use. In addition, this is completely free for personal use.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59787,6 +60473,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OuterWildsMods.OuterWildsModManager",
+    "name": "Outer Wilds Mod Manager",
+    "publisher": "Outer Wilds Mods",
+    "description": "Install and manage mods for the game Outer Wilds",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GeneralOutline.Outline",
     "name": "Outline",
     "publisher": "General Outline, Inc",
@@ -60239,6 +60932,13 @@
     "name": "PayEye",
     "publisher": "CREALOGIX AG",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.PCShredder",
+    "name": "PC Shredder",
+    "publisher": "SoftSea",
+    "description": "PC Shredder is one free data removal and file shredder software, can permanently delete files, folders and make them irrecoverable, completely shredding the files you specify, make it impossible for anyone to restore deleted information. Prevent your business data, important documents and personal information from being recovered. PC Shredder is Freeware. It is free for both personal and commercial use.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62762,6 +63462,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "quantumauth-io.QuantumAuth",
+    "name": "QuantumAuth",
+    "publisher": "quantumauth-io",
+    "description": "QuantumAuth is a local authentication client that provides hardware-backed identity and cryptographic operations for applications and wallets.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Posit.Quarto",
     "name": "Quarto",
     "publisher": "Rstudio, PBC",
@@ -62801,6 +63508,13 @@
     "name": "QuestPatcher",
     "publisher": "Lauriethefish#6700",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "QuestPDF.Companion",
+    "name": "QuestPDF.Companion",
+    "publisher": "QuestPDF",
+    "description": "The QuestPDF Companion application is a tool designed to simplify and speed up your development lifecycle. First, it shows a preview of your document. But the real magic starts with the hot-reload capability! It observes your code and updates the preview every time you change the implementation. Get real-time results without the need of code recompilation. Save time and enjoy the task!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63091,6 +63805,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RailOS.RailOS",
+    "name": "Railway Operation Simulator",
+    "publisher": "Railway Operation Simulator",
+    "description": "Open source railway simulatior for Windows",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HarshKhandeparkar.RainbowBoard",
     "name": "Rainbow Board",
     "publisher": "Harsh Khandeparkar",
@@ -63116,6 +63837,13 @@
     "name": "Rakk Talan Air Wireless",
     "publisher": "Rakk Gears",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Raku.Rakubrew",
+    "name": "Rakubrew",
+    "publisher": "Raku",
+    "description": "rakubrew (called rakudobrew in a previous life) is a Raku installation tool. It allows to have multiple versions of different Raku implementations installed in parallel and switch between them. It's a perlbrew and plenv look alike and supports both flavours of commands.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63651,6 +64379,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CNRISTI.RelightLab",
+    "name": "RelightLab",
+    "publisher": "Visual Computing Lab - ISTI - CNR",
+    "description": "Relight is a library and set of tools to create and view relightable images (RTI).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Relux.ReluxDesktop",
     "name": "ReluxDesktop",
     "publisher": "Relux Informatik AG",
@@ -63830,6 +64565,13 @@
     "name": "Replit",
     "publisher": "Replit",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "imsncht.repo2page",
+    "name": "repo2page",
+    "publisher": "Sanchit Dhale",
+    "description": "repo2page is a developer tool that converts an entire GitHub or local repository into a single, portable, structure-preserving document. It supports Markdown, HTML, and Plain Text output formats, respects .gitignore, and is distributed as a single binary with zero runtime dependencies.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64323,6 +65065,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AlroviApS.RoGoldUltimateApp",
+    "name": "RoGold Ultimate App",
+    "publisher": "Alrovi ApS",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Rokkr.Rokkr",
     "name": "Rokkr",
     "publisher": "Rokkr AG",
@@ -64621,6 +65370,13 @@
     "name": "RustDesk",
     "publisher": "RustDesk",
     "description": "RustDesk is a full-featured open source remote control alternative for self-hosting and security with minimal configuration.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AshokSK.ruster-env",
+    "name": "ruster-env",
+    "publisher": "Ashok S K",
+    "description": "ruster-env injects variables directly into your current session—just like source .env on Linux.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -65464,6 +66220,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RobedPixel.SDL3",
+    "name": "SDL3",
+    "publisher": "RobedPixel",
+    "description": "A cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL/Direct3D/Metal/Vulkan.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Airspy.SDRSharp.DotNet9",
     "name": "SDR#",
     "publisher": "AirSpy",
@@ -65870,6 +66633,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SpaceTime.Sheas-Cealer",
+    "name": "Sheas Cealer",
+    "publisher": "Space Time",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Japplis.SheetStats",
     "name": "Sheet Stats",
     "publisher": "Japplis",
@@ -66034,6 +66804,13 @@
     "id": "NTI-UFSM-CS.SIERemotoUFSM",
     "name": "SIE Remoto UFSM",
     "publisher": "NTI UFSM-CS",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CleverData.SiftAgent",
+    "name": "Sift Edge Agent",
+    "publisher": "CleverData",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -67851,6 +68628,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Streamlink.Streamlink",
+    "name": "Streamlink",
+    "publisher": "Streamlink",
+    "description": "Streamlink is a command-line utility which pipes video streams from various services into a video player, such as VLC or mpv. The main purpose of Streamlink is to avoid resource-heavy and unoptimized websites, while still allowing the user to enjoy various streamed content. There is also a Python API available for developers who want access to the stream data.\n\nThis project was forked from Livestreamer, which is no longer maintained.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Streamlink.Streamlink.TwitchGui",
     "name": "Streamlink Twitch GUI",
     "publisher": "Sebastian Meyer",
@@ -68180,6 +68964,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.SWFFilePlayer",
+    "name": "SWF File Player",
+    "publisher": "SoftSea",
+    "description": "SWF File Player is a simple player for SWF files. Many Flash games are in the SWF format and this software can help you to quickly open and play the content of these files. If you have several SWF files, this software will be a very useful utility for you. Additionally, it is completely free to use.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SWI-Prolog.SWI-Prolog",
     "name": "SWI-Prolog",
     "publisher": "SWI-Prolog",
@@ -68455,7 +69246,7 @@
   {
     "id": "Microsoft.Sysinternals.Sysmon",
     "name": "Sysmon",
-    "publisher": "Microsoft",
+    "publisher": "Microsoft Corporation",
     "description": "System Monitor (Sysmon) is a Windows system service and device driver that, once installed on a system, remains resident across system reboots to monitor and log system activity to the Windows event log.",
     "icon": "/icons/intunify-default.png"
   },
@@ -68777,7 +69568,7 @@
   {
     "id": "Microsoft.Sysinternals.TCPView",
     "name": "TCPView",
-    "publisher": "Sysinternals",
+    "publisher": "Microsoft Corporation",
     "description": "TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections. TCPView also reports the name of the process that owns the endpoint. TCPView provides a more informative and conveniently presented subset of the Netstat program that ships with Windows. The TCPView download includes Tcpvcon, a command-line version with the same functionality.\n\nWhen you start TCPView it will enumerate all active TCP and UDP endpoints, resolving all IP addresses to their domain name versions. You can use a toolbar button or menu item to toggle the display of resolved names. TCPView shows the name of the process that owns each endpoint, including the service name (if any).\n\nBy default, TCPView updates every second, but you can use the Options|Refresh Rate menu item to change the rate. Endpoints that change state from one update to the next are highlighted in yellow; those that are deleted are shown in red, and new endpoints are shown in green.\n\nYou can close established TCP/IP connections (those labeled with a state of ESTABLISHED) by selecting File|Close Connections, or by right-clicking on a connection and choosing Close Connections from the resulting context menu.\n\nYou can save TCPView's output window to a file using the Save menu item.",
     "icon": "/icons/intunify-default.png"
   },
@@ -69678,6 +70469,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KDE.Tokodon",
+    "name": "Tokodon",
+    "publisher": "KDE",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "arrow2nd.tokumei-player-plus",
     "name": "tokumei-player-plus",
     "publisher": "arrow2nd",
@@ -70291,6 +71089,13 @@
     "name": "TurboVNC",
     "publisher": "The VirtualGL Project",
     "description": "TurboVNC is a high-performance, enterprise-quality version of VNC based on TightVNC, TigerVNC, and X.org.\nIt contains a variant of Tight encoding that is tuned for maximum performance and compression with 3D applications (VirtualGL), video, and other image-intensive workloads.\nTurboVNC, in combination with VirtualGL, provides a complete solution for remotely displaying 3D applications with interactive performance.\nTurboVNC's high-speed encoding methods have been adopted by TigerVNC and libvncserver, and TurboVNC is also compatible with any other TightVNC derivative.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Nixye.Turnaw",
+    "name": "Turnaw",
+    "publisher": "Luna Willer Pinto (Nixye)",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71148,6 +71953,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.UTMConverter",
+    "name": "UTM Converter",
+    "publisher": "SoftSea",
+    "description": "UTM Converter is a geographic tool for converting UTM (Universal Transverse Mercator) coordinates to Lat/Long (Latitude/Longitude) coordinates. This free coordinates converter and calculator can help you quickly convert between Geographic and UTM coordinates.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Yuanli.uTools",
     "name": "uTools",
     "publisher": "福州猿力信息科技有限公司",
@@ -71515,7 +72327,7 @@
     "id": "kayapater.VideoDownloader",
     "name": "Video İndirici",
     "publisher": "kayapater",
-    "description": "Video İndirici, YouTube, Twitter, Instagram ve birçok platformdan video indirmek için profesyonel bir masaüstü uygulamasıdır.\n\nÖzellikler:\n- 4K Ultra HD video indirme (2160p, 1440p, 1080p, 720p, 480p, 360p)\n- Çoklu platform desteği (YouTube, Twitter, Instagram, TikTok, Facebook ve 1000+ site)\n- Çoklu dilde altyazı indirme\n- MP3 formatında ses çıkarma\n- Hız izleme ile gerçek zamanlı indirme ilerlemesi\n- Açık ve koyu tema seçenekleri ile modern arayüz\n- Çok dilli arayüz (İngilizce ve Türkçe)\n- Otomatik FFmpeg kurulumu ve yapılandırması\n- Sıfır veri toplama ile gizlilik odaklı\n\nTeknik:\n- .NET 8.0 Windows Forms ile geliştirildi\n- yt-dlp ve FFmpeg destekli\n- Otomatik bağımlılık yönetimi\n- FFprobe ile gelişmiş çözünürlük doğrulama",
+    "description": "Video İndirici, YouTube, Twitter, Instagram ve birçok platformdan video indirmek için profesyonel bir masaüstü uygulamasıdır.\n\nÖzellikler:\n- 4K Ultra HD video indirme (2160p, 1440p, 1080p, 720p, 480p, 360p)\n- Çoklu platform desteği (YouTube, Twitter, Instagram, TikTok, Facebook ve 1000+ site)\n- Çoklu dilde altyazı indirme\n- MP3 formatında ses çıkarma\n- Hız izleme ile gerçek zamanlı indirme ilerlemesi\n- 8 güzel tema ile modern arayüz (Açık, Koyu, Okyanus, Orman, Gün Batımı, Mor, Gül, Gece Mavisi)\n- Çok dilli arayüz (İngilizce ve Türkçe)\n- İndirmeleri duraklat ve devam ettir\n- Otomatik FFmpeg kurulumu ve yapılandırması\n- Sıfır veri toplama ile gizlilik odaklı\n\nTeknik:\n- .NET 8.0 Windows Forms ile geliştirildi\n- yt-dlp ve FFmpeg destekli\n- Otomatik bağımlılık yönetimi\n- FFprobe ile gelişmiş çözünürlük doğrulama",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71822,6 +72634,69 @@
   {
     "id": "VisionAid.IvonaVoicePack.French",
     "name": "VisionAid French Ivona Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Arabic",
+    "name": "VisionAid International Arabic Vocalizer Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Catalan",
+    "name": "VisionAid International Catalan Vocalizer Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Danish",
+    "name": "VisionAid International Danish Vocalizer Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Dutch",
+    "name": "VisionAid International Dutch Vocalizer Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.English",
+    "name": "VisionAid International English Vocalizer Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Japanese",
+    "name": "VisionAid International Japanese Vocalizer Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Portuguese",
+    "name": "VisionAid International Portuguese Vocalizer Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Russian",
+    "name": "VisionAid International Russian Vocalizer Voice Pack",
+    "publisher": "VisionAid International",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisionAid.NuanceVocalizerVoicePack.Turkish",
+    "name": "VisionAid International Turkish Vocalizer Voice Pack",
     "publisher": "VisionAid International",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -74438,6 +75313,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "kayapater.WinKit",
+    "name": "WinKit",
+    "publisher": "kayapater",
+    "description": "WinKit is a Windows post-installation app installer that helps you quickly install popular applications using Windows Package Manager (winget).\n\nFeatures:\n- 100+ popular apps ready to install\n- Dark and light theme support\n- Automatic winget installation and management\n- Category filtering (Browsers, Development, Gaming, Multimedia, etc.)\n- Real brand logos for professional look\n- Batch installation support",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BrechtSanders.WinLibs.MCF.UCRT",
     "name": "WinLibs (MCF threads, UCRT runtime)",
     "publisher": "Brecht Sanders",
@@ -75414,6 +76296,13 @@
     "id": "FalconNL93.WSLToolbox",
     "name": "WSL Toolbox",
     "publisher": "FalconNL93",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "alelec.WSLUSBManager",
+    "name": "WSL USB Manager",
+    "publisher": "Andrew Leech",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
