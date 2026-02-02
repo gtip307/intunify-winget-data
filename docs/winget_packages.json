@@ -28,6 +28,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TritiumLegal.Tritium",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TeamReadarr.Readarr",
     "name": "",
     "publisher": null,
@@ -1624,6 +1631,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thunderhead.Pathfinder.2026",
+    "name": "",
+    "publisher": null,
+    "description": "Pathfinder 通过直观界面实现基于智能体的仿真，输出清晰详尽的结果。\nPathfinder 模型中的每个个体都能感知周边环境，并基于实时信息持续计算下一步行动。这些决策机制源自学术研究与验证测试，使仿真引擎能够精准模拟真实人类行为。\n1. Thunderhead Engineering 与顶尖研究机构合作，并举办高端学术活动以推动行人运动研究发展\n2. 我们通过研究数据对 Pathfinder 进行验证测试并公开发布，确保工具可靠性\nPathfinder 可灵活适应各类项目规模与复杂度，简单实验只需数分钟即可搭建。其功能更突破常规工具限制，支持蒙特卡洛敏感性分析、烟雾污染物暴露评估、社交距离建模等高级应用。\nThunderhead Engineering 提供全程支持服务。无论您需要深度培训还是自学资料，都能高效掌握基于性能的设计建模方法。我们的软件设计秉持易学理念，当客户在技术支持团队协助下取得成功时，总能收获满意反馈。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Thunderhead.Ventus.2024",
     "name": "",
     "publisher": null,
@@ -1695,13 +1709,6 @@
   },
   {
     "id": "Tenable.Nessus",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "TheOSCARTeam.OSCAR",
     "name": "",
     "publisher": null,
     "description": "",
@@ -3102,6 +3109,13 @@
   },
   {
     "id": "ABC.PowerExtension",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ArashShalchian.SearchMate",
     "name": "",
     "publisher": null,
     "description": "",
@@ -5516,6 +5530,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "anycam-io.AnyCam",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "achannarasappa.ticker",
     "name": "",
     "publisher": null,
@@ -6056,6 +6077,13 @@
   },
   {
     "id": "Vial.Vial",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VCCLive.VCCLiveDesk",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8435,6 +8463,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "IvanIsCoding.celq",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "iGEM.MEGA.12",
     "name": "",
     "publisher": null,
@@ -9135,6 +9170,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CytificLabs.tr2rl",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Codemao.SmartEditor",
     "name": "",
     "publisher": null,
@@ -9492,6 +9534,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "cocojojo5213.DevJanitor",
+    "name": "",
+    "publisher": null,
+    "description": "管理开发工具、AI 编程助手和依赖包的跨平台桌面应用\n🔍 工具检测：自动检测 39+ 开发工具（Node.js、Python、Docker、Git 等）\n🤖 AI CLI 管理：一键安装/更新/卸载 Codex、Claude Code、Gemini CLI、OpenCode、iFlow\n📦 包管理：管理 npm、pip、Composer 全局包，支持一键更新\n⚡ 服务监控：监控开发进程，一键终止占用端口的服务\n🧹 缓存清理：清理 11 种包管理器缓存，释放磁盘空间\n🌍 多语言：支持中文和英文界面\n🎨 主题：支持亮色/暗色/跟随系统主题",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CThingSoftware.Meazure",
     "name": "",
     "publisher": null,
@@ -9626,6 +9675,13 @@
   },
   {
     "id": "Couchcoding.Logbert",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "cypherpunks.pidgin-otr",
     "name": "",
     "publisher": null,
     "description": "",
@@ -13517,13 +13573,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Microsoft.Sysinternals.Autologon",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Microsoft.Sysinternals.Strings",
     "name": "",
     "publisher": null,
@@ -14119,6 +14168,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.SecurityComplianceToolkit.LGPO",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.WindowsInstallationAssistant",
     "name": "",
     "publisher": null,
@@ -14316,6 +14372,13 @@
   },
   {
     "id": "Microsoft.SQLServer.2019.Developer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.SQLServer.2025.Developer",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14784,6 +14847,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MaestroSoft.MaestroAarsoppgjoer.2025",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MaestroSoft.MaestroAarsoppgjoer.2023",
     "name": "",
     "publisher": null,
@@ -14820,6 +14890,13 @@
   },
   {
     "id": "MMSOFTDesign.Pulseway",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "mydehq.autotitle",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15604,6 +15681,13 @@
   },
   {
     "id": "Mozilla.XULRunner",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Mozilla.mozregression",
     "name": "",
     "publisher": null,
     "description": "",
@@ -19292,13 +19376,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Zandronum.Zandronum",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "ZacharyYedidia.Eget",
     "name": "",
     "publisher": null,
@@ -20153,6 +20230,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ReceitaFederaldoBrasil.SpedContábil",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ReceitaFederaldoBrasil.IRPF2023",
     "name": "",
     "publisher": null,
@@ -20447,6 +20531,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RyanYuuki.AnymeX",
+    "name": "",
+    "publisher": null,
+    "description": "AnymeX 是一款多平台追踪客户端，专为在 AniList、MyAnimeList 和 Simkl 上管理并追踪动漫和漫画进度而设计。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RayBreeze.SysMood",
     "name": "",
     "publisher": null,
@@ -20612,6 +20703,13 @@
     "name": "",
     "publisher": null,
     "description": "Morphic 是一款小巧的应用程序，通过以下方式让电脑更易使用：\n- 提供工具栏，便于发现和使用电脑内置的无障碍功能\n- 让辅助技术（AT）用户能在任何安装了 Morphic 的电脑上使用其 AT 设备\n\nMorphic 的核心功能包括：\n1. Morphic 工具栏——\na. 轻松发现电脑内置但深藏在设置面板中的无障碍功能\nb. 一键启用关键功能，并通过简易菜单访问其他功能\n2. 将您的无障碍设置和辅助技术配置安全保存至云端。之后在任何装有 Morphic 的电脑上，您都可以应用已保存的设置，让电脑即刻适配您的需求。使用结束后，这些设置会自动清除。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RockstarGames.Launcher",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -21099,6 +21197,13 @@
   },
   {
     "id": "sylviiu.ezytdl",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "StardockSystems.ConnectionExplorer",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22312,7 +22417,7 @@
     "id": "SoftDeluxe.FreeDownloadManager",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "适用于 Windows、macOS、Android 和 Linux 的免费下载管理器可让您调整流量使用情况、管理下载任务、控制 torrent 文件的优先级，高效下载大文件并恢复中断的下载。\nFDM 可将您的所有下载速度提升至最高 10 倍，处理多种主流格式的媒体文件，直接从浏览器拖放网址链接，并支持同时下载多个文件！\n我们的互联网下载管理器兼容最流行的浏览器：Google Chrome、Mozilla Firefox、Microsoft Edge 和 Internet Explorer。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -22460,6 +22565,13 @@
     "name": "",
     "publisher": null,
     "description": "DEWALT DESIGN ASSIST™ (DDA) 是一款免费的先进结构设计软件，可简化、自动化并优化您的混凝土锚固设计流程。软件提供多种设计标准选择、全面的锚栓库、丰富的报告选项以及多种设计工具，助您轻松完成设计工作。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "slp-studio.LinuxPractice",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -22929,6 +23041,13 @@
     "name": "",
     "publisher": null,
     "description": "Scribus 是一款开放源代码程序，它将专业的页面排版技术引入 Linux、BSD UNIX、Solaris、OpenIndiana、GNU/Hurd、Mac OS X、OS/2 Warp 4、eComStation 和 Windows 计算机，并将印刷就绪输出和新的页面设计方法相结合。\n在现代化和用户友好的界面下，Scribus 支持专业出版功能，如分色、CMYK 和专色、ICC 色彩管理以及多功能 PDF 创建。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "shadps4-emu.shadPS4",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -24206,6 +24325,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DifferentAI.OpenWork",
+    "name": "",
+    "publisher": null,
+    "description": "OpenWork 是一个可扩展的开源“Claude Work”风格系统，专为知识工作者设计。\n它是一款原生桌面应用程序，底层运行 OpenCode，但以简洁、引导式的工作流呈现：\n- 选择一个工作区\n- 开始执行任务\n- 查看进度并规划更新\n- 在需要时批准权限\n- 复用有效内容（模板 + 技能）\n目标：让“自主智能式工作”感觉像一个产品，而不是一个终端。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Disservin.FastChess",
     "name": "",
     "publisher": null,
@@ -24973,6 +25099,13 @@
     "name": "",
     "publisher": null,
     "description": "Drumlin Publisher 软件能够将您的 PDF 文件转换为高度加密的安全格式，并按照您所需的权限设置进行保护。文件转换过程在本地完成，源 PDF 文件始终不会离开您的设备，仅需将参考数据存储于我们的中央数字版权管理（DRM）服务中。随后，您可通过电子邮件、网页下载链接或物理介质向终端用户/客户/员工分发或销售加密文件，我们的数字版权管理（DRM）服务将通过授权码或许可证系统验证用户是否具备文档访问权限。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DreamSourceLab.DSWave",
+    "name": "",
+    "publisher": null,
+    "description": "DSWave is a multifunctional signal acquisition and analysis software, whose main features include digital and analog signal acquisition, real-time display and measurement, digital protocol analysis and debugging, analog signal computation, phase analysis, and spectrum analysis.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -26292,6 +26425,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FelipeSantos.VolumeLocker",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OrryVerducci.TtxFromTS",
     "name": "",
     "publisher": null,
@@ -26685,6 +26825,13 @@
   },
   {
     "id": "Olympus.Olympus",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Obiddable.Obiddable",
     "name": "",
     "publisher": null,
     "description": "",
@@ -27814,7 +27961,7 @@
     "id": "4gray.iptvnator",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "IPTVnator 是一款支持 IPTV 播放列表播放（m3u、m3u8）的视频播放器应用程序。用户可通过远程 URL 或从本地文件系统上传文件的方式导入播放列表。此外，该应用还支持以 XMLTV 格式提供的 EPG 信息，并可通过 URL 加载。\n该应用是一个基于 Electron 和 Angular 构建的跨平台开源项目。\n⚠️ 注意：IPTVnator 不提供任何播放列表或其他数字内容。截图中的频道和图片仅用于演示目的。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30332,6 +30479,13 @@
   },
   {
     "id": "pj.tcping",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "pyRevit.pyRevit",
     "name": "",
     "publisher": null,
     "description": "",
@@ -33019,13 +33173,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "MyCloudGame.AirGame",
-    "name": "AirGame",
-    "publisher": "MyCloudGame",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Apple.AirPort",
     "name": "AirPort Utility",
     "publisher": "Apple Inc.",
@@ -33135,6 +33282,13 @@
     "name": "Algodoo",
     "publisher": "Algoryx",
     "description": "Algodoo is a unique 2D-simulation software from Algoryx Simulation AB. Algodoo is designed in a playful, cartoony manner, making it a perfect tool for creating interactive scenes. Explore physics, build amazing inventions, design cool games or experiment with Algodoo in your science classes. Algodoo encourages students and children’s own creativity, ability and motivation to construct knowledge while having fun. Making it as entertaining as it is educational. Algodoo is also a perfect aid for children to learn and practice physics at home.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Gary-zy.AliasGUI",
+    "name": "AliasGUI",
+    "publisher": "AliasGUI Team",
+    "description": "一个跨平台的桌面应用程序，让你告别命令行，通过图形界面轻松管理 Shell 别名和函数。\n- 🖥️ 跨平台支持 - macOS、Windows、Linux\n- 📝 可视化管理 - 无需编辑配置文件，图形界面操作\n- 🔍 快速搜索 - 即时搜索已有别名\n- 💾 备份恢复 - 一键备份，随时恢复\n- 🔧 智能检测 - 自动检测系统 Shell 和配置文件\n- 🛡️ 安全保护 - 保留原有配置，只管理 AliasGUI 区块",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33849,6 +34003,13 @@
     "name": "AMR Interpretation Engine",
     "publisher": "Brigham and Women's Hospital",
     "description": "This software was created by the WHONET development team (https://whonet.org) to facilitate the interpretation of antibiotic measurements according to the various supported guidelines available for this purpose, and published by those groups (CLSI, EUCAST, etc.).\nThe system can be integrated with your project via the Interpretation Engine library, or it can be used directly with either the command line interface or interactive interface projects.\nThe interactive interface is designed primarily to allow you to exercise the various functions of the system, but it can also allow you to process an input file into an output file with the interpretations.\nThe command-line interface facilitates easy incorporation with a 3rd-party system since the developer does not need to know how to use the various library functions associated. With that said, the CLI project is very small, so it should serve as a window into how to accomplish the basic needs if direct library integration was preferred.\nThe breakpoints and other tables will be kept up-to-date over time (Interpretaion Engine\\Resources), and are useful in their own right, even if the software implementation of the engine is not for your purposes. For example, there are several groups who only utilize our tables. This repository now serves as the official source for these WHONET-related resources.\nTo process a complete data file, the input file must use WHONET naming conventions for the data columns. Sample data and configuration files are also provided in the Interpretation Engine\\Resources\\ folder.\nWe also provide SQL queries which can demonstrate certain aspects of the system, but which are not used directly by the code here. We have chosen to implement these function as pure C# code to assist others if they choose to make their own implementations, and also to eliminate any dependence on a certain database technology. Because the application only uses C# with a recent .NET version, it should be possible to build the library code for many platforms.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.AMRPlayer",
+    "name": "AMR Player",
+    "publisher": "SoftSea",
+    "description": "AMR Player is one freeware to let you can play the AMR audio files on your PC, and support to convert common multimedia file formats ( such as MP3 or WAV) to audio AMR/AWB format, or output AMR audio files to MP3/WAV audio format. AMR Player support AMR-NB( NarrowBand ) and AMR-WB( WideBand ), the audio conversions include AMR to MP3, AMR to WAV, MP3 to AMR, WAV to AMR, it is very fast and easy to use.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35056,6 +35217,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Sysinternals.Autologon",
+    "name": "Autologon",
+    "publisher": "Microsoft Corporation",
+    "description": "Autologon enables you to easily configure Windows’ built-in autologon mechanism. Instead of waiting for a user to enter their name and password, Windows uses the credentials you enter with Autologon, which are encrypted in the Registry, to log on the specified user automatically.\n\n[!WARNING] Although the password is encrypted in the registry as an LSA secret, a user with administrative rights can easily retrieve and decrypt it. (For more information see Protecting the Automatic Logon Password)\n\nAutologon is easy enough to use. Just run autologon.exe, fill in the dialog, and hit Enable. The next time the system starts, Windows will try to use the entered credentials to log on the user at the console. Note that Autologon does not verify the submitted credentials, nor does it verify that the specified user account is allowed to log on to the computer.\n\nTo turn off auto-logon, hit Disable. Also, if the shift key is held down before the system performs an autologon, the autologon will be disabled for that logon. You can also pass the username, domain and password as command-line arguments:\n\nautologon user domain password\n\nNote: When Exchange ActiveSync password restrictions are in place, Windows will not process the autologon configuration.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SleuthKit.Autopsy",
     "name": "Autopsy",
     "publisher": "The Sleuth Kit",
@@ -35581,10 +35749,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Azure.BatchExplorer",
+    "name": "Azure Batch Explorer",
+    "publisher": "Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.Azure.CosmosEmulator",
     "name": "Azure Cosmos DB Emulator",
     "publisher": "Microsoft® Corporation",
     "description": "The Azure Cosmos DB emulator provides a local environment that emulates the Azure Cosmos DB service designed for development purposes. Using the emulator, you can develop and test your application locally, without creating an Azure subscription or incurring any service costs. When you're satisfied with how your application is working with the emulator, you can transition to using an Azure Cosmos DB account with minimal friction.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.Azure.DataStudio",
+    "name": "Azure Data Studio",
+    "publisher": "Microsoft Corporation",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35641,6 +35823,13 @@
     "name": "Backrest",
     "publisher": "garethgeorge",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.BackupThunderbird",
+    "name": "Backup Thunderbird",
+    "publisher": "SoftSea",
+    "description": "Backup Thunderbird is a free Thunderbird backup utility for Windows. It enables you to quickly backup and restore all of your Mozilla Thunderbird E-Mail Messages, Newsgroups, RSS Feeds, Address Books, E-Mail Accounts and all other options.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -37457,6 +37646,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Soft64.fr.CanScan",
+    "name": "CanScan",
+    "publisher": "Soft64.fr",
+    "description": "CanScan génère des Codes QR (VCard, WiFi, Événements) localement pour protéger vos données sensibles. Le projet respecte les standards Open Source avec un code transparent (GPLv3), et une analyse de sécurité continue (Snyk, SonarCloud). Compilé nativement avec GraalVM.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Reckel.Cantara",
     "name": "Cantara",
     "publisher": "Jan Martin Reckel",
@@ -37681,6 +37877,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "rere43.CCometixLine",
+    "name": "CCometixLine",
+    "publisher": "rere43",
+    "description": "基于 Rust 的高性能 Claude Code 状态栏工具，集成 Git 信息、使用量跟踪、交互式 TUI 配置和 Claude Code 补丁工具。\n相比官方版本的增强功能\n本项目在官方 CCometixLine 基础上增加了以下功能：\n🏷️ 模型别名管理\n- 自定义模型显示名称：为任意模型 ID 设置友好的显示名称\n- 上下文窗口限制：为每个模型配置独立的上下文限制\n- TUI 编辑器：通过主菜单进入（运行 ccline → \"Model Aliases\"）\n- 配置文件：~/.claude/ccline/models.toml\n📊 CLI Proxy API 配额显示\n- 实时配额监控：显示 Opus、Gemini 3 Pro、Gemini 3 Flash 的剩余配额\n- 多账号聚合：自动聚合所有认证账号的配额信息\n- 可配置选项：\n  - Host：API 服务器地址\n  - Key：管理密钥\n  - 模型别名和颜色自定义\n  - 分隔符样式\n- 失败提示：获取失败时显示灰色提示和缓存数据",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SoftSea.CDDVDLabelMaker",
     "name": "CD & DVD Label Maker",
     "publisher": "SoftSea",
@@ -37832,6 +38035,13 @@
     "name": "CeVIO Voice Package - ONE -ARIA ON THE PLANETES-",
     "publisher": "1st PLACE Co.,Ltd.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Bitcraze.cfcli",
+    "name": "cfcli",
+    "publisher": "Bitcraze",
+    "description": "CLI tool for Crazyflie drones",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40628,6 +40838,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.DesktopCountdownTimer",
+    "name": "Desktop Countdown Timer",
+    "publisher": "SoftSea",
+    "description": "Desktop Countdown Timer is a completely free countdown timer for Windows desktop, and has some very useful features. You only need to set a time, then press button \"Start\", a countdown timer will start immediately, very simple and easy to use. You can use this software as an alarm clock to remind you to do something, or use it as a break reminder to remind you take a break.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Hexandcube.DesktopIconToggle",
     "name": "Desktop Icon Toggle",
     "publisher": "Hexandcube",
@@ -40947,6 +41164,13 @@
     "name": "DirectX Texture Diagnostic Tool",
     "publisher": "Microsoft Corporation",
     "description": "Texdiag is a diagnostic command-line tool from Microsoft's DirectXTex library, designed for analyzing and debugging texture files (e.g., DDS, PNG, TGA). Unlike texconv (conversion) and texassemble (texture combining), texdiag focuses on inspecting texture properties, validating data, and detecting errors.\n\nKey Features:\n- Texture Info Dump: Displays metadata (format, dimensions, mip levels, array size, etc.).\n- Error Detection: Checks for corrupted or malformed texture files.\n- Pixel Analysis: Examines specific pixel values (useful for debugging artifacts).\n- Comparison Mode: Compares two textures (e.g., before/after compression).\n- DDS Validation: Verifies if a DDS file follows format specifications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.DirectXVersionChecker",
+    "name": "DirectX Version Checker",
+    "publisher": "SoftSea",
+    "description": "DirectX Version Checker is a small utility designed to check the version of DirectX installed on your computer. The application also can check DirectX Version, DirectX Debug Levels, DirectInput Devices, DirectShow Filters, All Video Compressors and All Audio Compressors. It is very lightweight and extremely easy to use.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41626,6 +41850,13 @@
     "name": "doc-exec",
     "publisher": "combostrap",
     "description": "Doc Exec, execution of code inside documentation",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "adamtheturtle.doccmd",
+    "name": "doccmd",
+    "publisher": "Adam Dangoor",
+    "description": "Run tools against code blocks in documentation. This allows you to run linters, formatters, and other tools against code examples in your documentation files.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42340,6 +42571,13 @@
     "name": "DxEnterprise",
     "publisher": "DH2i Company",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.DXFViewer",
+    "name": "DXF Viewer",
+    "publisher": "SoftSea",
+    "description": "DXF Viewer is a free viewer for DXF files, it enables you to quickly open and read DXF files, you do not need to install any other huge CAD systems, just use this small software, you can easily view the content of DXF files. This software supports zoom in and zoom out function, very simple and easy to use, moreover, this is a completely free to use.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43705,6 +43943,13 @@
     "name": "EXE 64bit Detector",
     "publisher": "SecurityXploded",
     "description": "The simple command-line tool to find if the file is a 32-bit or 64-bit Executable. You can specify any valid PE file like EXE, DLL, OCX etc. Note that as of v2.1, it does not distinguish between traditional and ARM architectures.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "fmuecke.ExeBundle",
+    "name": "ExeBundle",
+    "publisher": "Florian Muecke",
+    "description": "ExeBundle packages Windows executables and their dependencies into a single\nself-contained .exe file. At runtime, files are extracted and the application\nis launched automatically. Supports caching for instant repeated launches.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45843,6 +46088,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.FreePDFCompressor",
+    "name": "Free PDF Compressor",
+    "publisher": "SoftSea",
+    "description": "Free PDF Compressor is a free PDF compression software to enable you to effectively reduce the size of PDF files. Software is simple and easy to use, select an existing PDF file, and hit button \"Compress\", a compressed PDF file will be created, page by page, a progress bar will show progress of the whole compression process. This software is completely freeware, free for personal and non-commercial use.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SoftSea.FreeVideoCompressor",
     "name": "Free Video Compressor",
     "publisher": "SoftSea",
@@ -45980,6 +46232,13 @@
     "name": "Frescobaldi",
     "publisher": "Wilbert Berendsen",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "sinelaw.fresh-editor",
+    "name": "fresh-editor",
+    "publisher": "sinelaw",
+    "description": "Fresh is a modern terminal-based text editor. It features LSP support, syntax highlighting, multi-cursor editing, TypeScript plugins, and an intuitive interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46659,6 +46918,13 @@
     "name": "GitButler",
     "publisher": "GitButler",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Orzazade.Gitch",
+    "name": "gitch",
+    "publisher": "Orkhan Rzazade",
+    "description": "gitch helps you manage multiple Git identities (email, name, SSH keys, GPG keys).\nFeatures:\n- Switch between identities instantly\n- Auto-switching based on repository rules\n- SSH key management per identity\n- GPG signing key support\n- Shell prompt integration",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49007,6 +49273,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "raskell-io.hx",
+    "name": "hx",
+    "publisher": "raskell-io",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MHNexus.HxD",
     "name": "HxD Hex Editor",
     "publisher": "Maël Hörz",
@@ -49301,6 +49574,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.ID3TagEditor",
+    "name": "ID3 Tag Editor",
+    "publisher": "SoftSea",
+    "description": "ID3 Tag Editor is a free audio file data tagging ID3 format editor, support ID3 tag version include: ID3v1 and ID3v2, this audio tool can read and write metadata tags for MP3, FLAC, Ogg-Vorbis, Monkey's Audio, Musepack, and Shorten audio files with full Unicode support, this software is freeware and completely free, it is free personal, commercial, and non-profit use.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Hex-Rays.IDA.Free",
     "name": "IDA Freeware",
     "publisher": "Hex-Rays SA",
@@ -49452,6 +49732,13 @@
     "name": "IHMC CmapTools",
     "publisher": "Institute for Human & Machine Cognition",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AnalogDevicesInc.IIO-Oscilloscope",
+    "name": "IIO Oscilloscope",
+    "publisher": "Analog Devices, Inc.",
+    "description": "The IIO Oscilloscope is a GTK+ application, which demonstrates how to interface various IIO devices to different visualization methods within a Linux system.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49766,7 +50053,7 @@
     "id": "Havysoft.InnoExtractor",
     "name": "InnoExtractor",
     "publisher": "Havy Alegria",
-    "description": "InnoExtractor is a powerful unpacker and forensic app for Inno Setup-based installers.\nIt allows you to open, examine, inspect, extract and more the files and internal content of installers (also known as \"setups\"), without having to start/run the installation wizard.\n\nKey features:\n- Simple and easy-to-use user interface.\n- Support installers compiled with Inno Setup from 1.3.26 to 6.5.1.\n- Open installers by simply drag and drop the executables from file explorer into app window.\n- Search and discover installers in your entire hard drive using the built-in scan engine.\n- Explore and inspect internal content (files and more) of the installer.\n- Use VirusTotal technology to quickly scan and detect viruses and other threats inside the installer.\n- Run standalone files of the installer within the same app without starting the installation wizard.\n- Extract the internal files of installer to a local folder using drag and drop, to a ZIP compressed format or to an SFX module.\n- Export full Script (source code) of installer to a Inno Setup ISS file.\n- Export \"Registry\" section of the script to a standard Registry file format.\n- Export \"INI\" section of the script to a standard INI file format.\n- Save the installer icon in all sizes.\n- Decompile the \"Code\" (RemObjects Pascal pre-compiled Source) section of the script to a readable pseudo-Assembly file.\n- Simulates the real installation paths where files will be copied to your hard drive.\n- See advanced information of installer in Properties panel.\n- Perform file searches by keyword.\n- Integrated Script/Registry/INI file viewer and editor.\n- Integrated History Manager that shows recently opened installers.\n- Identify password protected files, if any, inside the installer (with an already known password).\n- Multilanguage interface, including in English, Spanish, Arabic, Azerbaijani, Bulgarian, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Russian and Turkish.\n- Full Unicode support.\n- Available in two editions: Free and Plus",
+    "description": "InnoExtractor is a powerful unpacker and forensic app for Inno Setup-based installers.\nIt allows you to open, examine, inspect, extract and more the files and internal content of installers (also known as \"setups\"), without having to start/run the installation wizard.\n\nKey features：\n- Simple and easy-to-use user interface.\n- Support installers compiled with Inno Setup from 1.3.26 to 6.5.1.\n- Open installers by simply drag and drop the executables from file explorer into app window.\n- Search and discover installers in your entire hard drive using the built-in scan engine.\n- Explore and inspect internal content (files and more) of the installer.\n- Use VirusTotal technology to quickly scan and detect viruses and other threats inside the installer.\n- Run standalone files of the installer within the same app without starting the installation wizard.\n- Extract the internal files of installer to a local folder using drag and drop, to a ZIP compressed format or to an SFX module.\n- Export full Script (source code) of installer to a Inno Setup ISS file.\n- Export \"Registry\" section of the script to a standard Registry file format.\n- Export \"INI\" section of the script to a standard INI file format.\n- Save the installer icon in all sizes.\n- Decompile the \"Code\" (RemObjects Pascal pre-compiled Source) section of the script to a readable pseudo-Assembly file.\n- Simulates the real installation paths where files will be copied to your hard drive.\n- See advanced information of installer in Properties panel.\n- Perform file searches by keyword.\n- Integrated Script/Registry/INI file viewer and editor.\n- Integrated History Manager that shows recently opened installers.\n- Identify password protected files, if any, inside the installer (with an already known password).\n- Multilanguage interface, including in English, Spanish, Arabic, Azerbaijani, Bulgarian, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Russian and Turkish.\n- Full Unicode support.\n- Available in two editions：Free and Plus",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51940,6 +52227,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EddieTisma.Krp",
+    "name": "krp",
+    "publisher": "Eddie Tisma",
+    "description": "krp is a lightweight Kubernetes reverse proxy that automates port forwarding and routes traffic through loopback addresses for local access to cluster services.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ksnip.ksnip",
     "name": "ksnip",
     "publisher": "ksnip",
@@ -52300,6 +52594,13 @@
     "id": "LastFM.LastFMDesktopScrobbler",
     "name": "Last.fm Desktop Scrobbler",
     "publisher": "Last.fm",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "kkamegawa.lastexecrecord",
+    "name": "lastexecrecord",
+    "publisher": "Kazushi Kamegawa",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -53263,6 +53564,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "LibrePCB.LibrePCB.Preview",
+    "name": "LibrePCB",
+    "publisher": "LibrePCB Developers",
+    "description": "LibrePCB is a free, cross-platform, easy-to-use electronic design automation suite to draw\nschematics and design printed circuit boards – for makers, students and professionals, from\nbeginners to experts.\n\nThis software just lets you develop electronics the right way. No costs. No restrictions. No online\naccount. No unnecessary complexity.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LibreSpeed.librespeed-cli",
     "name": "librespeed-cli",
     "publisher": "LibreSpeed",
@@ -54170,13 +54478,6 @@
     "name": "Malcat Lite",
     "publisher": "Malcat",
     "description": "Malcat is a feature-rich hexadecimal editor / disassembler for Windows and Linux targeted to IT-security professionals.\nInspect more than 50 binary file formats, disassemble and decompile different CPU architectures, extract embedded files and scan for Yara signatures or anomalies in a fast and easy-to-use graphical interface.\nDon't like what you get? Malcat is also heavily customizable and scriptable using python.\n\nHighlights\n- Malcat's code analysis is not only powerful, it is also damn fast: you can analyze most files under a second! This makes it the perfect tool for quick inspections or malware triage.\n- Inspect code for architectures used in malware: x86/x64, MIPS, .NET, python 2 and 3, VB p-code, NSIS/InnoSetup vm, AutoIT and Office macros. Malcat also embedds the Sleigh decompiler for x86, x64 and MIPS.\n- Leveraging its 50+ file format parsers, malcat can extract sub-files from archives and identify embedded objects within any file. A very useful feature for incident response and malware analysis.\n- Malcat offers many view modes to focus on all aspects of the file. Inspect binary structures, naviguate through the CFG or have a higher-level look at the anomalies, you chose. You can also try our new DNA view!\n- Leveraging a database of 2000+ malware families and millions of clean + library files, our Kesakode hash lookup service can help you identify malware, write better Yara rules and speed up your RE game. It can also works offline!",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.MaliciousSoftwareRemovalTool",
-    "name": "Malicious Software Removal Tool",
-    "publisher": "Microsoft",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57939,6 +58240,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "jpalaniselvam.myna",
+    "name": "Myna",
+    "publisher": "Jeyamurugan",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MYOB.AccountRight",
     "name": "MYOB AccountRight",
     "publisher": "MYOB Technology Pty. Ltd.",
@@ -58443,6 +58751,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "binaricat.Netcatty",
+    "name": "Netcatty",
+    "publisher": "binaricat",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "the-sz.NetChat",
     "name": "NetChat",
     "publisher": "the sz development",
@@ -58895,6 +59210,13 @@
     "name": "Nicotine+",
     "publisher": "Nicotine+ Team",
     "description": "Nicotine+ aims to be a lightweight, pleasant, free and open source (FOSS) alternative to the official Soulseek client, while also providing a comprehensive set of features.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "rgcsekaraa.NikoCLI",
+    "name": "Niko CLI",
+    "publisher": "rgcsekaraa",
+    "description": "Niko translates natural language queries into executable shell commands. Describe what you want in plain English and get the exact command. Works offline with local AI models.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -60326,6 +60648,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "xpack-dev-tools.openocd-xpack",
+    "name": "openocd-xpack",
+    "publisher": "XPack-Dev-Tools",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Apache.OpenOffice",
     "name": "OpenOffice",
     "publisher": "Apache Software Foundation",
@@ -60690,6 +61019,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TheOSCARTeam.OSCAR",
+    "name": "OSCAR",
+    "publisher": "The OSCAR Team",
+    "description": "OSCAR is an acronym that stands for, \"Open Source CPAP Analysis Reporter\". OSCAR provides for the viewing of the high-resolution sleep data that is generated by the CPAP and stored on the SD card. OSCAR converts this data to graph form allowing the user to view this data down to a breath by breath level. OSCAR is free to use and is compiled in formats that will operate on Mac, Linux, and Windows. OSCAR can be downloaded from https://www.sleepfiles.com/OSCAR/. It is this information that enables you to provide data for discussion with your doctor and/or to view and optimize your personal therapy.\n\nOSCAR is also used by many physicians and therapists who consult with patients, and by medical researchers comparing patient/machine responses across multiple platforms. OSCAR provides visual and statistical data details and enables comparisons across machine types and manufacturers, that are not available from proprietary manufacturer software and data products. Professionals who rely on OSCAR to provide research and to serve patient needs will lose this valuable resource if data becomes inaccessible, or only available through the manufacturer's data products.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PassmarkSoftware.OSFMount",
     "name": "OSFMount",
     "publisher": "Passmark Software",
@@ -60925,6 +61261,13 @@
     "name": "paint.net",
     "publisher": "dotPDN LLC",
     "description": "Paint.NET 是用于 Windows 的图像照片编辑软件，具有直观创新的用户界面，并支持图层、无限撤销、特效 以及各种有用强大的工具，同时还有活跃并不断发展的在线社区提供友好的帮助、教程和插件。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Profullstack.PairUX",
+    "name": "PairUX",
+    "publisher": "Profullstack, Inc.",
+    "description": "PairUX enables real-time screen sharing with simultaneous local and remote\nmouse/keyboard control for pair programming and collaboration.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61208,6 +61551,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SoftSea.PCScreenCapture",
+    "name": "PC Screen Capture",
+    "publisher": "SoftSea",
+    "description": "PC Screen Capture is one free powerful, lightweight, full-featured screen capture tool for Windows platform. It allows you to take screenshots from any part of your screen in four ways, capture full desktop, active window, selected area and selected object, and you can also save images in BMP, JPG, GIF, PNG formats.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SoftSea.PCShredder",
     "name": "PC Shredder",
     "publisher": "SoftSea",
@@ -61282,6 +61632,13 @@
     "name": "PDF Combine Pro",
     "publisher": "Softplicity, Inc.",
     "description": "PDF Combine Pro is a life saver for those who need to combine PDF, DOC, TXT, DOCX, HTML, XLS files, images (TIFF, JPEG, PNG) and emails into one PDF. Now you do not have to use several programs and converters to get one PDF. PDF Combine Pro does it in one go. Supported input formats include DOC, DOCX, RTF, TXT, XLS, XLSX, HTML, HTM, MHT, PS, EPS, PRN, PDF, TIFF, JPEG, PNG, PST, EML, MSG.\n- PDF Combine Pro can combine files within folders. For example, you have 3 folders with different file types inside each. The app can produce three combined PDF files.\n- It can easily create bookmarks that can be used as table of contents.\n- Users can add custom Cover pages to the combined PDF.\n- Legal users will appreciate the flexible bates stamping option.\n- Transparent user interface and full command line support. \n\nOffice files, faxes, emails - get combined PDF in seconds for your personal use, commercial need, e-discovery or production.\nPDF Combine Pro is the most powerful solution to combine files. It not about simple merging 2 PDFs together, it was designed for large jobs and complicated tasks. So we are sure, whatever your case is, it can do that. If not, we will be happy to provide you with a custom solution that will do exactly what you need.\n\n30 day FREE trial",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.PDFCutter",
+    "name": "PDF Cutter",
+    "publisher": "SoftSea",
+    "description": "PDF Cutter is a free PDF document splitting software, it can help you to quickly split PDF files. Software supports three splitting methods, you can choose according to your requirements, simple and easy to use. This software license is free for personal and non-commercial use.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63357,6 +63714,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thunderhead.PyroSim.2026",
+    "name": "PyroSim 2026",
+    "publisher": "Thunderhead Engineering",
+    "description": "PyroSim was designed to complement the Fire Dynamics Simulator (FDS) developed by NIST in the US. With state-of-the-art fire research facilities and personnel, they understand the calculations of fire simulation better than anyone.\nFDS is the engine powering fire simulations all over the world. PyroSim empowers more engineers to use this technology and elevates its capabilities.\n1. PyroSim provides graphical tools which automatically generate the text-only FDS input file.\n2. PyroSim imports CAD, enables advanced simulation management, and packages its own results manager.\nNone of this is possible without FDS empowering car park jet fan simulations, sprinkler activation studies, and more.\nFDS is free for anyone to download. Do you need PyroSim? We think so. Consider the time not spent constructing your building geometry from scratch in a text editor. Consider the errors caught in real-time and brought to your attention.\nThunderhead Engineering supports you every step of the way. Whether you want in-depth training or self-taught materials, you can learn performance-based design modeling with greater efficiency and proficiency. We design our software for anyone to learn, and our customers are delighted when our support team helps them succeed.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Python.Python.2",
     "name": "Python 2",
     "publisher": "Python Software Foundation",
@@ -63917,10 +64281,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JoyHak.QuickSwitch",
+    "name": "QuickSwitch",
+    "publisher": "JoyHak",
+    "description": "QuickSwitch automatically switches file dialog path. Save and open files with convenience and speed. \nIt has 2 modes\n. Menu: displays a list of opened tabs from file managers, allows to choose the path.\n. AutoSwitch: automatically opens the last active tab.   \nTo open the Menu press Ctrl+Q. You can also select Mouse buttons, Capslock, Space, Windows and other special keys in Menu settings\nDifferent paths available for different tasks\n. Pinned paths (that are always visible).\n. Favorite paths (with customizable icons and names).\n. Clipboard paths (copy any path and you will see it in the Menu).  \nThere are many customization options in Menu settings:\n. Apply dark theme and dark colors.\n. Change menu font and size.\n. Display short path, transform it as you want \n...and many more options are available!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Anchore.Quill",
     "name": "Quill",
     "publisher": "Anchore Inc",
     "description": "Simple mac binary signing and notarization from any platform",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Quobyte.Client",
+    "name": "quobyte-client",
+    "publisher": "Quobyte Inc.",
+    "description": "Quobyte is a software-defined distributed storage system. This native Windows client provides high-throughput, low-latency parallel access to the Quobyte Data Center File System, optimized for HPC, AI, and enterprise workloads.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64495,6 +64873,13 @@
     "name": "Redisant Toolbox",
     "publisher": "Redisant",
     "description": "All-in-one toolbox for developers, over 40 commonly used development tools; Well-designed, fast and efficient; Use offline, respecting your privacy.\n\n- Backslash Escape/Unescape: Escapes or unescapes JSON strings or characters such as t, n, s, etc\n- Base64 Image Encode/Decode: Use Base64 to determine or encode images\n- Base64 String Encode/Decode: Use Base64 to decode or encode strings\n- Base64 URL Encode/Decode: Use Base64 to decode or encode URLs\n- Color Converter: Select and convert colors (HEX, RGB, HSV, CYMK, etc.)\n- Cron Job Parser: Parsing scheduled task (crontab) expressions\n- CSV to JSON: Converts CSV strings to JSON\n- Hash Generator: Generates MD5/SHA1/SHA2 hashes from strings or files\n- HTML Entity Encode/Decode: Decodes or encodes HTML entities in strings\n- JSON Formatter/Validate: Format or compress JSON strings\n- JSON to CSV: Converts JSON strings to CSV\n- JSON to YAML: Converts JSON strings to YAML\n- YAML to JSON: Converts a YAML string to JSON\n- JWT Debugger: Verifies or signs JWT tokens\n- Language Beautify: Format source code in various languages\n- Number Base Converter: Converts between binary, octal, decimal, hexadecimal, and other digital bases\n- QR Code Reader/Generator: Read QR codes or generate QR codes\n- Random Data Generator: Generate random paragraphs, words, emails, names, etc\n- RegExp Tester: Tests strings against regular expressions and finds matches\n- String Case Converter: Converts camelCase, PascalCase, snake_case, kebab-case style variables\n- String Inspector: Detects ASCII/Unicode codes, string length, characters, words, and lines\n- Text Diff Checker: Compares two text strings by character, word, or line\n- Unix Time Converter: Converts UNIX datetime to a human-readable format\n- URL Encode/Decode: Decode or encode URLs (RFC3986)\n- URL Parser: Query String to JSON, parsing URL protocol, host, port, etc\n- UUID/GUID Generate/Decode: Generate UUID, ULID, Nano ID\n- Offline OCR: Convert images to text\n- Icon Font Previewer: Preview vector icons\n- YAML To Properties: Converts a YAML string to Properties\n- JSON To Properties: Converts JSON strings to Properties",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SoftSea.ReducePDFSize",
+    "name": "Reduce PDF Size",
+    "publisher": "SoftSea",
+    "description": "Reduce PDF Size is a free PDF document compression software that can quickly compress PDF documents and reduce PDF file size. It supports five different compression settings, allowing you to choose a compression ratio according to your requirements. In addition, this software supports batch conversion, enabling you to compress many PDF files at one time.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -65345,13 +65730,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "PunkLabs.RocketDock",
-    "name": "RocketDock",
-    "publisher": "PunkLabs",
-    "description": "RocketDock is our classic app launcher loved by millions of people for almost 20 years. It lets you zoom through your shortcuts like a rocket with its buttery smooth interface. You can drag your favorite apps, files, and folders onto the dock to have quick access to them, then personalize with different skins, icons, and effects to match your desktop.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Artsoft.RocksNDiamonds",
     "name": "Rocks'n'Diamonds",
     "publisher": "Artsoft Entertainment",
@@ -65678,6 +66056,13 @@
     "name": "Rust (MSVC)",
     "publisher": "The Rust Project Developers",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FredrikFornwall.Rust-Script",
+    "name": "Rust-Script",
+    "publisher": "Fredrik Fornwall",
+    "description": "Run Rust script files without any setup or explicit compilation step, with seamless use of crates specified as dependencies inside the scripts.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66822,6 +67207,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.SecurityComplianceToolkit.SetObjectSecurity",
+    "name": "Set Object Security",
+    "publisher": "Microsoft",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SETCCE.ProXSign",
     "name": "SETCCE proXSign®",
     "publisher": "SETCCE",
@@ -67452,6 +67844,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenCLICollective.slack-chat-cli",
+    "name": "Slack Chat API CLI",
+    "publisher": "Open CLI Collective",
+    "description": "A lightweight CLI for interacting with the Slack Web API. Provides direct\nAPI access for automation and scripting including sending messages, managing\nchannels, listing users, viewing message history, and searching messages/files.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OpenCLICollective.slack-chat-api",
     "name": "Slack Chat API CLI",
     "publisher": "Open CLI Collective",
@@ -67729,6 +68128,13 @@
     "name": "Snoop",
     "publisher": "https://github.com/snoopwpf",
     "description": "A Windows Presentation Foundation (WPF) tool which allows you to spy/browse the visual tree of a running application (without the need for a debugger) and change properties, view triggers, set breakpoints on property changes and many more things.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "mg-chao.snow-shot",
+    "name": "Snow Shot",
+    "publisher": "mg-chao",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69888,6 +70294,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JetBrains.tc",
+    "name": "tc",
+    "publisher": "JetBrains",
+    "description": "tc is a command-line interface for interacting with TeamCity CI/CD server.\nManage builds, jobs, and projects without leaving your terminal.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EliFulkerson.tcping",
     "name": "tcping",
     "publisher": "Eli Fulkerson",
@@ -70298,6 +70711,13 @@
     "name": "TfsCmdlets",
     "publisher": "Igor Abade V. Leite",
     "description": "TfsCmdlets is a PowerShell module which provides many commands to simplify automated interaction with Azure DevOps (Server & Services) and Team Foundation Server.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WJZ_P.TFT-Hextech-Helper",
+    "name": "TFT-Hextech-Helper",
+    "publisher": "WJZ_P",
+    "description": "TFT Hextech Helper 是一款基于 Electron + React + TypeScript 开发的云顶之弈自动下棋助手。它可以帮助你在云顶之弈中自动进行对局，解放你的双手，让你可以边挂机边做其他事情。（当然挂机的时候你就不能玩电脑了，因为软件会使用你的鼠标！）",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -72548,6 +72968,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Thunderhead.Ventus.2026",
+    "name": "Ventus 2026",
+    "publisher": "Thunderhead Engineering",
+    "description": "Ventus is developed by a team of experienced engineers and software developers to address the specific needs of building safety engineers. Ventus helps you design air handling systems for the crucial work of managing airflow and preventing the spread of contaminants during emergency scenarios inside of your building spaces.\nBy strategically managing airflow, the systems you design will be able to maintain tenable conditions in critical Escape Routes, including Stairwells, Shafts, Atria, and Underground Facilities.\nWith your system designs, Occupants will be able to avoid a cascade of hazards from obscured visibility that hinders evacuation efforts, to respiratory distress and incapacitation.\nVentus leverages the power of CONTAM to provide you the insights necessary to perfect your system designs. With the streamlined user experience, visualization and communication tools, and detailed analysis available in Ventus, you can cut 30-50% off the time spent on your airflow control analysis projects, freeing up valuable resources and accelerating project timelines.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Veracode.CLI",
     "name": "Veracode CLI",
     "publisher": "Veracode, Inc.",
@@ -72965,6 +73392,13 @@
     "name": "Viscosity",
     "publisher": "SparkLabs",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VisiGrid.VisiGrid",
+    "name": "VisiGrid",
+    "publisher": "VisiGrid",
+    "description": "VisiGrid is a native, GPU-accelerated spreadsheet built for keyboard-first workflows.\nFeatures include 97 formula functions, vim mode, keyboard hints, Lua scripting,\nand full offline capability with no cloud lock-in.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -75516,6 +75950,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.MaliciousSoftwareRemovalTool",
+    "name": "Windows-Tool zum Entfernen bösartiger Software",
+    "publisher": "Microsoft",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "FelixRieseberg.Windows95",
     "name": "windows95",
     "publisher": "Felix Rieseberg",
@@ -75877,6 +76318,13 @@
     "name": "WinToLinux",
     "publisher": "Anton Palgunov",
     "description": "Reboot to Linux easier than ever. Be in Linux in two clicks! Fast way to edit UEFI order for the next start of the system.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "biglexj.WinTTS",
+    "name": "WinTTS",
+    "publisher": "biglexj",
+    "description": "WinTTS es una aplicación de escritorio moderna diseñada para la síntesis de texto a voz (TTS) de forma totalmente local en Windows. Ofrece una interfaz intuitiva y elegante que permite convertir texto en audio utilizando los motores de voz instalados en el sistema, garantizando privacidad y funcionamiento sin conexión a internet. Con WinTTS puedes personalizar la velocidad, el tono y el volumen de la voz, siendo una herramienta ideal para accesibilidad, lectura de documentos y creación de contenido",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -77154,6 +77602,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "dom1torii.yasp",
+    "name": "yasp",
+    "publisher": "dom1torii",
+    "description": "TUI CS2 Server picker",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "sxyazi.yazi",
     "name": "Yazi",
     "publisher": "sxyazi",
@@ -77382,6 +77837,13 @@
     "name": "Zalo",
     "publisher": "VNG Corp.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Zandronum.Zandronum",
+    "name": "Zandronum",
+    "publisher": "Zandronum",
+    "description": "Zandronum is a multiplayer oriented port, based off Skulltag, for Doom and Doom II by id Software.\nZandronum brings classic Doom into the 21st century, maintaining the essence of what has made Doom great for so many years and, at the same time, adding new features to modernize it, creating a fresh, fun new experience.\n\nHere's why you should kill your time with Zandronum, versus vanilla Doom:\n\n- Excellent online play\n  - Client/server architecture: play and switch between games with ease\n  - Supports up to 64 players\n    - Wide array of gameplay modes\n    - Competitive: Team DM, Duel, CTF, Possession, LMS, Terminator, Skulltag\n    - Cooperative: Survival, Invasion (or both!)\n    - Modifiers, like Instagib and Buckshot, can be used to spice up any game\n\n- Modern and beautiful\n - Support for large number of ZDoom and GZDoom mods from 2014 and earlier\n - Choose between the OpenGL renderer, or the Software renderer\n - Useful features like a console, Quake-style key bindings, freelooking, and jumping\n - Support for many Doom engine based games including Heretic, Hexen, and Strife\n - Supports modern versions of Windows, Mac OS X, and Linux\n\n- Compatible with Skulltag mods\n  - Supports announcers and skins for online play\n  - Runes, new weapons, and new monsters for modders\n  - Bots, and support for custom bots\n\n- Open Source\n  - Doesn't run on your flavor of operating system?\n  - The source code is available on Heptapod and all new code is licensed under a modified Sleepycat license.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -78159,13 +78621,6 @@
     "name": "工行网银助手",
     "publisher": "中国工商银行",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Seewo.SeewoPincoGroup",
-    "name": "希沃品课",
-    "publisher": "Seewo",
-    "description": "希沃品课是一套面向高校，高职教师生的线上线下混合教学系统，覆盖课前、课中、课后全教学场景，为数字化课堂、互动课堂和混合课堂的开展提供高效稳定的技术和产品支撑，满足师生互动、多端互联、智慧共享的教学模式。",
     "icon": "/icons/intunify-default.png"
   },
   {
