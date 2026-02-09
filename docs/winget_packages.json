@@ -1540,6 +1540,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "taiki-e.parse-changelog",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Tencent.FanLive",
     "name": "",
     "publisher": null,
@@ -2269,6 +2276,13 @@
   },
   {
     "id": "Nextiva.NextivaONE",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Neomatica.RustDesk",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4704,6 +4718,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "axodotdev.dist",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AutomatedLab.AutomatedLab",
     "name": "",
     "publisher": null,
@@ -4831,6 +4852,13 @@
   },
   {
     "id": "AGSProjectTeam.AdventureGameStudio",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AhmedSamy.ClipType",
     "name": "",
     "publisher": null,
     "description": "",
@@ -5390,13 +5418,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Autodesk.DesktopConnector",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Autodesk.NavisworksFreedom.2026",
     "name": "",
     "publisher": null,
@@ -5433,13 +5454,6 @@
   },
   {
     "id": "AlperHan.CrossMacro",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "AlanJhu.OXWUEEW",
     "name": "",
     "publisher": null,
     "description": "",
@@ -6101,13 +6115,6 @@
     "name": "",
     "publisher": null,
     "description": "如果你经常需要在各种开发项目之间切换，而这些项目又各自需要不同的运行环境，尤其是不同的运行时版本或环境库，或者 厌倦了各种环境繁琐的配置，那么 vfox 就是你的不二选择。\nvfox 是一款跨平台、可拓展的通用版本管理器。支持原生 Windows 以及 Unix-like! 通过它，您可以快速安装和切换开发环境。\n它将所有的工具版本信息保存在一个名为 .tool-versions 的文件中，这样您就可以在项目中共享这些信息，确保团队中的每个人都使用相同的工具版本。\n传统工作方式需要多个命令行版本管理器(如 nvm、fvm、sdkman、asdf-vm 等)，而且每个管理器都有其不同的 API、配置文件和实现方式（比如，$PATH 操作、垫片、环境变量等等）。vfox 提供单个交互方式和配置文件来简化开发工作流程，并可通过简单的插件接口扩展到所有工具和运行环境。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "VentoByte.Proxifier",
-    "name": "",
-    "publisher": null,
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -7301,13 +7308,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "KashishNaresh.CollabFS",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "KernelWanderers.OCSysInfo",
     "name": "",
     "publisher": null,
@@ -7798,6 +7798,34 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "IdeaMK.TGAViewer",
+    "name": "",
+    "publisher": null,
+    "description": "TGA 查看器是一款小巧紧凑的工具，可用于打开、调整大小以及将 TGA 文件格式转换为其他图像格式，如 JPEG、GIF、位图、TIFF 等。该软件界面非常简单，易于各类计算机用户使用，无论是初学者还是高级用户都很方便。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IdeaMK.STPViewer",
+    "name": "",
+    "publisher": null,
+    "description": "STP 查看器是一款用于查看 CAD 模型的专业工具，具有出色的运行速度和显示质量。STP 查看器拥有非常友好的用户界面，便于非专业用户使用，同时为导航和分析 3D 对象提供全套工具。对于此类查看器的高级用户，STP 查看器具备几乎所有已知的常用命令；对于初学者和非专业用户，则提供了每个工具的使用帮助和功能说明。STP 查看器一个非常有趣的功能是树状视图，您可以在其中查看 3D 对象使用的所有标记，轻松地隐藏或显示它们，从而逐部分查看整个对象。使用 STP 查看器，除了可以进行缩放和平移外，还能从任意四个方向（上、下、左、右）以 2D 形式查看对象，可为对象添加阴影以查看其真实外观，或仅显示线框。STP 查看器还允许更改线框的颜色或 3D 对象的阴影效果。\nSTP 查看器截图 STP 查看器是一款用于查看国际 STEP 标准文件的软件工具。用于 3D 建模和装配的 STEP 文件（.stp）被所有主流机械 CAD 系统广泛使用。通过我们完全免费的 STP 查看器，您可以轻松打开 3D 文件（*.stp）、旋转模型，并执行一些基本操作，例如：缩放、旋转、移动或更改外观。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IdeaMK.AIViewer",
+    "name": "",
+    "publisher": null,
+    "description": "Ai Viewer 是一款免费软件，支持 .ai 图形文件，可显示预览图像，并提供将打开的图像转换并保存为 JPEG、位图、GIF、PNG 等其他格式的选项。在转换为其他格式时，Ai Viewer 支持对 AI 图像进行无损缩放，可放大或缩小图像。\n- 支持图像缩放的真正全屏查看器；\n- 可通过鼠标滚轮或滑块缩放图像，拖动鼠标可平移图像；\n- 顺时针旋转按钮 — 将图像顺时针旋转 90 度；\n- 逆时针旋转按钮 — 将图像逆时针旋转 90 度。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IdeaMK.STLViewer",
+    "name": "",
+    "publisher": null,
+    "description": "STL 查看器是一款专业的 Windows 应用程序，用于查看来自 3D 系统创建或导出的 STL（立体光刻）文件格式的 CAD 模型。该查看器为非技术人员提供了极为友好的界面，同时配备了完整的工具，用于导航和分析 3D 对象。\n使用 STL 查看器查看立体光刻文件非常简便。该查看器提供 3D 查看器中常见的大部分功能，如缩放、平移、切换投影（相机）模式，以及在着色、实体和线框显示风格之间切换。STL 查看器的独特功能在于能够更改线框或着色 3D 对象的颜色，使其外观更加美观。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "IBM.Cloud.CLI",
     "name": "",
     "publisher": null,
@@ -7897,13 +7925,6 @@
   },
   {
     "id": "IBM.Semeru.22.JRE",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "IDMComputerSolutions,Inc.UltraEdit",
     "name": "",
     "publisher": null,
     "description": "",
@@ -10388,6 +10409,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Cjcr-Software.EasyBlindScanPro",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "chaosweasl.interva",
     "name": "",
     "publisher": null,
@@ -11935,6 +11963,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "louisjrdev.media-cli",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LieberLieber.LemonTree.Connect.Polarion",
     "name": "",
     "publisher": null,
@@ -12894,6 +12929,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MarcoPontello.TrID",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MultiViewer.MultiViewer",
     "name": "",
     "publisher": null,
@@ -13279,6 +13321,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.DirectX",
+    "name": "",
+    "publisher": "Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.DirectX.ShaderCompiler",
     "name": "",
     "publisher": null,
@@ -13601,6 +13650,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.MSIXPackagingTool",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.SmartDump",
     "name": "",
     "publisher": null,
@@ -13902,6 +13958,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.AppControlPolicyWizard",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.UpdateAssistant",
     "name": "",
     "publisher": null,
@@ -14029,6 +14092,13 @@
   },
   {
     "id": "Microsoft.WindowsPCHealthCheck",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.BTP",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14252,6 +14322,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Azure.Az",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.Azure.TemplateAnalyzer",
     "name": "",
     "publisher": null,
@@ -14301,7 +14378,21 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Azure.ArtifactSigningClientTools",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.CmdPalGitHubExtension",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.MITT",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14393,6 +14484,13 @@
   },
   {
     "id": "Microsoft.SQLServer.11.ODBC",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.SQLServer.RMLUtilities",
     "name": "",
     "publisher": null,
     "description": "",
@@ -15253,6 +15351,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Mimecast.MimecastForOutlook",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Mubbie.Stacksmith",
     "name": "",
     "publisher": null,
@@ -15359,6 +15464,13 @@
   },
   {
     "id": "ms-jpq.sad",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "maxrave-dev.SimpMusic",
     "name": "",
     "publisher": null,
     "description": "",
@@ -16863,6 +16975,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "mos9527.evbunpack",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MolotovTV.Molotov",
     "name": "",
     "publisher": null,
@@ -17277,6 +17396,13 @@
   },
   {
     "id": "jziolkowski.tdm",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "jNizM.HashCalc",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18284,6 +18410,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Yubsoft.HashCalculator",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "YingYang48.VsHex",
     "name": "",
     "publisher": null,
@@ -18330,6 +18463,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Yeastar.Linkus.Desktop",
+    "name": "",
+    "publisher": null,
+    "description": "Linkus 桌面客户端是一款兼容 Yeastar P 系列电话系统，适用于 Windows 和 Mac 用户的多功能且易于使用的软电话应用程序，可提供便捷的虚拟桌面电话体验和先进的通信功能。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -18922,13 +19062,6 @@
   },
   {
     "id": "WasmEdge.WasmEdge",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Wargaming.GameCenter",
     "name": "",
     "publisher": null,
     "description": "",
@@ -20972,6 +21105,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "StephenGenusa.HashCalc",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SocialchainInc.PiNetwork",
     "name": "",
     "publisher": null,
@@ -21162,13 +21302,6 @@
   },
   {
     "id": "SonicVisualiser.SonicVisualiser",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "sipgate.sipgatesoftphone",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22184,6 +22317,13 @@
   },
   {
     "id": "Seewo.EasiDirector",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Seewo.SeewoInput",
     "name": "",
     "publisher": null,
     "description": "",
@@ -24290,6 +24430,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DavidAnson.TextAnalysisToolNET",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Dialpad.Dialpad",
     "name": "",
     "publisher": null,
@@ -26246,7 +26393,7 @@
     "id": "FreeDV.FreeDV",
     "name": "",
     "publisher": null,
-    "description": "",
+    "description": "FreeDV 是一套用于 HF 无线电的数字语音模式。我们的旗舰模式是无线电自动编码器（RADE）。您可以使用适用于 Windows、Linux 和 macOS 的免费图形界面应用程序来运行 RADE，从而将任意 SSB 电台用于高质量的数字语音通信。\nFreeDV 技术由一支国际业余无线电爱好者团队合作开发，共同致力于机器学习、数字信号处理、编码、设计、用户界面及测试工作。项目由六人组成的项目领导团队（PLT）进行管理。当前开发工作得到了 ADRC 拨款的慷慨资助，财务赞助方为软件自由保护协会（Software Freedom Conservancy）。所有软件均为开源，依据（a）GNU 较宽松公共许可证第 2.1 版（GUI 及传统 FreeDV 模式）和二条款 BSD 许可证（RADE）发布。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -27195,6 +27342,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpentronsLabworks.Opentrons",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "otya128.winevdm",
     "name": "",
     "publisher": null,
@@ -27252,6 +27406,13 @@
   },
   {
     "id": "Oven-sh.Bun.BaselineProfile",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Orvid.Champollion",
     "name": "",
     "publisher": null,
     "description": "",
@@ -28245,6 +28406,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Bioruebe.cicdec",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "bluecfd.bluecfd",
     "name": "",
     "publisher": null,
@@ -28536,6 +28704,13 @@
     "name": "",
     "publisher": null,
     "description": "Golden 是一款用于 Oracle 数据库的查询工具，具有高级查询功能、数据编辑功能以及强大的导入和导出功能，支持 Excel 和 Calc 电子表格，并紧密兼容 SQLPlus 脚本约定，包括绑定变量、变量提示和脚本参数传递。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Bahaaio.pomo",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -28882,13 +29057,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "badboysm890.Clara",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "BlueJTeam.BlueJ",
     "name": "",
     "publisher": null,
@@ -29183,13 +29351,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "beekeeper-studio.beekeeper-studio",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "basement-nl.Teach2000",
     "name": "",
     "publisher": null,
@@ -29330,6 +29491,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "biondi53.QuickExplorer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PentaLogix.ViewMate",
     "name": "",
     "publisher": null,
@@ -29425,6 +29593,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PicHit.Pickit",
+    "name": "",
+    "publisher": null,
+    "description": "Pickit Desktop 是您 Pickit 数字资产管理平台的原生 Mac 和 PC 版本。它让您无需浏览器或插件，即可将 Pickit 资源库中的素材直接移动到桌面的任意文件夹或应用程序中，实现无干扰工作。\n创意人员可随意拖拽、放置或复制粘贴文件到所需位置，而管理员则可直接打开素材，在应用程序内编辑，并将更改保存回 Pickit，确保每个人都能看到最新版本。\n这是一种简单高效的合作方式，在提升协作效率的同时，依然牢牢掌控您的内容。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -29677,6 +29852,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Poly.PolyStudio",
+    "name": "",
+    "publisher": null,
+    "description": "通过自动设备发现和预配置的IT设置实现无缝安装\n通过设备健康监控、警报和分析功能配置、监控和更新会议室\n获得一致且优化的体验，支持员工以他们所需的方式和地点开展工作",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30965,6 +31147,13 @@
     "name": "",
     "publisher": null,
     "description": "与您所在的工作场所、学校或其他关联组织保持联系，在紧急事件发生时接收重要信息，或在处理事件响应时进行管理。要使用该应用程序，您的组织需为您提供登录代码。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Everless321.dYm",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -33351,7 +33540,7 @@
     "id": "GrafanaLabs.Alloy",
     "name": "Alloy",
     "publisher": "Grafana Labs",
-    "description": "OpenTelemetry Collector distribution with programmable pipelines",
+    "description": "OpenTelemetry Collector distribution with programmable pipelines.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34608,6 +34797,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "eitsupi.arf",
+    "name": "arf console",
+    "publisher": "eitsupi",
+    "description": "arf is a modern, cross-platform R console written in Rust. It provides a rich interactive experience with fuzzy help search, intelligent history navigation, and syntax highlighting—all with fast startup times.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GraemeGill.ArgyllCMS",
     "name": "Argyll CMS",
     "publisher": "Graeme Gill",
@@ -35182,6 +35378,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Autodesk.DesktopConnector",
+    "name": "Autodesk Desktop Connector",
+    "publisher": "Autodesk, Inc.",
+    "description": "Desktop Connector seamlessly integrates with your device, enabling you to sync, manage, and access local and cloud files effortlessly. It preserves file relationships and references, ensuring design integrity and reducing errors. With Desktop Connector, you can:\n- Visualize complex file references\n- Maintain up-to-date project information\n- Streamline collaboration across your team",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SpanishGovernment.Autofirma",
     "name": "AutoFirma",
     "publisher": "Gobierno de España",
@@ -35219,7 +35422,7 @@
   {
     "id": "Microsoft.Sysinternals.Autologon",
     "name": "Autologon",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "Autologon enables you to easily configure Windows’ built-in autologon mechanism. Instead of waiting for a user to enter their name and password, Windows uses the credentials you enter with Autologon, which are encrypted in the Registry, to log on the specified user automatically.\n\n[!WARNING] Although the password is encrypted in the registry as an LSA secret, a user with administrative rights can easily retrieve and decrypt it. (For more information see Protecting the Automatic Logon Password)\n\nAutologon is easy enough to use. Just run autologon.exe, fill in the dialog, and hit Enable. The next time the system starts, Windows will try to use the entered credentials to log on the user at the console. Note that Autologon does not verify the submitted credentials, nor does it verify that the specified user account is allowed to log on to the computer.\n\nTo turn off auto-logon, hit Disable. Also, if the shift key is held down before the system performs an autologon, the autologon will be disabled for that logon. You can also pass the username, domain and password as command-line arguments:\n\nautologon user domain password\n\nNote: When Exchange ActiveSync password restrictions are in place, Windows will not process the autologon configuration.",
     "icon": "/icons/intunify-default.png"
   },
@@ -35233,7 +35436,7 @@
   {
     "id": "Microsoft.Sysinternals.Autoruns",
     "name": "Autoruns",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "This utility, which has the most comprehensive knowledge of auto-starting locations of any startup monitor, shows you what programs are configured to run during system bootup or login, and when you start various built-in Windows applications like Internet Explorer, Explorer and media players. These programs and drivers include ones in your startup folder, Run, RunOnce, and other Registry keys. Autoruns reports Explorer shell extensions, toolbars, browser helper objects, Winlogon notifications, auto-start services, and much more. Autoruns goes way beyond other autostart utilities.\n\nAutoruns' Hide Signed Microsoft Entries option helps you to zoom in on third-party auto-starting images that have been added to your system and it has support for looking at the auto-starting images configured for other accounts configured on a system. Also included in the download package is a command-line equivalent that can output in CSV format, Autorunsc.\n\nYou'll probably be surprised at how many executables are launched automatically!",
     "icon": "/icons/intunify-default.png"
   },
@@ -36309,6 +36512,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "beekeeper-studio.beekeeper-studio",
+    "name": "Beekeeper Studio",
+    "publisher": "Beekeeper Studio Team",
+    "description": "Beekeeper Studio is a database manager and SQL GUI. It is a desktop app that is easy to use. It's a visual alternative to command line tools like psql or mysql, while also providing a bunch of useful extra features.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Beeper.Beeper",
     "name": "Beeper",
     "publisher": "Beeper Inc.",
@@ -36437,7 +36647,7 @@
   {
     "id": "Microsoft.Sysinternals.BGInfo",
     "name": "BGInfo",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "BGInfo  automatically displays relevant information about a Windows computer on the desktop's background, such as the computer name, IP address, service pack version, and more. You can edit any field as well as the font and background colors, and can place it in your startup folder so that it runs every boot, or even configure it to display as the background for the logon screen.\n\nBecause BGInfo simply writes a new desktop bitmap and exits, you don't have to worry about it consuming system resources or interfering with other applications.\n\nBy placing BGInfo in your Startup folder, you can ensure that the system information being displayed is up to date each time you boot. Once you've settled on the information to be displayed, use the command-line option /timer:0 to update the display without showing the dialog box.\n\nYou can also use the Windows Scheduler to run BGInfo on a regular basis to ensure long-running systems are kept up to date.",
     "icon": "/icons/intunify-default.png"
   },
@@ -36593,6 +36803,20 @@
     "name": "Bitwarden CLI",
     "publisher": "Bitwarden Inc.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Bitwarden.DirectoryConnector",
+    "name": "Bitwarden Directory Connector",
+    "publisher": "Bitwarden Inc.",
+    "description": "A desktop application used to sync your Bitwarden enterprise organization to an existing directory of users and groups. Supported directories：Active Directory; Any other LDAP-based directory; Microsoft Entra ID; G Suite (Google); Okta.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Bitwarden.DirectoryConnector.CLI",
+    "name": "Bitwarden Directory Connector (CLI)",
+    "publisher": "Bitwarden",
+    "description": "A desktop application used to sync your Bitwarden enterprise organization to an existing directory of users and groups. Supported directories：Active Directory; Any other LDAP-based directory; Microsoft Entra ID; G Suite (Google); Okta.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38815,6 +39039,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Tsabo.ClipMate",
+    "name": "ClipMate",
+    "publisher": "Tsabo",
+    "description": "ClipMate is a modern clipboard manager that helps you manage your clipboard history,\norganize clips into collections, and boost your productivity with powerful features\nlike PowerPaste, Quick Paste, and advanced text manipulation tools.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "evansmurithi.cloak",
     "name": "cloak",
     "publisher": "Evans Murithi",
@@ -39043,6 +39274,13 @@
     "name": "Coligo DESKTOP",
     "publisher": "Summa",
     "description": "Increasing efficiency in the workplace goes beyond the boundaries of UC. The integration of instant messaging, voice, video and conferencing is crucial to this. Team Collaboration is taken to a new level by logging conversations and all exchanged data. Discussions are extended beyond the boundaries of meetings. The popularity of collaboration software with additional web communication functions shows that the currently available communication solutions do not meet the requirements.\nColigo DESKTOP meets these requirements - a client solution that combines team collaboration functions with web communication (voice/video group calls).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KashishNaresh.CollabFS",
+    "name": "CollabFS",
+    "publisher": "Kashish Chaudhary",
+    "description": "CollabFS allows anyone to colloborate on a project, changes are synced in realtime.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39986,7 +40224,7 @@
   {
     "id": "Microsoft.Sysinternals.Ctrl2Cap",
     "name": "Ctrl2Cap",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "Ctrl2Cap is a tool to help remap the Caps Lock key to Ctrl. People like myself that migrated to NT from UNIX are used to having the control key located where the caps-lock key is on the standard PC keyboard, so a utility like this is essential for our editing well-being.",
     "icon": "/icons/intunify-default.png"
   },
@@ -40602,7 +40840,7 @@
   {
     "id": "Microsoft.Sysinternals.DebugView",
     "name": "DebugView",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "DebugView is an application that lets you monitor debug output on your local system, or any computer on the network that you can reach via TCP/IP. It is capable of displaying both kernel-mode and Win32 debug output, so you don't need a debugger to catch the debug output your applications or device drivers generate, nor do you need to modify your applications or drivers to use non-standard debug output APIs.\n\nUnder Windows 2000, XP, Server 2003 and Vista DebugView will capture:\n- Win32 OutputDebugString\n- Kernel-mode DbgPrint\n- All kernel-mode variants of DbgPrint implemented in Windows XP and Server 2003\n\nDebugView also extracts kernel-mode debug output generated before a crash from Window's 2000/XP crash dump files if DebugView was capturing at the time of the crash.\n\nHere is a list highlighting some of DebugView's other features:\n- Remote monitoring: Capture kernel-mode and/or Win32 debug output from any computer accessible via TCP/IP - even across the Internet. You can monitor multiple remote computers simultaneously. DebugView will even install its client software itself if you are running it on a Windows 2000 system and are capturing from another Windows 2000 system in the same Network Neighborhood.\n- Most-recent-filter lists:DebugView remembers your most recent filter selections, with an interface that makes it easy to reselect them.\n- Process ID option: Toggle the display of process IDs for Win32 debug output.\n- Clipboard copy: Select multiple lines in the output window and copy their contents to the clipboard.\n- Log-to-file: Write debug output to a file as its being captured.\n- Printing: Print all or part of captured debug output to a printer.\n- One-file payload:DebugView is implemented as one file.\n- Crash-Dump Support:DebugView can recover its buffers from a crash dump and save the output to a log file so that users can send you the output your Windows driver generated right up to the time of a crash.",
     "icon": "/icons/intunify-default.png"
   },
@@ -40882,7 +41120,7 @@
   {
     "id": "Microsoft.Sysinternals.Desktops",
     "name": "Desktops",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "Desktops allows you to organize your applications on up to four virtual desktops. Read email on one, browse the web on the second, and do work in your productivity software on the third, without the clutter of the windows you're not using. After you configure hotkeys for switching desktops, you can create and switch desktops either by clicking on the tray icon to open a desktop preview and switching window, or by using the hotkeys.",
     "icon": "/icons/intunify-default.png"
   },
@@ -41069,6 +41307,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Tachosys.digiCentralAuthenticate",
+    "name": "digiCentral Authenticate",
+    "publisher": "Tachosys",
+    "description": "Place your company card into your computer's card reader and this software will make the card available for remote vehicle unit downloads.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Tachosys.digiConnect",
+    "name": "digiConnect",
+    "publisher": "Tachosys",
+    "description": "Connect your Tachosys device to your PC\nKey features\n- Transfer downloaded files from digivu and digifobpro\n- Update firmware on devices\n- Compatible with both Digital Tachograph and Smart Tachograph files",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KDE.digiKam",
     "name": "digiKam",
     "publisher": "The digiKam team",
@@ -41136,13 +41388,6 @@
     "name": "Directory Opus",
     "publisher": "GPSoftware",
     "description": "Directory Opus is a complete replacement for Explorer, with far more functionality than any other file manager available today.\n\nWith a flexible user interface and unbelievable configurability, you can tailor Opus to streamline your workflow.\n-  Dual panes, dual trees, multiple tabs.\n- Filter, sort, group your folders. Label and rate your files.\n- Queued file copies. Powerful batch renaming. Full archive support.\n- Find your files. Locate duplicates. Synchronize backups.\n- Assign tags and descriptions. Convert images. Edit metadata.\n- Fully multi-threaded, native 64 bit high performance code.\n\nOpus is written in native C++ multi-threaded code; compiled for the latest 64 bit CPUs, with high performance our number one design principle.\nPowerful searching, sorting, grouping, labelling and tagging features let you take control of your files like never before.\nWork with third-party tools as easily as with the built-in features. A full scripting interface, including scriptable dialogs, means your imagination is really the only limit.\n\nTry free for 30 days or Register  for an extended 60 day trial.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.DirectX",
-    "name": "DirectX End-User Runtime Web Installer",
-    "publisher": "Microsoft Corporation",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42422,8 +42667,8 @@
   {
     "id": "DuoSecurity.DuoDesktop",
     "name": "Duo Desktop",
-    "publisher": "Duo Security Inc.",
-    "description": "",
+    "publisher": "Duo Security",
+    "description": "Duo Desktop, formerly known as Duo Device Health, gives organizations more control over which laptop and desktop devices can access corporate applications based on the security posture of the device or presence of Duo Desktop installed on the endpoint.\nThere are three key components:\n1. Duo access policies that enforce application access based on device health.\n2. A native client application for supported Linux, macOS, and Windows clients that checks the security posture of the device when a user authenticates to an application protected by Duo's browser-based prompt with an applied Duo Desktop policy.\n3. Additional endpoint information provided in the Duo Admin Panel.\nThe first time users log in to an application protected by the web-based Duo Universal Prompt or traditional Duo Prompt with the Duo Desktop policy set to require the app, Duo prompts them to download and install Duo Desktop. After installing Duo Desktop, Duo blocks access to applications through the Duo browser-based authentication prompt (when displayed in a browser or in a supported thick client's embedded browser) if the device is unhealthy based on the Duo policy definition and informs the user of the reason for denying the authentication.\nWhen a user's device doesn't meet the security requirements of the Duo Desktop policy, Duo Desktop provides the user with steps they can take to remediate their security posture to align with the Duo Desktop policy on the application.\nNote: While Duo Desktop transmits collected information securely, this information is not uniquely identified. This means that a bad actor could intercept the Duo authentication prompt and create their own response to Duo's request for device health information and send that response up to Duo servers. Every authentication is uniquely identified, so a user cannot reasonably impersonate another user’s device information. You can limit this risk by enabling device registration.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42725,6 +42970,13 @@
     "name": "Easy Connection to Screen",
     "publisher": "Samsung",
     "description": "The Easy Connection To Screen App allows you to control your PC from your Smart TV.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "sordum.EasyContextMenu",
+    "name": "Easy Context MEnu",
+    "publisher": "sordum",
+    "description": "Easy Context Menu (ECM) lets you add a variety of useful commands and tweaks to the Desktop, My Computer, Drives, File and Folder right-click context menus.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43607,6 +43859,13 @@
     "name": "EPS File Viewer",
     "publisher": "SoftSea",
     "description": "EPS File Viewer is a free and simple file viewer for EPS (Encapsulated PostScript) format files. It can quickly open and show EPS images, provides picture zoom function, and lets you zoom-in or zoom-out. This software is designed to be intuitive, simple, and very easy to use.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IdeaMK.EPSViewer",
+    "name": "EPS Viewer",
+    "publisher": "IdeaMK",
+    "description": "EPS Viewer is a free for use software tool. EPS Viewer can be used to open EPS graphics file, display image preview and provides option to convert opened image and save them in other file formats as .jpg, .gif, .png and others extensions. There are two types of EPS file. One type is a vector based graphics file that can be opened and easily edited in any vector based programs. Second type is EPS photo file, flattened, set resolution \"picture\" type file. Second type can be opened in Photoshop or other program for image editing. EPS Viewer supports the two types of EPS file and can convert opened EPS file to other photo formats.\nThere are several drawing programs and vector graphic editing applications that supports EPS file extensions and these file are usually used as a standard means for transferring image data between different operating systems (Windows, Linux, MAC OS).\nEPS Viewer despite converting in other file formats, it supports resizing of EPS image. EPS file contains instructions for creating lines, points, areas and colors. This is very important because with this, EPS images can be resized (enlarged or reduced) without losing any quality.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44618,6 +44877,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KDE.Filelight.AppX",
+    "name": "Filelight (AppX)",
+    "publisher": "KDE e.V.",
+    "description": "An application to visualize the disk usage on your computer by showing folders using an easy-to-understand view of concentric rings, which makes it simple to free up space.\n\nNote that due to complexities with AppX files, the Winget package's listed version numbers do not line up with those of the otherwise near-identical .exe-based \"KDE.Filelight\" package.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JAMSoftware.FileList",
     "name": "FileList",
     "publisher": "JAM Software",
@@ -44697,7 +44963,7 @@
   {
     "id": "Microsoft.Sysinternals.FindLinks",
     "name": "FindLinks",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "FindLinks reports the file index and any hard links (alternate file paths on the same volume) that exist for the specified file. A file's data remains allocated so long as at it has at least one file name referencing it.\n\nUsage: findlinks <filename>",
     "icon": "/icons/intunify-default.png"
   },
@@ -46524,8 +46790,8 @@
   {
     "id": "Garmin.Express",
     "name": "Garmin Express",
-    "publisher": "Garmin Ltd or its subsidiaries",
-    "description": "Use Garmin Express to update maps and software, sync with Garmin Connect and register your device. This desktop software notifies you when updates are available and helps you install them.\n\nKeep Your Device up to Date:\n* Get the latest detailed street maps to ensure fast, accurate navigation.\n* Use Garmin Express to upload your activities and wellness data to your Garmin Connect account.\n* Garmin Express makes software updates easy to install.\n* Manage free and paid content, including Connect IQ™ Store apps and accessory maps.\n* Download the latest charts to a memory card for easy transfer to your marine device.\n* Get the latest free CourseView maps and updates for your Garmin golf device.\n* Activate your maps or services with a voucher or product key.",
+    "publisher": "Garmin Ltd. or its subsidiaries",
+    "description": "Garmin Express is a desktop application for managing your Garmin devices.\nUse Garmin Express to update maps and software, sync with Garmin Connect and register your device.\n- Keep your street maps updated to find new places and get accurate directions to your destinations\n- Upload your activities and wellness data to your Garmin Connect account\n- Install free software updates as they become available\n- Download content from the Connect IQ Store app including watch faces and apps\n- Download and install marine charts\n- Download CourseView golf course updates for your compatible Garmin device\n- Activate and redeem map vouchers and product keys",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46715,6 +46981,13 @@
     "name": "GerbView",
     "publisher": "Software Companions",
     "description": "Gerbview is a powerful viewer and converter that will visualize your design, on the screen or in hardcopy. You no longer have to wait for a prototype circuit board to see your true design.\nGerbView supports both RS-274D and RS-274X Gerber formats, and you can use it to convert your older Gerber files to the new RS-274X extended format. The newer extended Gerber format contains embedded aperture information and minimizes the risk for errors during the manufacturing of the PCB.\n\nWith GerbView you can export individual layers, or the whole workspace, to any of the supported raster formats, which includes TIFF, JPEG, PNG and BMP. The resolution and number of colors used for the conversion can be set by the user.\n\nIn GerbView you work with a workspace that can contain one or more files (layers) of any of the supported file formats. The workspace can be saved for later use. The workspace will reference your design files, so only need to reload the workspace to see the whole design. You can set the size of this workspace to one of the preselected paper sizes, or to a custom size.\n\nFully working 30-day evaluation versions. You can turn the evaluation into a full product by entering a serial number.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BlankSpruce.Gersemi",
+    "name": "Gersemi",
+    "publisher": "BlankSpruce",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47068,6 +47341,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KDE.Glaxnimate.AppX",
+    "name": "Glaxnimate (AppX)",
+    "publisher": "KDE e.V.",
+    "description": "An open-source vector animation and motion design desktop application.\n\nNote that due to complexities with AppX files, the Winget package's listed version numbers do not line up with those of the otherwise near-identical .exe-based \"KDE.Glaxnimate\" package.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "glzr-io.glazewm",
     "name": "GlazeWM",
     "publisher": "Glzr Software Pte. Ltd.",
@@ -47128,6 +47408,13 @@
     "name": "Glucose",
     "publisher": "DoublOne Studios",
     "description": "A minimal video player built with Rust and Svelte, with support for AI-generated subtitles and a minimalist UI.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HasNate618.Glyph",
+    "name": "Glyph",
+    "publisher": "HasNate618",
+    "description": "Glyph is a Windows-first, highly configurable leader-key overlay.\nPress the Glyph key to open an overlay, then type short sequences to trigger actions.\n\nKeymaps are configured in YAML with optional per-app layers.\nThemes are JSON-based.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47330,6 +47617,13 @@
     "id": "GodotEngine.GodotEngine.Mono",
     "name": "Godot Engine (Mono)",
     "publisher": "Godot Engine",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Bioruebe.godotdec",
+    "name": "godotdec",
+    "publisher": "Bioruebe",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -48197,7 +48491,7 @@
   {
     "id": "Microsoft.Sysinternals.Handle",
     "name": "Handle",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "Handle is a utility that displays information about open handles for any process in the system. You can use it to see the programs that have a file open, or to see the object types and names of all the handles of a program.\n\nHandle is targeted at searching for open file references, so if you do not specify any command-line parameters it will list the values of all the handles in the system that refer to open files and the names of the files. It also takes several parameters that modify this behavior.\n\nWhen in search mode, Handle prints the process names and id's are listed on the left side and the names of the objects that had a match are on the right.",
     "icon": "/icons/intunify-default.png"
   },
@@ -49196,6 +49490,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenCLICollective.hubspot-cli",
+    "name": "HubSpot CLI",
+    "publisher": "Open CLI Collective",
+    "description": "A CLI tool for managing HubSpot CRM directly from your terminal.\nFeatures include managing contacts, companies, deals, and more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "bodaay.hfdownloader",
     "name": "HuggingFace Model Downloader",
     "publisher": "bodaay",
@@ -49718,6 +50019,13 @@
     "name": "iGot",
     "publisher": "wahao-mac",
     "description": "A desktop messaging management client that aggregates WeChat, email, and app push. Built on Electron.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IdeaMK.IGSViewer",
+    "name": "IGS Viewer",
+    "publisher": "IdeaMK",
+    "description": "IGS Viewer is a professional tool used for viewing CAD models with excellent speed and quality. IGS Viewer boast a very user-friendly interface for beginners users and in the same time provide full range of tools for navigation and analyzing the 3D object. For advanced users of this kind viewers there are most of the known command as on any 3D viewer, and for beginners and non-technical users there is a help, and explanation on every tool how to use and what that tool do while using IGS viewer. Interesting feature in IGS Viewer is tree view where are showen all markers that are used in 3D object. You can easily hide or unhide them and see all object part by part. With IGS Viewer except zooming and panning you can see the object in 2D in any of the 4 sides (top, bottom, left, right), you can add shade to the object to see how will look like as an real object or to see only wireframe. IGS Viewer also allow changing color of wireframes or shade of 3D object.\nIGS Viewer IGS Viewer is a tool for viewing international IGES standard files. IGES files (.igs, .iges file format) for 3D and assembly are often used by all major mechanical CAD systems. With this absolutely FREE IGS Viewer you can easily open 3D files (*.igs), rotate them and perform some basic actions like: zoom, rotate, move or change skin and skin color. Download IGS file viewer and start viewing the world in 3D. Please refer to the Walk Thru section for more information's and screenshots.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51338,13 +51646,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "XueyunRuiChuang.JsDesignAgent",
-    "name": "jsDesignAgent",
-    "publisher": "js.design, Inc.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "josephburnett.jd",
     "name": "JSON diff and patch",
     "publisher": "Joseph Burnett",
@@ -51597,10 +51898,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Taozuhong.KangarooPostgreSQL",
+    "name": "Kangaroo PostgreSQL",
+    "publisher": "Taozuhong",
+    "description": "Kangaroo is a AI-powered SQL client and admin tool for popular databases(MariaDB / MongoDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQLServer / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Taozuhong.KangarooRedis",
     "name": "Kangaroo Redis",
     "publisher": "Taozuhong",
     "description": "Kangaroo is a AI-powered SQL client and admin tool for popular databases(MariaDB / MongoDB / MySQL / Oracle / PostgreSQL / SQLite / SQLServer / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Taozuhong.KangarooSQLServer",
+    "name": "Kangaroo SQLServer",
+    "publisher": "Taozuhong",
+    "description": "Kangaroo is a AI-powered SQL client and admin tool for SQLServer databases, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52255,6 +52570,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KDE.KStars.AppX",
+    "name": "KStars Desktop Planetarium (AppX)",
+    "publisher": "KDE e.V.",
+    "description": "A freely licenced, open source Astronomy Software by KDE.\n\nNote that due to complexities with AppX files, the Winget package's listed version numbers do not line up with those of the otherwise near-identical .exe-based \"KDE.KStars\" package.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KDE.KSudoku",
     "name": "ksudoku",
     "publisher": "KDE e.V.",
@@ -52539,6 +52861,13 @@
     "name": "LANIPScanner",
     "publisher": "NirSoft",
     "description": "LANIPScanner is a simple tool for Windows that scans your network and displays the list of all computers and devices that are currently connected to your network.\nLANIPScanner uses multiple network protocols to scan your network, including ICMP (ping), ARP, NBNS, SSDP, mDNS, DNS.\nFor every computer or device that is connected to your network, the following information is displayed (Only if it's available): IP Address, MAC Address, MAC Address Company, Device Name, Workgroup, Device String, Protocols List, Ping Time, Ping TTL, Device Type, IPv6 Address, IPv6 Link Local Address.\nWhen a device responses to SSDP or mDNS protocol, you can also view the raw data received from the device in the lower pane, by selecting the device in the upper pane.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Lanmark.TekFixSupportAgent",
+    "name": "LanmarkTekFix Support Agent",
+    "publisher": "Lanmark Limited",
+    "description": "LanmarkTekFix Support Agent provides AI-powered IT troubleshooting for Windows devices.\nFeatures include intelligent triage, screenshot analysis, system diagnostics, quick actions,\nand seamless escalation to live Lanmark engineers via integrated chat.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53732,17 +54061,10 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Yeastar.Linkus.Desktop",
-    "name": "Linkus Desktop Client",
-    "publisher": "Yeastar Digital Technology Co., Ltd.",
-    "description": "Linkus Desktop Client is a versatile and intuitive softphone application for Windows and Mac users, offering a virtual desk phone experience with advanced, easy-to-use communication features.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Yeastar.Linkus.Lite",
     "name": "Linkus Lite",
     "publisher": "Yeastar Information Technology Co., Ltd.",
-    "description": "Linkus Lite is a versatile and intuitive softphone application for Windows and Mac users, offering a virtual desk phone experience with advanced, easy-to-use communication features.",
+    "description": "Coordinated with Yeastar Cloud PBX (Legacy), and S-Series VoIP PBX, Linkus Lite provides you with access to enterprise-grade telephony features from your computer desktop. It runs on Windows and macOS, and gives you softphone, instant messaging, presence, file sharing and CRM integration facilities. Just communicate and collaborate seamlessly and efficiently.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54387,6 +54709,13 @@
     "name": "M2 Repo Cleaner",
     "publisher": "Japplis",
     "description": "M2 Repo Cleaner - Clean old files in Maven local repository\nFree space from your hard disk by removing old dependencies and snapshots from your Maven local repository.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "gonwan.M3U8-Downloader",
+    "name": "M3U8 Downloader",
+    "publisher": "gonwan",
+    "description": "Yet another m3u8 GUI downloader built with vue3/vite, element-plus, and electron.\n\nNote that as of version 0.8.2, the tool does not include subtitle tracks in its downloads.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58156,6 +58485,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Kieirra.Murmure",
+    "name": "murmure",
+    "publisher": "al1x-ai",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ElijahLopez.MusicCaster",
     "name": "Music Caster",
     "publisher": "Elijah Lopez",
@@ -59608,7 +59944,7 @@
     "id": "Notepad++.Notepad++",
     "name": "Notepad++",
     "publisher": "Notepad++ Team",
-    "description": "Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GNU General Public License.",
+    "description": "Notepad++ is a free (as in “free speech” and also as in “free beer”) source code editor and Notepad replacement that supports several languages.\nRunning in the MS Windows environment, its use is governed by GNU General Public License.",
     "icon": "/icons/notepadpp.png"
   },
   {
@@ -61432,6 +61768,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Trados.Passolo.2022",
+    "name": "Passolo 2022",
+    "publisher": "SDL Limited (a part of the RWS Holdings Plc group)",
+    "description": "Take the intensive and time-consuming process out of software localization. Easily translate elements of a graphical user interface (GUI) such as dialog boxes, menus and display texts. Translate, share and collaborate on all your software localization projects within one centralized end-to-end environment. Our intelligent workflows and intuitive project management features help you produce faster multilingual software releases, higher-quality software translation and more efficient processes.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Ahlyab.PasswordChecker",
     "name": "Password Checker",
     "publisher": "Ahlyab",
@@ -63128,14 +63471,14 @@
   {
     "id": "Microsoft.Sysinternals.ProcessExplorer",
     "name": "Process Explorer",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "Ever wondered which program has a particular file or directory open? Now you can find out. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.\n\nThe Process Explorer display consists of two sub-windows. The top window always shows a list of the currently active processes, including the names of their owning accounts, whereas the information displayed in the bottom window depends on the mode that Process Explorer is in: if it is in handle mode you'll see the handles that the process selected in the top window has opened; if Process Explorer is in DLL mode you'll see the DLLs and memory-mapped files that the process has loaded. Process Explorer also has a powerful search capability that will quickly show you which processes have particular handles opened or DLLs loaded.\n\nThe unique capabilities of Process Explorer make it useful for tracking down DLL-version problems or handle leaks, and provide insight into the way Windows and applications work.",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "Microsoft.Sysinternals.ProcessMonitor",
     "name": "Process Monitor",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "Process Monitor is an advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity. It combines the features of two legacy Sysinternals utilities, Filemon and Regmon, and adds an extensive list of enhancements including rich and non-destructive filtering, comprehensive event properties such as session IDs and user names, reliable process information, full thread stacks with integrated symbol support for each operation, simultaneous logging to a file, and much more. Its uniquely powerful features will make Process Monitor a core utility in your system troubleshooting and malware hunting toolkit.\n\nProcess Monitor includes powerful monitoring and filtering capabilities, including:\n- More data captured for operation input and output parameters\n- Non-destructive filters allow you to set filters without losing data\n- Capture of thread stacks for each operation make it possible in many cases to identify the root cause of an operation\n- Reliable capture of process details, including image path, command line, user and session ID\n- Configurable and moveable columns for any event property\n- Filters can be set for any data field, including fields not configured as columns\n- Advanced logging architecture scales to tens of millions of captured events and gigabytes of log data\n- Process tree tool shows relationship of all processes referenced in a trace\n- Native log format preserves all data for loading in a different Process Monitor instance\n- Process tooltip for easy viewing of process image information\n- Detail tooltip allows convenient access to formatted data that doesn't fit in the column\n- Cancellable search\n- Boot time logging of all operations",
     "icon": "/icons/intunify-default.png"
   },
@@ -63333,6 +63676,13 @@
     "name": "Prowlarr",
     "publisher": "Team Prowlarr",
     "description": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps.\nProwlarr supports management of both Torrent Trackers and Usenet Indexers.\nIt integrates seamlessly with Lidarr, Mylar3, Radarr, Readarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required (we do it all).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VentoByte.Proxifier",
+    "name": "Proxifier",
+    "publisher": "VentoByte SL",
+    "description": "Proxifier allows network applications that do not support working through proxy servers to operate through a SOCKS or HTTPS proxy or a chain of proxy servers.\nWith Proxifier, you can easily tunnel all a system’s TCP connections or only those you select.\n\nProxifier allows you to\n- run any network application through a proxy server. The software requires no special configuration, and the entire process is completely transparent\n- access the internet from a restricted network through a proxy server gateway\n- bypass firewall restrictions\n- \"tunnel\" the entire system (force all network connections, including system connections, to work through a proxy server)\n- resolve DNS names through a proxy server\n- use flexible Proxification Rules with hostname and application name wildcards\n- ensure privacy by hiding your IP address\n- work through a chain of proxy servers using diverse protocols\n- view real-time information on current network activities (connections, hosts, times, bandwidth usage, etc.)\n- maintain log files and traffic dumps\n- get detailed reports on network errors\n- and much more!\nSpecifications:\n- Proxy protocols: SOCKS4, SOCKS4A, SOCKS5, HTTPS, and HTTP (HTTP connections only)\n- Authentication: SOCKS5 username/password authentication (RFC 1929), HTTP Basic, NTLM (including transparent mode), Kerberos\n- Full IPv6 support\n- Full 64-bit application and system support\n- Profile password encryption up to AES 256 bit\n- Windows 7/8/10/11, Server 2008/2012/2016/2019/2022",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64549,7 +64899,7 @@
   {
     "id": "Microsoft.Sysinternals.RAMMap",
     "name": "RAMMap",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "Have you ever wondered exactly how Windows is assigning physical memory, how much file data is cached in RAM, or how much RAM is used by the kernel and device drivers? RAMMap makes answering those questions easy. \nRAMMap is an advanced physical memory usage analysis utility for Windows Vista and higher.\n\nIt presents usage information in different ways on its several different tabs:\n- Use Counts: usage summary by type and paging list\n- Processes: process working set sizes\n- Priority Summary: prioritized standby list sizes\n- Physical Pages: per-page use for all physical memory\n- Physical Ranges: physical memory addresses\n- File Summary: file data in RAM by file\n- File Details: individual physical pages by file\n\nUse RAMMap to gain understanding of the way Windows manages memory, to analyze application memory usage, or to answer specific questions about how RAM is being allocated. RAMMap’s refresh feature enables you to update the display and it includes support for saving and loading memory snapshots.",
     "icon": "/icons/intunify-default.png"
   },
@@ -64649,6 +64999,13 @@
     "name": "Raven Reader",
     "publisher": "Hello Efficiency Inc.",
     "description": "Raven is a open source desktop news reader with flexible settings to optimize your experience. No login is required, and no personal data is collected. Just select the websites you want to curate articles from and enjoy!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IdeaMK.RAWImageViewer",
+    "name": "RAW Image Viewer",
+    "publisher": "IdeaMK",
+    "description": "Raw Image Viewer is a free product that can easily open, convert, resize and save ARW, CR2, CRW, DNG, NEF and RAF image files. Exporting is available in JPEG, PNG, GIF, TIFF and others file images extensions, providing maximum quality of exported images.\nRaw Image Viewer, dispite converting to other file formats, also provide and rotating of the opened image and resizing. Enlarging or reducing of the images with Raw Image Viewer is done without losing much quality of opened image.\nRaw Image Viewer is a nice tool for managing your Canon Raw images.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64969,7 +65326,7 @@
   {
     "id": "Microsoft.Sysinternals.RegJump",
     "name": "RegJump",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -65102,7 +65459,7 @@
   {
     "id": "Microsoft.Sysinternals.RDCMan",
     "name": "Remote Desktop Connection Manager",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "RDCMan manages multiple remote desktop connections. It is useful for managing server labs where you need regular access to each machine such as automated checkin systems and data centers.\n\nServers are organized into named groups. You can connect or disconnect to all servers in a group with a single command. You can view all the servers in a group as a set of thumbnails, showing live action in each session. Servers can inherit their logon settings from a parent group or a credential store. Thus when you change your lab account password, you only need to change the password stored by RDCMan in one place. Passwords are stored securely by encrypting with either CryptProtectData using the (locally) logged on user's authority or an X509 certificate.\n\nUser with OS versions prior to Win7/Vista will need to get version 6 of the Terminal Services Client. You can obtain this from the Microsoft Download Center: XP; Win2003\n\nUpgrade note: RDG files with this version of RDCMan are not compatible with older program versions. Any legacy RDG file opened and saved with this version will be backed up as filename.old",
     "icon": "/icons/intunify-default.png"
   },
@@ -66238,6 +66595,13 @@
     "name": "SAKURA Editor",
     "publisher": "SAKURA Editor",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenCLICollective.salesforce-cli",
+    "name": "Salesforce CLI",
+    "publisher": "Open CLI Collective",
+    "description": "A CLI tool for interacting with Salesforce directly from your terminal.\nFeatures include OAuth 2.0 authentication with secure token storage,\nSOQL queries, object CRUD operations, and API discovery.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67760,6 +68124,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "sipgate.sipgatesoftphone",
+    "name": "sipgate softphone",
+    "publisher": "sipgate",
+    "description": "Make phone calls with your desk phone, mobile phone, and now your computer with sipgate’s softphone.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TopalaSoftwareSolutions.SIW",
     "name": "SIW",
     "publisher": "Topala Software Solutions",
@@ -68070,6 +68441,13 @@
   {
     "id": "TechSmith.Snagit.2025",
     "name": "Snagit 2025",
+    "publisher": "TechSmith Corporation",
+    "description": "Snagit helps you quickly share information in a way that's easy to understand. Capture your screen and camera, add additional context and move work forward faster.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TechSmith.Snagit.2026",
+    "name": "Snagit 2026",
     "publisher": "TechSmith Corporation",
     "description": "Snagit helps you quickly share information in a way that's easy to understand. Capture your screen and camera, add additional context and move work forward faster.",
     "icon": "/icons/intunify-default.png"
@@ -68667,6 +69045,20 @@
     "name": "Spooky View",
     "publisher": "LittleTijn",
     "description": "A small open-source app to make any app window transparent. Small and use minimal system resources.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Bioruebe.spoondec",
+    "name": "spoondec",
+    "publisher": "Bioruebe",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LargeModGames.spotatui",
+    "name": "spotatui",
+    "publisher": "LargeModGames",
+    "description": "spotatui is a terminal-based Spotify client written in Rust.\nIt provides a keyboard-driven interface for controlling Spotify playback,\nbrowsing your library, searching for music, and more, all from your terminal.\nFeatures include native streaming support, audio visualization, Discord Rich Presence,\nand media key integration.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69300,13 +69692,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "IdeaMK.STLViewer",
-    "name": "STL Viewer",
-    "publisher": "IdeaMK",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Stockfish.Stockfish",
     "name": "Stockfish",
     "publisher": "Stockfish",
@@ -69317,13 +69702,6 @@
     "id": "Greatis.StopUpdates10",
     "name": "StopUpdates10",
     "publisher": "Greatis Software",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "IdeaMK.STPViewer",
-    "name": "STP Viewer",
-    "publisher": "IdeaMK",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -69988,7 +70366,7 @@
   {
     "id": "Microsoft.Sysinternals.Sysmon",
     "name": "Sysmon",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "System Monitor (Sysmon) is a Windows system service and device driver that, once installed on a system, remains resident across system reboots to monitor and log system activity to the Windows event log.",
     "icon": "/icons/intunify-default.png"
   },
@@ -70317,7 +70695,7 @@
   {
     "id": "Microsoft.Sysinternals.TCPView",
     "name": "TCPView",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections. TCPView also reports the name of the process that owns the endpoint. TCPView provides a more informative and conveniently presented subset of the Netstat program that ships with Windows. The TCPView download includes Tcpvcon, a command-line version with the same functionality.\n\nWhen you start TCPView it will enumerate all active TCP and UDP endpoints, resolving all IP addresses to their domain name versions. You can use a toolbar button or menu item to toggle the display of resolved names. TCPView shows the name of the process that owns each endpoint, including the service name (if any).\n\nBy default, TCPView updates every second, but you can use the Options|Refresh Rate menu item to change the rate. Endpoints that change state from one update to the next are highlighted in yellow; those that are deleted are shown in red, and new endpoints are shown in green.\n\nYou can close established TCP/IP connections (those labeled with a state of ESTABLISHED) by selecting File|Close Connections, or by right-clicking on a connection and choosing Close Connections from the resulting context menu.\n\nYou can save TCPView's output window to a file using the Save menu item.",
     "icon": "/icons/intunify-default.png"
   },
@@ -70515,6 +70893,13 @@
     "name": "tenv",
     "publisher": "Tofuutils",
     "description": "Tenv helps you install and switch versions of OpenTofu/Terraform, Terragrunt, and Atmos with simple commands.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Shinokada.Tera",
+    "name": "TERA",
+    "publisher": "Shinokada",
+    "description": "TERA is a terminal-based internet radio player that lets you\nbrowse and listen to online radio stations directly from your terminal.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -72258,6 +72643,13 @@
     "name": "Ultra Defragmenter",
     "publisher": "UltraDefrag Development Team",
     "description": "UltraDefrag is a disk defragmenter for Windows, which supports defragmentation of locked system files by running during the boot process. It is easy to use without any complicated scripting or a huge load of configuration settings. You can filter the files processed by size, number of fragments, file name and path. You can terminate the process early by specifying an execution time limit.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "IDMComputerSolutions,Inc.UltraEdit",
+    "name": "UltraEdit",
+    "publisher": "IDM Computer Solutions, Inc.",
+    "description": "UltraEdit is the powerful text editor built for developers, data wranglers, and IT pros handling large files and complex tasks.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -74935,6 +75327,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "VWSPython.vuforia-cloud-reco",
+    "name": "vuforia-cloud-reco",
+    "publisher": "VWS-Python",
+    "description": "Make a request to the Vuforia Cloud Recognition Service API.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KhronosGroup.VulkanSDK",
     "name": "Vulkan SDK",
     "publisher": "LunarG Inc.",
@@ -74960,6 +75359,13 @@
     "name": "vvvv gamma",
     "publisher": "vvvv",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VWSPython.vws-cli",
+    "name": "vws-cli",
+    "publisher": "VWS-Python",
+    "description": "Manage a Vuforia Web Services cloud database.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -75086,6 +75492,13 @@
     "name": "Warframe",
     "publisher": "Digital Extremes",
     "description": "Warframe is a free-to-play science fiction cooperative third person shooter video game.\nWarframe is set in a distant future where the solar system is dominated between the Grineer, an empire race of militarized clones; the Corpus, a mega-corporation merchant cult with advanced robotics and laser technology; and the Infested, the name for a disease and its victims that devours all.\nThe players takes the role of a Tenno, an ancient warrior created by the Orokin to battle a mysterious foe but left to slumber generations ago, until woken by an entity called the Lotus for the sole purpose of reuniting the scattered, war-torn colonies throughout the system.\nThe players are always pitted against enemies in superior numbers.\nTo this end, players have at their disposal a varied arsenal of weapons both archaic and modern, and most notably, their most powerful weapon—the titular Warframe, each of which has a particular set of abilities.\nDespite being primarily a shooter game, the gameplay has a definite focus on the synchronization of players' arsenal, allowing for limitless creativity in combat.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Wargaming.GameCenter",
+    "name": "Wargaming.net Game Center",
+    "publisher": "Wargaming.net",
+    "description": "Wargaming.net Game Center is the official game launcher for all Wargaming titles.\nIt provides a unified platform to download, install, update, and manage games like World of Tanks, World of Warships, and World of Warplanes.\nThe launcher features automatic game updates, news feeds, and easy access to your Wargaming account.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -75511,7 +75924,7 @@
   {
     "id": "Microsoft.Sysinternals.Whois",
     "name": "Whois",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "Whois performs the registration record for the domain name or IP address that you specify.",
     "icon": "/icons/intunify-default.png"
   },
@@ -76010,6 +76423,13 @@
     "name": "Windsurf",
     "publisher": "Codeium",
     "description": "The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "kingToolbox.WindTerm",
+    "name": "WindTerm",
+    "publisher": "kingToolbox",
+    "description": "A Quicker and better SSH/Telnet/Serial/Shell/Sftp client for DevOps.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -77602,6 +78022,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AmN.YASBGUI",
+    "name": "YASB GUI",
+    "publisher": "AmN",
+    "description": "A graphical configuration manager for YASB Reborn.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "dom1torii.yasp",
     "name": "yasp",
     "publisher": "dom1torii",
@@ -77917,6 +78344,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "kisChang.ZenSSH",
+    "name": "ZenSSH",
+    "publisher": "kischang",
+    "description": "ZenSSH 是一款基于 Tauri 构建的全平台 SSH 客户端，支持 SSH 连接与 SFTP 文件传输，支持跳板机，专注于提供简洁、稳定、易用的核心功能体验。\n项目目标是在保证轻量与性能的前提下，满足日常 SSH 使用场景，避免复杂冗余的功能设计，适合开发者和运维人员的日常使用。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ColorLogic.ZePrA",
     "name": "ZePrA",
     "publisher": "ColorLogic",
@@ -78108,7 +78542,7 @@
   {
     "id": "Microsoft.Sysinternals.ZoomIt",
     "name": "ZoomIt",
-    "publisher": "Microsoft Corporation",
+    "publisher": "Sysinternals",
     "description": "ZoomIt is a screen zoom, annotation, and recording tool for technical presentations that include application demonstrations.\nZoomIt runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen,\nmove around while zoomed, and draw on the zoomed image. I wrote ZoomIt to fit my specific needs and\nuse it in all my presentations.\nZoomIt works on all versions of Windows and you can use touch and pen input for ZoomIt drawing on tablets.",
     "icon": "/icons/intunify-default.png"
   },
@@ -78463,13 +78897,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "XueyunRuiChuang.JsDesign",
-    "name": "即时设计",
-    "publisher": "Diego Fernandes",
-    "description": "即时设计是一款在线可协作的 UI 设计工具，拥有海量的设计资源与素材，支持导入 sketch 格式的源文件，支持创建交互原型、获取设计标注、快速切图、团队协作等工作。",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Seewo.EasiQuizManager",
     "name": "反馈器助手",
     "publisher": "Seewo",
@@ -78522,6 +78949,13 @@
     "id": "rwv.OnlineDOSGames",
     "name": "在线 DOS 游戏",
     "publisher": "rwv",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AlanJhu.OXWUEEW",
+    "name": "地牛 Wake Up!",
+    "publisher": "Alan Jhu",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -79387,10 +79821,31 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Taozuhong.KangarooMariaDB",
+    "name": "袋鼠数据库工具 MariaDB",
+    "publisher": "陶祖洪",
+    "description": "袋鼠 是一款 AI 驱动的热门数据库系统客户端(MariaDB / MongoDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQLServer / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，致力于打造一款好用、好玩、开发友好的SQL工具。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Taozuhong.KangarooMultiple",
     "name": "袋鼠数据库工具 Multiple",
     "publisher": "陶祖洪",
     "description": "袋鼠 是一款 AI 驱动的热门数据库系统客户端(MariaDB / MongoDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQLServer / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，致力于打造一款好用、好玩、开发友好的SQL工具。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Taozuhong.KangarooMySQL",
+    "name": "袋鼠数据库工具 MySQL",
+    "publisher": "陶祖洪",
+    "description": "袋鼠 是一款 AI 驱动的MySQL数据库系统客户端，支持建表、查询、模型、同步、导入导出等功能，致力于打造一款好用、好玩、开发友好的SQL工具。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Taozuhong.KangarooSQLite",
+    "name": "袋鼠数据库工具 SQLite",
+    "publisher": "陶祖洪",
+    "description": "袋鼠 是一款 AI 驱动的热门数据库系统客户端(MariaDB / MongoDB / MySQL / Oracle / PostgreSQL / SQLite / SQLServer / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，致力于打造一款好用、好玩、开发友好的SQL工具。",
     "icon": "/icons/intunify-default.png"
   },
   {
