@@ -273,6 +273,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ElrikCty.HeatSaveManager",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Ezoa.ECHOOF",
     "name": "",
     "publisher": null,
@@ -876,6 +883,20 @@
   },
   {
     "id": "ej-technologies.JProfiler.15.Agent",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ej-technologies.JProfiler.16",
+    "name": "",
+    "publisher": null,
+    "description": "JProfiler 架起了高层分析与底层 JVM 数据之间的桥梁，提供无与伦比的洞察力，助您解决最棘手的性能问题、内存泄漏、线程问题，以及 JDBC、JPA 等技术中的高层级难题。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ej-technologies.JProfiler.16.Agent",
     "name": "",
     "publisher": null,
     "description": "",
@@ -1953,6 +1974,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "OpenCascade.CADAssistant",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "OrpheusTechnologyLtd.ProWritingAid.OfficeAddIn",
     "name": "",
     "publisher": null,
@@ -1961,6 +1989,13 @@
   },
   {
     "id": "oeyoews.tiddlywiki-app",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenJS.Electron.41",
     "name": "",
     "publisher": null,
     "description": "",
@@ -3129,6 +3164,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ByteDance.Feishu.MSI",
+    "name": "",
+    "publisher": null,
+    "description": "Empowering teams by messenger, meetings, calendar, docs, and emails. It's all in one place.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ByteDance.EffectHouse",
     "name": "",
     "publisher": null,
@@ -3339,6 +3381,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BuildIso.BuildIso",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Bitmutex.Simc",
     "name": "",
     "publisher": null,
@@ -3473,6 +3522,13 @@
   },
   {
     "id": "BrightBlock.Hyprlayer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "bestseller.harpocrates",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4333,13 +4389,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Utopia.Eden.MSVC",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Unknown-HorizonsTeam.Unknown-Horizons",
     "name": "",
     "publisher": null,
@@ -4404,6 +4453,13 @@
   },
   {
     "id": "uutils.coreutils",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "UsamaEjaz.PeekWin",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4495,6 +4551,13 @@
   },
   {
     "id": "UpliftGames.wally",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Uniqkey.UniqkeyDesktop",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4656,6 +4719,13 @@
   },
   {
     "id": "QMK.QMKToolbox",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "qBittorrentCompanion.qBittorrentCompanion",
     "name": "",
     "publisher": null,
     "description": "",
@@ -10073,6 +10143,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PECB.PECBExams",
+    "name": "",
+    "publisher": null,
+    "description": "PECB Exams 是一款在线考试应用程序，让您能够以高效、安全的方式，在预定时间于任何地点参加考试。我们的考试应用紧跟最新趋势并遵循最高标准，使参加考试变得前所未有的便捷。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PollEverywhere.PollEverywhere",
     "name": "",
     "publisher": null,
@@ -13573,6 +13650,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "machinewrapped.SmartCopy",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Mingo.Mingo",
     "name": "",
     "publisher": null,
@@ -13770,6 +13854,13 @@
   },
   {
     "id": "MarcielDegasperi.MDBAdmin",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MoheshwarAmarnathBiswas.TauriWinTools",
     "name": "",
     "publisher": null,
     "description": "",
@@ -14098,6 +14189,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MladenPrajdic.SSMSToolsPack",
+    "name": "",
+    "publisher": null,
+    "description": "SSMS Tools Pack 是一款 Microsoft SQL Server Management Studio (SSMS) 的插件扩展，通过高度集成且易于使用的功能显著提升您的工作效率。\n功能\n- 常用连接：保存连接以便未来一键快速打开编辑器窗口或连接到对象资源管理器。\n- 对象资源管理器自定义文件夹：在对象资源管理器的任意位置添加自定义文件夹；在可能的情况下还可按架构优先进行分组。\n- 列数据统计：根据结果网格中各列的数据类型，提供多种数据统计信息。\n- 连接着色：基于服务器/数据库名称或正则表达式，为已连接的窗口、对象资源管理器及“已注册服务器”工具窗口设置颜色。\n- 导出到 Excel：将结果集、一个或多个表乃至整个数据库导出为 Excel 文件。\n- SQL 编辑器增强：包括展开 SELECT *、在光标处运行脚本、防止意外数据破坏等编辑器改进功能。\n- 格式化 SQL：将对象名称转换为大写、小写或适当大小写，并在 SQL 脚本末尾添加分号。\n- SQL 历史记录：将查询或窗口历史记录安全地保存在本地文件或数据库中。\n- SQL 代码片段：通过您自定义的快捷键，随时访问常用的语句片段。\n- 搜索数据库、表、视图中的数据：凭借强大的过滤功能，在一个或多个数据库、表和视图中搜索数据。\n- 执行计划分析器：分析执行计划并提出可能的优化建议。\n- 脚本数据生成器：从结果集、表或数据库生成 INSERT 语句，并从选定的结果集单元格生成 CSV 文件。\n- 在多目标上运行脚本：在同一服务器的多个数据库上运行单个脚本。\n- 全局替换文本：在四项不同功能中为您的脚本添加自定义替换文本。\n- 新建查询模板：使用您选择的模板自定义“新建查询”窗口。\n- 复制执行计划到剪贴板/文件：将一个或所有执行计划复制到剪贴板或保存为文件。\n- 网格模式下的搜索结果搜索：在查询的结果集中进行搜索。\n- 区域与调试段落：向代码中添加区域和/或调试段落。\n- 从对象资源管理器运行自定义脚本：从对象资源管理器中选定的节点运行自定义脚本。\n- CRUD 存储过程生成：快速为整个数据库或单个表生成 CRUD 存储过程。\n- 其他次要功能：不属于主要类别的其他小型功能。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MartiCliment.UniGetUI.Pre-Release",
     "name": "",
     "publisher": null,
@@ -14287,13 +14385,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "mlhpdx.SimplestLoadBalancer",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Microsoft.DebugDiag",
     "name": "",
     "publisher": null,
@@ -14351,6 +14442,13 @@
   },
   {
     "id": "Microsoft.VisualStudio.2022.BuildTools",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Microsoft.VisualStudio.RemoteTools",
     "name": "",
     "publisher": null,
     "description": "",
@@ -17143,6 +17241,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DataFortressCloud.GOATLYMeetingSummarizer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "drakkan.SFTPGoEnterprise",
     "name": "",
     "publisher": null,
@@ -17214,6 +17319,13 @@
   },
   {
     "id": "daltonmenezes.electron-screen-recorder",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DpSoftware.FireflyLuciferin",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18802,6 +18914,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JoaoPedro.AtelieAdmin",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JacquelinPotier.AllDllsDependencies",
     "name": "",
     "publisher": null,
@@ -19265,13 +19384,6 @@
   },
   {
     "id": "JulienMoreau-Mathis.BabylonJSEditor",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "JayPrall.ColorCop",
     "name": "",
     "publisher": null,
     "description": "",
@@ -20010,6 +20122,27 @@
     "name": "",
     "publisher": null,
     "description": "Real-Time Agent Manager 是一个 Windows 服务，需与 ControlUp Agent 服务安装在同一台机器上。安装 Real-Time Agent Manager 时会同步安装 ControlUp Agent。其主要功能是作为 ControlUp Agent 的“看门狗”——例如当 ControlUp Agent 停止运行时，Real-Time Agent Manager 会自动重启该代理；反之若 Real-Time Agent Manager 停止运行，ControlUp Agent 也会重新启动管理器。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ControlUp.RemoteDX.Omnissa",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ControlUp.RemoteDX.Citrix",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ControlUp.RemoteDX.Microsoft",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -20938,6 +21071,13 @@
   },
   {
     "id": "CoherentGraphics.Cpdf",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CerberAuth.openapi-oathkeeper",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22617,13 +22757,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Hexandcube.DesktopIconToggle",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "HTACG.tidy",
     "name": "",
     "publisher": null,
@@ -22936,6 +23069,13 @@
     "name": "",
     "publisher": null,
     "description": "Consul 是一种分布式、高可用且支持多数据中心的服务解决方案，专为动态分布式基础设施中的应用程序连接与配置而设计。\nConsul 提供以下核心功能：\n- 多数据中心支持 - 原生支持多数据中心架构，无需复杂配置即可扩展至任意规模区域\n- 服务网格 - 通过自动 TLS 加密和基于身份认证的授权机制，保障服务间通信安全。应用可通过透明代理（Transparent Proxy）在服务网格配置中使用边车代理，建立入站/出站连接的 TLS 加密通道\n- API 网关 - 管理服务网格内部访问权限，允许用户为网格内服务定义流量控制与授权策略\n- 服务发现 - 支持服务通过 DNS 或 HTTP 接口快速自注册与发现，同时可集成外部服务（如 SaaS 提供商）\n- 健康检查 - 实时监测集群状态并快速告警，结合服务发现机制自动隔离故障节点，实现服务级熔断\n- 动态应用配置 - 提供 HTTP API 存储索引化对象，用于管理配置参数与应用程序元数据",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HandBrake.HandBrake",
+    "name": "",
+    "publisher": null,
+    "description": "HandBrake 能将你已有的视频转换成新的视频，并能在你的手机、平板电脑、电视媒体播放器、游戏机、电脑或网络浏览器上播放--几乎任何支持现代视频格式的设备上都能播放。\nHandBrake 可处理大多数常见的视频文件和格式，包括由民用和专业摄像机、手机和平板电脑等移动设备、游戏和电脑屏幕录制以及 DVD 和蓝光光盘创建的视频文件和格式。HandBrake 可利用 FFmpeg、x264 和 x265 等工具，从这些来源创建新的 MP4 或 MKV 视频文件。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -24395,6 +24535,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "5c0.Metropolis",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "54145a.145watch",
     "name": "",
     "publisher": null,
@@ -24410,6 +24557,13 @@
   },
   {
     "id": "99designs.aws-vault",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "nickknissen.TailscaleCommandPalette",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25186,28 +25340,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "NirSoft.ShellExView",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "NirSoft.InsideClipboard",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NirSoft.WhatIsHang",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NirSoft.USBLogView",
     "name": "",
     "publisher": null,
     "description": "",
@@ -25222,13 +25355,6 @@
   },
   {
     "id": "NirSoft.ShortcutsMan",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NirSoft.ResourcesExtract",
     "name": "",
     "publisher": null,
     "description": "",
@@ -26474,6 +26600,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TeamCharLS.NetpbmWicCodec",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TubeDigger.TubeDigger",
     "name": "",
     "publisher": null,
@@ -26590,6 +26723,20 @@
     "name": "",
     "publisher": null,
     "description": "Terminals 是一款安全的多标签页终端服务/远程桌面客户端，集成了 RDP、VNC、VMRC、SSH、Telnet、RAS、ICA Citrix 以及基于 HTTP 和 HTTPS 的协议。该软件采用 Terminal Services ActiveX 客户端（mstscax.dll）技术，其开发初衷源于同时管理多个连接的需求，可完全替代 mstsc.exe（终端服务）客户端。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TandemHealth.Tandem.MSI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TandemHealth.Tandem",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -27084,6 +27231,13 @@
   },
   {
     "id": "TuneIn.TuneIn",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "tree-sitter.tree-sitter-cli",
     "name": "",
     "publisher": null,
     "description": "",
@@ -27741,6 +27895,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "GaoyangZhang.RivonClaw",
+    "name": "",
+    "publisher": null,
+    "description": "OpenClaw 是一款功能强大的智能体运行时，但它专为工程师打造：配置需编辑配置文件、管理进程，并在终端中调度各类 API 密钥。对非程序员（如设计师、运营人员、小企业主）而言，这一门槛过高。\nEasyClaw 将 OpenClaw 封装为桌面应用，人人可用：安装后从系统托盘启动，通过本地 Web 面板管理一切。用自然语言编写规则而非代码，只需几次点击即可配置大语言模型（LLM）提供商与消息渠道，并让智能体随时间学习您的偏好。无需终端。\n简言之：OpenClaw 是引擎，EasyClaw 是驾驶舱。\n\n功能特性\n- 自然语言规则：用通俗语言编写规则，自动编译为策略、防护器或技能，即时生效（无需重启）\n- 多提供商 LLM 支持：支持 20+ 提供商（OpenAI、Anthropic、Google Gemini、DeepSeek、智谱/Z.ai、Moonshot/Kimi、通义千问/Qwen、Groq、Mistral、xAI、OpenRouter、MiniMax、Venice AI、小米/MiMo、火山引擎/豆包、Amazon Bedrock、NVIDIA NIM 等），另含订阅/编码计划（Claude、Gemini、智谱编码、通义编码、Kimi Code、MiniMax 编码、火山引擎编码），并支持 Ollama 本地模型\n- OAuth 与订阅计划：使用 Google 登录即可免费访问 Gemini，或连接 Claude/Anthropic 订阅——无需 API 密钥；自动检测或安装 CLI 凭证\n- 每提供商代理支持：为每个 LLM 提供商或 API 密钥单独配置 HTTP/SOCKS5 代理，支持自动路由与热重载——对受限地区至关重要\n- 多账号消息渠道：通过图形界面配置 Telegram、WhatsApp、Discord、Slack、Google Chat、Signal、iMessage、飞书/Lark、LINE、Matrix、Mattermost、Microsoft Teams 等，并提供安全的密钥存储（Keychain/DPAPI）\n- Token 用量追踪：按模型与提供商实时统计用量，基于 OpenClaw 会话文件自动刷新\n- 语音转文字（STT）：集成区域感知的 STT 功能，支持语音消息处理（Groq、火山引擎）\n- 可视化权限控制：通过图形界面管理文件读写访问权限\n- 零重启更新：API 密钥、代理及渠道变更通过热重载即时生效，无需重启网关\n- 本地优先与隐私保护：所有数据留存于本机，敏感信息绝不以明文存储\n- 与智能体对话：基于 WebSocket 的实时聊天，支持 Markdown 渲染、表情选择器、图片附件、模型切换及持久化对话历史\n- 技能市场：内置市场可浏览、搜索并安装社区技能，一键管理已安装技能\n- 自动更新：客户端更新检查器，支持静态清单托管\n- 隐私优先遥测：可选的匿名使用分析，不收集任何个人身份信息（PII）\n\n文件权限工作原理\nEasyClaw 通过一个 OpenClaw 插件强制执行文件访问权限，该插件在工具调用执行前进行拦截。受保护内容包括：\n- 文件访问工具（读取、写入、编辑、图像处理、应用补丁）：全面保护——路径将对照您配置的权限进行验证\n- 命令执行（exec、process）：工作目录会被验证，但命令字符串内部的路径（例如 cat /etc/passwd）无法被检查\n覆盖范围：约 85–90% 的文件访问场景。为实现最高安全性，建议通过规则限制或禁用 exec 工具。\n技术说明：文件权限插件利用 OpenClaw 的 before_tool_call 钩子实现，无需修改厂商源代码，因此 EasyClaw 可干净地拉取上游 OpenClaw 更新。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GetQuantumDrive.QuantumDrive",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GIGABYTE.BIOS",
     "name": "",
     "publisher": null,
@@ -27882,6 +28050,13 @@
   },
   {
     "id": "Gilgamech.Cat",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Gkinsman.Grove",
     "name": "",
     "publisher": null,
     "description": "",
@@ -29043,6 +29218,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ZhipuAI.AutoClaw",
+    "name": "",
+    "publisher": null,
+    "description": "AutoClaw is an AI assistant tool that supports one-click installation of OpenClaw. Compatible with Windows and macOS, it offers Feishu integration, hot-swappable models, over 50 skills, and AutoGLM browser automation capabilities, enabling even beginners to get started quickly.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ZhipuAI.AutoGLM",
     "name": "",
     "publisher": null,
@@ -29401,6 +29583,13 @@
   },
   {
     "id": "afractal.Metronome",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AdventDevelopmentInc.Kudu",
     "name": "",
     "publisher": null,
     "description": "",
@@ -31738,6 +31927,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "AJA.RetailInstaller",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ameshkov.dnslookup",
     "name": "",
     "publisher": null,
@@ -31956,6 +32152,13 @@
   },
   {
     "id": "AirExplorer.AirExplorer",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AdamGell.CMTraceOpen",
     "name": "",
     "publisher": null,
     "description": "",
@@ -32285,6 +32488,13 @@
   },
   {
     "id": "WoowaBrothersCorp.BaeminOrder",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WendyLabs.Wendy",
     "name": "",
     "publisher": null,
     "description": "",
@@ -32704,6 +32914,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Wharflab.Tally",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WiseCleaner.RegistryCleaner.Portable",
     "name": "",
     "publisher": null,
@@ -32712,6 +32929,13 @@
   },
   {
     "id": "WiseCleaner.WiseADCleaner",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WINBIGFOX.TimeScribe",
     "name": "",
     "publisher": null,
     "description": "",
@@ -33020,6 +33244,13 @@
   },
   {
     "id": "WinMerge.WinMerge.Beta",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Lansweeper.LsAgent",
     "name": "",
     "publisher": null,
     "description": "",
@@ -33488,6 +33719,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "luckjiawei.frp-desktop",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LelanceFlamer.TLFDADIDW",
     "name": "",
     "publisher": null,
@@ -33517,6 +33755,13 @@
   },
   {
     "id": "leinelissen.aeon",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LeiGod.LeiGodAcc",
     "name": "",
     "publisher": null,
     "description": "",
@@ -33555,6 +33800,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LibreWolf.LibreWolf",
+    "name": "",
+    "publisher": null,
+    "description": "该项目是火狐浏览器的一个独立定制版本，主要目标是保护隐私、确保安全和用户自由。\nLibreWolf 旨在加强对抗跟踪和指纹技术，同时还包括一些安全方面的改进。这些都是通过我们以隐私和安全为导向的设置和补丁实现的。LibreWolf 还旨在移除所有遥测、数据收集和干扰，以及禁用 DRM 等反自由功能。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -34444,6 +34696,13 @@
     "name": "360安全浏览器",
     "publisher": "360安全中心",
     "description": "360 安全浏览器（360SE），安全、放心的浏览器，网购首选！360 安全浏览器采用先进的恶意网址拦截技术，可自动拦截挂马、欺诈、网银仿冒等恶意网址。360 安全浏览器强大、好用、设计人性化、安全快速！安全上网不中招，就用 360 安全浏览器。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "360.NamiClaw",
+    "name": "360安全龙虾",
+    "publisher": "360安全中心",
+    "description": "- 内置 16 家主流大模型厂商，数十个顶级模型一站式使用\n  一次开通 · 零配置接入 · 智能调度 · 最强模型体验\n- 龙虾不止是聊天，会使用技能的它能帮你把事情做完\n  13000+ 内置技能 ·400 万开源软件 · 自动完成复杂任务\n- 内置 13000+ 技能，覆盖办公、营销、写作等，常见工作直接完成\n  开箱即用 ·13000+ 能力持续扩展 · 付费工具无需配置 Key\n- 在聊天工具里就能用 360 安全龙虾\n  一键连接各种 IM 软件，在聊天窗口就能让龙虾帮你完成工作\n- 放心用，360 安全龙虾不会惹麻烦\n  通过提示词防护、工具权限隔离、技能审核等多重机制，打造贯穿 AI 全链路的安全体系\n- 360 安全龙虾客户端免费安装\n  使用时需购买算力豆，用于消耗 AI 算力\n  算力豆用于调用大模型能力，在沟通需求、处理数据、执行任务等过程中都会消耗算力豆",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -35423,7 +35682,7 @@
     "id": "NirSoft.AdvancedRun",
     "name": "AdvancedRun",
     "publisher": "NirSoft",
-    "description": "",
+    "description": "AdvancedRun is a simple tool for Windows that allows you to run a program with different settings that you choose, including - low or high priority, start directory, main window state (Minimized/Maximized), run the program with different user or permissions, Operating system compatibility settings, and environment variables.\nYou can also save the desired settings into a configuration file and then run the program automatically from command-line with the desired settings.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -36960,6 +37219,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "adryledo.ArcaCLI",
+    "name": "Arca CLI",
+    "publisher": "adryledo",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DataPLANT.ArcCommander",
     "name": "ArcCommander",
     "publisher": "DataPLANT",
@@ -37384,6 +37650,13 @@
     "name": "Assinador Serpro",
     "publisher": "Serpro",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Intel.ACAT",
+    "name": "Assistive Context-Aware Toolkit",
+    "publisher": "Intel Corporation",
+    "description": "The Assistive Context-Aware Toolkit (ACAT) is an open-source platform created at Intel Labs. It is\ndesigned to enhance communication for individuals with restricted speech and typing capabilities. It\nachieves this by providing functionalities like keyboard simulation, word/sentence prediction, and\nspeech synthesis.\n\nACAT was originally developed by researchers in Intel Labs for Professor Stephen Hawking. He was\ninstrumental to the design process and was a key contributor to the project design and validation.\nAfter deploying the system to Professor Hawking, Intel turned its attention to the larger community\nand continued to make ACAT more configurable to support a larger set of users.\n\nBy making this configurable platform open source, the goal is to encourage developers to continue to\nexpanding its capabilities by adding new user interfaces, new sensing modalities, language\nprediction, and other features.\n\nACAT is developed in C# using Microsoft Visual Studio* 2022 and .NET 4.8.1. It runs on Windows® 10\n(20H2 or higher) and 11.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38315,6 +38588,13 @@
     "name": "AzureSignTool",
     "publisher": "Kevin Jones",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TheWiseMonkey.AzureVPN-CLI",
+    "name": "AzureVPN-CLI",
+    "publisher": "The Wise Monkey",
+    "description": "Command-line interface for the Azure VPN Client on Windows. Automates connect, disconnect, import, export, and status operations using UI Automation.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39494,6 +39774,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HamzaAbdulWahab.Bonjou",
+    "name": "Bonjou",
+    "publisher": "Hamza Abdul Wahab",
+    "description": "Bonjou is a terminal app for chatting and sending files over a local network\n(LAN/Wi-Fi). No internet required. Peers are auto-discovered on the same\nsubnet via UDP broadcast. All transfers are end-to-end encrypted.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Apple.Bonjour",
     "name": "Bonjour",
     "publisher": "Apple Inc.",
@@ -39568,6 +39855,13 @@
     "name": "Bose Updater",
     "publisher": "Bose Corporation",
     "description": "With this app, you can easily update your product and find out when new software updates are available. After you've\ninstalled it, you can use this website to update your products. If you’ve already installed the app, go ahead and\nlaunch it!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BOSS.ToneStudio.GT1",
+    "name": "BOSS TONE STUDIO for GT-1",
+    "publisher": "Roland Corporation",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39763,6 +40057,13 @@
     "id": "Google.Brotli",
     "name": "Brotli",
     "publisher": "Google",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Brows3Team.Brows3",
+    "name": "Brows3",
+    "publisher": "Brows3 Team",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -41037,7 +41338,7 @@
     "id": "NirSoft.ChromeCacheView",
     "name": "ChromeCacheView",
     "publisher": "NirSoft",
-    "description": "ChromeCacheView is a small utility that reads the cache folder of Google Chrome Web browser, and\ndisplays the list of all files currently stored in the cache. For each cache file, the following\ninformation is displayed: URL, Content type, File size, Last accessed time, Expiration time,\nServer name, Server response, and more.",
+    "description": "ChromeCacheView is a small utility that reads the cache folder of Google Chrome Web browser, and displays the list of all files currently stored in the cache. For each cache file, the following information is displayed: URL, Content type, File size, Last accessed time, Expiration time, Server name, Server response, and more.\nYou can easily select one or more items from the cache list, and then extract the files to another folder, or copy the URLs list to the clipboard.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41412,6 +41713,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BonnieBoni.CliMusic",
+    "name": "CLI Music",
+    "publisher": "bonnie-boni",
+    "description": "CLI Music is a terminal-based music player for searching tracks, discovering by genre and mood, streaming audio, and downloading songs.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LuisPater.CLIProxyAPI",
     "name": "CLI Proxy API",
     "publisher": "Luis Pater",
@@ -41485,7 +41793,7 @@
     "id": "NirSoft.Clipboardic",
     "name": "Clipboardic",
     "publisher": "Nir Sofer",
-    "description": "Clipboardic is a small utility that listen to the clipboard activity, and each\ntime that you copy something into the clipboard, it automatically save the\ncopied data into Windows clipboard file (.clp). Later, when you need the copied\ndata again, you can simply select the right clipboard file, and Clipboardic will\nautomatically insert it into the clipboard.\n\nClipboardic also allows you to easily share the clipboard data between multiple\ncomputers on your local network.",
+    "description": "Clipboardic is a small utility that listen to the clipboard activity, and each time that you copy something into the clipboard, it automatically save the copied data into Windows clipboard file (.clp). Later, when you need the copied data again, you can simply select the right clipboard file, and Clipboardic will automatically insert it into the clipboard.\nClipboardic also allows you to easily share the clipboard data between multiple computers on your local network.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41846,6 +42154,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JayPrall.ColorCop",
+    "name": "Color Cop",
+    "publisher": "Jay Prall",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "martinchrzan.ColorPicker",
     "name": "Color Picker",
     "publisher": "Martin Chrzan",
@@ -41979,10 +42294,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "mcp-tool-shop.CommandUI",
+    "name": "CommandUI",
+    "publisher": "mcp-tool-shop",
+    "description": "CommandUI is a desktop shell that combines a real terminal with AI-powered semantic input. Describe intent in natural language, review generated commands before execution, and build reusable workflows. Built with Tauri v2, React 19, and Ollama for local-first AI planning.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CLPM.CLPM",
     "name": "Common Lisp Package Manager (CLPM)",
     "publisher": "CLPM",
     "description": "CLPM is a project manager for Common Lisp. It can manage projects in both global and project specific contexts. It would be called a \"package manager\" in most other contexts, but the use of \"package\" unfortunately collides with the use of \"package\" in the Common Lisp spec as a namespace for symbols.\n\nIt consists of two major pieces. First is a standalone program that is responsible for all the heavy lifting of downloading and unpacking releases in the correct place, resolving dependencies, and managing project specific environments. This piece is generally referred to as CLPM, the CLPM core, or `clpm` and is distributed as a precompiled executable using SBCL (but it is possible to compile it from source). The second is a small client library written in portable Common Lisp that interfaces with ASDF and calls CLPM as necessary to find and install missing systems. This piece is generally referred to as the CLPM client or `clpm-client` and is meant to be loaded when you are interactively developing code.\n\nCLPM is licensed under the two clause BSD license (BSD-2). So, basically do what you want with it (while providing appropriate attribution) and don't complain if it breaks things. CLPM is currently beta quality so expect some breakage and incompatibilites going forward.\n\nTo receive help or report issues please send email to <mailto:clpm-devel@common-lisp.net>. Additionally, feel free to join the email list at <https://mailman.common-lisp.net/listinfo/clpm-devel>. To join in the development of CLPM, you can find the project hosted on the common-lisp.net Gitlab server at <https://gitlab.common-lisp.net/clpm/clpm>.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RocketResearchInc.Compair",
+    "name": "Compair CLI",
+    "publisher": "RocketResearch, Inc.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42004,6 +42333,13 @@
     "name": "ComPortInfo",
     "publisher": "Uwe Sieber",
     "description": "COM Port Info belongs natively to ComPortMan, but is handy standalone too.\n\nFeatures:\n- Two views with COM ports and connection types (BusTypes)\n- \"Safely remove hardware\"\n- Restart devices to revive it after \"safe removal\" (if started with administrator previleges)\n- COM port numbers change and swap (if started with administrator previleges)\n- USB-Port reset (XP, Win8, 10, 11)\n- Display of the \"Port Parameters\" (GetCommState), that's how the last application using this port left it behind and on failure it indicates that the port is in use\n- Display of the \"Default Port Parameters\" (GetDefaultCommConfig), these are the parameters from the device manager\n- Display of the \"Port Properties\" (GetCommProperties), these are the capabilities of the COM port hardware, e.g. supported signals and data rates",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Coises.ComposeForWindows",
+    "name": "Compose for Windows",
+    "publisher": "Randy Fellmy aka Coises",
+    "description": "Compose for Windows is a Windows application which implements a compose key for entering characters that are not available on the keyboard.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42682,7 +43018,7 @@
     "id": "Cryptomator.Cryptomator",
     "name": "Cryptomator",
     "publisher": "Skymatic GmbH",
-    "description": "Cryptomator provides transparent, client-side encryption for your cloud. Protect your documents from unauthorized\naccess. Cryptomator is free and open source software, so you can rest assured there are no backdoors.\n\nCryptomator encrypts file contents and names using AES. Your passphrase is protected against bruteforcing attempts\nusing scrypt. Directory structures get obfuscated. The only thing which cannot be encrypted without breaking your\ncloud synchronization is the modification date of your files.\n\nCryptomator is a free and open source software licensed under the GPLv3. This allows anyone to check our code. It\nis impossible to introduce backdoors for third parties. Also we cannot hide vulnerabilities. And the best thing\nis: There is no need to trust us, as you can control us!\n\nVendor lock-ins are impossible. Even if we decided to stop development: The source code is already cloned by\nhundreds of other developers. As you don't need an account, you will never stand in front of locked doors.\n\nCryptomator is provided free of charge as an open-source project despite the high development effort and is therefore dependent on donations.",
+    "description": "Cryptomator provides easy-to-use, transparent, client-side encryption for your cloud.\nIt protects your documents from unauthorized access and prying eyes, while you will still be able to view and edit your documents locally.\nBy not requiring any registration or account and performing all encryption locally, it gives you back control over your data and ensures your privacy.\nCryptomator is offered for all major platforms (including Android and iOS).\n\nCryptomator encrypts file contents and names using the widespread industry standard AES.\nYour passphrase is protected against brute forcing attempts using scrypt.\nAdditionally, directory structures get obfuscated.\nFor more info about the Cryptomator encryption scheme, check out the online documentation.\n\nCryptomator is a free and open-source software licensed under the GPLv3.\nThis allows anyone to check our code.\nThus, it is impossible to introduce backdoors for third parties or to hide vulnerabilities, so you do not need to trust Cryptomator.\nAlso, vendor lock-ins are impossible.\nEven if we decided to stop development: The source code is already cloned by hundreds of other developers and development can be picked up by others.\n\nCryptomator is provided free of charge as an open-source project despite the high development effort and is therefore dependent on support by the community.\nVisit https://cryptomator.org/ to read how you can support us!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42759,7 +43095,7 @@
     "id": "NirSoft.CSVFileView",
     "name": "CSVFileView",
     "publisher": "NirSoft",
-    "description": "CSVFileView is a simple CSV file viewer / converter utility that allows you to easily view the\ncontent of CSV or tab-delimited file created by NirSoft utilities or by any other software, in a\nsimple table viewer. You can sort the lines according to one of the fields, remove unwanted\nfields and change their order, and then save the result back into CSV file, tab-delimited file,\nXML file, or HTML report.",
+    "description": "CSVFileView is a simple CSV file viewer/converter utility that allows you to easily view the content of CSV or tab-delimited file created by NirSoft utilities or by any other software, in a simple table viewer.\nYou can sort the lines according to one of the fields, remove unwanted fields and change their order, and then save the result back into CSV file, tab-delimited file, XML file, or HTML report.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42788,6 +43124,13 @@
     "name": "Ctrl2Cap",
     "publisher": "Sysinternals",
     "description": "Ctrl2Cap is a tool to help remap the Caps Lock key to Ctrl. People like myself that migrated to NT from UNIX are used to having the control key located where the caps-lock key is on the standard PC keyboard, so a utility like this is essential for our editing well-being.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "CtrlPrint.CtrlPrintTransferManager",
+    "name": "CtrlPrint Transfer Manager",
+    "publisher": "CtrlPrint AB",
+    "description": "CtrlPrint Transfer Manager is a essential desktop application that acts as the \"bridge\" between the cloud-based CtrlPrint collaboration platform and your local computer.\nIf you are working on corporate reports (like Annual or ESG reports) using Adobe InDesign or Adobe InCopy, this is the tool that handles the heavy lifting of moving files back and forth.\n\nCore Functions\n- Seamless File Transfer: It automates the process of downloading documents from the CtrlPrint server to your computer and uploading them back once you have finished your edits.\n- Version Control: One of its most critical roles is ensuring you are always working on the most recent version of a chapter. It prevents \"version chaos\" by tracking who has a file checked out.\n- Adobe Integration: It works in the background to launch InDesign or InCopy automatically when you click \"Edit\" on the CtrlPrint website.\n- Security & Integrity: It ensures that files are transferred securely and that the document's integrity (links, tags, and formatting) is maintained throughout the process.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42928,6 +43271,13 @@
     "name": "cv4pve-pepper",
     "publisher": "Corsinvest Srl",
     "description": "cv4pve-pepper is a tool for launching SPICE remote-viewer to connect to Proxmox VE\nvirtual machines and containers.\n\nFeatures:\n- Launch SPICE remote-viewer for VMs and containers\n- Simple and easy to use\n- Integration with Proxmox VE API",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Corsinvest.cv4pve.vdi",
+    "name": "cv4pve-vdi",
+    "publisher": "Corsinvest Srl",
+    "description": "cv4pve-vdi is a desktop VDI client for Proxmox VE that provides a graphical\ninterface to browse, filter and connect to virtual machines and containers\nvia SPICE and RDP — without opening the Proxmox web UI.\n\nFeatures:\n- Card and list view for VM/CT browsing\n- SPICE console launch via remote-viewer\n- RDP launch via mstsc or xfreerdp\n- VM/CT power control (Start / Shutdown)\n- Real-time CPU and RAM usage bars\n- Auto-refresh every 10 seconds\n- Filter by node, status, type and tags\n- Multi-host support for multiple clusters\n- Light and Dark themes",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43295,6 +43645,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DoiT.dci",
+    "name": "dci",
+    "publisher": "DoiT",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EagleDynamics.DCSWorldOpenBeta",
     "name": "DCS World OpenBeta",
     "publisher": "Eagle Dynamics",
@@ -43418,6 +43775,13 @@
     "name": "Defang",
     "publisher": "DefangLabs",
     "description": "Develop Anything, Deploy Anywhere.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FactorMystic.DefaultProgramsEditor",
+    "name": "Default Programs Editor",
+    "publisher": "Factor Mystic",
+    "description": "Also: autoplay settings and default programs settings ...all without fiddling around in the registry.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43579,6 +43943,13 @@
     "name": "Desktop Secret Lock Standard",
     "publisher": "Greatis Software",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hexandcube.DesktopIconToggle",
+    "name": "DesktopIconToggle",
+    "publisher": "Hexandcube",
+    "description": "Desktop Icon Toggle is a lightweight system tray utility that allows you to instantly toggle Windows desktop icons with a double-click.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44069,6 +44440,13 @@
     "name": "Discrakt",
     "publisher": "afonsojramos",
     "description": "Discrakt bridges your Trakt.tv watching status to Discord Rich Presence. It runs silently in your system tray and automatically updates your Discord status when watching movies or TV shows tracked by Trakt.tv.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "steipete.discrawl",
+    "name": "discrawl",
+    "publisher": "Peter Steinberger",
+    "description": "discrawl mirrors Discord guild data into local SQLite so you can search, inspect, and query server history without depending on Discord search.\n\nIt is a bot-token crawler. No user-token hacks. Data stays local.\n\nWhat It Does\n- discovers every guild the configured bot can access\n- syncs channels, threads, members, and message history into SQLite\n- maintains FTS5 search indexes for fast local text search\n- builds an offline member directory from archived profile payloads\n- extracts small text-like attachments into the local search index\n- records structured user and role mentions for direct querying\n- tails Gateway events for live updates, with periodic repair syncs\n- exposes read-only SQL for ad hoc analysis\n- keeps schema multi-guild ready while preserving a simple single-guild default UX",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44975,6 +45353,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.DownTester",
+    "name": "DownTester",
+    "publisher": "NirSoft",
+    "description": "DownTester allows you to easily test your Internet download speed in multiple locations around the world. It automatically test the download speed of the URLs that you choose, one after another. It moves to the next download URL after the specified number of seconds has been elapsed or after it downloads the specified amount of KB - just according to your preferences.\nAfter the download test is finished, you can easily save the result into text/html/xml/csv file, or copy it to the clipboard and paste it into Excel and other applications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DimitriVanHeesch.Doxygen",
     "name": "doxygen",
     "publisher": "Dimitri van Heesch",
@@ -45801,6 +46186,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Utopia.Eden.MSVC",
+    "name": "Eden (MSVC)",
+    "publisher": "Utopia LLC",
+    "description": "Eden is a free and opensource (FOSS) Switch 1 emulator, derived from Yuzu and Sudachi - started\nby developer Camille LaVey. It's written in C++ with portability in mind, with builds for Windows,\nLinux, macOS, Android, FreeBSD and more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "pulsejet.edgeandbingdeflector",
     "name": "Edge And Bing Deflector",
     "publisher": "pulsejet",
@@ -45885,14 +46277,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "7S2P.Effie",
+    "id": "7S2P.Effie.CN",
     "name": "Effie",
     "publisher": "7S2P Inc.",
     "description": "Effie 是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie 都是您明智的选择。",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "7S2P.Effie.CN",
+    "id": "7S2P.Effie",
     "name": "Effie",
     "publisher": "7S2P Inc.",
     "description": "Effie 是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie 都是您明智的选择。",
@@ -46151,6 +46543,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EMCO.PingMonitor.9",
+    "name": "EMCO Ping Monitor 9",
+    "publisher": "EMCO Software",
+    "description": "EMCO Ping Monitor is a professional network monitoring tool that automatically checks the availability of hosts, servers, and network devices using ICMP ping. It continuously tracks uptime, detects outages, and records detailed statistics for performance analysis.\n\nThe product allows IT administrators to monitor multiple hosts simultaneously and receive instant notifications when a device becomes unavailable or response time exceeds defined thresholds. Built-in alerting options include email, sound, and custom actions to ensure rapid reaction to network issues.\n\nEMCO Ping Monitor provides detailed uptime reports, response time statistics, and historical data to help identify unstable connections and recurring problems. It is suitable for monitoring servers, routers, switches, workstations, and other network-enabled devices in both small and enterprise environments.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EMCO.RemoteInstaller.6",
     "name": "EMCO Remote Installer 6",
     "publisher": "EMCO Software",
@@ -46382,6 +46781,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EPSON.EpsonScan2",
+    "name": "Epson Scan 2",
+    "publisher": "Seiko Epson Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EPSON.Scan.PDFExtensions",
     "name": "Epson Scan PDF Extensions",
     "publisher": "Seiko Epson Corporation",
@@ -46561,6 +46967,13 @@
     "name": "Etcder",
     "publisher": "maojindao55",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SaversPlanet.EtherealEchoes",
+    "name": "Ethereal Echoes Screensaver",
+    "publisher": "SaversPlanet",
+    "description": "Ethereal Echoes is a meditative animated screensaver that immerses your screen in a world of abstract light forms and flowing color streams.\nCompatible with Windows 11, 10, 8, and 7.\nPortable version - no installation required.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47665,8 +48078,8 @@
   {
     "id": "FireDaemon.FireDaemonPro",
     "name": "FireDaemon Pro",
-    "publisher": "FireDaemon Technologies Limited",
-    "description": "Run, schedule and monitor critical programs, applications and scripts to ensure uptime and resiliency. FireDaemon Pro allows you to place your programs in a lightweight service container for fine-grained monitoring and control, or to schedule tasks as a cron equivalent on Windows. With extensive options for time scheduling, operating system scheduling, life cycle management, preconditions, dependencies and security, FireDaemon Pro is your companion to help you secure mission-critical workloads on Microsoft Windows. It is also the only tool you need for Windows service management in general (single point of responsibility).",
+    "publisher": "FireDaemon",
+    "description": "Run, schedule and monitor mission-critical programs, applications and scripts to ensure uptime and resiliency. FireDaemon Pro allows you to place your programs in a lightweight service container for fine-grained monitoring and control, or to schedule tasks as a cron equivalent on Windows. With extensive options for time scheduling, operating system scheduling, life cycle management, preconditions, dependencies and security, FireDaemon Pro is your companion to help you secure mission-critical workloads on Microsoft Windows. It is also the only tool you need for Windows service management in general (single point of responsibility).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48580,6 +48993,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "FlightDeck.FlightDeck",
+    "name": "FlightDeck",
+    "publisher": "FlightDeck",
+    "description": "Flight Deck is a desktop dashboard that pulls together the most important work signals (email, meetings, chats, docs) and shows what actually needs attention. It highlights whats urgent, what to keep an eye on, and nudges you with notificationsno automation, just better awareness and fewer things slipping through the cracks.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WonderIdea.FlipPDFPlus",
     "name": "Flip PDF Plus",
     "publisher": "WONDER IDEA TECHNOLOGY LIMITED",
@@ -48626,13 +49046,6 @@
     "name": "Floma",
     "publisher": "Aditya Thakkar",
     "description": "Floma is a CLI automation tool that uses AI to create and manage workflows with built-in email integration. Automate file management, data processing, email reports, and more with natural language commands.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Ablaze.Floorp.Daylight",
-    "name": "Floorp 12 Daylight",
-    "publisher": "Ablaze",
-    "description": "Floorp 12 Daylight is NOT the release (stable) channel version of Floorp 12. This is a beta build of Floorp 12. It is intended for testing purposes only. It is not recommended that you use this version of Floorp for daily browsing.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49179,13 +49592,6 @@
     "name": "FreeShow",
     "publisher": "ChurchApps",
     "description": "FreeShow is a free software with a user-friendly interface that offers powerful features for creating and editing slideshows.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "PrestonN.FreeTube",
-    "name": "FreeTube",
-    "publisher": "PrestonN",
-    "description": "FreeTube is an open source desktop YouTube player built with privacy in mind. Use YouTube without advertisements and prevent Google from tracking you with their cookies and JavaScript. Available for Windows, Mac & Linux thanks to Electron.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -49998,6 +50404,13 @@
     "name": "GitHub Labels Manager",
     "publisher": "Duck Studio",
     "description": "Tools that automatically help you copy repo labels, get repo labels, and empty existing labels.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "zed.rainxch.githubstore",
+    "name": "GitHub Store",
+    "publisher": "rainxchzed",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50841,6 +51254,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SAKI.GraphGenerator",
+    "name": "Graph Generator",
+    "publisher": "SAKIBUL HOQUE SAKI",
+    "description": "This a simple linear expression graph generator created using python",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "kSoft.Graphmatica",
     "name": "Graphmatica",
     "publisher": "kSoft",
@@ -51081,8 +51501,8 @@
   {
     "id": "NirSoft.GUIPropView",
     "name": "GUIPropView",
-    "publisher": "Nir Sofer",
-    "description": "GUIPropView displays extensive information about all windows currently opened on your system. The upper pane of GUIPropView displays all top level windows, and when you select a window in the upper pane, the lower pane displays the list of all child windows of the selected top level window. You can also select one or more windows and then do some actions on them like close, hide, show, minimize, maximize, disable, enable, and so on...",
+    "publisher": "NirSoft",
+    "description": "GUIPropView displays extensive information about all windows currently opened on your system. The upper pane of GUIPropView displays all top level windows, and when you select a window in the upper pane, the lower pane displays the list of all child windows of the selected top level window.\nYou can also select one or more windows and then do some actions on them like close, hide, show, minimize, maximize, disable, enable, and so on...\nBe aware that GUIPropView is a replacement for my very old WinLister tool.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51279,13 +51699,6 @@
     "name": "HamsterBase",
     "publisher": "HamsterBase",
     "description": "HamsterBase is a self-hosted, local-first web archive application. You can easy highlight and annotate pages, valuing privacy and security.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "HandBrake.HandBrake",
-    "name": "HandBrake",
-    "publisher": "The HandBrake Team",
-    "description": "HandBrake 能将你已有的视频转换成新的视频，并能在你的手机、平板电脑、电视媒体播放器、游戏机、电脑或网络浏览器上播放--几乎任何支持现代视频格式的设备上都能播放。\nHandBrake 可处理大多数常见的视频文件和格式，包括由民用和专业摄像机、手机和平板电脑等移动设备、游戏和电脑屏幕录制以及 DVD 和蓝光光盘创建的视频文件和格式。HandBrake 可利用 FFmpeg、x264 和 x265 等工具，从这些来源创建新的 MP4 或 MKV 视频文件。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51501,8 +51914,8 @@
   {
     "id": "NirSoft.HashMyFiles",
     "name": "HashMyFiles",
-    "publisher": "Nir Sofer",
-    "description": "You can easily copy the MD5/SHA1 hashes list into the clipboard, or save them into text/html/xml file.\n\nHashMyFiles can also be launched from the context menu of Windows Explorer, and display the\nMD5/SHA1 hashes of the selected file or folder.",
+    "publisher": "NirSoft",
+    "description": "HashMyFiles is small utility that allows you to calculate the hashes (MD5, SHA1, CRC32, SHA-256, SHA-512, SHA-384) of one or more files in your system. You can easily copy the hashes list into the clipboard, or save them into text/html/xml file.\nHashMyFiles can also be launched from the context menu of Windows Explorer, and display the hashes of the selected file or folder.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52780,6 +53193,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "luolangaga.ASG.Director",
+    "name": "Idvevent导播端",
+    "publisher": "哈基毅",
+    "description": "Idvevent导播端（ASG.Director）是一个面向《第五人格》赛事直播的本地导播工具。\n\n它提供本地 BP 流程控制、前台展示窗口、比分板、赛后数据展示、地图展示、角色展示、布局保存与导入导出、自定义页面映射以及插件系统，适合配合 OBS 使用。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Redisant.IEC61850ClientSimulator",
     "name": "IEC61850ClientSimulator",
     "publisher": "Redisant, Inc.",
@@ -53165,8 +53585,15 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "4Worlds.Inkwell",
+    "name": "Inkwell",
+    "publisher": "4Worlds",
+    "description": "Inkwell is a single-file Markdown editor built for focused writing. No cloud, no accounts, no telemetry.\nFeatures include find & replace, typewriter mode, version history with diff viewer, 4 themes, 3 font families,\nfocus mode, file tabs, templates, search, and license-gated PDF/HTML export.\nPart of the 4Worlds anti-SaaS portable app suite.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "JRSoftware.InnoSetup",
-    "name": "Inno Setup",
+    "name": "Inno Setup 6",
     "publisher": "jrsoftware.org",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -53315,14 +53742,14 @@
     "id": "NirSoft.InstalledDriversList",
     "name": "InstalledDriversList",
     "publisher": "NirSoft",
-    "description": "Simple tool for Windows that lists all device drivers that are currently installed on your system.",
+    "description": "InstalledDriversList is a simple tool for Windows that lists all device drivers that are currently installed on your system. For every device driver, the following information is displayed: Driver Name, Display Name, Description, Startup Type, Driver type, Driver Group, Filename, File Size, Modified/Created Time of the driver file, and version information of the driver file.\nIf the driver is currently running on Windows kernel, the following information is also displayed: Base Memory Address, End Address, Memory Size, and Load Count.",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "NirSoft.InstalledPackagesView",
     "name": "InstalledPackagesView",
     "publisher": "NirSoft",
-    "description": "Tool for Windows that displays the list of all software packages installed on your system with\nWindows Installer, and lists the files, Registry keys, and .NET Assemblies associated with them.",
+    "description": "InstalledPackagesView is a tool for Windows that displays the list of all software packages installed on your system with Windows Installer, and lists the files, Registry keys, and .NET Assemblies associated with them. For every installed software, the following information is displayed: Display Name, Display Version, Install Date, Registry Time, Estimated Size, Install Location, Install Source, MSI Filename (In C:\\Windows\\Installer), and more...\nYou can watch the installed software packages information from your local system or from another system on external hard-drive.\nThe installed software information is loaded from the following Registry keys:\nHKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\Products\nHKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\Components\n\nBe aware that this tool lists only software installed by Windows Installer (MSI), it doesn't list any software installed by other installers.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53701,6 +54128,13 @@
     "name": "IPM",
     "publisher": "IPMHub",
     "description": "nvt",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.IPNetInfo",
+    "name": "IPNetInfo",
+    "publisher": "NirSoft",
+    "description": "IPNetInfo is a small utility that allows you to easily find all available information about an IP address: The owner of the IP address, the country/state name, IP addresses range, contact information (address, phone, fax, and email), and more.\n\nThis utility can be very useful for finding the origin of unsolicited mail. You can simply copy the message headers from your email software and paste them into IPNetInfo utility. IPNetInfo automatically extracts all IP addresses from the message headers, and displays the information about these IP addresses.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55617,8 +56051,8 @@
   {
     "id": "NirSoft.LastActivityView",
     "name": "Last Activity View",
-    "publisher": "Nir Sofer",
-    "description": "The activity displayed by LastActivityView includes: Running .exe file, Opening open/save\ndialog-box, Opening file/folder from Explorer or other software, software installation, system\nshutdown/start, application or system crash, network connection/disconnection and more ...\n\nYou can easily export this information into csv/tab-delimited/xml/html file or copy it to the\nclipboard and then paste into Excel or other software.",
+    "publisher": "NirSoft",
+    "description": "LastActivityView is a tool for Windows operating system that collects information from various sources on a running system, and displays a log of actions made by the user and events occurred on this computer. The activity displayed by LastActivityView includes: Running .exe file, Opening open/save dialog-box, Opening file/folder from Explorer or other software, software installation, system shutdown/start, application or system crash, network connection/disconnection and more...\nYou can easily export this information into csv/tab-delimited/xml/html file or copy it to the clipboard and then paste into Excel or other software.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -56595,13 +57029,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "LibreWolf.LibreWolf",
-    "name": "LibreWolf",
-    "publisher": "LibreWolf",
-    "description": "LibreWolf is designed to minimize data collection and telemetry as much as possible. This is achieved through hundreds of privacy/security/performance settings and patches. Intrusive integrated addons including updater, crashreporter, and pocket are removed too.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Haivision.libsrt",
     "name": "libsrt",
     "publisher": "Haivision Systems Inc.",
@@ -57106,6 +57533,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "logifx.logifx",
+    "name": "logifx",
+    "publisher": "logifx",
+    "description": "logifx is a cross-platform CLI tool written in Go that improves terminal logs\nby parsing log levels and highlighting important information in real time.\n\nIt works with tools such as Maven, npm, Docker, and Go builds.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Logitech.CameraSettings",
     "name": "Logitech Camera Settings",
     "publisher": "Logitech Europe S.A.",
@@ -57278,13 +57712,6 @@
     "name": "LRCGET",
     "publisher": "LRCLIB",
     "description": "Utility for mass-downloading LRC synced lyrics for your offline music library. LRCGET will scan every files in your chosen directory for music files, then and try to download lyrics to a LRC files having the same name and save them to the same directory as your music files.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Lansweeper.LsAgent",
-    "name": "LsAgent",
-    "publisher": "Lansweeper",
-    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57606,7 +58033,7 @@
     "id": "NirSoft.ManageWirelessNetworks",
     "name": "ManageWirelessNetworks",
     "publisher": "NirSoft",
-    "description": "ManageWirelessNetworks is an alternative tool to the standard 'Manage Wireless Networks' of Windows (or 'Manage Known Networks' on Windows 10).\nIt displays extensive information about every wireless profile on your system, even if the network adapter is not active. For every wireless profile, the following information is displayed: - Profile Name, SSID, Connection Type, Connection Mode, Authentication, Encryption, Key Type, Auto Switch (Yes/No), Non Broadcast (Yes/No), Profile Position, Created Time, Modified Time, Wireless Key, and more...\nManageWirelessNetworks also allows you to edit a single profile with the standard editor of Windows, edit the XML of the wireless profile (For advanced users only !), quickly switch between manual and automatic mode, quickly switch between WPAPSK/WPA2PSK/AES/TKIP modes, rename the profile, rename the SSID, move profile position up and down, copy multiple wireless profiles to another wireless card on your system, and more...",
+    "description": "ManageWirelessNetworks is an alternative tool to the standard 'Manage Wireless Networks' of Windows (or 'Manage Known Networks' on Windows 10). It displays extensive information about every wireless profile on your system, even if the network adapter is not active. For every wireless profile, the following information is displayed: Profile Name, SSID, Connection Type, Connection Mode, Authentication, Encryption, Key Type, Auto Switch (Yes/No), Non Broadcast (Yes/No), Profile Position, Created Time, Modified Time, Wireless Key, and more...\n\nManageWirelessNetworks also allows you to edit a single profile with the standard editor of Windows, edit the XML of the wireless profile (For advanced users only !), quickly switch between manual and automatic mode, quickly switch between WPAPSK/WPA2PSK/AES/TKIP modes, rename the profile, rename the SSID, move profile position up and down, copy multiple wireless profiles to another wireless card on your system, and more...",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57768,6 +58195,13 @@
     "name": "Master Packager",
     "publisher": "Master Packager Ltd.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MasterSigner.Agent",
+    "name": "Master Signer Agent",
+    "publisher": "MasterSigner",
+    "description": "Master Signer Agent is a native messaging host that enables the Master Signer\nbrowser extension to access hardware security tokens (A3 certificates) and perform\nICP-Brasil compliant digital signatures via PKCS#11.\n\nSupports tokens from: SafeSign (AET/SERPRO), Feitian ePass, HID ActivClient,\nSafeweb, Thales/Gemalto IDGo, WatchData, and other PKCS#11 compatible devices.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58342,6 +58776,20 @@
     "name": "Metatogger",
     "publisher": "Sylvain Rougeaux",
     "description": "Metatogger est un éditeur de tags pour fichier audio Ogg Vorbis, FLAC, Opus, M4A (AAC et ALAC) et WMA. Un tag est une métadonnée, c'est-à-dire une donnée sur une donnée. Un tag apporte une information supplémentaire relative aux données audio proprement dites : l'auteur des paroles, le compositeur de la musique, le nom de l'album dont est issu le morceau, la date de sortie, etc. Ces tags ou métadonnées permettent d'exploiter plus agréablement les grosses collections de musiques. Le problème est que de nombreux fichiers audio ne contiennent aucune métadonnée, quand d'autres contiennent des informations erronées, inutiles ou incohérentes. Parfois, même le nom du fichier ne contient aucune information pertinente. Difficile, dans ces conditions, d'identifier un morceau sans avoir à le jouer. C'est là que Metatogger intervient. Metatogger permet de corriger ou de compléter les tags des fichiers audio.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "motoi-tsushima.mfprobe",
+    "name": "mfprobe",
+    "publisher": "motoi-tsushima",
+    "description": "mfprobe は、複数のファイルの文字エンコーディング・BOM（Byte Order Mark）・改行コードを確認するコマンドツールです。\n.NET 10 Native AOT でビルドされたネイティブ実行ファイルで、.NET ランタイムは不要です。\nmfsr（motoi-tsushima.mfsr）のコンパニオンツールです。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "motoi-tsushima.mfsr",
+    "name": "mfsr",
+    "publisher": "motoi-tsushima",
+    "description": "mfsr は、複数のファイル内の複数の文字列を一括置換するコマンドラインツールです。\n文字エンコーディングの変換や、改行コードの変換、BOM（Byte Order Mark）の制御も可能です。\n.NET 10 Native AOT でビルドされたネイティブ実行ファイルで、.NET ランタイムは不要です。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59517,7 +59965,7 @@
     "id": "NirSoft.MobileFileSearch",
     "name": "MobileFileSearch",
     "publisher": "NirSoft",
-    "description": "MobileFileSearch is a tool for Windows that allows you to search files inside a mobile device (Smartphone or Tablet) plugged to the USB port on your computer, with Media Transfer Protocol (MTP).\nAfter finding the files on your Smartphone / Tablet, you can optionally delete them, copy them to a folder on your computer, or export the files list to csv/tab-delimited/html/xml/JSON file.\nMobileFileSearch also allows you to activate the search from command-line and then export the result to a file, or copy the found files to the desired folder on your computer.",
+    "description": "MobileFileSearch is a tool for Windows that allows you to search files inside a mobile device (Smartphone or Tablet) plugged to the USB port on your computer, with Media Transfer Protocol (MTP). You can search files by their size, their created time, their modified time, or their name (using wildcard).\nAfter finding the files on your Smartphone / Tablet, you can optionally delete them, copy them to a folder on your computer, or export the files list to csv/tab-delimited/html/xml/JSON file.\n\nMobileFileSearch also allows you to activate the search from command-line and then export the result to a file, or copy the found files to the desired folder on your computer.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59784,6 +60232,13 @@
     "name": "Motrix",
     "publisher": "AGALWOOD",
     "description": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。它的界面简洁易用，希望大家喜欢 👻。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AnInsomniacy.MotrixNext",
+    "name": "MotrixNext",
+    "publisher": "motrix",
+    "description": "Motrix by agalwood was one of the best open-source download managers available — clean UI, aria2-powered, cross-platform. It inspired thousands of users and developers alike.\nHowever, the original project has been largely inactive since 2023. The Electron + Vue 2 + Vuex + Element UI stack accumulated technical debt, making it increasingly difficult to maintain, extend, or package for modern platforms.\n\nWhat we kept\nWe owe a great deal to the original Motrix and its community. The following were gratefully adopted and continue to serve as the foundation for parts of Motrix Next:\n- Aria2 error code system and RPC client — the error handling conventions and JSON-RPC communication layer for the aria2 engine\n- Internationalization — 25+ community-contributed locale files covering Chinese, Japanese, Korean, Arabic, French, German, and many more\n- Download utilities — tracker list management, cURL command parsing, and other protocol-level helpers\n\nWhat we rebuilt\nMotrix Next is not a fork — it is a complete rewrite. Every other layer of the application has been redesigned and reimplemented from scratch:\n| Layer        | Motrix (Legacy)         | Motrix Next                     |\n| ------------ | ----------------------- | ------------------------------- |\n| Runtime      | Electron                | Tauri 2 (Rust)                  |\n| Frontend     | Vue 2 + Vuex            | Vue 3 Composition API + Pinia   |\n| UI Framework | Element UI              | Naive UI                        |\n| Language     | JavaScript              | TypeScript + Rust               |\n| Styling      | SCSS + Element theme    | Vanilla CSS + custom properties |\n| Engine Mgmt  | Node.js `child_process` | Tauri sidecar                   |\n| Build System | electron-builder        | Vite + Cargo                    |\n| Bundle Size  | ~80 MB                  | ~20 MB                          |\n| Auto-Update  | electron-updater        | Tauri updater plugin            |\n\nDesign & Motion\nThe overall UI layout stays true to Motrix's original design — the sidebar navigation, task list, and preference panels all follow the familiar structure that made Motrix intuitive from day one.\nWhat changed is everything underneath. Every transition and micro-interaction has been carefully tuned to follow Material Design 3 motion guidelines:\n- Asymmetric timing — enter animations are slightly longer than exits, giving new content time to land while dismissed content leaves quickly\n- Emphasized easing curves — decelerate on enter (cubic-bezier(0.2, 0, 0, 1)), accelerate on exit (cubic-bezier(0.3, 0, 0.8, 0.15)), replacing generic ease curves throughout the codebase\n- Spring-based modals — dialogs use physically-modeled spring animations for a natural, responsive feel\n- Consistent motion tokens — all durations and curves are defined as CSS custom properties, ensuring a unified rhythm across 12+ components",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62079,7 +62534,7 @@
     "id": "NirSoft.NetBScanner",
     "name": "NetBScanner",
     "publisher": "NirSoft",
-    "description": "Network scanner tool that scans all computers in the IP addresses range you choose, using NetBIOS protocol.",
+    "description": "NetBScanner is a network scanner tool that scans all computers in the IP addresses range you choose, using NetBIOS protocol. For every computer located by this NetBIOS scanner, the following information is displayed: IP Address, Computer Name, Workgroup or Domain, MAC Address, and the company that manufactured the network adapter (determined according to the MAC address). NetBScanner also shows whether a computer is a Master Browser.\nYou can easily select one or more computers found by NetBScanner, and then export the list into csv/tab-delimited/xml/html file.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62170,7 +62625,7 @@
     "id": "NirSoft.NetRouteView",
     "name": "NetRouteView",
     "publisher": "NirSoft",
-    "description": "GUI alternative to the standard route utility of Windows operating system.",
+    "description": "NetRouteView is a GUI alternative to the standard route utility (Route.exe) of Windows operating system. It displays the list of all routes on your current network, including the destination, mask, gateway, interface IP address, metric value, type, protocol, age (in seconds), interface name, and the MAC address.\nNetRouteView also allows you to easily add new routes, as well as to remove or modify existing static routes.\n\nNotice: Currently, this utility doesn't support IPv6.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62240,28 +62695,28 @@
     "id": "NirSoft.NetworkCountersWatch",
     "name": "NetworkCountersWatch",
     "publisher": "NirSoft",
-    "description": "NetworkCountersWatch is a tool for Windows that displays system counters for every network interface on your system.\nThe system counters include the number of incoming/outgoing bytes, number of incoming/outgoing packets, number of broadcast packets, and more.\nYou can also initialize all counters to zero at any time in order to watch the network counters for specific event.\nNetworkCountersWatch also calculates and displays the current download speed and upload speed on your network interface.",
+    "description": "NetworkCountersWatch is a tool for Windows that displays system counters for every network interface on your system. The system counters include the number of incoming/outgoing bytes, number of incoming/outgoing packets, number of broadcast packets, and more.\nYou can also initialize all counters to zero at any time in order to watch the network counters for specific event. NetworkCountersWatch also calculates and displays the current download speed and upload speed on your network interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "NirSoft.NetworkInterfacesView",
     "name": "NetworkInterfacesView",
     "publisher": "NirSoft",
-    "description": "Simple tool that displays the list of all network adapters/interfaces installed on your system. It displays network interfaces that are currently active, as well as network interfaces that have been installed previously, and now they are not connected.",
+    "description": "NetworkInterfacesView is a simple tool that displays the list of all network adapters/interfaces installed on your system. It displays network interfaces that are currently active, as well as network interfaces that have been installed previously, and now they are not connected (like USB wireless network adapters).\nFor every network interface found on your system, the following information is displayed (if it's stored in the Registry): Device Name, Connection Name, IP Address, Subnet Mask, Default Gateway, DHCP Server, Status, MAC Address and more...\nYou can select one or more network interface items and then export them to xml/html/csv/tab-delimited file, or copy them into the clipboard and then paste them into Excel or other spreadsheet application.",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "NirSoft.NetworkOpenedFiles",
     "name": "NetworkOpenedFiles",
     "publisher": "NirSoft",
-    "description": "Simple tool for Windows that displays the list of all files that are currently opened by other computers on your network.",
+    "description": "NetworkOpenedFiles is a simple tool for Windows that displays the list of all files that are currently opened by other computers on your network. For every opened filename, the following information is displayed: Filename, user name, computer name (On Windows 7/2008 or later), Permissions information (Read/Write/Create), locks count, file owner, file size, file attributes, and more...",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "NirSoft.NetworkUsageView",
     "name": "NetworkUsageView",
     "publisher": "NirSoft",
-    "description": "Extracts and displays the network usage information stored in the SRUDB.dat database of Windows. The network usage data is collected every hour by Windows operating systems.",
+    "description": "NetworkUsageView extracts and displays the network usage information stored in the SRUDB.dat database of Windows 8, Windows 10, and Windows 11. The network usage data is collected every hour by Windows operating systems and includes the following information: The name and description of the service or application, the name and SID of the user, the network adapter, and the total number of bytes sent and received by the specified service/application.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62482,10 +62937,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NHSEngland.NHSCredentialManagement",
+    "name": "NHS Credential Management",
+    "publisher": "NHS England",
+    "description": "NHS Smartcard Connect is a new Care Identity Service authentication client using CIS2 Authentication.\nSmartcard Connect is installed as part of a package that includes version 3 of NHS Credential Management. It includes all the previous functionality of older versions of NHS Credential Management, specifically the functionality that allows Spine applications to work without requiring Java applets. This allows them to be used in modern browsers such as Edge and Chrome, instead of Internet Explorer or Edge in IE compatibility mode.\nNHS Credential Management with Smartcard Connect is no longer installed alongside the legacy NHS Identity Agent. Users of Internet Explorer and Edge in IE compatibility mode will no longer be able to use Java applets to talk to the legacy Identity Agent as they used to in the past.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NI.ni-systemconfiguration",
     "name": "NI System Configuration",
     "publisher": "National Instruments Corporation",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "backendsystems.nibble",
+    "name": "nibble",
+    "publisher": "Norwegian Backend Systems",
+    "description": "Nibble is a CLI tool for local network scanning that focuses on speed and ease of use.\nSelect a network interface, and Nibble scans your local subnet. Lists hosts, hardware\nmanufacturer, open ports and their services.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62580,59 +63049,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "NirSoft.DownTester",
-    "name": "NirSoft DownTester",
-    "publisher": "NirSoft",
-    "description": "DownTester allows you to easily test your Internet download speed in multiple locations around the world. It automatically test the download speed of the URLs that you choose, one after another. It moves to the next download URL after the specified number of seconds has been elapsed or after it downloads the specified amount of KB - just according to your preferences.\nAfter the download test is finished, you can easily save the result into text/html/xml/csv file, or copy it to the clipboard and paste it into Excel and other applications.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NirSoft.IPNetInfo",
-    "name": "NirSoft IPNetInfo",
-    "publisher": "NirSoft",
-    "description": "IPNetInfo is a small utility that allows you to easily find all available information about an IP address: The owner of the IP address, the country/state name, IP addresses range, contact information (address, phone, fax, and email), and more.\n\nThis utility can be very useful for finding the origin of unsolicited mail. You can simply copy the message headers from your email software and paste them into IPNetInfo utility. IPNetInfo automatically extracts all IP addresses from the message headers, and displays the information about these IP addresses.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NirSoft.NK2Edit",
-    "name": "NirSoft NK2Edit",
-    "publisher": "NirSoft",
-    "description": "Every time that you type an email address or name in the message window of MS-Outlook, it automatically offer you a list of users and email address that you can choose.\nThis feature is known as 'AutoComplete' and Outlook automatically build this emails list according to user activity and save it into a file with .NK2 extension.\n\nIn some circumstances, you may need to repair or modify the values appeared in the AutoComplete list, or you may want to remove unwanted email addresses and/or to add new email addresses.\nMS-Outlook doesn't provide any ability to edit this AutoComplete list, so this is where NK2Edit software can help you.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NirSoft.VideoCacheView",
-    "name": "NirSoft VideoCacheView",
-    "publisher": "NirSoft",
-    "description": "After watching a video in a Web site, you may want to save the video file into\nyour local disk for playing it offline in the future. If the video file is\nstored in your browser's cache, this utility can help you to extract the video\nfile from the cache and save it for watching it in the future. It automatically\nscans the entire cache of Internet Explorer, Mozilla-based Web browsers\n(Including Firefox), Opera, and Chrome, and then finds all video files that are\ncurrently stored in it. It allows you to easily copy the cached video files into\nanother folder for playing/watching them in the future. If you have a movie\nplayer that is configured to play flv files, it also allows you to play the\nvideo directly from your browser's cache.\n\nNotice for users of Internet Explorer 10.0 and 11.0: In order to get videos from\nthese versions of IE, you have to press F6 (Advanced Options) and choose the\n'Internet Explorer 10 Cache' option in the 'Load video files...' section.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NirSoft.Volumouse",
-    "name": "NirSoft Volumouse",
-    "publisher": "NirSoft",
-    "description": "Volumouse provides you a quick and easy way to control the sound volume on your system - simply by rolling the wheel of your wheel mouse.\n\nIt allows you to define a set of rules for determining when the wheel will be used for changing the sound volume.\nFor example: You can configure Volumouse to use your mouse wheel for volume control when the Alt key is hold down, when the left mouse button is down, when the mouse cursor is over the taskbar, and so on...\n\nWhen the conditions that you define are not satisfied, your mouse wheel will be used for the regular scrolling tasks, exactly as before.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NirSoft.WhoisThisDomain",
-    "name": "NirSoft WhoisThisDomain",
-    "publisher": "NirSoft",
-    "description": "WhoisThisDomain is a domain registration lookup utility allows you to easily get information about a registered domain. It automatically connects to the right WHOIS server, according to the top-level domain name, and retrieve the WHOIS record of the domain.\nIt supports both generic domains and country code domains.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "NirSoft.WirelessNetworkWatcher",
-    "name": "NirSoft Wireless Network Watcher",
-    "publisher": "Nirsoft",
-    "description": "Wireless Network Watcher is a small utility that scans your wireless network and displays the list of all computers and devices that are currently connected to your network.\nFor every computer or device that is connected to your network, the following information is displayed:\n  IP address, MAC address, the company that manufactured the network card, and\n  optionally the computer name.\n\nYou can also export the connected devices list into html/xml/csv/text file, or\ncopy the list to the clipboard and then paste into Excel or other spreadsheet\napplication.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "NitrokeyGmbH.Nitropy",
     "name": "Nitropy",
     "publisher": "Nitrokey GmbH",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.NK2Edit",
+    "name": "NK2Edit",
+    "publisher": "NirSoft",
+    "description": "Every time that you type an email address or name in the message window of MS-Outlook, it automatically offer you a list of users and email address that you can choose.\nThis feature is known as 'AutoComplete' and Outlook automatically build this emails list according to user activity and save it into a file with .NK2 extension.\n\nIn some circumstances, you may need to repair or modify the values appeared in the AutoComplete list, or you may want to remove unwanted email addresses and/or to add new email addresses.\nMS-Outlook doesn't provide any ability to edit this AutoComplete list, so this is where NK2Edit software can help you.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62902,6 +63329,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Hitalin.NoteDeck",
+    "name": "NoteDeck",
+    "publisher": "hitalin",
+    "description": "NoteDeck is a deck client for Misskey and its forks.\nIt provides efficient multi-server timeline viewing with features like local full-text search,\nAI integration, and localhost API that are only possible with a native desktop application.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "codexu.NoteGen",
     "name": "NoteGen",
     "publisher": "codexu",
@@ -63147,14 +63581,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Nlitesoft.NTLite.Legacy",
+    "id": "Nlitesoft.NTLite",
     "name": "NTLite",
     "publisher": "Nlitesoft d.o.o.",
     "description": "Integrate updates, drivers, automate Windows and application setup, speedup Windows deployment process and have it all set for the next time.",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Nlitesoft.NTLite",
+    "id": "Nlitesoft.NTLite.Legacy",
     "name": "NTLite",
     "publisher": "Nlitesoft d.o.o.",
     "description": "Integrate updates, drivers, automate Windows and application setup, speedup Windows deployment process and have it all set for the next time.",
@@ -64095,7 +64529,7 @@
     "id": "NirSoft.OpenedFilesView",
     "name": "OpenedFilesView",
     "publisher": "NirSoft",
-    "description": "Displays the list of all opened files on your system. For each opened file, additional information is displayed. Optionally, you can also close one or more opened files, or close the process that opened these files.",
+    "description": "OpenedFilesView displays the list of all opened files on your system. For each opened file, additional information is displayed: handle value, read/write/delete access, file position, the process that opened the file, and more...\nOptionally, you can also close one or more opened files, or close the process that opened these files.\n\nThis utility is especially useful if you try to delete/move/open a file and you get one of the following error messages:\n  - Cannot delete [filename]: There has been a sharing violation. The source or destination file may be in use.\n  - Cannot delete [filename]: It is being used by another person or program. Close any programs that might be using the file and try again.\n\nWhen you get one of these error messages, OpenedFilesView will show you which process lock your file. Closing the right process will solve this problem. optionally, you can also release the file by closing the handle from OpenedFilesView utility. However, be aware that after closing a file in this way, the program that opened the file may become unstable, and even crash.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64117,6 +64551,13 @@
     "name": "OpenJazz",
     "publisher": "AJ Thomson",
     "description": "OpenJazz is a free, open-source version of the classic Jazz Jackrabbit™ games. OpenJazz can be compiled on a wide range of operating systems, including Windows 98/Me/XP and Linux. To play, you will need the files from one of the original games.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "thedavidweng.OpenKara",
+    "name": "OpenKara",
+    "publisher": "thedavidweng",
+    "description": "OpenKara is an open-source desktop karaoke app that turns songs you already own into karaoke tracks with on-device vocal separation, synced lyrics, and a portable local library.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64893,7 +65334,7 @@
     "id": "Parsec.Parsec",
     "name": "Parsec",
     "publisher": "Parsec Cloud Inc.",
-    "description": "Parsec is a proprietary freeware desktop capturing application primarily used for playing games through video streaming.\nUsing Parsec, a user can stream video game footage through an Internet connection, allowing one to run a game on one computer but play it remotely through another device.\nAlthough its main focus is gaming, Parsec can also be used as low-latency desktop sharing software.",
+    "description": "Parsec is a proprietary freeware desktop capturing application primarily used for playing games\nthrough video streaming.\n\nUsing Parsec, a user can stream video game footage through an Internet connection, allowing one to\nrun a game on one computer but play it remotely through another device.\n\nAlthough its main focus is gaming, Parsec can also be used as low-latency desktop sharing software.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64964,6 +65405,13 @@
     "name": "Password Tech",
     "publisher": "Christian Thöing",
     "description": "Passwords are virtually ubiquitous in the digital world. Whenever you create a user account for a website, you need a secure password. When you have to change your computer or network login password, you need a secure password. Also, when protecting personal data and private communication by strong encryption, you should better use a secure password.\n\nPassword Tech is a Windows application that can help you generate secure passwords and generally any kind of secure key for access control and data protection. To this end, it uses a cryptographically secure pseudo-random number generator based on strong cryptographic algorithms:\n- Random number generation through a combination of the one-way hash function BLAKE2s and the encryption algorithm Advanced Encryption Standard (AES) or ChaCha20/ChaCha8 with a 256-bit key.\n- Entropy accumulation by collecting volatile system parameters and exploiting indeterministic timing from user input such as keystrokes, mouse clicks, and mouse movements.\n\nPassword Tech is capable of generating a large variety of passwords and passphrases, which may be composed of purely random characters or words, or follow certain rules, so that they can be memorized more easily:\n- Passwords composed of random characters from a character set.\n- Passphrases composed of random words from a word list.\n- Phonetic (pronounceable) passwords based on language-specific trigram (3-letter) frequencies.\n- Passwords based on user-defined patterns (formatted passwords) using a variety of placeholders for different character sets.\n- Execution of Lua scripts with a programming interface to Password Tech allows full control over the process of password generation.\n- Generation of large amounts of passwords at once, which can be displayed in a window, stored in a file, or output on the console.\n- Full Unicode support in the entire application. Unicode encodings UTF-8 and UTF-16 (both LE and BE) are supported (conversion to non-Unicode ANSI character encoding is also possible, in case Unicode is not needed).\n\nApart from generating secure passwords, Password Tech provides many useful functionalities related to password usage and storage:\n- Password manager functionality through databases encrypted with a master password, containing passwords associated with a title, user name, URL, etc.\n- Strong encryption using AES or ChaCha20 with a 256-bit key. Data integrity and authentication accomplished through HMAC-SHA-512.\n- Database protection by regular passwords and/or key files. The content of a key file is transformed into a 256-bit key and appended to the password (if both are specified).\n- In addition to the conventional master password, a recovery password (password and/or key file) can be configured, which allows accessing the database in case the master password is lost (e.g., forgotten).\n- Automatic insertion of passwords in website forms and other applications through an “autotype” functionality.\n- “Password hasher” that generates passwords from a master password and a variable parameter (similar to Hashapass).\n- Encryption of clipboard text and password lists using AES with a 256-bit key.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JLBBARCO.PasswordsManager",
+    "name": "Passwords Manager",
+    "publisher": "JLBBARCO",
+    "description": "Manage and generate passwords with encrypted local storage under LocalAppData.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -65226,6 +65674,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "pdfzus.PDFZusammenfuegen",
+    "name": "PDF Zusammenfügen",
+    "publisher": "pdfzus",
+    "description": "PDF Zusammenfügen fuer Windows verbindet mehrere PDF-Dateien direkt auf dem Geraet. Die App ist auf Datenschutz, DSGVO-orientierte Workflows und einen schnellen lokalen Export ausgelegt.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "A-SIT.PDF-Over",
     "name": "PDF-Over",
     "publisher": "A-SIT (Secure Information Technology Center - Austria)",
@@ -65482,6 +65937,13 @@
     "name": "pgtail",
     "publisher": "Brandon Williams",
     "description": "pgtail is an interactive CLI tool for tailing PostgreSQL log files.\nIt auto-detects PostgreSQL instances and provides real-time log streaming\nwith level filtering, vim-style navigation, and color output.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "hammadxcm.go-phantom",
+    "name": "Phantom",
+    "publisher": "hammadxcm",
+    "description": "Phantom is an open-source input simulation tool for developers and QA engineers. It generates realistic mouse movements, keyboard input, scrolling, and application switching for use in UI testing, screen-lock prevention, demo environments, and accessibility testing. Features include configurable simulation profiles, a TUI dashboard, global hotkeys, and a system tray interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66238,6 +66700,13 @@
     "name": "Portfolio Performance",
     "publisher": "Andreas Buchen",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PortGhost.PortGhost",
+    "name": "PortGhost",
+    "publisher": "LoganAI",
+    "description": "PortGhost reveals which processes are using specific network ports. Built for developers using .NET 10, it allows for instant identification and one-click termination of \"zombie\" processes causing EADDRINUSE errors.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67018,6 +67487,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KrishnaNoutiyal.PSFserver",
+    "name": "PSFserver",
+    "publisher": "Krishna Noutiyal",
+    "description": "A lightweight, zero-dependency HTTP file server for Windows written in PowerShell. Serves any directory over HTTP with a clean dark web interface — perfect for local development, LAN file sharing, and quick one-off transfers.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Psi.Psi",
     "name": "Psi",
     "publisher": "the Psi team",
@@ -67277,6 +67753,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "genotrance.px",
+    "name": "Px",
+    "publisher": "genotrance",
+    "description": "Px is a HTTP(s) proxy server that allows applications to authenticate through an NTLM or Kerberos proxy server, typically used in corporate deployments, without having to deal with the actual handshake. Px leverages Windows SSPI or single sign-on and automatically authenticates using the currently logged in Windows user account. It is also possible to run Px on Windows, Linux and MacOS without single sign-on by configuring the domain, username and password to authenticate with.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "molqzone.pxlobster",
+    "name": "PXLobster",
+    "publisher": "molqzone",
+    "description": "PXLobster is a command-line host utility for PXLogic logic analyzers, supporting device scan, firmware priming, and capture output to bin/sr or stdout.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "7gxycn08.PyAutoActions",
     "name": "PyAutoActions",
     "publisher": "7gxycn08",
@@ -67505,6 +67995,13 @@
     "name": "QC Game Client",
     "publisher": "QCSalon",
     "description": "QuentinC Playroom Game Client",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Tencent.QClaw",
+    "name": "QClaw",
+    "publisher": "腾讯科技(深圳)有限公司",
+    "description": "随时随地，微信一下，Qclaw 帮你高效干活\n【开箱即用】自动部署，打开即用。支持 Mac & Windows，内置国产优质大模型，支持切换自定义模型\n【微信直联】微信直接对话，远程操控：直接关联微信，零配置，随时随地远程让 AI 干活\n【丰富生态】丰富 Skills 生态：支持 Skills 市场，如 ClawHub、GitHub 等丰富生态，Skills 随取随用\n【懂你所想】持续记忆，你的专属龙虾：记住偏好和上下文，持续成长，越来越懂你的 AI\n【高效操控】本地部署，办公更高效：直接操控文件、浏览器、邮件，不是只会聊天",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -68180,6 +68677,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "appmakes.Rai",
+    "name": "Rai",
+    "publisher": "appmakes",
+    "description": "Rai is a CLI tool that provides a unified interface for executing AI-powered tasks across multiple providers and models. It supports ad-hoc prompts, markdown-based task files, piped input, tool calling, and a built-in permission system.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RailOS.RailOS",
     "name": "Railway Operation Simulator",
     "publisher": "Railway Operation Simulator",
@@ -68190,7 +68694,7 @@
     "id": "Rainmeter.Rainmeter",
     "name": "Rainmeter",
     "publisher": "Rainmeter",
-    "description": "从硬件使用率仪表到全功能音频可视化器，Rainmeter 可以在桌面上显示可定制的皮肤。限制你的只有你的想象力和创造力。",
+    "description": "Rainmeter allows you to display customizable skins on your desktop, from hardware usage meters to fully functional audio visualizers. You are only limited by your imagination and creativity.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69041,10 +69545,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DigitalForcesCorp.ResolutionSuggester",
+    "name": "Resolution Suggester",
+    "publisher": "Digital Forces Corp",
+    "description": "Detects the current monitor's resolution, DPI, and available display modes, then calculates optimal RDP window sizes and positions for single or dual-window layouts. Outputs ready-to-use winposstr values and can edit .rdp files directly.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Heaventools.ResourceTuner",
     "name": "Resource Tuner",
     "publisher": "Heaventools Software",
     "description": "Resource Tuner enables you to view, extract, add, replace, edit, and delete\nthe embedded resources within executable files, including icons, strings,\nbackground images, pictures, sounds, dialogs, hot keys, and menus — all that\nmake up the visual part of your Windows programs.\n\nMoreover, it allows you to change the properties of executable files,\nincluding their version information and manifest files, while allowing you to\ngather and edit any file information during research. The application also\nincludes a search feature to quickly locate specific resources within a large\nnumber of executable files on your computer without the need for manual\nbrowsing through numerous files.\n\nIn fact, it empowers you to add your own custom branding to an application,\nchange dialog messages, customize toolbar actions, and so on without having\naccess to the original source code. Resource Tuner offers exciting\npossibilities even if you aren't a programmer. It's a perfect fit for\ntranslators, software localization experts, tweakers, resource enthusiasts,\nand anyone else who wants a different look and feel for an application.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.ResourcesExtract",
+    "name": "ResourcesExtract",
+    "publisher": "NirSoft",
+    "description": "ResourcesExtract is a small utility that scans dll/ocx/exe files and extract all resources (bitmaps, icons, cursors, AVI movies, HTML files, and more...) stored in them into the folder that you specify.\nYou can use ResourcesExtract in user interface mode, or alternatively, you can run ResourcesExtract in command-line mode without displaying any user interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -70633,7 +71151,7 @@
     "id": "NirSoft.SearchMyFiles",
     "name": "SearchMyFiles",
     "publisher": "NirSoft",
-    "description": "Alternative to the standard Search For Files And Folders module of Windows. It allows you to easily search files in your system by wildcard, by last modified/created/last accessed time, by file attributes, by file content, and by the file size.",
+    "description": "SearchMyFiles is an alternative to the standard \"Search For Files And Folders\" module of Windows. It allows you to easily search files in your system by wildcard, by last modified/created/last accessed time, by file attributes, by file content (text or binary search), and by the file size. SearchMyFiles allows you to make a very accurate search that cannot be done with Windows search. For Example: You can search all files created in the last 10 minutes with size between 500 and 700 bytes.\nAfter you made a search, you can select one or more files, and save the list into text/html/csv/xml file, or copy the list to the clipboard.\n\nSearchMyFiles is portable, and you can use it from a USB flash drive without leaving traces in the Registry of the scanned computer.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -70896,6 +71414,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CosX.ServiceBusExplorerTui",
+    "name": "Service Bus Explorer TUI",
+    "publisher": "CosX",
+    "description": "A cross-platform terminal UI for managing Azure Service Bus queues, topics,\nsubscriptions, and messages. Supports SAS token and Azure AD authentication.\nBuilt with Rust and ratatui.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Cjwdev.ServiceCredentialsManager.Free",
     "name": "Service Credentials Manager Free Edition",
     "publisher": "Cjwdev",
@@ -71050,10 +71575,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.ShellExView",
+    "name": "ShellExView",
+    "publisher": "NirSoft",
+    "description": "Shell Extensions are in-process COM objects which extend the abilities of Windows operating system. Most shell extensions are automatically installed by the operating system, but there are also many other applications that install additional shell extension components. For example: If you install WinZip on your computer, you'll see a special WinZip menu when you right-click on a Zip file. This menu is created by adding a shell extension to the system.\n\nThe ShellExView utility displays the details of shell extensions installed on your computer, and allows you to easily disable and enable each shell extension.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "NirSoft.ShellMenuView",
     "name": "ShellMenuView",
     "publisher": "NirSoft",
-    "description": "ShellMenuView is a small utility that displays the list of static menu items that appeared in the context menu when you right-click a file/folder on Windows Explorer, and allows you to easily disable unwanted menu items.",
+    "description": "ShellMenuView is a small utility that displays the list of static menu items that appeared in the context menu when you right-click a file/folder on Windows Explorer, and allows you to easily disable unwanted menu items.\n\nNotice: Some of the menu items in the context menu of Explorer are created dynamically using shell extensions. In these cases, you can use the ShellExView utility to disable them.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71127,6 +71659,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "yukimemi.shun",
+    "name": "shun",
+    "publisher": "yukimemi",
+    "description": "shun (瞬) is a cross-platform, keyboard-driven minimal launcher built with Tauri.\nFeatures include fuzzy/exact search, launch history with frecency sorting, args mode,\npath & URL completion, slash commands, auto-update, theming, and more.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Shure.UpdateUtility",
     "name": "Shure Update Utility",
     "publisher": "Shure Inc",
@@ -71159,6 +71698,13 @@
     "name": "Shutter",
     "publisher": "den4b Team",
     "description": "Shutter 是一款多功能的任务计划工具，拥有用户友好和易于使用的界面，并支持多种事件和操作。\n可用事件：倒计时、准时事件、Winamp 停止、CPU 使用率、网络使用率、硬盘使用率、用户非活动、电池电量低、窗口、进程、Ping 停止、文件大小限制、显示器。\n可用的操作：关机、重启、注销、锁定工作区、睡眠、休眠、关闭显示器、屏幕保护、音量控制、挂断调制解调器、警报、消息、播放声音、运行程序、打开文件、关闭窗口、终止进程。\n可以创建桌面快捷方式，直接从桌面执行任何支持的操作。网页界面允许远程执行操作，并显示计算机的当前信息：运行时间、进程列表、桌面截图、程序执行等。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Oire.Sic",
+    "name": "SIC!",
+    "publisher": "Oire Software SARL",
+    "description": "An accessible image format converter for Windows. Batch-convert images between 8 formats with optional resizing. Works as both a GUI app and a command-line tool.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71298,7 +71844,7 @@
     "id": "NirSoft.SimpleCodeGenerator",
     "name": "SimpleCodeGenerator",
     "publisher": "NirSoft",
-    "description": "SimpleCodeGenerator is a simple tool for Windows that allows you to quickly generate QR Code for scanning with App on your Smartphone.\nYou can display the QR Code on the screen, copy it to the clipboard and then paste it to another program (as image), or save it image file - .png , .gif , .jpg , .tiff, or .bmp\nSimpleCodeGenerator also allows you to generate QR Code from command line and save it as image file ( .png , .gif , .jpg , .tiff, or .bmp) without displaying any user interface.",
+    "description": "SimpleCodeGenerator is a simple tool for Windows that allows you to quickly generate QR Code for scanning with App on your Smartphone. You can display the QR Code on the screen, copy it to the clipboard and then paste it to another program (as image), or save it image file - .png , .gif , .jpg , .tiff, or .bmp\nSimpleCodeGenerator also allows you to generate QR Code from command line and save it as image file ( .png , .gif , .jpg , .tiff, or .bmp) without displaying any user interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71319,7 +71865,7 @@
     "id": "NirSoft.SimpleProgramDebugger",
     "name": "SimpleProgramDebugger",
     "publisher": "NirSoft",
-    "description": "Simple debugging tool for Windows that attaches to existing running program or starts a new program in debugging mode, and then displays all major debugging events occurs while the program is running.",
+    "description": "SimpleProgramDebugger is a simple debugging tool for Windows that attaches to existing running program or starts a new program in debugging mode, and then displays all major debugging events occurs while the program is running, including Exception, Create Thread, Create Process, Exit Thread, Exit Process, Load DLL, Unload DLL, and Debug String.\nAfter the debugging events are accumulated, you can easily export them into comma-delimited/tab-delimited/xml/html file or copy them to the clipboard and then paste them into Excel or any other spreadsheet application.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71327,6 +71873,13 @@
     "name": "Simplest File Renamer",
     "publisher": "Boris Yakubchik",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "mlhpdx.SimplestLoadBalancer",
+    "name": "SimplestLoadBalancer",
+    "publisher": "mlhpdx",
+    "description": "SLB is a sessionless load balancer for UDP traffic, and solves problems inherent with using traditional (feature rich) load balancers for such traffic.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71369,6 +71922,13 @@
     "name": "SimpMusic",
     "publisher": "maxrave-dev",
     "description": "A FOSS YouTube Music client for Android and Desktop with many features from Spotify, SponsorBlock, ReturnYouTubeDislike using Compose Multiplatform to develop.\n- Play music from YouTube Music or YouTube for free, without ads and in the background\n- Browsing Home, Charts, Podcast, Moods & Genre with YouTube Music data at high speed\n- Search everything on YouTube\n- Analyze your playing data, create custom playlists, and sync with YouTube Music...\n- Spotify Canvas supported\n- Play 1080p video option with subtitle\n- AI song suggestions\n- Customize your playlist, synced with YouTube Music\n- Notifications from followed artists\n- Caching and offline playback support\n- Synced lyrics from SimpMusic Lyrics, LRCLIB, Spotify (require login) and YouTube Transcript - AI lyrics translation (BETA) (*)\n- Personalize data (**) and multi-YouTube-account support\n- Supports SponsorBlock and Return YouTube Dislike\n- Sleep Timer\n- Android Auto with online content\n- Discord Rich Presence support\n- And many more!\n(*) Use your OpenAI or Gemini API key\n(**) For users who chose \"Send back to Google\" feature\nWarning\nThis app is in the beta stage, so it may have many bugs and make it crash. If you find any bugs,\nplease create an issue or contact me via email or Discord server.\nBecause of depending on YouTube Music, the player error will happen and it's normally, please don't ask me about the stable state of this app.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "kay-ou.SimTradeDesk",
+    "name": "SimTradeDesk",
+    "publisher": "kay-ou",
+    "description": "SimTradeDesk 是 SimTradeLab 的专用桌面版，提供快速、安全且完全本地化的环境，用于策略开发、回测、模拟及券商端部署。它在开源的 SimTradeLab 核心基础上，打造了精致、商用级的桌面体验。\n无需 Python，无需环境配置。只需下载、安装，即可开始构建策略。\n功能特性\n- 兼容 PTrade 的 API — 46 个核心 API；策略在 PTrade 与本地运行表现一致\n- 策略编辑器 — 为 PTrade API 提供自动补全与语法高亮\n- 回测 — A 股历史数据支持实时日志流\n- 参数优化器 — 超参数搜索，支持前向验证（优化期 + 保留期）\n- 结果可视化 — 资金曲线、回撤图表、交易记录及关键指标\n- 回测对比 — 对齐时间轴叠加净值曲线，并排展示指标表格\n- 版本历史 — 自动保存策略快照，支持差异查看与一键还原\n- CSV / PNG 导出 — 导出数据表格与图表\n- 内置终端 — 集成命令行面板，便于快速调试\n- 多语言界面 — 中文 / 英文 / 德文\n- 跨平台 — 支持 Windows、macOS、Linux",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -72429,6 +72989,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "vmvarela.sql-pipe",
+    "name": "sql-pipe",
+    "publisher": "vmvarela",
+    "description": "sql-pipe reads CSV from stdin, loads it into an in-memory SQLite database, runs a SQL query, and prints the results as CSV. No server, no schema files, no setup. If you know SQL and work with CSV in the terminal, this is the tool you have been reaching for.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "sqlectron.sqlectron-gui",
     "name": "sqlectron",
     "publisher": "The Sqlectron Team",
@@ -72943,14 +73510,14 @@
     "id": "Smallstep.step",
     "name": "step",
     "publisher": "Smallstep",
-    "description": "",
+    "description": "step-cli lets you build, operate, and automate Public Key Infrastructure (PKI)\nsystems and workflows. It's a swiss army knife for authenticated encryption\n(X.509, TLS), single sign-on (OAuth OIDC, SAML), multi-factor authentication\n(OATH OTP, FIDO U2F), encryption mechanisms (JSON Web Encryption, NaCl),\nand verifiable claims (JWT, SAML assertions).",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "Smallstep.step-ca",
     "name": "step-ca",
     "publisher": "Smallstep",
-    "description": "",
+    "description": "step-ca is an online certificate authority for secure, automated certificate management. It issues X.509 and SSH certificates using protocols like ACME, OIDC, and SCEP.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -73413,6 +73980,13 @@
     "name": "SwitchCraft",
     "publisher": "FaserF",
     "description": "SwitchCraft is your comprehensive packaging assistant for IT Professionals. It goes beyond simple switch identification to streamline your entire application packaging workflow.\nFeatures:\n- Universal Analysis: Instantly identify silent switches for EXE, MSI, and obscure installer frameworks.\n- AI-Powered Helper: Get context-aware packaging advice and troubleshooting.\n- Intune Ready: Generate standardized PowerShell installation scripts automatically.\n- Cross-Platform: Manage installers for Windows, Linux, and macOS.\n- Winget Integration: Fast package detection.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Enreach.SwyxIt",
+    "name": "SwyxIt!",
+    "publisher": "Enreach",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -73944,7 +74518,7 @@
     "id": "NirSoft.TcpLogView",
     "name": "TcpLogView",
     "publisher": "NirSoft",
-    "description": "Simple utility that monitors the opened TCP connections on your system, and adds a new log line every time that a TCP connection is opened or closed.",
+    "description": "TcpLogView is a simple utility that monitors the opened TCP connections on your system, and adds a new log line every time that a TCP connection is opened or closed. For every log line, the following information is displayed: Even Time, Event Type (Open, Close, Listen), Local Address, Remote Address, Remote Host Name, Local Port, Remote Port, Process ID, Process Name, and the country information of the Remote IP (Requires to download IP to country file separately.)",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -74085,6 +74659,13 @@
     "name": "Teleport Connect",
     "publisher": "Gravitational, Inc.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KDE.Tellico",
+    "name": "Tellico",
+    "publisher": "KDE e.V.",
+    "description": "Tellico is an application for organizing your collections. It provides default templates for books, bibliographies, videos, music, video games, coins, stamps, trading cards, comic books, and wines. It allows you to enter your collection in a catalogue database, saving many different properties like title, author, etc.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -75610,7 +76191,7 @@
     "id": "NirSoft.TurnedOnTimesView",
     "name": "TurnedOnTimesView",
     "publisher": "NirSoft",
-    "description": "Simple tool that analyses the event log of Windows operating system, and detects the time ranges that your computer was turned on.",
+    "description": "TurnedOnTimesView is a simple tool that analyses the event log of Windows operating system, and detects the time ranges that your computer was turned on. For every period of time that the computer was turned on, the following information is displayed: Startup Time, Shutdown Time, Duration, Shutdown Reason, Shutdown Type, Shutdown Process, and Shutdown Code.\nTurnedOnTimesView allows you to get this information from your local computer, and from remote computer on your network if you have enough privilege to read the event log of Windows remotely.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -75737,6 +76318,13 @@
     "name": "TypeButler",
     "publisher": "DeskSoft",
     "description": "TypeButler helps you to type frequently used texts, from single words to whole sentences, paragraphs, emails, etc. This not only reduces the time needed for typing the texts, but also eliminates the risk of typos.\nYou can organize your text blocks in a clear menu structure and select them with a single click. TypeButler can type the texts into any program, it can simulate complex key combinations and it can replace typed texts on the fly. It can also be used to replace key combinations with any others or assign functions to mouse buttons or the mouse wheel.\nTypeButler supports mouse wheel acceleration and scroll navigation for faster, easier and more convenient navigation in documents and windows of any kind.\nAll functions are fully customizable.\n\nKey Features\n- Typing predefined text blocks into any program\n- Simulation of complex key combinations\n- Organization of frequently used texts in clear menu structure for easy and quick access\n- Replacement of any key combination\n- Replacement of typed texts on the fly\n- Assignment of functions to mouse buttons and the mouse wheel\n- Two-dimensional scrolling with one mouse click\n- Dynamic mouse wheel acceleration (fully configurable)\n- Fully customizable with program specific profiles\n- Silent installation and uninstallation for mass deployment",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SimplyCA.Typeless",
+    "name": "Typeless",
+    "publisher": "Simply CA LLC",
+    "description": "Speak naturally, and Typeless will turn your words into polished messages, emails, and documents that read like you carefully typed them - in real time. 4x faster than typing.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -76034,10 +76622,10 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "MartiCliment.UniGetUI",
-    "name": "UniGetUI (formerly WingetUI)",
-    "publisher": "Martí Climent",
-    "description": "The main goal of this project is to give a GUI Store to the most common CLI Package Managers for windows, such as Winget, Scoop, Chocolatey, Pip, Npm, .\nNET Tool and PowerShell Gallery.\nThis app allows you to install, remove and maintain up-to-date the packages published on Winget, Scoop, Chocolatey, Pip, Npm, .\nNET Tool and PowerShell Gallery.",
+    "id": "Devolutions.UniGetUI",
+    "name": "UniGetUI",
+    "publisher": "Devolutions Inc.",
+    "description": "UniGetUI is an intuitive GUI for the most common CLI package managers on Windows, including WinGet, Scoop, Chocolatey, Pip, Npm, .NET Tool, PowerShell Gallery, and more. With UniGetUI, you can discover, install, update, and uninstall software from multiple package managers through one interface.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -76372,8 +76960,8 @@
   {
     "id": "NirSoft.USBDeview",
     "name": "USBDeview",
-    "publisher": "Nir Sofer",
-    "description": "",
+    "publisher": "NirSoft",
+    "description": "USBDeview is a small utility that lists all USB devices that currently connected to your computer, as well as all USB devices that you previously used.\nFor each USB device, extended information is displayed: Device name/description, device type, serial number (for mass storage devices), the date/time that device was added, VendorID, ProductID, and more...\nUSBDeview also allows you to uninstall USB devices that you previously used, disconnect USB devices that are currently connected to your computer, as well as to disable and enable USB devices.\nYou can also use USBDeview on a remote computer, as long as you login to that computer with admin user.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -76388,6 +76976,13 @@
     "name": "USBImager GDI wo",
     "publisher": "bztsrc",
     "description": "Really really simple GUI application that writes compressed disk images to USB drives",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.USBLogView",
+    "name": "USBLogView",
+    "publisher": "NirSoft",
+    "description": "USBLogView is a small utility that runs in the background and records the details of any USB device that is plugged or unplugged into your system. For every log line created by USBLogView, the following information is displayed: Event Type (Plug/Unplug), Event Time, Device Name, Description, Device Type, Drive Letter (For storage devices), Serial Number (Only for some types of devices), Vendor ID, Product ID, Vendor Name, Product Name, and more...\nYou can easily select one or more log records and then export them into csv/tab-delimited/xml/html file.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -76430,6 +77025,13 @@
     "name": "uTools",
     "publisher": "福州猿力信息科技有限公司",
     "description": "uTools 是一个极简、插件化的现代桌面软件，通过自由选配丰富的插件，打造得心应手的工具集合。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "BitTorrentLimited.uTorrentWeb",
+    "name": "uTorrent Web",
+    "publisher": "BitTorrent Limited",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -76829,6 +77431,13 @@
     "name": "Video Subtitle Master (CUDA 12.4)",
     "publisher": "buxuku",
     "description": "批量为视频生成字幕，并可将字幕翻译成其它语言。这是在之前的一个开源项目 VideoSubtitleGenerator 的基础上，制作成的一个客户端工具，以方便更多朋友们的使用。\n它保留了之前 VideoSubtitleGenerator 这个命令行工具的全部特性，并新增了以下功能：\n- 图形用户界面，操作更加便捷\n- 源语言字幕文件和目标语言字幕文件放在视频同目录下，方便播放时任意挂载字幕文件\n- 批量处理视频/音频/字幕文件\n- 支持视频/音频生成字幕\n- 支持对生成的字幕，或者导入的字幕进行翻译\n- 支持多种翻译服务：\n  - 火山引擎翻译\n  - 百度翻译\n  - DeepLX 翻译（批量翻译容易存在被限流的情况）\n  - 本地模型 Ollama 翻译\n  - 支持 OpenAI 风格 API 翻译，如 deepseek, azure 等\n- 自定义字幕文件名，方便兼容不同的播放器挂载字幕识别\n- 自定义翻译后的字幕文件内容，支持纯翻译结果或原字幕+翻译结果\n- 项目集成 whisper.cpp，对 Apple Silicon 进行了优化，有较快的生成速度\n- 项目集成了 fluent-ffmpeg，无须单独安装 ffmpeg\n- 支持运行本地安装的 whisper 命令\n- 支持选择模型下载源（国内镜像源或官方源）\n- 支持自定义并发任务数量",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.VideoCacheView",
+    "name": "VideoCacheView",
+    "publisher": "NirSoft",
+    "description": "After watching a video in a Web site, you may want to save the video file into your local disk for playing it offline in the future. If the video file is stored in your browser's cache, this utility can help you to extract the video file from the cache and save it for watching it in the future.\nIt automatically scans the entire cache of Internet Explorer, Mozilla-based Web browsers (Including Firefox), Opera, and Chrome, and then finds all video files that are currently stored in it. It allows you to easily copy the cached video files into another folder for playing/watching them in the future. If you have a movie player that is configured to play flv files, it also allows you to play the video directly from your browser's cache.\n\nNotice for users of Internet Explorer 10.0 and 11.0: In order to get videos from these versions of IE, you have to press F6 (Advanced Options) and choose the 'Internet Explorer 10 Cache' option in the 'Load video files...' section.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -77266,6 +77875,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.VisualStudio.OnecoreMsvsmon",
+    "name": "Visual Studio Remote Debugger for Devices",
+    "publisher": "Microsoft Corporation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "IPEVO.Visualizer",
     "name": "Visualizer",
     "publisher": "IPEVO Inc.",
@@ -77466,6 +78082,13 @@
     "name": "VolumeLock",
     "publisher": "Actual Solution",
     "description": "VolumeLock is an easy-to-use audio control utility that gives you the freedom in loudness control. With this program you can guarantee that the volume settings of your PC will never be changed unexpectedly. By creating your own fully customized rules for any volume control, including recording controls, you can prevent other applications from changing your volume settings. VolumeLock includes a powerful lock function, a scheduler, command line support, an ability to store and retrieve a lot of rule configurations via one mouse click or system-wide hot keys. It works with all modern sound cards and can be useful for home and power users alike.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.Volumouse",
+    "name": "Volumouse",
+    "publisher": "NirSoft",
+    "description": "Volumouse provides you a quick and easy way to control the sound volume on your system - simply by rolling the wheel of your wheel mouse.\nIt allows you to define a set of rules for determining when the wheel will be used for changing the sound volume. For example: You can configure Volumouse to use your mouse wheel for volume control when the Alt key is hold down, when the left mouse button is down, when the mouse cursor is over the taskbar, and so on...\nWhen the conditions that you define are not satisfied, your mouse wheel will be used for the regular scrolling tasks, exactly as before.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -78750,6 +79373,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Wassette",
+    "name": "Wassette",
+    "publisher": "Microsoft Corporation",
+    "description": "Wassette: A security-oriented runtime that runs WebAssembly Components via MCP\n\nWhy Wassette?\n\n- Convenience: Wassette makes it easy to extend AI agents with new tools, all without ever having to leave the chat window.\n- Reusability: Wasm Components are generic and reusable; there is nothing MCP-specific about them.\n- Security: Wassette is built on the Wasmtime security sandbox, providing browser-grade isolation of tools.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microlife.WatchBPAnalyzer",
     "name": "WatchBP Analyzer",
     "publisher": "Microlife",
@@ -79107,6 +79737,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.WhatIsHang",
+    "name": "WhatIsHang",
+    "publisher": "NirSoft",
+    "description": "Sometimes, Windows or a running application hangs, the user interface abruptly stops responding, and you cannot determine what has caused the problem or how to troubleshoot the issue. This utility tries to detect the software or process that is currently hung, and displays some information that may allow you to sort out and understand what exactly is at the root of such unexpected behavior.\nMost of the information displayed in WhatIsHang's report, like Call Stack, Stack Data, Processor Registers, and Memory Data is designed for users with Windows programming knowledge. However, WhatIsHang also presents a list of strings and dll files related to the hang issue that can help users without programming skills understand and overcome the causes of the problem and restore normal operation.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "WhatPulse.WhatPulse",
     "name": "WhatPulse",
     "publisher": "WhatPulse",
@@ -79146,6 +79783,13 @@
     "name": "Whois",
     "publisher": "Sysinternals",
     "description": "Whois performs the registration record for the domain name or IP address that you specify.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NirSoft.WhoisThisDomain",
+    "name": "WhoisThisDomain",
+    "publisher": "NirSoft",
+    "description": "WhoisThisDomain is a domain registration lookup utility allows you to easily get information about a registered domain. It automatically connects to the right WHOIS server, according to the top-level domain name, and retrieve the WHOIS record of the domain.\nIt supports both generic domains and country code domains.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -79201,7 +79845,7 @@
     "id": "NirSoft.WifiInfoView",
     "name": "WifiInfoView",
     "publisher": "NirSoft",
-    "description": "Scans the wireless networks in your area and displays extensive information about them.",
+    "description": "WifiInfoView scans the wireless networks in your area and displays extensive information about them, including: Network Name (SSID), MAC Address, PHY Type (802.11g or 802.11n), RSSI, Signal Quality, Frequency, Channel Number, Maximum Speed, Company Name, Router Model and Router Name (Only for routers that provides this information), and more...\nWhen you select a wireless network in the upper pane of this tool, the lower pane displays the Wi-Fi information elements received from this device, in hexadecimal format.\nWifiInfoView also has a summary mode, which displays a summary of all detected wireless networks, grouped by channel number, company that manufactured the router, PHY type, or the maximum speed.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -79996,6 +80640,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.WirelessNetworkWatcher",
+    "name": "Wireless Network Watcher",
+    "publisher": "Nirsoft",
+    "description": "Wireless Network Watcher is a small utility that scans your wireless network and displays the list of all computers and devices that are currently connected to your network.\nFor every computer or device that is connected to your network, the following information is displayed:\n  IP address, MAC address, the company that manufactured the network card, and\n  optionally the computer name.\n\nYou can also export the connected devices list into html/xml/csv/text file, or\ncopy the list to the clipboard and then paste into Excel or other spreadsheet\napplication.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Shure.WirelessWorkbench",
     "name": "Wireless Workbench",
     "publisher": "Shure Inc",
@@ -80542,6 +81193,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Tencent.WorkBuddy",
+    "name": "WorkBuddy",
+    "publisher": "Tencent Technology (Shenzhen) Company Limited",
+    "description": "WorkBuddy 是 AI 原生的桌面智能体工作台，以自然语言驱动办公自动化，一句指令即可完成数据处理、内容创作与深度分析，直接验收可交付结果，重塑职场效率标准。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "FunRoutine.WorkFlowy",
     "name": "WorkFlowy",
     "publisher": "WorkFlowy",
@@ -80923,6 +81581,13 @@
     "id": "xdpxi.xds-code",
     "name": "XD's Code",
     "publisher": "XDPXI",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "XDown.XDown",
+    "name": "XDown",
+    "publisher": "XDown",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -81777,7 +82442,7 @@
     "id": "NirSoft.ZipInstaller",
     "name": "ZipInstaller",
     "publisher": "NirSoft",
-    "description": "The ZipInstaller utility installs and uninstalls applications and utilities that do not provide an internal installation program. It automatically extracts all files from the Zip file, copies them to the destination folder you select, creates shortcuts in the start menu and in your desktop, and adds an uninstall module to allow you to automatically remove the software in the future.",
+    "description": "The ZipInstaller utility installs and uninstalls applications and utilities that do not provide an internal installation program. It automatically extracts all files from the Zip file, copies them to the destination folder you select, creates shortcuts in the start menu and in your desktop, and adds an uninstall module to allow you to automatically remove the software in the future.\n\nThis utility was originally developed to install the utilities in NirSoft Web site, but you can use it for installing utilities and applications from other sources, like the utilities provided in SysInternal Web site, Funduc Software, and many others.\nGenerally, this utility can install properly almost any software compressed in Zip files that doesn't provide an install/uninstall module.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -81910,7 +82575,7 @@
     "id": "brunoleocam.ZPL2PDF",
     "name": "ZPL2PDF",
     "publisher": "Bruno Campos",
-    "description": "ZPL2PDF is a powerful, cross-platform command-line tool that converts ZPL (Zebra Programming Language) files to high-quality PDF documents.\n\nKey Features:\n• Dual Operation Modes - Conversion mode for individual files and daemon mode for automatic folder monitoring\n• Multi-language Support - 8 languages (EN, PT, ES, FR, DE, IT, JA, ZH)\n• Intelligent Dimension Handling - Automatic extraction from ZPL commands (^PW, ^LL)\n• Cross-Platform - Native support for Windows, Linux, and macOS\n• Clean Architecture - Built with SOLID principles and 90%+ test coverage\n• High Performance - Async processing with retry mechanisms\n• Docker Support - Optimized Alpine Linux image (470MB)\n\nPerfect for:\n• Label printing workflows\n• Automated document generation\n• Enterprise label management systems\n• ERP integration\n• Batch processing",
+    "description": "ZPL2PDF is a powerful, cross-platform command-line tool that converts ZPL (Zebra Programming Language) files to high-quality PDF documents.\n\nKey Features:\n• Multiple Rendering Engines - Offline (BinaryKits), Labelary API (high-fidelity), and Auto (fallback)\n• TCP Server Mode - Virtual Zebra printer on TCP port for application integration\n• Custom Font Support - Load TrueType/OpenType fonts for branded labels\n• Three Operation Modes - Conversion, daemon (auto-monitor), and TCP server (virtual printer)\n• Multi-language Support - 8 languages (EN, PT, ES, FR, DE, IT, JA, ZH)\n• Intelligent Dimension Handling - Automatic extraction from ZPL commands (^PW, ^LL)\n• Cross-Platform - Native support for Windows, Linux, and macOS\n• Clean Architecture - Built with SOLID principles and 90%+ test coverage\n• High Performance - Async processing with retry mechanisms\n• Docker Support - Optimized Alpine Linux image (470MB)\n\nPerfect for:\n• Label printing workflows\n• Automated document generation\n• Enterprise label management systems\n• ERP integration\n• Virtual printer integration\n• Batch processing",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -82177,6 +82842,13 @@
     "name": "优酷",
     "publisher": "Youku.com",
     "description": "Youku is a famous online video platform in China, providing a vast number of videos such as series, movies, animations, music, news, variety shows, games and originals. featuring HD and smooth streaming, rapid download, and powerful search.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ONFStudios.OreNoFusen",
+    "name": "俺の付箋",
+    "publisher": "ONF Studios",
+    "description": "俺の付箋 (Ore no Fusen) is a desktop sticky note app built with Tauri + Next.js.\nKey features:\n- Instant editing — cursor is ready on first click\n- WYSIWYG rich text (bold, headings, lists, checkboxes)\n- Auto-save with floating windows that stay on top\n- Multi-window: each note is an independent window",
     "icon": "/icons/intunify-default.png"
   },
   {
