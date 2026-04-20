@@ -1498,13 +1498,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Horizon.Fire",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "HP.HPCMSL",
     "name": "",
     "publisher": null,
@@ -1715,20 +1708,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "HMCL.HMCL.Dev",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "HMCL.HMCL.Dev.CNB",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "HMCL.HMCL.Dev.Maven",
     "name": "",
     "publisher": null,
@@ -1869,6 +1848,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HissenIT.Academy-Security-Awareness",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "HendersonSoftware.CDRipper",
     "name": "",
     "publisher": null,
@@ -1884,6 +1870,13 @@
   },
   {
     "id": "HenrikWenz.All-in-OneMessenger",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HubDev.HubDev",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2052,13 +2045,6 @@
   },
   {
     "id": "HealthInfoNet.HINClient",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "heStudioCommunity.APKSignerGUI(Machine-MSI)",
     "name": "",
     "publisher": null,
     "description": "",
@@ -2255,13 +2241,6 @@
   },
   {
     "id": "Hashicorp.Terraform.Beta",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Hashicorp.Vault",
     "name": "",
     "publisher": null,
     "description": "",
@@ -3941,14 +3920,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "TandemHealth.Tandem.MSI",
+    "id": "TandemHealth.Tandem",
     "name": "",
     "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "TandemHealth.Tandem",
+    "id": "TandemHealth.Tandem.MSI",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4053,6 +4032,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "tomrsae.XWindows",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "tentone.nunuStudio",
     "name": "",
     "publisher": null,
@@ -4068,6 +4054,13 @@
   },
   {
     "id": "TaxDomeLLC.TaxDome",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TobiasErichsen.loopMIDI",
     "name": "",
     "publisher": null,
     "description": "",
@@ -4117,6 +4110,20 @@
   },
   {
     "id": "TeamShinkansen.Hakchi2-CE",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "teshi-org.teshi",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TamKungZ.ImageMerge",
     "name": "",
     "publisher": null,
     "description": "",
@@ -5670,6 +5677,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CreativeTechnology.CreativeNexus",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CenSoft.HostTE",
     "name": "",
     "publisher": null,
@@ -6336,6 +6350,13 @@
   },
   {
     "id": "Cloudflare.cloudflared",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ChrisLauinger77.QontrolPanel",
     "name": "",
     "publisher": null,
     "description": "",
@@ -7042,6 +7063,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CostaFotiadis.ADBExtensionforCommandPalette",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Changepacks.Changepacks",
     "name": "",
     "publisher": null,
@@ -7511,6 +7539,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RussMckendrick.Aicommit",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Rojo.Rokit",
     "name": "",
     "publisher": null,
@@ -7606,6 +7641,13 @@
     "name": "",
     "publisher": null,
     "description": "Revo Metro 支持点云捕获、后处理和多模型对齐，使您能够快速扫描和处理。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Revopoint.RevoTrack",
+    "name": "",
+    "publisher": null,
+    "description": "Revo Track 是由知象光电 Revopoint 自主研发用于三维扫描和数据处理的软件，可与 Trackit 扫描仪配套使用，Revo Track 支持点云捕获、后处理和多模型对齐，使您能够快速扫描和处理。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -7840,7 +7882,28 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Robomatter.RobotVirtualWorlds.VEXIQNextLevel",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Robomatter.RobotVirtualWorlds.VRCTurningPoint",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Robomatter.RobotVirtualWorlds.CurriculumCompanion",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Robomatter.RobotVirtualWorlds.VEXIQHighrise",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9205,6 +9268,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KeeperSecurity.PasswordImporterStandalone",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KeeperSecurity.KeeperForcefield",
     "name": "",
     "publisher": null,
@@ -9387,6 +9457,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "KDE.Skrooge",
+    "name": "",
+    "publisher": null,
+    "description": "Skrooge 是一款由 KDE 提供支持的个人理财管理软件，旨在简单直观。Skrooge 可帮助您记录支出和收入，对它们进行分类，并生成相应的报表。\n功能：\n- 支持 QIF、CSV、SKROOGE、KMYMONEY 的导入/导出\n- 支持导入 Microsoft Money、OFX、QFX、MT940、GNUCASH、GRISBI、HOMEBANK 和 MONEY MANAGER EX\n- 高级图形报表\n- 多标签页，便于组织工作\n- 无限次撤销/重做（即使文件已关闭！）\n- 对交易和报表进行即时筛选\n- 无限层级的分类\n- 交易批量更新\n- 定期交易\n- 追踪支出退款\n- 基于搜索条件自动处理交易\n- 支持多种货币\n- 预算管理\n- 仪表盘\n- 理财建议",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KDE.LabPlot",
     "name": "",
     "publisher": null,
@@ -9468,6 +9545,13 @@
     "name": "",
     "publisher": null,
     "description": "KReversi 是一个简单的与计算机对战的单机策略游戏。如果玩家的一块被对方玩家夺取，那块将被翻转来显示该玩家的颜色。当一个玩家在棋盘上拥有更多的自己的颜色并且没有更多可能的落子时，赢家诞生。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KDE.Chessament",
+    "name": "",
+    "publisher": null,
+    "description": "Chessament 是一个国际象棋比赛管理工具。目前支持个人瑞士制比赛。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -10073,6 +10157,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DragonLang.Dragon",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DominikReichl.KeePass.Classic",
     "name": "",
     "publisher": null,
@@ -10668,6 +10759,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "DebaA17.CVECLI",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DirSoft.ARPro",
     "name": "",
     "publisher": null,
@@ -10872,6 +10970,13 @@
   },
   {
     "id": "DFetch-org.DFetch",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DWANGO.OpenToonz",
     "name": "",
     "publisher": null,
     "description": "",
@@ -11725,6 +11830,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "detachhead.rebased",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DavidJoffe.DaveGnukem",
     "name": "",
     "publisher": null,
@@ -12383,6 +12495,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "JamboCompany.RunEnv",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Jeskola.Buzz",
     "name": "",
     "publisher": null,
@@ -12947,6 +13066,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Softerra.AdaxesSelfServiceClient",
+    "name": "",
+    "publisher": null,
+    "description": "Adaxes 自助服务客户端允许用户无需登录操作系统，只需点击登录屏幕上的专用链接即可重置密码。用户点击该链接后，将以匿名身份访问在 Microsoft Edge 或 Safari 浏览器中打开的 Adaxes 密码自助服务站点。\n用于访问该服务的网页浏览器会话受到限制，可防范不安全操作。应用于该会话的最显著限制包括：\n- 无法从密码自助重置页面跳转至其他站点的链接\n- Windows 系统下的右键菜单功能受限\n- macOS 系统下的右键菜单已禁用\n- 快捷键已禁用\n- “在新窗口打开”选项已禁用",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -16380,6 +16506,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.IIS.Compression",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Microsoft.IIS.ServiceMonitor",
     "name": "",
     "publisher": null,
@@ -17672,6 +17805,13 @@
     "name": "",
     "publisher": null,
     "description": "当你需要将视频从一种格式转换为另一种格式，或改变其质量和大小以适应移动设备的存储空间时，MediaHuman Video Converter 可让你的生活更轻松。它支持大多数常见的视频格式，如音频视频交错（AVI）、数字视频、DVD 视频、Flash 视频（FLV）、H.264/MPEG 4、iTunes 视频、Matroska 视频（MKV）、MPEG、QuickTime 等。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MissionLabs.CircleLoop",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -19922,6 +20062,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MakotoArai.Zenith",
+    "name": "",
+    "publisher": null,
+    "description": "轻量级跨平台系统基准测试工具，使用 Zig 编写。单一二进制文件，零依赖。\n跑分结果仅供参考，由于不同操作系统的调度差异、缓存和其他因素，可能与实际性能有所不同！\n功能\n- 系统信息 — 主机名、操作系统、架构、内核、CPU 型号/核心/缓存、内存/交换分区、磁盘空间、运行时间、时区、虚拟化检测、系统负载\n- 网络信息 — 公网 IP、本地 IP、NAT 检测、ISP/ASN、地理位置\n- CPU 测试 — 质数计算、矩阵乘法（单核 & 多核）\n- 内存测试 — 顺序读/写/拷贝、随机读取、访问延迟\n- 磁盘测试 — 顺序读/写、随机 IOPS\n- 跨平台 — Linux、Windows、macOS、FreeBSD\n- 多架构 — x86_64、aarch64、arm、riscv64、s390x、ppc64le、i386、loongarch64\n- 三语输出 — English、中文、日本語\n- 自动语言检测 — 自动检测系统语言，可通过 -l 覆盖\n- 终端自适应 — 自动检测颜色、Unicode、终端宽度；传统终端（如 Windows cmd.exe）自动降级为 ASCII\n- 持续时间测试 — 预热 + 定时采样 + 中位数聚合，结果更稳定",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Mooshimity.BrickHill",
     "name": "",
     "publisher": null,
@@ -20216,7 +20363,28 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Winix.Winix",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Winix.Files",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Winix.Man",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Winix.NetCat",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21021,6 +21189,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Flowersauce.FSClicker",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "FACEITLTD.FACEITAC",
     "name": "",
     "publisher": null,
@@ -21134,6 +21309,13 @@
   },
   {
     "id": "FileOpenSystems.FileOpenClient",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "farion1231.CC-Switch",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21393,6 +21575,13 @@
   },
   {
     "id": "Foundry376.Mailspring",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "FxSound.FxSound",
     "name": "",
     "publisher": null,
     "description": "",
@@ -21981,6 +22170,13 @@
   },
   {
     "id": "Zidoro.Pomatez",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Zenpaw.Skypaw",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22828,6 +23024,13 @@
   },
   {
     "id": "Oscillicious.RocketBroadcaster.Free",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OpenDumpViewer.OpenDumpViewer",
     "name": "",
     "publisher": null,
     "description": "",
@@ -24437,14 +24640,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BitSum.ProcessLasso.Beta",
+    "id": "BitSum.ProcessLasso",
     "name": "",
     "publisher": null,
     "description": "Process Lasso 是一款用于 Windows 的进程自动化和优化软件。从 ProBalance 等调优算法到用户创建的规则以及诸如 CPU 亲和性和优先级类别等持久设置，Process Lasso 使您能够完全控制运行中的应用程序！\n我们著名的 ProBalance 算法在高 CPU 负载期间保持系统响应能力。这个专有算法会动态调整运行程序的优先级，使某些程序比其他程序更优先获得 CPU 资源。有了 ProBalance，无论是单个还是多个进程，都无法再让您的系统陷入几乎停滞的状态。即使在高 CPU 负载下，Process Lasso 也能让您继续与计算机交互。试试我们的 CPUEater 演示，亲身体验 ProBalance 的强大功能。\nProcess Lasso 还允许用户通过许多独特且实用的功能来自定义和自动化应用程序的运行方式。这些功能包括持久优先级类别、持久 CPU 亲和性、不允许运行的进程、按进程设置的电源配置文件、用于高级规则的进程监视器、进程实例数量限制、实例或应用程序的平衡以及更多功能！这些功能让您能够根据自动应用的设置，控制程序如何使用计算机的资源。有了 Process Lasso，您可以完全决定进程的运行方式。\n此外，Process Lasso 还提供了许多附加功能，如电源计划自动化、系统响应度指标以及进程活动日志记录等。\n为了最大限度地减少资源使用，所有算法和进程规则均由一个独立的后台服务 Process Governor 执行。GUI（图形用户界面）完全是可选的。",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BitSum.ProcessLasso",
+    "id": "BitSum.ProcessLasso.Beta",
     "name": "",
     "publisher": null,
     "description": "Process Lasso 是一款用于 Windows 的进程自动化和优化软件。从 ProBalance 等调优算法到用户创建的规则以及诸如 CPU 亲和性和优先级类别等持久设置，Process Lasso 使您能够完全控制运行中的应用程序！\n我们著名的 ProBalance 算法在高 CPU 负载期间保持系统响应能力。这个专有算法会动态调整运行程序的优先级，使某些程序比其他程序更优先获得 CPU 资源。有了 ProBalance，无论是单个还是多个进程，都无法再让您的系统陷入几乎停滞的状态。即使在高 CPU 负载下，Process Lasso 也能让您继续与计算机交互。试试我们的 CPUEater 演示，亲身体验 ProBalance 的强大功能。\nProcess Lasso 还允许用户通过许多独特且实用的功能来自定义和自动化应用程序的运行方式。这些功能包括持久优先级类别、持久 CPU 亲和性、不允许运行的进程、按进程设置的电源配置文件、用于高级规则的进程监视器、进程实例数量限制、实例或应用程序的平衡以及更多功能！这些功能让您能够根据自动应用的设置，控制程序如何使用计算机的资源。有了 Process Lasso，您可以完全决定进程的运行方式。\n此外，Process Lasso 还提供了许多附加功能，如电源计划自动化、系统响应度指标以及进程活动日志记录等。\n为了最大限度地减少资源使用，所有算法和进程规则均由一个独立的后台服务 Process Governor 执行。GUI（图形用户界面）完全是可选的。",
@@ -26355,6 +26558,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Voiden.Voiden",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Voiden.Voiden-Beta",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "VCVRack.VCVRack",
     "name": "",
     "publisher": null,
@@ -26825,6 +27042,13 @@
   },
   {
     "id": "VNGCorp.Zalo",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VICE-Team.VICE.GTK3",
     "name": "",
     "publisher": null,
     "description": "",
@@ -27405,6 +27629,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Airesoft.DisAsm",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AirVPN.Eddie",
     "name": "",
     "publisher": null,
@@ -27860,6 +28091,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Apple.AppleSoftwareUpdate",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Apple.BonjourPrintServices",
     "name": "",
     "publisher": null,
@@ -28225,6 +28463,13 @@
   },
   {
     "id": "Aptivi.BassBoom",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AlekseyHoffman.SigmaFileManager",
     "name": "",
     "publisher": null,
     "description": "",
@@ -28763,6 +29008,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Ammaar.git-recall",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Ammaar.paimon",
     "name": "",
     "publisher": null,
@@ -29096,6 +29348,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Apache.Groovy.5",
+    "name": "",
+    "publisher": null,
+    "description": "Apache Groovy 是一种功能强大、可选择类型的动态语言，具有静态类型和静态编译功能，适用于 Java 平台，旨在通过简洁、熟悉和易学的语法提高开发人员的工作效率。它能与任何 Java 程序顺利集成，并能立即为您的应用程序提供强大的功能，包括脚本能力、特定域语言编写、运行时和编译时元编程以及函数式编程。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -30415,6 +30674,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "imLinguin.nile",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "InfiniteInstant.KoduGameLab",
     "name": "",
     "publisher": null,
@@ -31032,6 +31298,13 @@
   },
   {
     "id": "Intel.EMAPlatformManager",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Intel.BCT",
     "name": "",
     "publisher": null,
     "description": "",
@@ -31917,6 +32190,13 @@
     "name": "",
     "publisher": null,
     "description": "Diagram Studio 是一款功能强大的应用程序，可快速轻松地为文档创建专业水准的商业图表、技术图纸和插图。它是制作各类流程图、组织结构图和示意图的理想工具。具体而言，Diagram Studio 能够生成：\n- 商业图表、演示文稿和插图\n- 组织结构图与工作流程图\n- 软件及流程流程图\n- 数据库结构图\n- 工程示意图与技术图纸\n- 网站架构图与网络拓扑图\n- 研究布局图与地图\n- 平面布置图、街道导向图及交通路线图",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "gorodulin.prj",
+    "name": "",
+    "publisher": null,
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -32942,6 +33222,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "lamteteeow.PowerTranslate",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Lune.Lune",
     "name": "",
     "publisher": null,
@@ -33405,6 +33692,13 @@
   },
   {
     "id": "Lingbao.EasyClaw",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Lingbao.EasyClaw.CN",
     "name": "",
     "publisher": null,
     "description": "",
@@ -34398,6 +34692,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "eddacraft.anvil",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "EvanCzaplicki.Elm",
     "name": "",
     "publisher": null,
@@ -34777,6 +35078,13 @@
   },
   {
     "id": "EasyABC.EasyABC",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Ephraem.InputBar",
     "name": "",
     "publisher": null,
     "description": "",
@@ -36057,6 +36365,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "randlee.agent-team-mail",
+    "name": "agent-team-mail",
+    "publisher": "Randy Lee",
+    "description": "agent-team-mail (atm) is a daemon-free CLI for mail-like messaging with\nClaude agent teams. It provides send, read, ack, clear, doctor, log, teams,\nand members workflows over a file-based API with atomic I/O and conflict\ndetection.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Convectiva.AgentWatcher",
     "name": "AgentWatcher",
     "publisher": "Convectiva",
@@ -36834,6 +37149,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Aignesberger.DeadLink",
+    "name": "AM-DeadLink",
+    "publisher": "www.aignes.com",
+    "description": "AM-DeadLink is a free tool for checking websites, browser bookmarks and other sources for broken\nlinks.\n\nIf you have your own website, you can use AM-DeadLink to check all your pages for broken links,\nmissing files or redirections. AM-DeadLink checks hyperlinks, images, CSS files, Javascript files,\nframes, etc.\n\nAM-DeadLink can check the following sources for broken links:\n\n- Website (including links, images, CSS files, ...)\n- Text files\n- Tab delimited files\n- CSV files\n- HTML files\n- Google Chrome bookmarks\n- Microsoft Edge bookmarks\n- Firefox bookmarks\n- Brave bookmarks\n- Vivaldi bookmarks",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Amazon.Corretto.11.JDK",
     "name": "Amazon Corretto 11",
     "publisher": "Amazon",
@@ -37324,6 +37646,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "heStudioCommunity.APKSignerGUI",
+    "name": "APKSignerGUI (Machine - MSI)",
+    "publisher": "heStudio Community",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Orthogonal.APM",
     "name": "APM",
     "publisher": "Orthogonal",
@@ -37401,13 +37730,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Apple.AppleSoftwareUpdate",
-    "name": "Apple Mobile Device Support",
-    "publisher": "Apple Inc.",
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "Apple.AppleMobileDeviceSupport",
     "name": "Apple Mobile Device Support",
     "publisher": "Apple Inc.",
@@ -37450,6 +37772,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ipatalas.AppSwitcher",
+    "name": "AppSwitcher",
+    "publisher": "ipatalas",
+    "description": "AppSwitcher is a Windows desktop application that lets you jump to any running window using a dedicated hotkey — no more Alt-Tabbing through a stack of windows.\nInspired by rcmd for macOS, AppSwitcher lets you assign a global hotkey to any application so you can reach it in one keystroke.\n## Features\n- Assign global hotkeys to switch directly to any running window - Runs silently in the system tray - Optional autostart with Windows - Supports Windows 10 version 20H1 (build 19041) or newer",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PassMark.AppTimer",
     "name": "AppTimer",
     "publisher": "PassMark Software",
@@ -37457,10 +37786,10 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "wikidot.APRSIS32",
-    "name": "APRSIS32",
-    "publisher": "wikidot",
-    "description": "Advanced Automatic Packet Reporting System (APRS) Client for Amateur Radio.",
+    "id": "HomesideSoftware.APRSISCE32",
+    "name": "APRSISCE/32",
+    "publisher": "Homeside Software Inc.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -38091,6 +38420,13 @@
     "name": "Audio Waveform Image Generator",
     "publisher": "BBC",
     "description": "audiowaveform is a C++ command-line application that generates waveform data from either MP3, WAV, FLAC, Ogg Vorbis, or Opus format audio files. Waveform data can be used to produce a visual rendering of the audio, similar in appearance to audio editing applications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "exeldro.OBSAudioMonitor",
+    "name": "audio-monitor",
+    "publisher": "Exeldro",
+    "description": "Plugin for OBS Studio to add Audio Monitor dock and filter. It allows you to put the audio of a OBS source to an audio device by adding the Audio Monitor filter on the Source in OBS Studio.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39193,6 +39529,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "NirSoft.BatteryInfoView",
+    "name": "BatteryInfoView",
+    "publisher": "NirSoft",
+    "description": "BatteryInfoView is a small utility for laptops and netbook computers that displays the current status and information about your battery. The displayed battery information includes the battery name, manufacture name, serial number, manufacture date, power state (charging/discharging), current battery capacity, full charged capacity, voltage, charge/discharge rate, and more...\nBatteryInfoView also provides a log window, which adds a new log line containing the battery status every 30 seconds or any other time interval that you choose.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PassmarkSoftware.BatteryMon",
     "name": "BatteryMon",
     "publisher": "PassMark Software",
@@ -39372,6 +39715,13 @@
     "name": "Beeftext",
     "publisher": "beeftext.org",
     "description": "Are you tired of repeatedly typing the same text over and over again?\n- The custom email signature you only use for your close friends.\n- The markdown snippet you use 5 times a day.\n- The text emoji you like so much (\\/) (°,,,°) (\\/).\nBeeftext is made for you. Beeftext allows you to define combos. A combo associates a short word that you are unlikely to type in a normal situation (a keyword) with a piece of long or complex text you often need to type (a snippet). From now on, every time you type the keyword, in any text area of any application that supports copy/paste (99.9% of them do), the combo is triggered and Beeftext automatically replaces the keyword with its associated snippet. Thanks to Unicode encoding, this text can be in any language, using any kind of characters, even exotic ones.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Deldrid1.BeehiivCLI",
+    "name": "Beehiiv CLI",
+    "publisher": "Deldrid1",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39788,6 +40138,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BlackwellSystems.blackdot",
+    "name": "blackdot",
+    "publisher": "Blackwell Systems",
+    "description": "blackdot is a modular developer environment management CLI with multi-vault\nsecrets, extensible hooks, feature flags, shell integration, and health checks.\nSupports macOS, Linux, Windows, and devcontainers.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ktsu.BlastMerge",
     "name": "BlastMerge",
     "publisher": "ktsu.dev",
@@ -39974,6 +40331,13 @@
     "name": "BluetoothView",
     "publisher": "NirSoft",
     "description": "BluetoothView is a small utility that runs in the background, and monitor the activity of Bluetooth devices around you. For each detected Bluetooth device, it displays the following information: Device Name, Bluetooth Address, Major Device Type, Minor Device Type, First Detection Time, Last Detection Time, and more.\nBluetoothView can also notify you when a new Bluetooth device is detected, by displaying a balloon in your taskbar or by playing a small beep sound.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Blur009.BlurAutoClicker",
+    "name": "Blur-AutoClicker",
+    "publisher": "Blur009",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40467,6 +40831,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "build2.build2.MSVC",
+    "name": "build2",
+    "publisher": "The build2 authors",
+    "description": "`build2` is an open source, cross-platform toolchain for building and\npackaging C++ code. It aims to approximate Rust Cargo's convenience while\nproviding more depth and flexibility.\nPublished packages can be found on https://cppget.org",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Carrier.BuildingSystemOptimizer",
     "name": "Building System Optimizer",
     "publisher": "Carrier",
@@ -40877,6 +41248,13 @@
     "name": "Capreze",
     "publisher": "karamem0",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "itsnateai.CapsNumTray",
+    "name": "CapsNumTray",
+    "publisher": "itsnateai",
+    "description": "System tray indicators for Caps Lock, Num Lock, and Scroll Lock. Left-click to toggle, independent icons per key, light/dark theme support, DPI-aware, on-screen display.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -41489,13 +41867,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "ChefSoftware.ChefDK",
-    "name": "ChefDK",
-    "publisher": "Chef Software, Inc.",
-    "description": "ChefDK, short for Chef Development Kit, is a package that contains everything that is needed to start using Chef:\n- Chef Infra Client\n- chef and knife command line tools\n- Testing tools such as Test Kitchen, ChefSpec, and Cookstyle\n- Chef InSpec\n- Everything else needed to author cookbooks and upload them to the Chef Infra Server",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "ChemAxon.Marvin",
     "name": "ChemAxon Marvin Suite",
     "publisher": "ChemAxon",
@@ -41664,6 +42035,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Chromatix.Chromatix",
+    "name": "Chromatix Music Player",
+    "publisher": "Chromatix",
+    "description": "Chromatix is a desktop music player for Plex and Jellyfin that transforms your listening experience and makes interacting with your music libraries a joy.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Google.ChromeRemoteDesktopHost",
     "name": "Chrome Remote Desktop Host",
     "publisher": "Google LLC",
@@ -41776,6 +42154,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "CirclebackAI.Circleback",
+    "name": "Circleback",
+    "publisher": "Circleback AI, Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "suzuki-shunsuke.circleci-config-merge",
     "name": "circleci-config-merge",
     "publisher": "suzuki-shunsuke",
@@ -41835,6 +42220,13 @@
     "id": "Dyne.CJIT",
     "name": "CJIT",
     "publisher": "Dyne.org foundation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Stardock.Clairvoyance",
+    "name": "Clairvoyance",
+    "publisher": "Stardock",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -41997,6 +42389,13 @@
     "name": "Claws Mail",
     "publisher": "claws-mail.org",
     "description": "Claws Mail is a GTK+ based, lightweight, and fast e-mail client and newsreader. Supports POP3, APOP, IMAP, SMTP, SMTP AUTH, NNTP, LDAP, multiple accounts, spell-checking, addressbook, SSL, GPG, filtering, i18n, & more. It is further extended by plugins.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ClawSharp.ClawSharp",
+    "name": "ClawSharp",
+    "publisher": "ClawSharp",
+    "description": "Desktop distribution for ClawSharp using GitHub Releases, Tauri updater metadata, WinGet, and a Homebrew tap.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42165,6 +42564,27 @@
     "name": "Clipboardic",
     "publisher": "Nir Sofer",
     "description": "Clipboardic is a small utility that listen to the clipboard activity, and each time that you copy something into the clipboard, it automatically save the copied data into Windows clipboard file (.clp). Later, when you need the copied data again, you can simply select the right clipboard file, and Clipboardic will automatically insert it into the clipboard.\nClipboardic also allows you to easily share the clipboard data between multiple computers on your local network.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Chaoleme.ClipCascadeGo.Desktop",
+    "name": "ClipCascade Go (Desktop)",
+    "publisher": "Chaoleme",
+    "description": "A cross-platform clipboard synchronization tool designed for multi-device collaboration. The goal is not to \"rebuild another chat tool,\" but to make cross-device copy-pasting as seamless as a local experience.\nProject Introduction\nIn daily development and office scenarios, Mac, Windows, Linux, and Android are often used interchangeably. Transferring text, screenshots, and files between different devices often encounters these issues:\n- Need to manually open intermediate tools, interrupting the workflow.\n- Large differences in clipboard behavior across platforms, leading to inconsistent experiences.\n- File transfer is either too heavy or too slow, and difficult to manage uniformly.\nClipCascade is positioned as a clipboard-centric, self-deployable, extensible, and cross-platform synchronization system.\nCore Capabilities\n- Text Sync: Real-time synchronization to online devices after copying.\n- Image Sync: Cross-platform transfer of image clipboard content.\n- File Sync: Supports a tiered strategy of direct transfer for small files and placeholder notifications for large files.\n- Transfer Channels: Supports STOMP (server-relayed) + P2P (peer-to-peer) dual channels.\n- Security: Supports E2EE (End-to-End Encryption) toggle.\n- Auto-Discovery: Automatic discovery of service addresses via mDNS in local networks.\n- Multi-User Management: Administrators can add users directly from the Web page.\n- Android Native Persistence: Foreground services + accessibility triggers + permission guidance.\n- Clipboard History: Mobile version supports viewing and re-filling historical records.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Chaoleme.ClipCascadeGo.Server",
+    "name": "ClipCascade Go (Server)",
+    "publisher": "Chaoleme",
+    "description": "A cross-platform clipboard synchronization tool designed for multi-device collaboration. The goal is not to \"rebuild another chat tool,\" but to make cross-device copy-pasting as seamless as a local experience.\nProject Introduction\nIn daily development and office scenarios, Mac, Windows, Linux, and Android are often used interchangeably. Transferring text, screenshots, and files between different devices often encounters these issues:\n- Need to manually open intermediate tools, interrupting the workflow.\n- Large differences in clipboard behavior across platforms, leading to inconsistent experiences.\n- File transfer is either too heavy or too slow, and difficult to manage uniformly.\nClipCascade is positioned as a clipboard-centric, self-deployable, extensible, and cross-platform synchronization system.\nCore Capabilities\n- Text Sync: Real-time synchronization to online devices after copying.\n- Image Sync: Cross-platform transfer of image clipboard content.\n- File Sync: Supports a tiered strategy of direct transfer for small files and placeholder notifications for large files.\n- Transfer Channels: Supports STOMP (server-relayed) + P2P (peer-to-peer) dual channels.\n- Security: Supports E2EE (End-to-End Encryption) toggle.\n- Auto-Discovery: Automatic discovery of service addresses via mDNS in local networks.\n- Multi-User Management: Administrators can add users directly from the Web page.\n- Android Native Persistence: Foreground services + accessibility triggers + permission guidance.\n- Clipboard History: Mobile version supports viewing and re-filling historical records.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Chaoleme.ClipCascadeGo.Web",
+    "name": "ClipCascade Go (Web)",
+    "publisher": "Chaoleme",
+    "description": "A cross-platform clipboard synchronization tool designed for multi-device collaboration. The goal is not to \"rebuild another chat tool,\" but to make cross-device copy-pasting as seamless as a local experience.\nProject Introduction\nIn daily development and office scenarios, Mac, Windows, Linux, and Android are often used interchangeably. Transferring text, screenshots, and files between different devices often encounters these issues:\n- Need to manually open intermediate tools, interrupting the workflow.\n- Large differences in clipboard behavior across platforms, leading to inconsistent experiences.\n- File transfer is either too heavy or too slow, and difficult to manage uniformly.\nClipCascade is positioned as a clipboard-centric, self-deployable, extensible, and cross-platform synchronization system.\nCore Capabilities\n- Text Sync: Real-time synchronization to online devices after copying.\n- Image Sync: Cross-platform transfer of image clipboard content.\n- File Sync: Supports a tiered strategy of direct transfer for small files and placeholder notifications for large files.\n- Transfer Channels: Supports STOMP (server-relayed) + P2P (peer-to-peer) dual channels.\n- Security: Supports E2EE (End-to-End Encryption) toggle.\n- Auto-Discovery: Automatic discovery of service addresses via mDNS in local networks.\n- Multi-User Management: Administrators can add users directly from the Web page.\n- Android Native Persistence: Foreground services + accessibility triggers + permission guidance.\n- Clipboard History: Mobile version supports viewing and re-filling historical records.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42732,6 +43152,13 @@
     "name": "Concept2 Utility",
     "publisher": "Concept2 Inc.",
     "description": "The Concept2 Utility is free software available from Concept2 that allows you to update the firmware in your Performance Monitor, upload your workouts to your Concept2 Online Logbook, and manage the data on your LogCard or USB flash drive.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ConduitTechnologies.conduitai",
+    "name": "conduitAI CLI",
+    "publisher": "Conduit Technologies",
+    "description": "The conduitAI CLI connects your local AI environment to the conduitAI platform.\nSearch the registry, preview what will change, and install any asset type — MCP servers,\nskills, prompts, agents, and plugins — all with cryptographic signature verification.\nStandalone binary with no runtime dependencies.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -43673,6 +44100,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Corsinvest.cv4pve.nodeprotect",
+    "name": "cv4pve-node-protect",
+    "publisher": "Corsinvest Srl",
+    "description": "cv4pve-node-protect backs up Proxmox VE node configuration files over SSH.\nIt connects to one or more nodes, archives the paths you choose into a tar.gz per node,\norganises the archives into timestamped folders and applies a retention policy automatically.\n\nFeatures:\n- Multi-node backup in a single run\n- Selectable backup paths\n- Configurable retention policy\n- SSH key or password authentication (with password-from-file support)\n- Custom SSH port per host\n- No agents installed on the nodes — only SSH access required",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Corsinvest.cv4pve.pepper",
     "name": "cv4pve-pepper",
     "publisher": "Corsinvest Srl",
@@ -43803,6 +44237,13 @@
     "name": "daan",
     "publisher": "fojosoft",
     "description": "Daan (答案, \"Answer\" in Chinese) is a concise and lightweight client for interacting with Large Language Models (LLMs), offering a smooth and efficient AI experience. Compatible with OpenAI's GPT series and compatible APIs.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "AbiruzzamanMolla.DailyPrayerTimer",
+    "name": "Daily Prayer Timer",
+    "publisher": "Abiruzzaman Molla",
+    "description": "Daily Prayer Timer is a comprehensive Windows application designed to help you keep track of Islamic prayer times with a premium UI, accurate calculations, and smart notifications.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44181,6 +44622,13 @@
     "name": "Deckman C-Map Demo",
     "publisher": "Graeme Winn",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Baldknobber.DeckSave",
+    "name": "DeckSave",
+    "publisher": "Baldknobber",
+    "description": "A lightweight desktop app for backing up and syncing game save files across Steam Deck, Windows PC, and Linux. Detects saves from Steam and non-Steam launchers, creates versioned backups, and syncs between devices via Syncthing.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45332,6 +45780,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "terrymacdonald.DisplayMagician",
+    "name": "DisplayMagicianSetup v2.7.2.1",
+    "publisher": "LittleBitBig",
+    "description": "DisplayMagician is an open source tool for automatically configuring your displays and sound for a game or application from a single Windows Shortcut. DisplayMagician is designed to change your display profile, change audio devices, start extra programs and then run the game or application you want. It will even reset things back to the way they were for you once you've closed the game or application!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Asus.DisplayWidgetCenter",
     "name": "DisplayWidget Center",
     "publisher": "ASUS",
@@ -45455,6 +45910,13 @@
     "name": "dm-Fotowelt",
     "publisher": "CEWE Stiftung u Co. KGaA",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DMDE.DataRecovery.GUI",
+    "name": "DMDE 数据恢复软件",
+    "publisher": null,
+    "description": "DMDE 是一款用于磁盘上的数据搜索、编辑和恢复的强大工具。 它通过特殊算法，即使在复杂情况下也能恢复目录结构和文\n件，而其他软件无法做到。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -45843,6 +46305,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Dilluti0n.DPIBreak",
+    "name": "DPIBreak",
+    "publisher": "Dilluti0n",
+    "description": "Fast and easy-to-use tool for circumventing Deep Packet Inspection (DPI) on HTTPS connections. While your actual data is encrypted over HTTPS, there is a limitation: the TLS ClientHello packet - which contains the destination domain (aka SNI) - must be sent in plaintext during the initial handshake. DPI equipment inspects it at intermediate routers and drops the connection if its SNI is on their blacklist. The goal of DPIBreak is to manipulate outgoing TLS ClientHello packets in a standards-compliant way, so that DPI equipment can no longer detect the destination domain while the actual server still can.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SanghyeokNam.DPIGuard",
     "name": "DPIGuard",
     "publisher": "Sanghyeok Nam",
@@ -45875,6 +46344,20 @@
     "name": "Dragonframe 2024",
     "publisher": "DZED Systems LLC",
     "description": "Dragonframe is the industry-standard stop-motion animation software for professional filmmakers, offering frame-by-frame capture, precision camera/lens control, DMX lighting automation, motion rig integration, and advanced compositing tools to create high-end animations\n\nKey Features:\n- Frame Capture & Onion Skinning: Live view blending with captured frames for seamless motion sequencing\n- Cinematography Tools: DSLR control (Canon/Nikon/Sony), ISO/aperture/focus adjustments, exposure clipping warnings, and aspect ratio guides\n- DMX Lighting: Programmable keyframe-based lighting for up to 512 channels (requires DDMX hardware).\n- Motion Control: Synchronize camera rigs, dollies, and motorized sliders for complex moves.\n- Audio & Lip-Sync: Multi-track timeline, phoneme assignment for character dialogue, and facial animation tools.\n- 3D Workflows: Stereoscopic support, depth maps, and Maya/Blender integration\n\nThe free trial is for you to test the software with your camera and get used to how it works.\nIt has the following limitations:\n- You can shoot up to 50 frames per take.\n- Images will have a subtle watermark that cannot be removed.\n- Camera RAW formats are not supported.\nOtherwise the software is fully functional.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "DZEDSystems.DragonframeLicenseManager",
+    "name": "DragonframeLicenseManager",
+    "publisher": "DZED Systems LLC",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RikkiGibson.DreamPotato",
+    "name": "DreamPotato",
+    "publisher": "Rikki Gibson",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -46319,6 +46802,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "feliperbroering.eai",
+    "name": "eai",
+    "publisher": "Felipe Broering",
+    "description": "CLI tool that converts natural language to shell commands using LLMs. Single binary, no runtime dependencies.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "DeskSoft.EarthView",
     "name": "EarthView",
     "publisher": "DeskSoft",
@@ -46522,6 +47012,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Echowire.Echowire",
+    "name": "Echowire",
+    "publisher": "Proudlock Technology LLC",
+    "description": "Echowire is a self-hosted, open-source chat platform offering Discord-style guilds,\nchannels, threads, scheduled events, voice and video calls with WebRTC, custom\nsoundboards, passkey authentication, and direct messages. Built for communities\nthat want full control of their data without compromising on features. Supports\nfederation between instances. AGPL-3.0 licensed.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Coninfer.ECLiPSeCLP.7.0",
     "name": "ECLiPSe Constraint Logic Programming System Version 7.0",
     "publisher": "Coninfer Ltd",
@@ -46594,6 +47091,13 @@
   {
     "id": "EclipseAdoptium.Temurin.24.JDK",
     "name": "Eclipse Temurin JDK with Hotspot 24",
+    "publisher": "Eclipse Adoptium",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "EclipseAdoptium.Temurin.26.JDK",
+    "name": "Eclipse Temurin JDK with Hotspot 26",
     "publisher": "Eclipse Adoptium",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -47355,6 +47859,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.ESRPWingetTest",
+    "name": "ESRP Winget Test Application",
+    "publisher": "Microsoft Corporation",
+    "description": "This is a sample test application used to validate the ESRP Release service's\nintegration with Windows Package Manager (Winget). It helps test the end-to-end\nflow of manifest creation, PR submission, and package publishing.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BioSilico.MicroBreak",
     "name": "EssayWriter",
     "publisher": "BioSilico Limited",
@@ -47422,6 +47933,13 @@
     "name": "EUROMOD",
     "publisher": "European Commission - Joint Research Centre",
     "description": "EUROMOD is the tax-benefit microsimulation model for the European Union that enables researchers and policy analysts to calculate, in a comparable manner, the effects of taxes and benefits on household incomes and work incentives for the population of each country and for the EU as a whole. Cross-country comparability is enabled by coding the policy systems of the EU Member States according to a common framework based on a standard set of modelling conventions. The EUROMOD platform is highly flexible but also organised, documented, validated and transparent. Underpinning the model is the purpose-built software comprising a user-friendly interface, supplemented by extended functionalities (plugins and add-ons) for special purpose analysis. The software is used in many country-specific models around the world.\nOriginally maintained, developed and managed by the Institute for Social and Economic Research (ISER) of the University of Essex, since 2021 EUROMOD is maintained, developed and managed by the Joint Research Centre (JRC) of the European Commission, in collaboration with Eurostat and national teams from the EU countries. The model is open source since December 2020 (before December 2020 it was open access), with an increasing number of users across Europe and beyond. There are now several hundred active users from a range of institutional backgrounds, helping bridge the gap between academic research and policymaking.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Euva-Project.EUVA",
+    "name": "EUVA-reIDE",
+    "publisher": "Euva-Project",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -47551,6 +48069,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "EvolveOS.Optimizer",
+    "name": "EvolveOS Optimizer",
+    "publisher": "EvolveOS Software",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Natthasath.ExamTimer",
     "name": "ExamTimer",
     "publisher": "Natthasath",
@@ -47625,6 +48150,13 @@
     "name": "exifcleaner",
     "publisher": "szTheory",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "PrettyOakTree.EXIFmod",
+    "name": "EXIFmod",
+    "publisher": "prettyoaktree",
+    "description": "Desktop app for editing EXIF metadata using a preset catalog (SQLite). Metadata read and write use ExifTool on your machine. Install ExifTool separately or accept the OliverBetz.ExifTool dependency when installing with winget.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48416,6 +48948,13 @@
     "name": "FileLocator Pro",
     "publisher": "Mythicsoft Ltd",
     "description": "FileLocator Pro is a powerful Windows search tool for instantly finding text, patterns, and data within files (including Office, PDF, archives, and code) using advanced filters, regex, and scripting.\n- Deep Content Search: Scans inside 100+ file formats (text/binary).\n- Advanced Features: Regex, Boolean logic, scripting (JavaScript/Python), hex view.\n- Speed: Indexed or instant \"raw\" disk searches.\n= Professional Tools: Save templates, batch processing, command-line support.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Filemail.DesktopApp",
+    "name": "Filemail Desktop App",
+    "publisher": "Filemail AS",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50239,13 +50778,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "FxSound.FxSound",
-    "name": "FxSound",
-    "publisher": "FxSound LLC",
-    "description": "Free open-source software to boost sound quality, volume, and bass. Including an equalizer, effects, and presets for customized audio.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "FxSound.FxSound.Beta",
     "name": "FxSound",
     "publisher": "FxSound LLC",
@@ -50694,6 +51226,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Wangnov.GetFeishuDocs",
+    "name": "get-feishu-docs",
+    "publisher": "Wangnov",
+    "description": "Export Feishu documents into local HTML, PNG, PDF, Markdown, assets, and manifest outputs.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "geteduroam.getgovroam",
     "name": "getgovroam",
     "publisher": "geteduroam",
@@ -50764,6 +51303,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "cataggar.ghr",
+    "name": "ghr",
+    "publisher": "cataggar",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SigmaSistemi.Giant3",
     "name": "Giant3",
     "publisher": "Sigma Sistemi",
@@ -50789,6 +51335,13 @@
     "name": "GIF Viewer",
     "publisher": "luizzak",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "duyxyz.GIF-Overlay",
+    "name": "GIF-Overlay",
+    "publisher": "duyxyz",
+    "description": "GIF-Overlay allows you to display animated GIFs as overlays on your screen with customizable scaling, opacity, and transformation options. Built with WPF for high performance.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -50918,6 +51471,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "git-rain.git-rain",
+    "name": "git-rain",
+    "publisher": "git-fire",
+    "description": "git-rain discovers local git repositories and syncs them from their remotes in one command — the reverse of git-fire.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "gittuf.git-remote-gittuf",
     "name": "git-remote-gittuf",
     "publisher": "gittuf",
@@ -50943,6 +51503,13 @@
     "name": "gitch",
     "publisher": "Orkhan Rzazade",
     "description": "gitch helps you manage multiple Git identities (email, name, SSH keys, GPG keys).\nFeatures:\n- Switch between identities instantly\n- Auto-switching based on repository rules\n- SSH key management per identity\n- GPG signing key support\n- Shell prompt integration",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Kubis1982.GitFlow",
+    "name": "GitFlow",
+    "publisher": "Kubis1982",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51019,7 +51586,7 @@
     "id": "Axosoft.GitKraken",
     "name": "GitKraken",
     "publisher": "GitKraken",
-    "description": "Legendary Git GUI client for Windows, Mac & Linux.",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51188,6 +51755,13 @@
     "name": "glow",
     "publisher": "charmbracelet",
     "description": "Glow is a terminal based markdown reader designed from the ground up to bring out the beauty—and power—of the CLI.\nUse it to discover markdown files, read documentation directly on the command line and stash markdown files to your own private collection, so you can read them anywhere.\nGlow will find local markdown files in subdirectories or a local Git repository.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Syntropica_Studio.GSML",
+    "name": "GlowSquid Minecraft Launcher",
+    "publisher": "Syntropica Studio",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51450,6 +52024,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "GodwitIO.GodwitSync",
+    "name": "Godwit Sync",
+    "publisher": "Godwit",
+    "description": "Resumable, observable migrations for large S3-compatible object storage. Supports S3-to-S3, local-to-S3, and S3-to-local transfers. Commercial software with a permanent free tier (10 GB/run). 30-day trial (50 GB) available at https://godwit.io — no credit card required. Paid plans from €15/month.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GOG.Galaxy",
     "name": "GOG GALAXY",
     "publisher": "GOG.com",
@@ -51496,6 +52077,13 @@
     "name": "GoldWave",
     "publisher": "GoldWave Inc.",
     "description": "GoldWave is a highly rated, professional digital audio editor that turns your computer or mobile device into a\nrecording studio at your finger tips. Do everything from the simplest recording and editing to the most\nsophisticated audio processing, restoration, enhancements, and conversions. With millions of downloads over 25 years,\nGoldWave is a widely used, trusted and dependable program. It is easy to learn and use and is fully accessible, so\nget started now by downloading the fully functional evaluation version!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Gologin.Gologin",
+    "name": "Gologin",
+    "publisher": "GoLogin",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -51796,7 +52384,7 @@
     "id": "tumic0.GPXSee",
     "name": "GPXSee",
     "publisher": "Martin Tůma",
-    "description": "GPXSee is a Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats.\n\nFeatures:\n- Opens GPX, TCX, FIT, KML, NMEA, IGC, CUP, SIGMA SLF, Suunto SML, LOC, GeoJSON, OziExplorer (PLT, RTE, WPT), Garmin GPI&CSV, TomTom OV2&ITN, ONmove OMD/GHP, TwoNav (TRK, RTE, WPT), GPSDump WPT, Velocitek VTK, Vakaros VKX, 70mai GPS logs, GoPro GPMF videos, Sony RTMD videos, Google CAMM videos, Novatek/VIOFO dashcam videos and geotagged JPEG/MP4 files.\n- Opens geo URIs (RFC 5870).\n- User-definable online maps (OpenStreetMap/Google tiles, WMTS, WMS, TMS, QuadTiles).\n- Offline maps (MBTiles, PMTiles, OziExplorer maps, TrekBuddy maps/atlases, Garmin IMG/GMAP & JNX maps, TwoNav RMaps, GeoTIFF images, BSB charts, ENC charts, KMZ maps, AlpineQuest maps, Locus/OsmAnd/RMaps SQLite maps, Mapsforge vector maps, QCT maps, GEMF maps, Osmdroid SQLite maps, Orux maps, COROS maps, ESRI World-File georeferenced images).\n- Elevation, speed, heart rate, cadence, power, temperature and gear ratio/shifts graphs.\n- Support for DEM files (SRTM HGT).\n- Support for multiple tracks in one view.\n- Support for POI files.\n- Print/export to PDF/PNG.\n- Full-screen mode.\n- HiDPI/Retina displays & maps support.\n- Real-time GPS position.",
+    "description": "GPXSee is a Qt-based GPS log file viewer and analyzer that supports all common GPS log file formats.\n\nFeatures:\n- Opens GPX, TCX, FIT, KML, NMEA, IGC, CUP, SIGMA SLF, Suunto SML, LOC, GeoJSON, OziExplorer (PLT, RTE, WPT), Garmin GPI&CSV, TomTom OV2&ITN, ONmove OMD/GHP, TwoNav (TRK, RTE, WPT), GPSDump WPT, Velocitek VTK, Vakaros VKX, GoPro GPMF videos, DJI videos, Sony RTMD videos, Google CAMM videos, Novatek/VIOFO/Blackvue/Vantrue/70mai dashcam videos and geotagged JPEG/MP4 files.\n- Opens geo URIs (RFC 5870).\n- User-definable online maps (OpenStreetMap/Google tiles, WMTS, WMS, TMS, QuadTiles).\n- Offline maps (MBTiles, PMTiles, OziExplorer maps, TrekBuddy maps/atlases, Garmin IMG/GMAP & JNX maps, TwoNav RMaps, GeoTIFF images, BSB charts, ENC charts, KMZ maps, AlpineQuest maps, Locus/OsmAnd/RMaps SQLite maps, Mapsforge vector maps, QCT maps, GEMF maps, Osmdroid SQLite maps, Orux maps, COROS maps, ESRI World-File georeferenced images).\n- Elevation, speed, heart rate, cadence, power, temperature and gear ratio/shifts graphs.\n- Support for DEM files (SRTM HGT).\n- Support for multiple tracks in one view.\n- Support for POI files.\n- Print/export to PDF/PNG.\n- Full-screen mode.\n- HiDPI/Retina displays & maps support.\n- Real-time GPS position.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52199,6 +52787,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Fidpa.Hablara",
+    "name": "Hablará",
+    "publisher": "Fidpa",
+    "description": "Hablará uses AI to analyse audio and text: emotions, communication styles, and contemplative reflection.\n\nCORE ANALYSES\n- Emotion detection from voice and text (Dual-Track: Audio + LLM)\n- Plutchik's Wheel of Emotions, Russell (Circumplex Model)\n- Tone Analysis across five dimensions\n- Topic Classification (7 categories)\n\nREFLECTION\n- Bible Impulse: 1–3 thematically matching Bible verses for your transcript\n- Prayer: AI-generated prayer tailored to content and emotion\n\nAI CHAT\n- Automatic conversation summary in the chat history\n- Contextual AI chat about your recordings\n- AI chat about the app and its concepts\n\nEXPORT\n- PDF export with transcription and analyses\n- Chat export in 5 formats (Markdown, TXT, PDF, HTML, DOCX)\n- Download recordings as WAV\n\n100% OFFLINE CAPABLE\n- Local transcription via whisper.cpp\n- Local AI via Ollama (free)\n- Your data stays on your device\n- No cloud required, no subscription fees\n\nFLEXIBLE LLM CHOICE\n- Ollama (default, local, free)\n- OpenAI (optional, cloud)\n- Anthropic Claude (optional, cloud)\n- Mistral (optional, cloud, EU data residency)\n\nPRIVACY & GDPR\n- API keys encrypted in Windows Credential Manager\n- Recordings stored locally\n- Configurable automatic deletion\n- Anonymous crash reporting with opt-in only (EU servers)\n\nFor advanced psychological analyses (logical fallacies, NVC, cognitive distortions, four-sides model, transactional analysis, appraisal theory, regulatory focus, conversation analysis and coaching): Hablará Pro in the Microsoft Store.\n\nIMPORTANT: Not a substitute for professional advice. For self-reflection, not diagnosis. AI-generated analyses may be inaccurate (EU AI Act Art. 52).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SourceFoundry.HackFonts",
     "name": "Hack Fonts",
     "publisher": "Michael Hex / Source Foundry",
@@ -52521,6 +53116,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Hashicorp.Vault",
+    "name": "Hashicorp Vault",
+    "publisher": "HashiCorp, Inc.",
+    "description": "Vault is a tool for securely accessing secrets. Vault provides a unified interface to any secret, while providing tight access control and recording a detailed audit log.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Hashicorp.Waypoint",
     "name": "HashiCorp Waypoint",
     "publisher": "HashiCorp",
@@ -52574,6 +53176,13 @@
     "name": "hato",
     "publisher": "Midry",
     "description": "Before performing important tasks like committing or pushing to a repository, you can review a pre-set checklist. Of course, you can also use it as a standalone checklist or simply as a task runner.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "kevinboss.haus",
+    "name": "haus",
+    "publisher": "Kevin Boss",
+    "description": "A command-line interface for Home Assistant.\nProvides commands to inspect states, call services, fire events, manage automations, and install updates against a Home Assistant instance.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52643,7 +53252,7 @@
     "id": "M-Igashi.headroom",
     "name": "headroom",
     "publisher": "M-Igashi",
-    "description": "headroom analyzes audio files for loudness (LUFS) and headroom, then applies lossless gain adjustment.\nIt supports MP3, AAC/M4A, FLAC, AIFF, and WAV files.\nFeatures include batch processing, ReplayGain analysis, and integration with mp3rgain for lossless MP3 adjustment.",
+    "description": "headroom analyzes audio files for loudness (LUFS) and headroom, then applies lossless gain adjustment.\nIt supports MP3, AAC/M4A, FLAC, AIFF, and WAV files.\nFeatures include batch processing, ReplayGain analysis, lossless MP3 gain via mp3rgain, lossless AAC/M4A gain adjustment, and a scriptable non-interactive CLI mode for pipelines and CI.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52686,6 +53295,13 @@
     "name": "Heat Save Manager",
     "publisher": "Eduardo Baltra",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VibeSmiths.HeatSync",
+    "name": "HeatSync",
+    "publisher": "VibeSmiths",
+    "description": "Real-time system monitor for Windows with animated gauges for CPU and GPU usage and temperature, sparkline graphs, 10 themes, compact mode, system tray, configurable alerts, CSV/NDJSON data export, and per-metric profiles. LibreHardwareMonitor is bundled for sensor access — no extra installs needed.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -52794,6 +53410,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HMCL.HMCL.Dev",
+    "name": "Hello Minecraft! Launcher 开发版",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "HMCL.HMCL.Dev.CNB",
+    "name": "Hello Minecraft! Launcher 开发版",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Basti-def.helloworld.package",
     "name": "helloworld.package",
     "publisher": "Basti-def",
@@ -52896,6 +53526,13 @@
     "name": "HexChat",
     "publisher": "HexChat",
     "description": "HexChat is an open source, feature-rich, multi-network IRC client based on XChat. It offers a wide range of features, including Python/Perl scripting, spellcheck, proxies, SASL, DCC support. With an easy to use interface, it offers a great method of chatting online.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "makhlwf.HexPlayer",
+    "name": "HexPlayer",
+    "publisher": "makhlwf",
+    "description": "an accessibile youtube browser for screen reader users",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53071,6 +53708,13 @@
     "name": "HonorSuite",
     "publisher": "Honor Device Co., Ltd.",
     "description": "“手机助理”是一款管理荣耀终端设备（手机和平板）的工具软件，为终端设备提供联系人、短信、图片、视频、应用管理、文件管理、截屏演示、应用市场、游戏中心、WLAN 连接等管理功能，并提供设备的数据备份及恢复、系统更新和系统修复功能。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RedEyeNetworks.HopMatrix",
+    "name": "HopMatrix",
+    "publisher": "RedEye Network Solutions LLC",
+    "description": "HopMatrix is a portable, single-executable, cross-platform network analysis platform\nwith eight operational modes: Trace, Monitor, iPerf, OUI/MAC Lookup, SNMP, Multicast,\nL2 Inspector, and Quick Tools. Features continuous multi-path traceroute with real-time\ntopology visualization, 256-endpoint fleet monitoring, iperf3-compatible bandwidth\ntesting, SNMP v1/v2c/v3 discovery, and multicast/CDP/LLDP analysis.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -53508,6 +54152,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "vituperative.i2pchat",
+    "name": "I2PChat",
+    "publisher": "vituperative",
+    "description": "A lightweight, secure chat client for the I2P network built with Qt5.  Includes a built-in web interface and supports Win32 systems. For usage need SAM-i2p bridge",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MetanoicArmor.I2PChat.TUI",
     "name": "I2PChat TUI",
     "publisher": "MetanoicArmor",
@@ -53907,6 +54558,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "MesterPerfect.IlmQuiz",
+    "name": "IlmQuiz",
+    "publisher": "MesterPerfect",
+    "description": "IlmQuiz is an interactive, open-source Islamic quiz game designed to enrich religious knowledge in a fun and engaging way. The game is built to run efficiently across all operating systems, with a strong focus on accessibility to ensure an inclusive experience for everyone, including blind and visually impaired users.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "iLovePDF.iLovePDFDesktop",
     "name": "iLovePDF",
     "publisher": "iLovePDF.S.L",
@@ -54103,6 +54761,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ericcurtin.inferrs",
+    "name": "inferrs",
+    "publisher": "ericcurtin",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "fetacore.InfiniTex",
     "name": "InfiniTex",
     "publisher": "fetacore",
@@ -54183,7 +54848,7 @@
     "id": "Havysoft.InnoExtractor",
     "name": "InnoExtractor",
     "publisher": "Havy Alegria",
-    "description": "InnoExtractor is a powerful unpacker and forensic app for Inno Setup-based installers.\nIt allows you to open, examine, inspect, extract and more the files and internal content of installers (also known as \"setups\"), without having to start/run the installation wizard.\n\nKey features：\n- Simple and easy-to-use user interface.\n- Support installers compiled with Inno Setup from 1.3.26 to 6.5.1.\n- Open installers by simply drag and drop the executables from file explorer into app window.\n- Search and discover installers in your entire hard drive using the built-in scan engine.\n- Explore and inspect internal content (files and more) of the installer.\n- Use VirusTotal technology to quickly scan and detect viruses and other threats inside the installer.\n- Run standalone files of the installer within the same app without starting the installation wizard.\n- Extract the internal files of installer to a local folder using drag and drop, to a ZIP compressed format or to an SFX module.\n- Export full Script (source code) of installer to a Inno Setup ISS file.\n- Export \"Registry\" section of the script to a standard Registry file format.\n- Export \"INI\" section of the script to a standard INI file format.\n- Save the installer icon in all sizes.\n- Decompile the \"Code\" (RemObjects Pascal pre-compiled Source) section of the script to a readable pseudo-Assembly file.\n- Simulates the real installation paths where files will be copied to your hard drive.\n- See advanced information of installer in Properties panel.\n- Perform file searches by keyword.\n- Integrated Script/Registry/INI file viewer and editor.\n- Integrated History Manager that shows recently opened installers.\n- Identify password protected files, if any, inside the installer (with an already known password).\n- Multilanguage interface, including in English, Spanish, Arabic, Azerbaijani, Bulgarian, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Russian and Turkish.\n- Full Unicode support.\n- Available in two editions：Free and Plus",
+    "description": "InnoExtractor is a powerful unpacker and forensic app for Inno Setup-based installers.\nIt allows you to open, examine, inspect, extract and more the files and internal content of installers (also known as \"setups\"), without having to start/run the installation wizard.\n\nKey features：\n- Simple and easy-to-use user interface.\n- Support installers compiled with Inno Setup from 1.3.26 to 6.5.1.\n- Open installers by simply drag and drop the executables from file explorer into app window.\n- Search and discover installers in your entire hard drive using the built-in scan engine.\n- Explore and inspect internal content (files and more) of the installer.\n- Use VirusTotal technology to quickly scan and detect viruses and other threats inside the installer.\n- Run standalone files of the installer within the same app without starting the installation wizard.\n- Extract the internal files of installer to a local folder using drag and drop, to a ZIP compressed format or to an SFX module.\n- Export full Script (source code) of installer to a Inno Setup ISS file.\n- Export \"Registry\" section of the script to a standard Registry file format.\n- Export \"INI\" section of the script to a standard INI file format.\n- Save the installer icon in all sizes.\n- Decompile the \"Code\" (RemObjects Pascal pre-compiled Source) section of the script to a readable pseudo-Assembly file.\n- Simulates the real installation paths where files will be copied to your hard drive.\n- See advanced information of installer in Properties panel.\n- Perform file searches by keyword.\n- Integrated Script/Registry/INI file viewer and editor.\n- Integrated History Manager that shows recently opened installers.\n- Identify password protected files, if any, inside the installer (with an already known password).\n- Multilanguage interface, including in English, Spanish, Arabic, Azerbaĳani, Bulgarian, Chinese, Czech, Danish, Dutch, French, German, Greek, Hungarian, Italian, Japanese, Korean, Polish, Portuguese, Russian and Turkish.\n- Full Unicode support.\n- Available in two editions：Free and Plus",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54331,6 +54996,13 @@
     "name": "InstalledPackagesView",
     "publisher": "NirSoft",
     "description": "InstalledPackagesView is a tool for Windows that displays the list of all software packages installed on your system with Windows Installer, and lists the files, Registry keys, and .NET Assemblies associated with them. For every installed software, the following information is displayed: Display Name, Display Version, Install Date, Registry Time, Estimated Size, Install Location, Install Source, MSI Filename (In C:\\Windows\\Installer), and more...\nYou can watch the installed software packages information from your local system or from another system on external hard-drive.\nThe installed software information is loaded from the following Registry keys:\nHKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\Products\nHKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Installer\\UserData\\Components\n\nBe aware that this tool lists only software installed by Windows Installer (MSI), it doesn't list any software installed by other installers.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NoFaff.InstallerClean",
+    "name": "InstallerClean",
+    "publisher": "No Faff",
+    "description": "InstallerClean safely reclaims disk space by removing orphaned files from C:\\Windows\\Installer, the hidden folder Windows never cleans up. It queries the Windows Installer API to find installers left behind by uninstalled software and patches replaced by newer ones, then lets you delete them to the Recycle Bin or move them somewhere safe. Free, open source, no telemetry.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54922,13 +55594,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "IsWiX.IsWiX",
-    "name": "IsWiX",
-    "publisher": "ISWIX LLC",
-    "description": "Industrial Strength Windows Installer XML ( IsWiX ) makes authoring Windows Installer XML (WiX) Windows Installers (.\nMSI) a breeze.\nIt includes Visual Studio project templates and graphical designers to aid you in authoring 95% of your source code.\nFrom there you can author additional code using standard WiX programming techniques.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "ItchIo.Itch",
     "name": "itch",
     "publisher": "itch corp.",
@@ -55080,6 +55745,13 @@
     "name": "Jami",
     "publisher": "Savoir-faire Linux",
     "description": "Jami is a free/libre, end-to-end encrypted, and private communication software.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Jamie.WespondUG.JamieAI",
+    "name": "Jamie AI",
+    "publisher": "Jamie (Wespond UG)",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55269,6 +55941,13 @@
     "name": "jEdit",
     "publisher": "Contributors",
     "description": "jEdit 是一款成熟的程序员专属的文本编辑器，经过数百人（包括开发插件的时间）的开发，已成为程序员的必备工具。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "robinovitch61.jeeves",
+    "name": "jeeves",
+    "publisher": "robinovitch61",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -55650,6 +56329,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "stescobedo92.JWMV",
+    "name": "JWMV",
+    "publisher": "Sergio Triana Escobedo",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "CodecGuide.K-LiteCodecPack.Basic",
     "name": "K-Lite Codec Pack Basic",
     "publisher": "KLCP",
@@ -55860,6 +56546,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HiroyukiFuruno.katana-desktop",
+    "name": "KatanA Desktop",
+    "publisher": "HiroyukiFuruno",
+    "description": "KatanA Desktop",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "KDE.Kate",
     "name": "Kate",
     "publisher": "KDE e.V.",
@@ -56007,6 +56700,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "wipedlifepotato.kekulen-i2p-chat",
+    "name": "Kekulen I2P Chat (Fix Edition)",
+    "publisher": "WipedLifePotato",
+    "description": "A decentralized messenger for the I2P network. Unlike other versions, this one is optimized for low memory usage and supports Windows XP (x86). Supports JSON-RPC on /swagger-ui page.  To use the web-interface, create a 'server' directory and download index.html: mkdir server && curl -L https://raw.githubusercontent.com/wipedlifepotato/Kekulen-I2P-Messanger/SAM/server/index.html -o server/index.html",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Kensington.DockWorks",
     "name": "Kensington DockWorks",
     "publisher": "ACCO Brands",
@@ -56032,6 +56732,13 @@
     "name": "KeraDB CLI",
     "publisher": "KeraDB",
     "description": "KeraDB is a single-file, embedded document database designed for simplicity and ease of use. \nThink SQLite, but for JSON documents! It provides a CLI tool and library for working with \ndocument-oriented data storage with automatic indexing and persistent storage.\n\nFeatures:\n- Single-file database format\n- Fast and memory-safe (written in Rust)\n- Document-oriented storage with JSON documents\n- Primary key indexing for fast lookups\n- Interactive REPL and command-line interface\n- Collections for organizing documents\n- Simple and easy-to-use API",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Pantelis23.KernRift",
+    "name": "KernRift",
+    "publisher": "Pantelis Christou",
+    "description": "KernRift is a self-hosted bare-metal systems programming language and compiler. It compiles to native x86_64 and ARM64 binaries for Linux, Windows, macOS, and Android. The compiler is written entirely in KernRift itself and produces ELF, PE, Mach-O, and fat binaries.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -58821,6 +59528,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Mailwing.Mailwing",
+    "name": "Mailwing",
+    "publisher": "Mailwing",
+    "description": "Mailwing wraps Gmail, Zoho Mail, and Outlook Web — along with their companion apps — in a\nsingle native window. Each account gets a fully isolated browser session, a live unread badge,\nand desktop notifications that click straight to the right inbox.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MajsoulPlus.MajsoulPlus",
     "name": "Majsoul Plus",
     "publisher": "Majsoul Plus Team",
@@ -58996,6 +59710,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Cod-e-Codes.Marchat",
+    "name": "marchat",
+    "publisher": "Cod-e-Codes",
+    "description": "marchat is a self-hosted terminal chat with real-time messaging over WebSockets, optional E2E encryption, and a plugin ecosystem. This package installs the official release build of marchat-client and marchat-server.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MariaDB.Server",
     "name": "MariaDB",
     "publisher": "MariaDB Corporation Ab",
@@ -59084,6 +59805,13 @@
     "name": "matcha",
     "publisher": "floatpane",
     "description": "A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library.\nNever leave your command line to check your inbox or send an email again!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "MatchWare.MindView.9",
+    "name": "MatchWare MindView 9",
+    "publisher": "MatchWare",
+    "description": "MatchWare® MindView™ is the perfect tool for organizing information! Easy to learn and easy to use, MindView is a highly effective way of brainstorming, developing and structuring ideas visually. It is equally well suited for use in education, business and organizations.\n\nIt's your idea. What do you want to do with it?\nMindView is based on the concept of using mind maps®. A mind map consists of a central topic surrounded by other topics with relevant information related to the subject of the central topic. By organizing information in a visual and non-hierarchical manner, mind maps help individuals and businesses achieve higher levels of performance.\nUsing MindView, you can quickly create, edit and design mind maps to organize your ideas. But you are not limited to using only mind maps, and you have access to a wide range of features that give you a world of options for developing and using information. The premise is very simple: It's your idea. What do you want to do with it?\n\nQuickly develop and edit your ideas\nYou can quickly create a new document based on a central topic and insert more topics with additional information. MindView contains a wide selection of ready-made templates, but you can also work from scratch and get results fast. You can quickly reorganize your ideas by dragging and dropping them.\nYou can insert icons and pictures that help you get an overview of your document. You can capture images and text from any source and dictate ideas using your microphone. You can add numerical values to your topics and insert formulas that automatically carry out calculations on those values. MindView gives you built-in design and formatting options that help you quickly develop the visual aspect of your document, and you have many options for navigating and viewing your document down to the smallest detail.\nEditing your topics is as easy as using a word processor. You can add comments and text notes with additional detail, and you can create a bibliography for your document and insert citations. If you need even more detail or reference material, you can add any file type as an attachment. And if you should run out of inspiration when creating or editing your document, the built-in AI feature helps you quickly create, edit and translate content, greatly speeding up your brainstorming processes.\n\nView your content the way you want\nSometimes ideas simply make better sense when seen in a different view. With MindView, you can view your content as a mind map (including Top Down, WBS, Left and Right views) or as a timeline, an outline, a Kanban board, a year wheel or a Gantt chart.\nEach view has its particular advantages. For example, the mind mapping views are great for brainstorming, the Kanban and Year Wheel views are ideal for task management, and the Gantt view is well suited for complex project management. But no matter which view you switch to, the content of your document is not affected (except in some cases when you switch to the Gantt view; for more information, see \"Using different views\"). Not sure if you need to use your content as a task list, a timeline or an organization chart? Try them all out: With MindView, you do not need to make a final decision.\n\nConnect and collaborate\nMindView lets you store your documents in online workspaces such as Google Drive or Microsoft OneDrive and share them with other MindView users, and you can send your documents to other users via e-mail. If you log into your MatchWare account from MindView, you get full access to the extensive collaboration features available through the MindView suite:\n- You can collaborate with other users in real time by storing documents on the MatchWare-specific workspace MindView Drive. Files stored here can also be opened from MindView Online and from MindView for Mac.\n- You can publish your documents on the public MatchWare map library.\n- You can use the Task System to easily share tasks with other MindView users.\n- You can use the MindView Assist smartphone app to create research notes and tasks, and insert them in your documents in MindView.\n\nUse MindView your way\nThe assistive technology features in MindView help any user use the application. In addition to using mouse and keyboard, you can use the application using pen, touch and speech input. You can dictate content to the application, you can let MindView provide suggestions as you type, you can access all important commands using shortcut keys, you can set the background color used in text notes, and you can have the content of topics and notes read aloud.\nSome of these features are only available in the AT Edition.\nMindView is audited by the Digital Accessibility Centre in line with WCAG 2.2 AA standards.\n\nImport and export your documents\nWould you like to start working on a project from an existing Microsoft Office file? Or import a task list from Outlook? No problem. Using MindView, you can easily import documents and task lists from several Microsoft Office applications, from an XML file and from other mind mapping applications.\nSimply select the file you want and let MindView do the rest. Text, numbers, images, slides and other content are automatically converted to topics and other elements in MindView.\nWhen you have finished working on your MindView document, you can export it to Microsoft Office using a variety of creative templates, as a PDF, RTF or XML file, as a picture, or as a fully functional HTML-based web site that you can upload to an FTP server directly from MindView. You can synchronize task information between MindView and Outlook to eliminate redundancies. And if you are working on a Gantt chart, you can export it to Microsoft Project to take full advantage of the advanced project management capabilities of that application.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59521,6 +60249,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "tanaton.mendo",
+    "name": "mendo",
+    "publisher": "tanaton",
+    "description": "Webブラウザを使わず、Direct2D/DirectWriteによる自前レンダリングでWindows向け高速Markdownビュアーを実現するネイティブアプリケーション。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Mercurial.Mercurial",
     "name": "Mercurial",
     "publisher": "Olivia Mackall and others",
@@ -59530,6 +60265,13 @@
   {
     "id": "Alex313031.Mercury",
     "name": "Mercury",
+    "publisher": "Alex313031",
+    "description": "Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and Ghostery.\nIt aims to be the Firefox equivalent of my main project: Thorium (a Chromium fork).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Alex313031.Mercury.AVX2",
+    "name": "Mercury AVX2",
     "publisher": "Alex313031",
     "description": "Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and Ghostery.\nIt aims to be the Firefox equivalent of my main project: Thorium (a Chromium fork).",
     "icon": "/icons/intunify-default.png"
@@ -59700,6 +60442,13 @@
     "name": "Mica For Everyone",
     "publisher": "Mica For Everyone",
     "description": "Mica For Everyone is a tool to customize system backdrop on Win32 apps using DwmSetWindowAttribute and other methods. It can apply Mica (or any other backdrop materials) on the non-client area (window frame) or background of supported apps and its behavior is customizable through a GUI and a config file.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "itsnateai.MicMute",
+    "name": "MicMute",
+    "publisher": "itsnateai",
+    "description": "System-wide microphone mute toggle with global hotkeys, push-to-talk, deafen mode, mute lock, and tray icon. Works with Zoom, Discord, Teams, and all other apps.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61012,10 +61761,10 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "XmacsLabs.Mogan",
+    "id": "MoganLab.Mogan",
     "name": "Mogan Research",
     "publisher": "XmacsLabs",
-    "description": "Mogan Editor is a structure editor delivered by the Xmacs Labs.\nMogan Editor is a libre software forked from GNU TeXmacs.",
+    "description": "墨干编辑器是墨者实验室旗下的结构化编辑器。\n墨干编辑器基于 GNU TeXmacs 研发定制的自由软件。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61117,6 +61866,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "melon-masou.MonMouse",
+    "name": "MonMouse",
+    "publisher": "melon-masou",
+    "description": "Seamless switching between multiple mouses on multiple monitors.\nThe initial motivation behind MonMouse was reducing mouse movement when primarily working on the primary monitor and occasionally utilising a pen tablet on the secondary monitor. The need to repeatedly move the mouse back to the primary monitor when switching to writing is tedious.\nAdditionally, MonMouse integrates features aimed at enhancing mouse workflow across multiple monitors.\nNOTE：MonMouse is different from mouse multiplexer designed for multiple users \"sharing\" one PC with their own mouse. Instead, it remembers the cursor's position when you switch to another mouse, eliminating the need to reposition the cursor each time. Please note that MonMouse is not intended for use with two mouses simultaneously.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Mono.Mono",
     "name": "Mono",
     "publisher": "Mono Project",
@@ -61156,6 +61912,20 @@
     "name": "Moosync",
     "publisher": "Ovenoboyo",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Urin.moove",
+    "name": "moove",
+    "publisher": "Urin",
+    "description": "Rename and move files and directories by editing a generated list in your preferred text editor.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "TKORP.MooveoLauncher",
+    "name": "Mooveo Launcher",
+    "publisher": "TKORP",
+    "description": "Mooveo Launcher lets you manage, install and launch virtual reality\nexperiences on your stations. License management, game library,\nkiosk mode and multi-VR-headset support.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61313,7 +62083,7 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "FAI-Solution.move-window-between-desktops",
+    "id": "FAI-Solutions.move-window-between-desktops",
     "name": "Move Window Between Desktops",
     "publisher": "FAI-Solutions",
     "description": "Windows 10 and 11 let you switch between virtual desktops using Ctrl+Win+Arrow, but they lack a built-in shortcut to move the currently active window to another desktop. This script fills that gap by allowing you to move your active window to the next or previous virtual desktop on Windows 10 / 11 with a single keyboard shortcut - a feature Microsoft should have included long ago.",
@@ -62937,6 +63707,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "itsnateai.MWBToggle",
+    "name": "MWBToggle",
+    "publisher": "itsnateai",
+    "description": "Stop Mouse Without Borders from intercepting local copy/paste, prevent lag on large file copies. Hotkey plus tray icon, zero CPU when idle. Pinned OSD bubble above the system tray confirms every toggle.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "ChronoplexSoftware.MyFamilyTree",
     "name": "My Family Tree",
     "publisher": "Chronoplex Software",
@@ -63199,28 +63976,28 @@
     "id": "PremiumSoft.NavicatBI",
     "name": "Navicat BI",
     "publisher": "PremiumSoft CyberTech Ltd.",
-    "description": "Navicat BI turns your data into effective visualizations to have clear insights in data through charts and graphs.\n\nTransform your data into impactful visualizations during the data exploration and visualization phase of your Business Intelligence (BI) process. By simplifying data analysis and leveraging interactive dashboards, you can easily share your workspaces with colleagues, facilitating collaborative decision-making and aligning your business strategies with data-driven intelligence.\n\n* Create a data source from various types of databases. You can also import data into the workspace, or link the data source to the data in a supported external file.\n* Integrate a data profiling tool in Data Preview to provide a comprehensive view of your data. You can interact with the visual charts to further explore the data, such as drilling down into specific data segments, filtering data based on certain criteria, or highlighting data points of interest.\n* Extend your data with customized fields. You can capture data not available in the standard fields to better suit your unique requirements.\n* Specify and integrate data from any chosen data source with ease.\n\nSupported Databases: MySQL, PostgreSQL, SQL Server, Oracle, SQLite, MariaDB, MongoDB, Snowflake\n\nWe offer a 14-day fully functional FREE trial of Navicat BI.",
+    "description": "Transform your data into impactful visualizations during the data exploration and visualization phase of your Business Intelligence (BI) process. By simplifying data analysis and leveraging interactive dashboards, you can easily share your workspaces with colleagues, facilitating collaborative decision-making and aligning your business strategies with data-driven intelligence.",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "PremiumSoft.NavicatBIViewer",
     "name": "Navicat BI Viewer",
     "publisher": "PremiumSoft CyberTech Ltd.",
-    "description": "Navicat BI Viewer is an easy-to-use tool for viewing BI workspace files. Allow you to navigate workspaces designed by Navicat's BI feature or Navicat BI.",
+    "description": "Navicat BI Viewer is an easy-to-use tool for viewing BI workspace files. With its friendly Graphical User Interface (GUI), Navicat BI Viewer allows you to navigate workspaces designed by Navicat's BI feature or Navicat BI. You can access local workspace files, or workspace files stored in Navicat Cloud or Navicat On-Prem Server.",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "PremiumSoft.NavicatDataModeler",
     "name": "Navicat Data Modeler",
     "publisher": "PremiumSoft CyberTech Ltd.",
-    "description": "Navicat Data Modeler is a powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models. It allows you to visually design database structures, perform reverse/forward engineering processes, import models from ODBC data sources, generate complex SQL/DDL, print models to files, and much more.\n\nSimplify the task of creating complex entity relationship models and generate the script SQL with a simple click. Navicat Data Modeler supports various database systems, including MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle, SQLite, and Snowflake.\n\nCreate, modify, and design your models using professional object designers, available for Tables, Views, Functions and Procedures. Without the need to write complex SQL to create and edit objects, you’ll know exactly what you are working on. Also, Navicat Data Modeler supports three standard notations: Crow’s Foot, IDEF1x and UML. Using our feature-rich, simple, and user-friendly drawing tools, you can develop a complete data model with just a few clicks.\n\nNavicat Data Modeler enables you to build high-quality conceptual, logical and physical data models for a wide variety of audiences. Using the Model Conversion feature, you can convert a conceptual business-level model into a logical relational database model and then into a physical database implementation. From sketching a big picture of your system design to viewing relationships and working with attributes and columns from linked entities, tables and views. You can easily deploy accurate changes to database structures and build organized and more effective database systems.",
+    "description": "Navicat Data Modeler is a powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models. It allows you to visually design database structures, perform reverse/forward engineering processes, import models from ODBC data sources, generate complex SQL/DDL, print models to files, and much more.",
     "icon": "/icons/intunify-default.png"
   },
   {
     "id": "PremiumSoft.NavicatDataModelerLite",
     "name": "Navicat Data Modeler Lite",
     "publisher": "PremiumSoft CyberTech Ltd.",
-    "description": "Navicat Data Modeler is a powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models. It allows you to visually design database structures, perform reverse/forward engineering processes, import models from ODBC data sources, generate complex SQL/DDL, print models to files, and much more.\n\nSimplify the task of creating complex entity relationship models and generate the script SQL with a simple click. Navicat Data Modeler supports various database systems, including MySQL, PostgreSQL, MongoDB, MariaDB, SQL Server, Oracle, SQLite, and Snowflake.\n\nCreate, modify, and design your models using professional object designers, available for Tables, Views, Functions and Procedures. Without the need to write complex SQL to create and edit objects, you’ll know exactly what you are working on. Also, Navicat Data Modeler supports three standard notations: Crow’s Foot, IDEF1x and UML. Using our feature-rich, simple, and user-friendly drawing tools, you can develop a complete data model with just a few clicks.\n\nNavicat Data Modeler enables you to build high-quality conceptual, logical and physical data models for a wide variety of audiences. Using the Model Conversion feature, you can convert a conceptual business-level model into a logical relational database model and then into a physical database implementation. From sketching a big picture of your system design to viewing relationships and working with attributes and columns from linked entities, tables and views. You can easily deploy accurate changes to database structures and build organized and more effective database systems.\n\nMaximum of 5 Users per Organization.",
+    "description": "Navicat Data Modeler Lite is a powerful and easy-to-use database design tool for creating and manipulating data models. It supports various database systems, including MySQL, MariaDB, Oracle, SQL Server, PostgreSQL, MongoDB, SQLite and Snowflake.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64512,6 +65289,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "nullCarbon.RevitExport",
+    "name": "nullCarbon Revit Export",
+    "publisher": "nullCarbon",
+    "description": "nullCarbon Revit Export is a per-user Autodesk Revit add-in that exports\nschedules straight to the nullCarbon LCA (Life Cycle Assessment) platform.\nSupports Revit 2023, 2024, 2025, and 2026. Installs without admin rights\nunder %LocalAppData%\\nullCarbon-LCA-Export\\ and adds a single \"nullCarbon\"\nribbon tab with the Export button.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Nullpomino.Nullpomino",
     "name": "NullpoMino",
     "publisher": "NullNoname",
@@ -64985,6 +65769,13 @@
     "name": "odrive",
     "publisher": "Oxygen Cloud, Inc.",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "OEClassic.OEClassic",
+    "name": "OE Classic",
+    "publisher": "Infobyte",
+    "description": "OE Classic is an email and Usenet reader designed to be a perfect replacement for Outlook Express,\nWindows Mail, Windows Live Mail and even Mozilla Thunderbird.\n\nThe ultimate goal of OE Classic is to be an easy to use, fast, small and secure program with lots of\npower features and yet, easy to use for a beginner. Your data always belongs to you as it is stored\nin a public-domain format and there are no storage size limits.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66206,6 +66997,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "QuinGillespie.Paperback",
+    "name": "Paperback",
+    "publisher": "Quin Gillespie",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "PaperCutSoftware.MobilityPrint",
     "name": "PaperCut Mobility Print",
     "publisher": "PaperCut Software International Pty Ltd",
@@ -66458,6 +67256,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.Pave",
+    "name": "Pave",
+    "publisher": "Microsoft",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Compuphase.Pawn",
     "name": "Pawn embedded scripting language",
     "publisher": "CompuPhase",
@@ -66553,6 +67358,13 @@
     "name": "pCon.planner Pro",
     "publisher": "EasternGraphics",
     "description": "pCon.planner is a CAD application tailored to the needs of interior designers. The PRO version of pCon.planner empowers your design process with additional professional tools and features.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GrumpyCoders.PCSX-Redux",
+    "name": "PCSX-Redux",
+    "publisher": "GrumpyCoders",
+    "description": "The PCSX-Redux project is a collection of tools, research, hardware design, and libraries aiming at development and reverse engineering on the PlayStation 1. The core product itself, PCSX-Redux, is yet another fork of the Playstation emulator, PCSX.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66833,6 +67645,13 @@
     "name": "Pencil-Desktop",
     "publisher": "High Agency",
     "description": "Pencil is an agent-driven MCP canvas built around an open design format that lives in your codebase.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Pencil2D.Pencil",
+    "name": "Pencil2D",
+    "publisher": "Pencil2D",
+    "description": "Pencil2D is a free and open source animation/drawing software for Windows, macOS, Linux, and\nFreeBSD. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector\ngraphics.\n\nPencil2D is a community-driven project developed entirely by volunteers and we are always looking\nfor more helping hands! There are many different ways to contribute, so anyone can help regardless\nof their background. For more information, please see the Contributing section below.\n\nDon't forget to check out our official website: https://www.pencil2d.org/",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -67655,6 +68474,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Podman.CLI",
+    "name": "Podman",
+    "publisher": "Red Hat",
+    "description": "Podman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using Open Containers Initiative (OCI) Containers and Container Images.\nPodman provides a command line interface (CLI) familiar to anyone who has used the Docker Container Engine.\nMost users can simply alias Docker to Podman (alias docker=podman) without any problems.\nSimilar to other common Container Engines (Docker, CRI-O, containerd), Podman relies on an OCI compliant Container Runtime (runc, crun, runv, etc) to interface with the operating system and create the running containers.\nThis makes the running containers created by Podman nearly indistinguishable from those created by any other common container engine.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RedHat.Podman",
     "name": "Podman",
     "publisher": "Red Hat",
@@ -67725,6 +68551,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "co2lab.Polvo",
+    "name": "Polvo",
+    "publisher": "co2lab",
+    "description": "Polvo watches your repository for file changes and triggers specialized AI agents to generate, verify, and fix project artifacts via Pull Requests. Includes a built-in web IDE with code editor, integrated terminal, and agent dashboard.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Poly.PolyLens",
     "name": "Poly Lens",
     "publisher": "Poly, Inc.",
@@ -67789,9 +68622,9 @@
   },
   {
     "id": "PopcornTime.Popcorn-Time",
-    "name": "Popcorn Time™",
+    "name": "Popcorn-Time",
     "publisher": "Popcorn Time",
-    "description": "This is a complete rebuild of Popcorn Time. Not a fork, not a patch - a fresh\nstart with new goals and a clean foundation. This repository will be the home\nfor ongoing development, documentation, and releases.\n\n#### What's New\n\n- Modern, safer, and legal\n- Cross-platform: desktop, mobile, and TV\n- Open source and community driven\n- Weekly published databases for developers and researchers - issue #3113\n- Local media playback, not just links (soon)",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -68176,6 +69009,13 @@
     "id": "Timeraa.PreMiD",
     "name": "PreMiD",
     "publisher": "Timeraa",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Ephraem.PremiereCompanion",
+    "name": "Premiere Companion",
+    "publisher": "Ephraem",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -68656,6 +69496,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PrSM.PrSM",
+    "name": "PrSM Language",
+    "publisher": "PrSM Contributors",
+    "description": "PrSM (Pragmatic Reduced Syntax for Metascript) is a Unity-first scripting language toolkit.\nIt compiles .prsm scripts to readable C# with syntax sugar for components, coroutines,\nevent listeners, input handling, interfaces, generics, singleton, object pooling,\npattern matching, async/await, state machines, and reactive bindings.\nLanguage 5 adds general yield, attribute targets, preprocessor directives, ref/out/vararg\nparameters, nameof, advanced patterns (relational/combinator/positional/property),\nwith expressions, ref locals, partial declarations, and a DAP debugger adapter.\nIncludes VS Code extension and Unity Editor package.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Paessler.PRTGDesktop",
     "name": "PRTG Desktop",
     "publisher": "Paessler AG",
@@ -68751,6 +69598,13 @@
     "name": "ptx",
     "publisher": "PortX",
     "description": "PTX CLI is the command-line interface for the PortX platform. It provides:\n- Authentication via OIDC device flow\n- EKS cluster access and kubeconfig management\n- SSM-based port forwarding to databases and services\n- Project provisioning and management",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "marcinjahn.puff",
+    "name": "puff",
+    "publisher": "Marcin Jahn",
+    "description": "Puff manages private configuration files (.env, credentials, etc.) of your git repos by storing them in a central location and creating symlinks in your projects. Moving to a new machine or setting up git worktrees is as easy as running puff init.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69254,7 +70108,7 @@
     "id": "QLogExplorer.QLogExplorer",
     "name": "QLogExplorer",
     "publisher": "QLogExplorer",
-    "description": "QLogExplorer is a free and open source log files viewer with advanced features.\nMain features:\n- Fast and lightweight\n- Can handle huge files\n- Never locks the log file\n- Supports plain text and JSON\n- Allows to define columns even for plain text files\n- Allows to define different templates for each kind of log file\n- Customizable highlighters\n- Predefined search parameters\n- Advanced search with regular expression and multi-parameters",
+    "description": "QLogExplorer is a free and open source log files viewer with advanced features.\nMain features:\n- Very fast and lightweight\n- Can handle huge files\n- Never locks the log file\n- Supports plain text and JSON/NDJSON\n- Allows to define columns even for plain text files\n- Allows to define different templates for each kind of log file\n- Customizable highlighters\n- Predefined search parameters\n- Advanced search with regular expression and multi-parameters",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -69402,6 +70256,13 @@
     "name": "QREncode for Windows",
     "publisher": "Pedro F. Albanese",
     "description": "Libqrencode is a library for encoding data in a QR Code symbol, a kind of 2D\nsymbology that can be scanned by handy terminals such as a mobile phone with\nCCD. The capacity of QR Code is up to 7000 digits or 4000 characters, and has\nhigh robustness.\n\nQrencode is a utility software using libqrencode to encode string data in a QR\nCode and save as a PNG image.\n\nSource code: https://github.com/fukuchi/libqrencode",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "sakurai-youhei.qrrun",
+    "name": "qrrun",
+    "publisher": "sakurai-youhei",
+    "description": "qrrun tunnels local scripts and lets mobile runtimes execute them by scanning a QR code.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -70518,6 +71379,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Remio.RemioHost",
+    "name": "Remio Host",
+    "publisher": "Remio",
+    "description": "Remio Host turns your Windows PC into a streaming target that any Remio client (iPhone, iPad, Mac, Android, Windows) can connect to over the local network or the internet.\n\nBuilt from scratch with native WinUI 3 — no Electron, no browser wrappers. Full GPU-accelerated H.264/H.265 screen capture, loopback audio, multi-monitor support, drag-and-drop file transfer, clipboard sync, and gamepad passthrough. Runs as a Windows Service so it survives reboots and log-offs.\n\nIncludes built-in auto-updates via WinSparkle (EdDSA-signed end-to-end), so you always have the latest version with one click.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RemixTeam.RemixIDE",
     "name": "Remix Desktop",
     "publisher": "Remix Project",
@@ -70865,6 +71733,13 @@
     "name": "REV Hardware Client 2",
     "publisher": "REV Robotics",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Revopoint.RevoDesign",
+    "name": "Revo Design",
+    "publisher": "KVS Ltd",
+    "description": "Revo Design is a compact and straightforward CAD software integrated with Revo Scan for seamless reverse engineering workflows.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71218,6 +72093,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RODE.RODECasterSeriesASIODriver",
+    "name": "RODECaster Series ASIO Driver",
+    "publisher": "RØDE Microphones",
+    "description": "This ASIO Driver is for the RØDECaster Pro, RØDECaster Pro II and RØDECaster Duo.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "cristiano100.roforge",
     "name": "roforge",
     "publisher": "cristiano100",
@@ -71229,6 +72111,13 @@
     "name": "Rojo",
     "publisher": "Rojo",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KDE.Rolisteam",
+    "name": "Rolisteam",
+    "publisher": "KDE e.V.",
+    "description": "Rolisteam is a virtual tabletop software. It helps you to manage tabletop role playing games with remote friends/players. It provides many features to share maps, pictures and it also includes tool to communicate with your friends/players. The goal is to make Rolisteam-managed RPG games as good as RPG games around your table. To achieve it, we are working hard to provide you more and more features.\nFeatures\n- Character Sheet\n- Music player\n- Drawing tool (to draw map on the fly).\n- Vectorial Map\n- Name Generator\n- Unit Converter\n- Character Sheet\n- Rich text Editor.\n- Dice rolling\n- secret Dice rolling\n- Share pictures\n- Share maps\n- Fog of war on maps\n- Playable Character or Player identity (in chat)\n- PC and NPC positioning on map.\n- One to One/Many/All Chat communication\n- Client/Server architecture.\n- And many others...",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71316,6 +72205,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "phodal.Routa",
+    "name": "Routa Desktop",
+    "publisher": "routa",
+    "description": "Routa is a multi-agent coordination platform built around a workspace-scoped Kanban model. It is designed for software delivery workflows where planning, implementation, review, traces, tools, and repo context need to stay visible and durable instead of being hidden inside a single chat thread.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "the-sz.Royal",
     "name": "Royal",
     "publisher": "the sz development",
@@ -71351,10 +72247,24 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RSGames.RSGames.Client",
+    "name": "RSGames Game Client",
+    "publisher": "RS Games",
+    "description": "RS Games has developed online board, card, and dice games that are accessible to the blind and visually impaired. Over 20 games are currently available including Monopoly, Uno, Blackjack, Yahtzee, Farkle, and Scrabble.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Redscientist.RTC-Launcher",
     "name": "RTC Launcher",
     "publisher": "Redscientist Labs",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "rtk-ai.rtk",
+    "name": "rtk",
+    "publisher": "rtk-ai",
+    "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71775,6 +72685,13 @@
     "name": "Samsung DeX",
     "publisher": "Samsung Electronics Co., Ltd.",
     "description": "Samsung offers many applications to make your work day easier. One of them is Samsung DeX, which gives users the experience of working on a desktop by connecting their mobile device (a smartphone or tablet) to an external display device (a TV or monitor) or a PC.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Samsung.ScannerDecoderApp",
+    "name": "Samsung Kiosk Scan & Decode",
+    "publisher": "Samsung",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -72940,6 +73857,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BlackwellSystems.shelfctl",
+    "name": "shelfctl",
+    "publisher": "Blackwell Systems",
+    "description": "shelfctl is a personal library manager for organizing PDFs and books across\nGitHub using Release assets instead of git commits. It provides a terminal UI\nfor browsing, caching, annotating, and syncing your library across devices.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "koalaman.shellcheck",
     "name": "ShellCheck",
     "publisher": "Vidar Holen",
@@ -73000,6 +73924,13 @@
     "name": "SHOTPlus Underground",
     "publisher": "Orica",
     "description": "Our SHOTPlus™ range of blast design and modelling software enable users to design, visualise and analyse blast initiation sequences across surface mine, quarry and construction applications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "gnome.Shotwell",
+    "name": "Shotwell",
+    "publisher": "GNOME and Yorba Foundation",
+    "description": "A digital photo manager designed for the GNOME desktop environment. It allows importing photos from disk or camera, organize them by keywords and events, view them in full-window or fullscreen mode, and more.\n\nNote that as of April 17, 2026, the recentmost Windows version (0.7.2) lags far behind the recentmost Linux version (0.32.15).",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -73448,13 +74379,6 @@
     "name": "SketchUp Viewer",
     "publisher": "Trimble, Inc.",
     "description": "View SketchUp models from your desktop for free by cycling through preset scenes or using the orbit, pan, walk and look-around tools. Adjust face styles, shadows and camera views to present the perfect snapshot of your project.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "KDE.Skrooge",
-    "name": "Skrooge",
-    "publisher": "KDE e.V.",
-    "description": "Skrooge allows you to keep track of your expenses and income, categorize them, and build reports of them.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -74417,6 +75341,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "dixieflatline76.Spice",
+    "name": "Spice",
+    "publisher": "dixieflatline76",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Spice.VDAgent",
     "name": "Spice agent",
     "publisher": "The Spice Project",
@@ -74715,6 +75646,13 @@
     "name": "Stackless Python",
     "publisher": "The Stackless Team",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ZiadElraggal.StackMap",
+    "name": "StackMap",
+    "publisher": "ZiadElraggal",
+    "description": "CLI tool that automatically generates interactive architecture diagrams from infrastructure code and live AWS environments.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -75859,6 +76797,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "itsnateai.SyncthingTray",
+    "name": "SyncthingTray",
+    "publisher": "itsnateai",
+    "description": "System tray utility for monitoring and controlling Syncthing. Quick-access rescan, configurable click actions, sound notifications.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "SyncTrayzor.SyncTrayzor",
     "name": "SyncTrayzor",
     "publisher": "SyncTrayzor",
@@ -76405,6 +77350,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TeamViewer.TeamViewer.QuickSupport",
+    "name": "TeamViewer QuickSupport",
+    "publisher": "TeamViewer Germany GmbH",
+    "description": "Whether you're working on a laptop, desktop, or mobile device, QuickSupport lets you connect with a trusted expert instantly and keep your workflows running smoothly.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "TEdit.TEdit",
     "name": "TEdit",
     "publisher": "TEdit",
@@ -76464,6 +77416,13 @@
     "id": "Gravitational.TeleportConnect",
     "name": "Teleport Connect",
     "publisher": "Gravitational, Inc.",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Telia.Norway.TeliaSky",
+    "name": "Telia Sky",
+    "publisher": "Telia AS",
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
@@ -77938,6 +78897,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "TritiumLauncher.Tritium",
+    "name": "Tritium",
+    "publisher": "FooterManDev",
+    "description": "Tritium is a Minecraft Launcher IDE providing tools specially designed for ModPack Developers",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AquaSecurity.Trivy",
     "name": "Trivy",
     "publisher": "Aqua Security Software",
@@ -78820,6 +79786,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "UpCloud.upcloud-cli",
+    "name": "upcloud-cli",
+    "publisher": "UpCloud Ltd",
+    "description": "The UpCloud CLI (upctl) provides a command-line interface to UpCloud services.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "tushev.org.AJUpdateWatcher",
     "name": "Update Watcher for AdoptOpenJDK",
     "publisher": "Simon Tushev",
@@ -78915,6 +79888,13 @@
     "name": "us3browser",
     "publisher": "clark",
     "description": "US3Browser 是对象存储推出的一款可视化界面工具，支持 Windows 和 Mac 平台，让使用 US3 的用户可以采用更加简单轻松的交互方式对 US3 的 Bucket 进行管理，包含但不限于对目录/文件的创建、删除、上传、下载等操作。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "sacloud.usacloud",
+    "name": "usacloud",
+    "publisher": "sacloud",
+    "description": "usacloud is a CLI client for the SAKURA Cloud IaaS platform, providing commands to manage servers, disks, networks, and other cloud resources.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -79335,6 +80315,13 @@
     "name": "Viber",
     "publisher": "2010-2024 Viber Media S.a.r.l",
     "description": "With Rakuten Viber on your desktop, you can send and receive messages, enjoy group calls, create stickers, and more, as your devices seamlessly sync.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "VICE-Team.VICE.SDL2",
+    "name": "VICE (SDL2)",
+    "publisher": "VICE Team",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -81578,6 +82565,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Argorar.WebMConverter",
+    "name": "WebMConverter",
+    "publisher": "argorar",
+    "description": "A wrapper around ffmpeg and AviSynth made for converting videos to WebM without having to use the command line.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "webosbrew.webOSDevManager",
     "name": "webOS Dev Manager",
     "publisher": "webosbrew",
@@ -82453,6 +83447,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Winix.Schedule",
+    "name": "Winix Schedule",
+    "publisher": "Troy Willmot",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Winix.Squeeze",
     "name": "Winix Squeeze",
     "publisher": "Troy Willmot",
@@ -82469,6 +83470,13 @@
   {
     "id": "Winix.Wargs",
     "name": "Winix Wargs",
+    "publisher": "Troy Willmot",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Winix.WhoHolds",
+    "name": "Winix WhoHolds",
     "publisher": "Troy Willmot",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -82625,6 +83633,13 @@
     "name": "WinSCP",
     "publisher": "Martin Prikryl",
     "description": "WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client for Windows.\nIts main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WinSCP.WinSCP.Beta",
+    "name": "WinSCP Beta",
+    "publisher": "Martin Prikryl",
+    "description": "WinSCP is an open source free SFTP client, FTP client, WebDAV client, S3 client and SCP client and file manager for Windows. Its main function is file transfer between a local and a remote computer. Beyond this, WinSCP offers scripting and basic file manager functionality.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -83003,6 +84018,13 @@
     "name": "WMI Explorer",
     "publisher": "vinaypamnani",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "openwong2kim.wmux",
+    "name": "wmux",
+    "publisher": "openwong2kim",
+    "description": "wmux is a Windows terminal multiplexer built for AI coding agents.\nRun Claude Code, Codex, and Gemini CLI side by side with split terminals,\nbrowser automation, and MCP integration. Features include session persistence,\ndangerous command detection, real-time token cost tracking, and cross-workspace\nterminal control via MCP tools.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -84203,6 +85225,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ahadulla.yoz",
+    "name": "yoz",
+    "publisher": "Ahadulla",
+    "description": "yoz is a terminal-based text editor written in Rust.\nNano-style, no modal editing — start typing immediately.\nFeatures include multi-encoding support, clipboard, undo/redo,\nsearch/replace, adaptive scroll, and draggable scrollbar.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "MikeFarah.yq",
     "name": "yq",
     "publisher": "Mike Farah",
@@ -84445,6 +85474,13 @@
     "name": "Zen Browser - Twilight",
     "publisher": "Zen OSS Team",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Rouchant.Zenit",
+    "name": "Zenit",
+    "publisher": "Rouchant",
+    "description": "Zenit es una potente aplicación de kiosco diseñada para demostraciones interactivas en entornos retail. Cuenta con detección automática de especificaciones de hardware, integración dinámica de marcas (Asus, HP, Samsung) y reproducción de contenido promocional optimizado.",
     "icon": "/icons/intunify-default.png"
   },
   {
