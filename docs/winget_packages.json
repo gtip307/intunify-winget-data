@@ -5376,6 +5376,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "HoangLong.DiskInfo",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Hydrogen-Music.Hydrogen",
     "name": "",
     "publisher": null,
@@ -6209,14 +6216,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "TandemHealth.Tandem",
+    "id": "TandemHealth.Tandem.MSI",
     "name": "",
     "publisher": null,
     "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "TandemHealth.Tandem.MSI",
+    "id": "TandemHealth.Tandem",
     "name": "",
     "publisher": null,
     "description": "",
@@ -8015,6 +8022,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RevoUninstaller.RevoRegistryCleaner",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RealVNC.VNCServer",
     "name": "",
     "publisher": null,
@@ -8639,6 +8653,27 @@
   },
   {
     "id": "Reqwey.OllaMate",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RII7.Stopwatch",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RII7.VolumeHotkeys",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RII7.Alarm",
     "name": "",
     "publisher": null,
     "description": "",
@@ -9548,6 +9583,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "gfgRoyal.gfgLock",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "gurnec.HashCheckShellExtension",
     "name": "",
     "publisher": null,
@@ -9681,6 +9723,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Graphviz.Graphviz",
+    "name": "",
+    "publisher": null,
+    "description": "Graphviz 是开源的图形可视化软件。图形可视化是一种将结构信息表示为抽象图形和网络图的方法。它在网络、生物信息学、软件工程、数据库和网页设计、机器学习，以及其他技术领域的可视化界面中具有重要应用。\nGraphviz 的布局程序接受用简单文本语言描述的图形，并生成多种实用格式的图表，例如用于网页的图像和 SVG 格式；用于插入其他文档的 PDF 或 PostScript 格式；或在交互式图形浏览器中显示。Graphviz 具有多种适用于具体图表的实用功能，例如颜色、字体、表格节点布局、线条样式、超链接以及自定义形状等选项。",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "GeekUninstaller.GeekUninstaller",
     "name": "",
     "publisher": null,
@@ -9699,6 +9748,13 @@
     "name": "",
     "publisher": null,
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "GrainIntelligence.Grain",
+    "name": "",
+    "publisher": null,
+    "description": "Grain 是一款 AI 笔记和对话智能平台，可录制视频通话、Slack 语音会议以及线下会议，提供准确的摘要、洞察和辅导反馈。与其他笔记工具不同，Grain 能够捕捉会议的全部内容：视频、桌面录制的音频，以及生成的文字记录和笔记。我们让您可以轻松地与客户和协作者共享有意义的数据，并利用 AI 技术将会议数据转化为可执行的洞察和成果。",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -11284,6 +11340,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "badluma.Comprobot",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "boostio.boostnote",
     "name": "",
     "publisher": null,
@@ -11746,6 +11809,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "BlueCrocodile.OfficeFileGuard",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Buct0r.fullfetch",
     "name": "",
     "publisher": null,
@@ -11775,6 +11845,13 @@
   },
   {
     "id": "BryanCandi.BandwidthCalculator",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "barkure.Orayo",
     "name": "",
     "publisher": null,
     "description": "",
@@ -12208,14 +12285,14 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BitSum.ProcessLasso",
+    "id": "BitSum.ProcessLasso.Beta",
     "name": "",
     "publisher": null,
     "description": "Process Lasso 是一款用于 Windows 的进程自动化和优化软件。从 ProBalance 等调优算法到用户创建的规则以及诸如 CPU 亲和性和优先级类别等持久设置，Process Lasso 使您能够完全控制运行中的应用程序！\n我们著名的 ProBalance 算法在高 CPU 负载期间保持系统响应能力。这个专有算法会动态调整运行程序的优先级，使某些程序比其他程序更优先获得 CPU 资源。有了 ProBalance，无论是单个还是多个进程，都无法再让您的系统陷入几乎停滞的状态。即使在高 CPU 负载下，Process Lasso 也能让您继续与计算机交互。试试我们的 CPUEater 演示，亲身体验 ProBalance 的强大功能。\nProcess Lasso 还允许用户通过许多独特且实用的功能来自定义和自动化应用程序的运行方式。这些功能包括持久优先级类别、持久 CPU 亲和性、不允许运行的进程、按进程设置的电源配置文件、用于高级规则的进程监视器、进程实例数量限制、实例或应用程序的平衡以及更多功能！这些功能让您能够根据自动应用的设置，控制程序如何使用计算机的资源。有了 Process Lasso，您可以完全决定进程的运行方式。\n此外，Process Lasso 还提供了许多附加功能，如电源计划自动化、系统响应度指标以及进程活动日志记录等。\n为了最大限度地减少资源使用，所有算法和进程规则均由一个独立的后台服务 Process Governor 执行。GUI（图形用户界面）完全是可选的。",
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "BitSum.ProcessLasso.Beta",
+    "id": "BitSum.ProcessLasso",
     "name": "",
     "publisher": null,
     "description": "Process Lasso 是一款用于 Windows 的进程自动化和优化软件。从 ProBalance 等调优算法到用户创建的规则以及诸如 CPU 亲和性和优先级类别等持久设置，Process Lasso 使您能够完全控制运行中的应用程序！\n我们著名的 ProBalance 算法在高 CPU 负载期间保持系统响应能力。这个专有算法会动态调整运行程序的优先级，使某些程序比其他程序更优先获得 CPU 资源。有了 ProBalance，无论是单个还是多个进程，都无法再让您的系统陷入几乎停滞的状态。即使在高 CPU 负载下，Process Lasso 也能让您继续与计算机交互。试试我们的 CPUEater 演示，亲身体验 ProBalance 的强大功能。\nProcess Lasso 还允许用户通过许多独特且实用的功能来自定义和自动化应用程序的运行方式。这些功能包括持久优先级类别、持久 CPU 亲和性、不允许运行的进程、按进程设置的电源配置文件、用于高级规则的进程监视器、进程实例数量限制、实例或应用程序的平衡以及更多功能！这些功能让您能够根据自动应用的设置，控制程序如何使用计算机的资源。有了 Process Lasso，您可以完全决定进程的运行方式。\n此外，Process Lasso 还提供了许多附加功能，如电源计划自动化、系统响应度指标以及进程活动日志记录等。\n为了最大限度地减少资源使用，所有算法和进程规则均由一个独立的后台服务 Process Governor 执行。GUI（图形用户界面）完全是可选的。",
@@ -13133,6 +13210,13 @@
   },
   {
     "id": "Pulse.SysPulse",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "paolosalvatori.ServiceBusExplorer.Preview",
     "name": "",
     "publisher": null,
     "description": "",
@@ -18116,6 +18200,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "WalkingWiFi.CodexRateLimitTray",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Webrox.Regedix",
     "name": "",
     "publisher": null,
@@ -18285,6 +18376,13 @@
   },
   {
     "id": "WorldofWorkflows.WorldofWorkflowsPE",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "wnunezc.CodexChatVault",
     "name": "",
     "publisher": null,
     "description": "",
@@ -22295,6 +22393,20 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "LookupFoundation.RevitLookup.2022",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LookupFoundation.RevitLookup.2026",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "libvips.libvips",
     "name": "",
     "publisher": null,
@@ -22659,6 +22771,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Lunascape.Phoebe",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LastPass.LastPass",
     "name": "",
     "publisher": null,
@@ -22905,6 +23024,13 @@
   },
   {
     "id": "luckjiawei.frp-desktop",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Lucen.LucenTimeline",
     "name": "",
     "publisher": null,
     "description": "",
@@ -23437,6 +23563,13 @@
   },
   {
     "id": "Morgen.Morgen",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "myiam.Due2.CLI",
     "name": "",
     "publisher": null,
     "description": "",
@@ -31829,13 +31962,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Constructor.Flat",
-    "name": "",
-    "publisher": null,
-    "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "CollectiveSoftware.ClickPaste",
     "name": "",
     "publisher": null,
@@ -33173,6 +33299,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "ArnobPaul.SymlinkCreator",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "AwesomeDog.MaxLaunchpad",
     "name": "",
     "publisher": null,
@@ -33965,6 +34098,13 @@
   },
   {
     "id": "aiko-chan-ai.DiscordBotClient",
+    "name": "",
+    "publisher": null,
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "allenbijo.qsh",
     "name": "",
     "publisher": null,
     "description": "",
@@ -38927,10 +39067,17 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Google.Antigravity",
+    "id": "Google.AntigravityIDE",
     "name": "Antigravity",
     "publisher": "Google",
     "description": "Google Antigravity is an agentic development platform, evolving the IDE into the agent-first era. Antigravity enables developers to operate at a higher, task-oriented level managing agents across workspaces, while retaining a familiar AI IDE experience at its core. Antigravity extracts agents into their own surface and provides them the tools needed to autonomously operate across the editor, terminal, and browser emphasizing verification and higher-level communication via tasks and artifacts. This capability enables agents to plan and execute more complex, end-to-end software tasks, elevating all aspects of development, from building features, UI iteration, and fixing bugs to research and generating reports.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Google.Antigravity",
+    "name": "Antigravity",
+    "publisher": "Google",
+    "description": "Antigravity 2.0 serves as your AI agents' central command center, providing a unified platform to launch, monitor, and orchestrate their activities. Unlike its predecessor, the Agent Manager, Antigravity 2.0 is a standalone application that functions independently of an IDE.\nWithin this interface, you can orchestrate agents both synchronously and asynchronously to:\n- Execute system commands\n- Perform file read/write operations\n- Conduct web searches\n- Integrate with external tools via skills and MCP servers\n- Manage subagents\n- Interact with Chrome\n- Create artifacts / implementation plans\nWhether you are performing deep research or building new applications, Antigravity offers a streamlined interface for all types of knowledge work.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -39176,13 +39323,6 @@
     "name": "App Installer",
     "publisher": "Microsoft Corporation",
     "description": "Microsoft App Installer simplifies the installation of Windows applications by allowing users to sideload app packages with a double-click—no need to run PowerShell scripts or command-line tools. It presents key package details such as the app name, publisher, version, display logo, and requested capabilities, streamlining the installation experience and providing helpful error messages when issues arise.\n\nApp Installer is available for desktop PCs and is distributed via the Microsoft Store. It also serves as the delivery vehicle for the Windows Package Manager (WinGet), a powerful command-line tool that enables users to discover, install, upgrade, and configure applications on Windows 10 and Windows 11 devices.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "AppControl.AppControl",
-    "name": "AppControl",
-    "publisher": "AppControl Labs",
-    "description": "Historical resource monitoring, powerful controls for managing troublesome apps, and detailed visibility into hidden behavior that impacts your PCs performance, privacy, and security.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -40468,7 +40608,7 @@
   },
   {
     "id": "AxCrypt.AxCrypt",
-    "name": "AxCrypt",
+    "name": "AxCrypt File Encryption",
     "publisher": "AxCrypt AB",
     "description": "",
     "icon": "/icons/intunify-default.png"
@@ -40842,6 +40982,13 @@
     "name": "BabylonJS Editor",
     "publisher": "Julien Moreau-Mathis",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hanselman.BabySmash",
+    "name": "BabySmash!",
+    "publisher": "Scott Hanselman",
+    "description": "As babies or children smash on the keyboard, colored shapes, letters and numbers appear on the screen and are spoken aloud to help with letter and number recognition.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -42619,7 +42766,7 @@
     "id": "SiarheiKuchuk.BUtil",
     "name": "BUtil",
     "publisher": "Siarhei Kuchuk",
-    "description": "Windows, Linux-এ আপনার ডেটা ব্যাকআপ/সিঙ্ক্রোনাইজ করুন।\nWI-FI এর মাধ্যমে ফোন থেকে ফটো ইমপোর্ট করুন এবং আরও অনেক কিছু।\n\nসমর্থিত ভাষা: ইংরেজি, আরবি, বাংলা, চীনা, ফরাসি, জার্মান, হিন্দি, ইন্দোনেশিয়ান, ইতালিয়ান, জাপানি, মারাঠি, নাইজেরিয়ান পিজিন, পর্তুগিজ, রাশিয়ান, স্প্যানিশ, তামিল, তেলুগু, তুর্কি, ইউক্রেনিয়ান, উর্দু, ভিয়েতনামি, ক্যান্টোনিজ\n\nবৈশিষ্ট্য:\n- ফাইলের ডিডুপ্লিকেশন এবং SFTP, FTPS, SMB/CIFS ট্রান্সপোর্ট সাপোর্ট সহ ইনক্রিমেন্টাল ব্যাকআপ;\n- কেন্দ্রীভূত স্টোরেজ এবং ভার্সনিং সাপোর্ট ব্যবহার করে ডিভাইসগুলির মধ্যে ফাইল সিঙ্ক্রোনাইজেশন;\n- মিডিয়া ইমপোর্ট - ক্যামেরা, রেকর্ডারের SD কার্ড থেকে অডিও, ফটো, ভিডিও ইমপোর্ট করুন; টেমপ্লেট ফাইল নাম ব্যবহার করে FTPS সার্ভার অ্যাপ্লিকেশনের মাধ্যমে WI-FI এর মাধ্যমে বা MTP এর মাধ্যমে আপনার ফোন থেকে ফটো এবং ভিডিও;\n- ডিভাইসগুলির মধ্যে এনক্রিপশন সহ P2P ফাইল ট্রান্সফার;\n- অটোমেশন শিডিউলিংয়ের জন্য কনসোল;\n- AES-256 এনক্রিপশন।\n\nপ্ল্যাটফর্ম: Windows 11 x64, ARM64 অথবা Ubuntu 24+।",
+    "description": "Twórz kopie zapasowe/synchronizuj dane w systemach Windows, Linux.\nImportuj zdjęcia z telefonu przez WI-FI i wiele więcej.\n\nFunkcje:\n- Kopia przyrostowa z deduplikacją plików i obsługą transportów WebDAV, S3-compatible, NFS, Azure Blob, SFTP, FTPS, SMB/CIFS;\n- Synchronizacja plików między urządzeniami z wykorzystaniem scentralizowanego magazynu i obsługą wersjonowania;\n- Import mediów - Import plików audio, zdjęć, filmów z karty SD aparatu, rejestratora; zdjęć i filmów z telefonu przez WI-FI za pomocą aplikacji serwera FTPS z użyciem szablonów nazw plików;\n- Konsola do automatyzacji harmonogramów;\n- Szyfrowanie AES-256.\n\nPlatformy: Windows 11 x64, ARM64 lub Ubuntu 24+.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -44660,6 +44807,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Maassoft.ColorControl",
+    "name": "ColorControl",
+    "publisher": "Maassoft",
+    "description": "Easily change NVIDIA and AMD display settings, control LG and Samsung tv's, Game launcher and color profile management",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Coloryr.ColorMC",
     "name": "ColorMC",
     "publisher": "Coloryr",
@@ -45500,6 +45654,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "koepalex.CrowsNestMQTT",
+    "name": "Crow's NestMQTT",
+    "publisher": "koepalex",
+    "description": "Crow's NestMQTT is a versatile, cross-platform MQTT GUI client designed to simplify and enhance your\nmessaging experience across Linux, Windows, and macOS. With an intuitive, polished interface, it serves\nas your lookout—monitoring, managing, and troubleshooting MQTT communications with precision and ease.\nWhether you're a seasoned developer or a newcomer to IoT, Crow's NestMQTT provides robust tools for\nsubscribing to topics and inspecting payloads in real time.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Crowdin.CrowdinCLI",
     "name": "Crowdin CLI",
     "publisher": "Crowdin",
@@ -46337,6 +46498,13 @@
     "name": "DBX",
     "publisher": "t8y2",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "kiloscheffer.dbxignore",
+    "name": "dbxignore",
+    "publisher": "Kilo Scheffer",
+    "description": "dbxignore applies the Dropbox ignore marker to paths that match a .dropboxignore file. .dropboxignore files use gitignore syntax and can be placed in any folder under a Dropbox root; matching paths are excluded from Dropbox sync. Markers are written using NTFS alternate data streams on Windows.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -48706,6 +48874,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "SERGEYDJUM.dwmEOTFrs",
+    "name": "dwm_eotf_rs",
+    "publisher": "SERGEYDJUM",
+    "description": "An alternative implementation of the same idea that is behind dwm_eotf.\n\nIt has additional features, such as system tray controls, autostart and shader dumping. This version\nis also more reliable, as it does not require multiple tries for it to work (as far as I can tell).\n\ndwm_eotf_rs works by reading memory of the loaded dwmcore.dll module, patching shaders that are\nresponsible for incorrect SDR to HDR conversions there and writing it back.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "LuyuHuang.DWords2",
     "name": "DWords",
     "publisher": "Luyu Huang",
@@ -49952,6 +50127,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Microsoft.ESRPWingetTest",
+    "name": "ESRP Winget Test Application",
+    "publisher": "Microsoft Corporation",
+    "description": "This is a sample test application used to validate the ESRP Release service's\nintegration with Windows Package Manager (Winget). It helps test the end-to-end\nflow of manifest creation, PR submission, and package publishing.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "BioSilico.EssayWriter",
     "name": "EssayWriter",
     "publisher": "BioSilico",
@@ -50052,6 +50234,13 @@
   {
     "id": "voidtools.Everything.Alpha",
     "name": "Everything (Alpha)",
+    "publisher": "voidtools",
+    "description": "Everything is search engine that locates files and folders by filename instantly for Windows.\nUnlike Windows search Everything initially displays every file and folder on your computer (hence the name Everything). You type in a search filter to limit what files and folders are displayed.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "voidtools.Everything.Beta",
+    "name": "Everything (Beta)",
     "publisher": "voidtools",
     "description": "Everything is search engine that locates files and folders by filename instantly for Windows.\nUnlike Windows search Everything initially displays every file and folder on your computer (hence the name Everything). You type in a search filter to limit what files and folders are displayed.",
     "icon": "/icons/intunify-default.png"
@@ -50670,6 +50859,13 @@
     "name": "Fellou",
     "publisher": "Beijing Steam Memory Technology Co., Ltd.",
     "description": "Fellou is the world's first agentic browser that automates complex tasks with Deep Action technology. Enjoy hands-free research, cross-platform workflow automation, and AI-powered report generation - all with military-grade security. Transform how you browse and work with your intelligent digital partner.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RaviBhushan.fenc",
+    "name": "fenc",
+    "publisher": "Ravi Bhushan",
+    "description": "AES-256-CBC file encryption CLI for Windows with PBKDF2 key derivation, HMAC-SHA256 integrity verification, batch mode, folder encryption, and Windows installer.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -54698,13 +54894,6 @@
     "icon": "/icons/intunify-default.png"
   },
   {
-    "id": "Graphviz.Graphviz",
-    "name": "Graphviz",
-    "publisher": "AT&T Research Labs.",
-    "description": "The Graphviz layout programs take descriptions of graphs in a simple text language, and make diagrams in useful formats, such as images and SVG for web pages; PDF or Postscript for inclusion in other documents; or display in an interactive graph browser. Graphviz has many useful features for concrete diagrams, such as options for colors, fonts, tabular node layouts, line styles, hyperlinks, and custom shapes.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
     "id": "GraylogInc.GraylogSidecar",
     "name": "Graylog Sidecar",
     "publisher": "Graylog Inc",
@@ -56112,6 +56301,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "RbDevOps.HMPraxis",
+    "name": "HM Praxis",
+    "publisher": "RbDevOps",
+    "description": "HM Praxis is a desktop-native, local-first healthcare practice management application\nfor solo practitioners and small clinics. Patient records, appointments, prescriptions,\ntreatment plans, and billing run on your machine without requiring constant cloud\nconnectivity. Per-clinic data stays on your devices; LAN sync keeps a small team in step.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Privax.HMAVPN",
     "name": "HMA VPN",
     "publisher": "Privax",
@@ -57148,6 +57344,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "nabdev.iloader",
+    "name": "iloader",
+    "publisher": "nabdev",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "icsharpcode.ILSpy",
     "name": "ILSpy",
     "publisher": "ICSharpCode Team",
@@ -57446,6 +57649,13 @@
     "name": "Inkwell",
     "publisher": "4Worlds",
     "description": "Inkwell is a lightweight Markdown editor built for focused writing. No cloud, no accounts, no telemetry.\nFeatures include command palette, custom themes, Mermaid diagrams, LaTeX math, find & replace, typewriter mode,\nversion history with diff viewer, 4 built-in themes, 3 font families, focus mode, file tabs, templates,\nworkspace file tree, and license-gated PDF/HTML export.\nPart of the 4Worlds anti-SaaS portable app suite.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "JRSoftware.InnoSetup.7",
+    "name": "Inno Setup 7",
+    "publisher": "jrsoftware.org",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -57957,6 +58167,13 @@
     "name": "IPTV Checker",
     "publisher": "Kristoffer Risanger",
     "description": "Cross-platform desktop application for validating IPTV playlists. Load M3U/M3U8 files, URLs, Xtream Codes, or Stalker portals. Scans channels for health status, captures thumbnails, detects codecs and resolution via ffmpeg, and exports results as CSV, M3U, or JSON.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "snapetech.iptvtunerr",
+    "name": "IPTV Tunerr",
+    "publisher": "snapetech",
+    "description": "IPTV Tunerr turns IPTV sources into a stable HDHomeRun-style tuner and XMLTV\nguide surface for Plex, Emby, and Jellyfin. It supports live TV, guide shaping,\nstream adaptation, provider failover, and read-only WebDAV VOD access.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59262,6 +59479,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "shinovon.KEmnn",
+    "name": "KEmulator",
+    "publisher": "shinovon",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Kensington.KensingtonKonnect",
     "name": "Kensington Konnect™ (Keyboards)",
     "publisher": "Kensington",
@@ -59385,6 +59609,13 @@
     "name": "killbots",
     "publisher": "KDE e.V.",
     "description": "How will you get away from the killer robots bent on destruction? Figure it out in this simple, entertaining game. You may be outnumbered by an endless stream of robots, but with your intelligence and handy teleportation device you can defeat them. Outsmart all of the killer robots to win and live to tell the tale!",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "SteveTheKiller.KillerPDF",
+    "name": "KillerPDF",
+    "publisher": "Steve the Killer",
+    "description": "KillerPDF is a lightweight PDF viewer and toolkit for Windows. View, merge, split, and manage PDF files. Runs portable or installs to your user profile - no admin rights required. No account, no subscription, no telemetry. Open source under GPLv3.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -59945,6 +60176,13 @@
     "name": "kunobi",
     "publisher": "Kunobi Ninja",
     "description": "Operations control for GitOps and Kubernetes at scale Kunobi helps platform teams understand what is deployed, what changed, and why. Across clusters and GitOps sources",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "kunobi-ninja.kunobi.Unstable",
+    "name": "Kunobi (Unstable)",
+    "publisher": "Kunobi Ninja",
+    "description": "Operations control for GitOps and Kubernetes at scale. Kunobi helps platform teams understand what is deployed, what changed, and why. Across clusters and GitOps sources. This is the unstable channel — pre-releases (RC, beta, alpha) for testers and early adopters. For production use, install kunobi-ninja.kunobi instead.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61684,6 +61922,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "jeiel85.LocalPDFStudio",
+    "name": "LocalPDF Studio",
+    "publisher": "Aiden Park",
+    "description": "LocalPDF Studio is a local-first desktop PDF viewer and utility suite built with Tauri.\nFeatures include PDF viewing, merging, splitting, encryption, OCR (via Tesseract),\npage editing (reorder/delete/rotate/insert), watermarking, metadata editing,\nform filling, searchable PDF generation, and side-by-side comparison.\nAll processing is performed locally — no cloud uploads.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Locklizard.SafeguardPDFViewer",
     "name": "Locklizard Safeguard - PDF Viewer",
     "publisher": "Locklizard Ltd.",
@@ -61793,6 +62038,13 @@
     "name": "Logivore",
     "publisher": "RedEye Network Solutions LLC",
     "description": "Logivore is a local-first, cross-platform desktop log analyzer for Windows,\nmacOS, and Linux. Parses dozens of log formats (plaintext, syslog, EVTX,\nPAN-OS TSF, Veeam VBR, GlobalProtect, pcap), correlates events across\nsources, and surfaces findings via LILA — an AI assistant that runs locally\nwith optional Anthropic Claude or Google Gemini provider integration.\nMemory-tier-adaptive (Flash / Hybrid / Indexed) so any log size works on\nany hardware. Trust-gated LLM boundary keeps PII tokenized before it leaves\nthe machine.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "RedEyeNetworks.LogivoreForVeeam",
+    "name": "Logivore for Veeam",
+    "publisher": "RedEye Network Solutions LLC",
+    "description": "Logivore for Veeam is the Veeam-centric SKU of Logivore. Includes\neverything in Logivore (cross-platform log analysis, LILA AI\nassistant, memory-tier-adaptive parsing, local-first trust-gated\nLLM boundary) plus Microsoft.PowerShell.SDK and a built-in\nAdvanced Veeam Mode that drives the Veeam VBR PowerShell cmdlets\nto collect job/repository/proxy diagnostics on demand. Targeted\nat Veeam backup administrators who need to triage failed jobs\nagainst backup server, repository, and proxy logs in one\ntimeline.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -61996,6 +62248,13 @@
     "name": "lumina-note",
     "publisher": "luminanote",
     "description": "Lumina Note 不仅仅是一个编辑器，它是一个集成了 LLM 能力的知识生产环境。\n📝 沉浸式编辑体验\n- 多模式切换：无缝切换 源码 / 实时预览 / 阅读模式\n- 双向链接：使用 [[WikiLinks]] 构建网状知识图谱，支持从文件树拖拽创建链接\n- 专业排版：原生支持 LaTeX 数学公式、Mermaid 图表及 Obsidian 风格 > [!info] 提示块\n- 语法高亮：基于 CodeMirror 6，支持上百种语言的代码高亮\n- 分栏编辑：水平/垂直分栏，可拖拽调整大小，活动面板自动接收新文件\n- 图片粘贴：截图或复制图片后直接 Ctrl+V 粘贴，自动保存到笔记库\n🕸️ 知识图谱\n- 基于 Canvas 的高性能可视化引擎，直观展示笔记间的关联关系。\n- 文件夹层级：文件夹作为节点显示（带刺圆球样式），父子关系带箭头连线\n- 颜色分区：按文件夹自动分配颜色，子节点继承父文件夹颜色\n- 双向链接：[[WikiLinks]] 自动解析为节点间的连线\n- 右键孤立查看：右键点击任意节点，可在新标签页中查看该节点及其直接关联的节点\n- 物理引擎：可调节的斥力、弹力、向心力参数，支持拖拽节点和画布缩放\n🤖 AI Agent 系统\n- Agent 模式：能够理解意图，自动执行读取、编辑、搜索笔记等复杂任务链。\n- AI 悬浮球：随时唤起的助手，支持拖拽，不打断当前心流。\n- 语音输入：基于 Web Speech API 的语音转文字，支持流式显示、自动停止、录音动画。\n- Diff 预览：AI 修改内容前提供 Diff 对比视图，由你决定是否 Apply。\n- RAG 语义搜索：内置 SQLite 向量库，基于语义理解检索你的本地知识库。\n🎬 B 站视频笔记\n- 边看视频边做笔记，通过弹幕同步实现精确时间戳记录。\n- 内嵌播放 在应用内直接播放 B 站视频，支持登录和发弹幕\n- 弹幕同步 发送带前缀的弹幕（如 #笔记内容），一键同步为带时间戳的笔记\n- 时间跳转 点击笔记时间戳，视频自动跳转到对应位置（无需刷新）\n- 自动保存 笔记自动保存为 Markdown 文件，下次打开同一视频自动加载\n📄 PDF 智能阅读器\n- 为学术工作流优化的 PDF 阅读和标注系统。\n- 交互式元素识别：自动识别文本、图片、表格等元素，支持悬浮高亮和点击选中\n- PDF 批注系统：选中文本添加高亮/下划线，支持 5 种颜色和笔记\n- 批注笔记同步：批注自动保存为 Markdown 文件，与 PDF 同目录\n- 双向跳转：点击笔记中的链接跳转到 PDF 对应位置，Ctrl+Click 分栏打开\n- 缩略图与目录：侧边栏显示页面缩略图和文档大纲，快速跳转\n- 全文搜索：支持在 PDF 中搜索关键词，实时高亮匹配结果\n- 与 AI 对话：将选中的 PDF 内容发送给 AI，进行摘要、翻译或解释\n🎨 主题系统\n- 15 套官方主题：默认/海洋/森林/薰衣草/玫瑰/落日/薄荷/靛青/拿铁/极光/极简等\n- 明暗双模式：每套主题都有明亮和暗黑两种模式（共 30 种外观）\n- Markdown 颜色：主题影响标题/链接/代码块/引用等 17 种元素\n- 设置面板：左下角齿轮图标，统一管理主题、AI、RAG 等设置\n🔌 多模型生态\n支持接入主流 LLM Provider，自由切换模型：\nAnthropic · OpenAI · Gemini · DeepSeek · Moonshot · Groq · OpenRouter · Ollama (Local)",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "NortheBridge.LuminalShine",
+    "name": "LuminalShine",
+    "publisher": "NortheBridge Foundation",
+    "description": "Modern Self-Hosted High Performance Sunshine-compatible game streaming host for Moonlight clients designed for Windows 11 and Windows 11 Insider Preview.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -62591,6 +62850,13 @@
     "name": "Maximize Always",
     "publisher": "softpcapps Software",
     "description": "Maximize Always is a utility that allows the user to start maximized automatically any specified application and keep it maximized. This is useful to save the time and effort to start and keep maximized frequently used applications and makes using your applications more convenient. It is only necessary to specify the application's filename and then the application will be maximized automatically when it is run or when it is reactivated. You can also specify to maximize windows that contain specific text using wildcards and regular expressions.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Hanselman.MaximizeToVirtualDesktop",
+    "name": "MaximizeToVirtualDesktop",
+    "publisher": "Scott Hanselman",
+    "description": "MaximizeToVirtualDesktop moves a chosen window to its own temporary Windows 11 virtual desktop, maximizes it, and restores the window and desktop automatically when you close or un-maximize it.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -63361,13 +63627,6 @@
     "name": "Microsoft .NET Runtime 7.0",
     "publisher": "Microsoft Corporation",
     "description": "",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "Microsoft.DotNet.Runtime.7.x86",
-    "name": "Microsoft .NET Runtime 7.0 (x86)",
-    "publisher": "Microsoft Corporation",
-    "description": ".NET is a free, cross-platform, open-source developer platform for building many different types of applications.\n\nThis Winget package is designed for if a .NET Runtime 7-requiring app specifically requires an x86 runtime even on x64 Windows OS installations.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -64502,6 +64761,13 @@
     "name": "Mockplus RP",
     "publisher": "Mockplus Technology Co.,Ltd.",
     "description": "Mockplus RP is a web-based prototyping tool that allows users to create everything from sketches and wireframes to high-fidelity prototypes. It supports a wide range of visual designs, including web and mobile app artboards, and offers vector tools for detailed customization. Users can drag-and-drop premade shapes and widgets to create interactive prototypes, which can be tested and shared easily. The tool also supports real-time team collaboration and allows importing Axure files for seamless editing and feedback collection.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Mockzilla.Mockzilla",
+    "name": "Mockzilla",
+    "publisher": "Mockzilla",
+    "description": "Mockzilla is an OpenAPI mock engine that generates API mocks with meaningful responses, configurable latency, error codes and more.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -66808,6 +67074,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "nickalie.nclaw",
+    "name": "nclaw",
+    "publisher": "Nick Gluschenko",
+    "description": "NClaw — aNother Claw. A lightweight, container-first AI coding assistant accessible through Telegram. Supports Claude Code (default), 580+ models via multi-model backend (OpenRouter, Gemini, OpenAI, Ollama, and more), OpenAI Codex, GitHub Copilot, and Google Gemini CLI as CLI agents. Written in Go.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "xiSage.ncmdump-net",
     "name": "ncmdump-net",
     "publisher": "xiSage",
@@ -68047,6 +68320,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "Mickem.NSClient",
+    "name": "NSClient++",
+    "publisher": "MySolutions NORDIC",
+    "description": "NSClient++ (a.k.a. NSCP) is a free and open-source monitoring agent originally\nbuilt for Nagios/Icinga and now usable with most modern monitoring systems.\nIt exposes a wide range of system, performance and event-log checks via NRPE,\nNSCA, NRDP, REST and Prometheus-compatible endpoints, and can run external\nscripts in PowerShell, Python, Lua, Visual Basic and many more languages.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Nvidia.Nsight.Compute",
     "name": "Nsight Compute",
     "publisher": "NVIDIA Corporation",
@@ -68184,34 +68464,6 @@
     "name": "numerone's oem information",
     "publisher": "Giulio Sorrentino",
     "description": "An OEM Informations modifier for windows 10 and 11 in WPF that allows to put even an image.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "GiulioSorrentino.astroni",
-    "name": "numeronesoft background otto astroni",
-    "publisher": "Giulio Sorrentino",
-    "description": "Backgrounds in 8k della riserva naturale degli Astroni del WWF Italia a Napoli. Il pacchetto viene installato in c:\\windows\\web\\wallpapers, per cui bisogna rivolgersi a quella cartella per avere lo slideshow",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "GiulioSorrentino.Backgrounds",
-    "name": "numeronesoft backgrounds",
-    "publisher": "Giulio Sorrentino",
-    "description": "Backgrounds in 4k HDRA di Napoli. Il pacchetto viene installato in c:\\windows\\web\\wallpapers, per cui bisogna rivolgersi a quella cartella per avere lo slideshow.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "GiulioSorrentino.BackgroundsOtto",
-    "name": "numeronesoft backgrounds otto",
-    "publisher": "Giulio Sorrentino",
-    "description": "Backgrounds in 8k di Napoli. Il pacchetto viene installato in c:\\windows\\web\\wallpapers, per cui bisogna rivolgersi a quella cartella per avere lo slideshow",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "GiulioSorrentino.BackgroundsProX",
-    "name": "numeronesoft-backgrounds-prox",
-    "publisher": "Giulio Sorrentino",
-    "description": "Bellissime immagini di Napoli fatte col tablet surface pro x",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -68674,6 +68926,13 @@
     "name": "Official app for https://saxobroko.com",
     "publisher": "Saxo_Broko",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "prasenjeet-symon.ogcode",
+    "name": "ogcode",
+    "publisher": "prasenjeet-symon",
+    "description": "ogcode is an agentic coding assistant with a web UI that helps you write, review, and manage code.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -70259,6 +70518,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "PDFArranger.PDFArranger",
+    "name": "PDF Arranger",
+    "publisher": "The PDF Arranger team",
+    "description": "PDF Arranger is a small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface. It is a front end for pikepdf.\nPDF Arranger is a fork of Konstantinos Poulios’s PDF-Shuffler (see Savannah or Sourceforge). It’s a humble attempt to make the project a bit more active.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "IcecreamApps.PDFCandy",
     "name": "PDF Candy Desktop",
     "publisher": "Icecream Apps",
@@ -70382,13 +70648,6 @@
     "name": "PDFApps",
     "publisher": "Nelson Duarte",
     "description": "PDFApps is an all-in-one PDF editor with 13 built-in tools: split, merge, rotate,\nextract, reorder, compress, encrypt, watermark, OCR, convert (PNG/JPG/DOCX/TXT),\nvisual editor (redact, text, images, signatures, highlights, notes), import\n(TXT/images/Markdown), and metadata viewer.\n\nFeatures include continuous-scroll viewer, presentation mode (F5), fullscreen\n(F11), tabbed viewing, dark/light themes, drag and drop, multi-select PDF open,\nand 8-language interface (EN, PT, ES, FR, DE, ZH, IT, NL).\n\n100% offline. No subscriptions, no cloud uploads, no account required.",
-    "icon": "/icons/intunify-default.png"
-  },
-  {
-    "id": "PDFArranger.PDFArranger",
-    "name": "pdfarranger",
-    "publisher": "UNKNOWN",
-    "description": "PDF Arranger is a small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface. It is a front end for pikepdf.\nPDF Arranger is a fork of Konstantinos Poulios’s PDF-Shuffler (see Savannah or Sourceforge). It’s a humble attempt to make the project a bit more active.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -71054,6 +71313,13 @@
     "name": "Pinokio",
     "publisher": "https://twitter.com/cocktailpeanut",
     "description": "Pinokio is a browser that lets you install, run, and programmatically control ANY application, automatically.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "ImFeH2.Pinote",
+    "name": "Pinote",
+    "publisher": "ImFeH2",
+    "description": "A lightweight floating markdown scratchpad app for quick notes and markdown editing.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -73430,6 +73696,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "qwerty-fr.qwerty-fr",
+    "name": "QWERTY-fr",
+    "publisher": "Julien Blitte",
+    "description": "QWERTY-fr is a keyboard layout based on QWERTY with extra symbols and\ndiacritics so that typing both French and English is easy and fast.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "RProject.R",
     "name": "R for Windows",
     "publisher": "R Core Team",
@@ -73924,6 +74197,13 @@
     "name": "ReacType",
     "publisher": "OS Labs",
     "description": "ReacType is a rapid prototyping tool for developers employing React component architecture alongside the comprehensive type-checking of TypeScript. In other words, you can draw prototypes and export React / TypeScript code!\n\nReacType allows users to visualize their application architecture dynamically, employing a drag-and-drop canvas display , a real-time demo render , a real-time component code preview. \nUsers can create components and drag instances of these components, as well as HTML elements, onto the canvas. \nThis architecture can then be exported as TypeScript application files to be used as a starter template for any repository.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "polygonstew.read.tre",
+    "name": "read.tre",
+    "publisher": "polygonstew",
+    "description": "Bidirectional CLI for the .tre format.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -74690,6 +74970,41 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "LookupFoundation.RevitLookup.2021",
+    "name": "RevitLookup 2021",
+    "publisher": "Lookup Foundation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LookupFoundation.RevitLookup.2023",
+    "name": "RevitLookup 2023",
+    "publisher": "Lookup Foundation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LookupFoundation.RevitLookup.2024",
+    "name": "RevitLookup 2024",
+    "publisher": "Lookup Foundation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LookupFoundation.RevitLookup.2025",
+    "name": "RevitLookup 2025",
+    "publisher": "Lookup Foundation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "LookupFoundation.RevitLookup.2027",
+    "name": "RevitLookup 2027",
+    "publisher": "Lookup Foundation",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "Revopoint.RevoDesign",
     "name": "Revo Design",
     "publisher": "KVS Ltd",
@@ -74960,6 +75275,13 @@
     "name": "RMC Convectiva",
     "publisher": "Convectiva Tecnologia",
     "description": "Instalador do Agente do RMC",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Objz.Rmcl",
+    "name": "rmcl",
+    "publisher": "objz",
+    "description": "A fully featured Minecraft launcher TUI with Microsoft account authentication, instance management, mod loaders, imports, content management, and launch support.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -78123,7 +78445,7 @@
     "id": "AntoineAflalo.SoundSwitch",
     "name": "SoundSwitch",
     "publisher": "Antoine Aflalo",
-    "description": "No more navigating through several menus and screens. Just configure SoundSwitch once - and you are able to switch between your devices as fast as never before!",
+    "description": "No more navigating through several menus and screens.\nJust configure SoundSwitch once - and you are able to switch between your devices as fast as never before!",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -85064,6 +85386,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "jcalado.VoxDMR",
+    "name": "VoxDMR",
+    "publisher": "jcalado",
+    "description": "Join BrandMeister DMR talkgroups from your Windows or Linux PC.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "IkiruPeople.VoyagerInfinitySaaSClient",
     "name": "Voyager Software Infinity SaaS Client",
     "publisher": "Voyager Software",
@@ -85075,6 +85404,13 @@
     "name": "VPKEdit",
     "publisher": "craftablescience",
     "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "KeepSolid.VPNUnlimited",
+    "name": "VPN Unlimited",
+    "publisher": "KeepSolid Inc.",
+    "description": "VPN Unlimited is a solution that encrypts and reroutes all your internet traffic through VPN servers. This allows you to protect your online activity from tracking by third parties and helps to bypass geographic restrictions on the web. VPN Unlimited offers 3000+ super-fast VPN servers in 80+ locations worldwide.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -85243,6 +85579,20 @@
     "name": "VX Search Ultimate",
     "publisher": "Flexense Computing Systems Ltd.",
     "description": "VX Search is an automated, rule-based file search solution allowing one to search files by the file type, category, extension, file name, file size, location, creation, modification and last access dates, regular expressions, user name, file attributes, binary and text patterns, JPEG EXIF tags, etc.\n\nThe user is provided with the ability to categorize and filter file search results, perform file management operations, generate various types of pie and bars charts, save reports to a number of standard formats such as HTML, PDF, Excel, text, CSV, XML and export search results to an SQL database.\n\nIT administrators are provided with advanced file search capabilities including the ability to search files in multiple servers and/or NAS storage devices simultaneously, periodic file search operations, automatic report generation, conditional file search actions allowing one to send E-Mail notifications and/or execute custom commands when a file search operation finds a user-specified number of files.\n\nIn addition to the VX Search GUI application, the user is provided with a command line utility, which can be used to execute pre-configured file search operations and integrated into user-custom shell scripts and batch files. The VX Search command line utility may be used to execute file search operations locally or control file search operations in one or more VX Search Servers via the network.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Vybraan.vyai",
+    "name": "vyai",
+    "publisher": "Vybraan",
+    "description": "",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "Vybraan.vygrant",
+    "name": "vygrant",
+    "publisher": "Vybraan",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -86055,6 +86405,13 @@
     "name": "WinBtrfs",
     "publisher": "Mark Harmstone",
     "description": "WinBtrfs is a Windows driver for the next-generation Linux filesystem Btrfs. A reimplementation from scratch, it contains no code from the Linux kernel, and should work on any version from Windows XP onwards. It is also included as part of the free operating system ReactOS.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "WinClip.WinClip",
+    "name": "WinClip",
+    "publisher": "duncansmith.tech",
+    "description": "WinClip is a lightweight system tray utility that enhances the Windows clipboard\nwith gesture-driven popups and 52 built-in text actions. Double-click to copy,\ndrag-select for a floating toolbar, expand for contextual actions — transform case,\nformat JSON, encode/decode, hash text, extract emails and URLs, convert timestamps,\ngenerate QR codes, and more. $19.99 one-time purchase. All features included.",
     "icon": "/icons/intunify-default.png"
   },
   {
@@ -87920,6 +88277,13 @@
     "icon": "/icons/intunify-default.png"
   },
   {
+    "id": "daruyanagi.XTimelineViewer",
+    "name": "XTimelineViewer",
+    "publisher": "daruyanagi",
+    "description": "XTimelineViewer lets you view multiple X (Twitter) timelines side by side,\nsimilar to TweetDeck / X Pro. Drop X URL shortcuts onto the window to add\ntimelines. Built with WinUI 3 and WebView2, self-contained (no runtime install needed).",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
     "id": "tomrsae.XWindows",
     "name": "XWindows",
     "publisher": "Tommy René Sætre",
@@ -88358,6 +88722,13 @@
     "name": "Zap",
     "publisher": "Jack Mallers",
     "description": "Zap is a free Lightning Network wallet focused on user experience and ease of use, with the overall goal of helping the cryptocurrency community scale Bitcoin.",
+    "icon": "/icons/intunify-default.png"
+  },
+  {
+    "id": "loop-uh.Zapret2",
+    "name": "Zapret 2",
+    "publisher": "loop-uh",
+    "description": "",
     "icon": "/icons/intunify-default.png"
   },
   {
